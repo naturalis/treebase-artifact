@@ -1,0 +1,12 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2		1	8430							Salmonella enterica subsp. enterica serovar Typhimurium str. LT2								
+Salmonella enterica subsp. enterica serovar typhimurium str.14028s		1	8430							Salmonella enterica subsp. enterica serovar typhimurium str.14028s								
+Salmonella enterica subsp. enterica serovar Agona str. SL483		1	8430							Salmonella enterica subsp. enterica serovar Agona str. SL483								
+Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853		1	8430							Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853								
+Salmonella enterica subsp. enterica serovar Enteritidis str. P125109		1	8430							Salmonella enterica subsp. enterica serovar Enteritidis str. P125109								
+Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7		1	8430							Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7								
+Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150		1	8430							Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150								
+Salmonella enterica subsp. enterica serovar Typhi str. Ty2		1	8430							Salmonella enterica subsp. enterica serovar Typhi str. Ty2								
+Salmonella enterica subsp. enterica serovar Paratyphi C str. RKS4594		1	8430							Salmonella enterica subsp. enterica serovar Paratyphi C str. RKS4594								
+Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980		1	8430							Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980								
+Salmonella bongori serovar 48:z41:-- str. RKS3044		1	8430							Salmonella bongori serovar 48:z41:-- str. RKS3044								

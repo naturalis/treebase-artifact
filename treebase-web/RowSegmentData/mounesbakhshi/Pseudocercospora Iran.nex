@@ -1,0 +1,508 @@
+#NEXUS
+[written Mon Sep 01 23:56:09 IRDT 2014 by Mesquite  version 2.75 (build 564) at RayanTak-CO/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=60;
+	TAXLABELS
+		Passalora_eucalypti_CBS_111318 Pseudocercospora_basiramifera_CBS_111072 Pseudocercospora_basiramifera_CBS_114757 Pseudocercospora_sp._B_CCTU_1066 Pseudocercospora_sp._B_CCTU_1206 Pseudocercospora_sp._B_CCTU_1191 Pseudocercospora__ravenalicola_CBS_122468 Pseudocercospora_punicae_CCTU_1169 Pseudocercospora_punicae_CCTU_1125 Pseudocercospora_neriicolla_CPC_23765 Pseudocercospora_rubi_MUCC_875 Pseudocercospora_dovyalidis_CPC_13771 Pseudocercospora_cotoneastri_MUCC_876 Pseudocercospora_elaeocarpi_MUCC_925 Pseudocercospora_lythracearum_CPC_10707 Pseudocercospora_kaki_MUCC_900 Pseudocercospora_viticicola_MUCC_777 Pseudocercospora_catappae_MUCC_809 Pseudocercospora_fraxinites_CPC_10743 Pseudocercospora_cf._cruenta_CBS_117232 Pseudocercospora_sp._A_CCTU_1165 Pseudocercospora_sp._A_CCTU_1166 Pseudocercospora_cornicola_MUCC_909 Pseudocercospora_eupatoriella_CBS_113372 Pseudocercospora_lilacis_CPC_12767 Pseudocercospora_cydoniae_CPC_10678 Pseudocercospora_mazandaranensis_CCTU_1102 Pseudocercospora_mazandaranensis_CCTU_1146 Pseudocercospora__xanthocercidis_CPC_11665 Pseudocercospora_glauca_CPC_10062 Pseudocercospora_atromarginalis_CBS_114640 Pseudocercospora_atromarginalis_CPC_11372 Pseudocercospora_chengtuensis_CPC_10696 Pseudocercospora_atromarginalis_CCTU_1193 Pseudocercospora_atromarginalis_CCTU_1052 Pseudocercospora_atromarginalis_CCTU_1056 Pseudocercospora_atromarginalis_CCTU_1091 Pseudocercospora_fuligena_MUCC_533 Pseudocercospora_fuligena_CPC_12296 Pseudocercospora_cruenta_CPC_10846 Pseudocercospora_stahlii_CBS_117549 Pseudocercospora_cf._kaki_CPC_10636 Pseudocercospora_norchiensis_CCTU_1009 Pseudocercospora_norchiensis_CCTU_1019 Pseudocercospora_norchiensis_CPC_13049 Pseudocercospora_norchiensis_CCTU_1032 Pseudocercospora_norchiensis_CBS_114641 Pseudocercospora_nogalesii_CBS_115022 Pseudocercospora_sordida_MUCC_913 Pseudocercospora_purpurea_CBS_114163 Pseudocercospora_macrospora_CBS_114696 Pseudocercospora_luzardii_CPC_2556 Pseudocercospora_udagawana_CPC_10799 Pseudocercospora_sophoricola_CCTU_1037 Pseudocercospora_sophoricola_CCTU_1037_2 Pseudocercospora_griseola_f._griseola_CBS_194_47 Pseudocercospora_griseola_f._griseola_CPC_10779 Pseudocercospora_ocimi_basilici_CPC_10283 Pseudocercospora_vitis_CCTU_1076 Pseudocercospora_vitis_CPC_11595 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=1083;
+	FORMAT DATATYPE = DNA GAP = - MISSING = ?;
+	MATRIX
+	Passalora_eucalypti_CBS_111318                    ????????????????????????????????????tcc-accctttgtgaacc-aaacttgttgcttcgggggcgaccctgccggc--attcgtcagcgggcgcccccggaggccatc-aaacactgcatctatgcgtcggagtttaaattcaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattggacgtcgcggc---ttccgcgcgtcttaaagtc-tccggctgagccattcatctctaagcgttgtgata-ttctattcgcttcttgacgatgaac-ggtt-cttcggccgttaaatcttct----caaggtgacc????????????cgccggtgacgatgcgccacgagctgtcttccgtaagtacttccatt-------gtcagcacaag-accatatcagccggctgacatc-tgtaccagcatccattgtcggtcgaccgcgtcaccatgggtatgcga-ttccgcctcctcgactcgagatatagtatttctgacaagagcatagtatcatgattggtt????tagtcaacacc-----------ctcactgctgctgcccgcctcacatg-------------ctc--gattttggcccttatcgctggcattctggtgacggaggggcaaaatttggtgagttggtgggggtgcgagaatttctgcgcttgctcgctctcggctccacagccaaacagccagctcgccaa---tga---ctgcat--------ccacctccc-gccaacttctccttgtcgggcatcgacagcgacatgac------tccgacgac---------------------------aacgacacgactcatgctcgtc--acctcgaatcggcacaacatgctaacgatgtgcctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_basiramifera_CBS_111072          ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccaacgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-actttttcgcggccgccgctcgactacaaca-------------cca--tttttccgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtgcc----------cat------ccctcttccatcacttctggcatcgacagcgatgttca------ttcgtgaac---------------------------aacagcatcgacgatcgtctct--tctctctatctgaacagctcactaacgatgtccctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_basiramifera_CBS_114757          ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccaacgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-actttttcgcggccgccgctcgactacaaca-------------cca--tttttccgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtgcc----------cat------ccctcttccatcacttctggcatcgacagcgatgttca------ttcgtgaac---------------------------aacagcatcgacgatcgtctct--tctctctatctgaacagctcactaacgatgtccctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_sp._B_CCTU_1066                  ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccaacgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-acttcttcacgaccgccgctcgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgcaggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtacc----------cat------tcctcttccatcacgtctggcatcgacagcgatgtcca------tctctgaac---------------------------aacggcaccgacgatcgtctct--tctccctacctgaacagtgtactgacgagaagcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_sp._B_CCTU_1206                  ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccaacgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-acttcttcacgaccgccgctcgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgcaggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtacc----------cat------tcctcttccatcacgtctggcatcgacagcgatgtcca------tctctgaac---------------------------aacggcaccgacgatcgtctct--tctccctacctgaacagtgtactgacgagaagcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_sp._B_CCTU_1191                  ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccaacgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-acttcttcacgaccgccgctcgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgcaggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tccgctccacagccaatgacttcatctcaagc---cca---gtacc----------cat------tcctcttccatcacgtctggcatcgacagcgatgtcca------tctctgaac---------------------------aacggcaccgacgatcgtctct--tctccctacctgaacagtgtactgacgagaagcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora__ravenalicola_CBS_122468         ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgattccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-gtttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccaccgcc--atc-actttttcgcggccgccgcttgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---ccc---gtccc----------cat------tcctcctccgtcacctctggcatcgacagcgatgtgca------tttgtgaac---------------------------attggcatcagcaatggtctct--tctccctacctgaacagttcactaacgacatgcctcacaggaagctgccgaactcggcaaggg
+	Pseudocercospora_punicae_CCTU_1169                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccaccgcc--atc-actttttcgcggccgccgcttgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---ccc---gtccc----------cat------tcctcctccgtcacctctggcatcgacagcgatgtgca------tttgtgaac---------------------------attggcatcagcaatggtctct--tctccctacctgaacagttcactaacgacatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_punicae_CCTU_1125                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtctcctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccaccgcc--atc-actttttcgcggccgccgcttgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---ccc---gtccc----------cat------tcctcctccgtcacctctggcatcgacagcgatgtgca------tttgtgaac---------------------------attggcatcagcaatggtctct--tctccctacctgaacagttcactaacgacatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_neriicolla_CPC_23765             ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-gtttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccagcgccaggKagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggta????aagccatcgcc--atc-actttctcgcggtcgccgcccgattacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtccc----------cat------tcctcctccgtcacctctggcatcgacagcgatgttca------tttgtgaac---------------------------attggcatcaacag-------t--tctctccatctgaacagtccactaacgagatgtctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_rubi_MUCC_875                    ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccaacgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatccttcg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-acttcttcacgacccccgctcgactacaata-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtccc----------cat------tcctcctccatcacgtc-ggcatcgacagcgatgtcca------tctctgaac---------------------------aatggcaccgacgatcgtctct--tctctctgtctgaacagctcactaacgatgtccctcacaggaagccgccgaacttggtaaggg
+	Pseudocercospora_dovyalidis_CPC_13771             ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccggcgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-attcgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtctttcgtgagtacttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-tttcatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagctatcgcc--atc-actctcttacgaccgccgcttgaccacaaca-------------cca--ttttttcgcccttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatttcaagc---cca---gtccc----------cat------tcctcctccgtcacctctggcatcgacagcgatgttca------ttcgtgaat---------------------------attggcatcaacaatcgtctct--tctctccatctgaacagttcactaacgatgtg--tcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_cotoneastri_MUCC_876             ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-gtttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtatttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggcagaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggat????aagccgtcgcc--atc-acttcttcacgaccgccgctcgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---ccagtggtacc----------cat------tcctcttccatcacgtctggcatcgacagcgatgtcca------tcc-tgaac---------------------------aacggcaccgacgatcgtctct--tctccctacctcaacagtgtactgatgatgtccctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_elaeocarpi_MUCC_925              ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccacggagctgacattgagcgacagcatccattgtcggacgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggat????aagccgtcgcc--atc-acttcttcacgaccgccgctcgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---ccagtggtacc----------cat------tcctcttccatcacgtctggcatcgacagcgatgtcca------tcc-tgaac---------------------------aacggcaccgacgatcgtctct--tctccctacctcaacagtgtactgatgatgtccctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_lythracearum_CPC_10707           ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaattctgg-ccagcgccagggagctgactttgagcgacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tttcatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggtt????aagctatcgtc--atc-actttctcgccgccgccgctcgactacaata-------------cca--ttttttcgctcttatcgtcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtacc----------cat------tcctcctccatcacctctggcaccgacagcgatgttca------tc--tgaac---------------------------agtgacatcgacgatcttctct---ttccctatctgtacggctcactaacgatgtgcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_kaki_MUCC_900                    ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagctatcgtc--atc-actttctcgccgccgccgctcgactacaata-------------cca--ttttttcgctcttatcgtcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtacc----------cat------tcctcctccatcacctctggcaccgacagcgatgttca------tc--tgaac---------------------------agtgacatcgactatcttctct---ttccctatctgtacggctcactaacgatgtgcctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_viticicola_MUCC_777              ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagctatcgtc--atc-actttctcgccgccgccgctcgactacaata-------------cca--ttttttcgctcttatcgtcgttgcgctggcgac-gaggggcaaaatatggt---------ggggtgcgagaatttcgac------------tcggctccacagccaatgacttcatctcaagc---cca---gtacc----------cat------tcctcctccatcacctctggcaccgacagcaatgttca------tc--tgaac---------------------------agtgacatcgacgatcttctct---tcccctatctgtacggttcactaacgatgtccctcacaggaagccgccgaacttggtaaggg
+	Pseudocercospora_catappae_MUCC_809                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggacgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggtt????aagctatcgcc--atc-acttcctcacgaccgccgcttgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgac------------ccggctccacagccaatgacttcatctcaagc---ctg---ttacc----------cat------tcctcttccatcacctctggcatctacagcgatgctta------tctgtgaac---------------------------aatggcatcgacgagcgcttgt---tacactatctgaacagtccactaacgacatgcctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_fraxinites_CPC_10743             ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggggatgatgcgccacgagctgtcttccgtgagtacttccgct-------atctacgtcgg-acagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagctatggcc--atc-acttcctcacgaccgccgcttggctacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggtgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgcc------------ccggctccacagccaatgacttcatctcaagc---ctg---ttacc----------cat------tcctcttccatcacctct-gcatctacagcgatgctta------tctgtgaac---------------------------aatggcatcgacgagcgcttgt---tacactatctgaacagtccactaacgacatgcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_cf._cruenta_CBS_117232           ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagccgtcttccgtgagtacttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-tctcatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-accttttcacgaccgccgctcgactacaata-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttctac------------tcggctccacagccaatgacttcatctcaagc---cca---ctacc----------cat------tccgtctccgtcacctctggcatcgacagcgatgtt-a------tctgtgaac---------------------------aatggcatcgacgagcgcttgt--tgtcactatctgaacagtccactaacgacatgcctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_sp._A_CCTU_1165                  ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtacttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-tctcatcctccg--ctgaagccgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-accttttcacgaccgccgctcgactacaata-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttctac------------tcggctccacagccaatgacttcatctcaagc---cca---ctacc----------cat------tccgtctccgtcacctctggcatcgacagcgatgtt-a------tctgtgaac---------------------------aatggcatcgacgagcgcttgt--tgtcactatctgaacagtccactaacgacatgcctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_sp._A_CCTU_1166                  ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtacttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-tctcatcctccg--ctgaagccgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--atc-accttttcacgaccgccgctcgactacaata-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttctac------------tcggctccacagccaatgacttcatctcaagc---cca---ctacc----------cat------tccgtctccgtcacctctggcatcgacagcgatgtt-a------tctgtgaac---------------------------aatggcatcgacgagcgcttgt--tgtcactatctgaacagtccactaacgacatgcctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_cornicola_MUCC_909               ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-gtttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggacgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggat????aagccatcacc--atc-actttctcgcggtcgccgctcgaccacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagattttcgct------------tcggctccacagccaatgacttcatctcaagc---cca---aaaca----------cat------tcctcctccatcacttctgcgctcgacagcgatgtcca------gctgtgcac---------------------------gatggcatcgacgagcgcttgt--tgtcactatctgaacaggacactaacgacatggctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_eupatoriella_CBS_113372          ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgactccgtcgccgggcgcccccggaggtctcctaaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-gtttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggacgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggat????aagccatcacc--atc-actttctcgcggtcgccgctcgaccacaaca-------------cca--ttttttcgctcttatcatcgtcgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagattttcgct------------tcggctccacagccaatgacttcatctcaagc---cca---aaaca----------cac------tccttctccatcacttctgcgctcgacatcgatgtcca------gctgtgcac---------------------------gatggcatcgacgagcgcttgt--tgtcactatctgaacaggacactaacgacatggctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_lilacis_CPC_12767                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggacgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctaggcgatttctgacaagagcatagtatcatgattggat????aagccatcacc--atc-actttctcgcggtcgccgctcgaccacaaca-------------cca--ttttttcgctcttatcatcgtcgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagattttcgct------------tcggctccacagccaatgacttcatctcaagc---cca---aaaca----------cac------tccttctccatcacttctgcgctcgacatcgatgtcca------gctgtgcac---------------------------gatggcatcgacgagcgcttgt--tgtcactatctgaacaggacactaacgacatggctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_cydoniae_CPC_10678               ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ctccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcacc--atc-actttctcgcggtcgccgctcgaccacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagattttcgct------------tcggctccacagccaatgacttcatctcaagc---cca---aaaca----------cat------tcctcctccatcacttctgcgctcgacagcgatgtcca------gctgtgcac---------------------------gatggcatcgacgagcgcttgt--tgtcactatctgaacaggacactaacgacatggctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_mazandaranensis_CCTU_1102        ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcacc--atc-actttctcgcggtcgccgctcgaccacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagattttcgct------------tcggctccacagccaatgacttcatctcgagc---cca---aaaca----------cat------tccttctccatcacttctgcgctcgacatcgatgtcca------gctgtgcac---------------------------gatggcatcgacgagcgcttgt--tgtcaatacctgaacaggacactaacgacatggctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_mazandaranensis_CCTU_1146        ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcgacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcacc--atc-actttctcgcggtcgccgctcgaccacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagattttcgct------------tcggctccacagccaatgacttcatctcgagc---cca---aaaca----------cat------tccttctccatcacttctgcgctcgacatcgatgtcca------gctgtgcac---------------------------gatggcatcgacgagcgcttgt--tgtcaatacctgaacaggacactaacgacatggctcacaggaagccgccgaactcggtaaggg
+	Pseudocercospora__xanthocercidis_CPC_11665        ggatcattactgagtgagaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctcaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccctaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtactttctct-------atctacgctgg-ccagcgccagggagctgacattgagcctcagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcccgtcctgcg--ctgaagctgcgagatttctgacaagagcatagtatcatgattggat????aagccaccgcc--ctc-acctcctcacgaccgccgctcgacgacaaca-------------cct--ttttttcgctcttatcttcgttgcgctggcgac-gaggggcaaaatttggt---------gggttgcgagaatttcgct------------tcggctccacagccaatgacttcatctcaagc---cca---ctacc----------tat------tccacctccgtcacctctggcatcgacagcgatgttca------tctgtgaac---------------------------aatggcatcgacgagcgtttgt--tgtcactatctgaacagcccactaacgacatgcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_glauca_CPC_10062                 ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgacttcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtagttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagctatcgcc--atc-actttctcgcagccgccgctcgactacaaca-------------cca--ctttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatctggt---------ggggtgcgagaatttcgct------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcctcccac-cctttggcatcgacagcgacgtccc------tcttcgaac---------------------------actggcatcgactgcgatgtcc--tctgatgtcctgaacttgtcactgacgatatgcctcataggaagccgccgaactcggcaaggg
+	Pseudocercospora_atromarginalis_CBS_114640        ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagttgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------ccattttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggcaaggg
+	Pseudocercospora_atromarginalis_CPC_11372         ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggcaaggg
+	Pseudocercospora_chengtuensis_CPC_10696           ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggcaaggg
+	Pseudocercospora_atromarginalis_CCTU_1193         ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_atromarginalis_CCTU_1052         ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagtct-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_atromarginalis_CCTU_1056         ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcctctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_atromarginalis_CCTU_1091         ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagtct-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgccgccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_fuligena_MUCC_533                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-gaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccttgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacagca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_fuligena_CPC_12296               ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-t-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtacttccgct-------atcaatgctgg-ccagcgccagggagctgacattgagcaacagcatccattgtcggccgaccacgtcaccttgggtatgcga-tcctatcctacg--ctgaagctgggagatttctgacaagagcatagtatcatgattggat????aggccatagcca-aca-atttcctcacgaccgccgttcgactacagca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggcaaggg
+	Pseudocercospora_cruenta_CPC_10846                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaatccgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-g-ttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtacttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-tctcatcctccg--ctgaagctgggcgatttctgacaagagcatagtatcatgattggtt????aagccatcgcc--acc-acttcctcacgaccgccgctcgactacaaca-------------cca-tttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcac-------------tcggctccacagccaatgacttcatctcaagc---ctc--agcaca----------cat------tcctcccac----cctgttgcatcgacagcgatgtccc------tcttcgaac---------------------------actggcgtcgaccgcactgtct--tgtgatgtcctgaatatttcactgacgatatgcctcacaggaagctgccgaactcggtaaggg
+	Pseudocercospora_stahlii_CBS_117549               ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-aaacttgttgcttcgggggcgaccctgccgacgaactcgtcgccgggcgcccccggaggtcttctaaacactgcatctttgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctagcttggtattgggcgtcgcggt-gtttccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-atgg-ccgcggccgttaaatctttatc--aaaggtgacctc-gatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtggttccgct-------atctacgctgg-ccagcgccagggagctgacattgtgccccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttccatcctccg--ctgaagctgcgcgatttctgacaagagcatagtatcatgattggtt????aagctatcgcc--atc-actctcttacgaccgccgcttgaccacaata-------------cca--ttttttcgcacttaccatcgttgcgctggcgac-gaggggcaaaatttggt---------agggtgcgagaatttcgac------------tcggctccacagccaatgacttggtctcaagc---cca---gtccc----------cat---------tcctccatcacttctggcatcgacaacgctgtccg------tttgtgaac---------------------------attggcatcaacactcgtctct--tctctttacctgaacagtccactaacgatgtgcctcacaggaagccgccgatatcggcaaggt
+	Pseudocercospora_cf._kaki_CPC_10636               ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-cctgcgtcgccgggcgcccccgaaggtctcc-aaacactgcatctttgcgtcggagtttaaaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagccattcgtctctaagcgttgtgg-a-tttttcaattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtaactgctct-------atcaactctgg-ccagggaggcagagctgacattat-ctacagcatccattgtcggccgaccacgtcaccatgggtatgcgagaccttatccaca--gaaatctcgagcaatgtctgacaagagcatagtatcatgattggtt????aagctaccgtc--atc-accacatcgccgtcgtcgcacaaccacaaca-------------cca-cttttttcgctcttatcatcgttgcgctggcgac-gaggggc-aaatttggt---------ggggtgcgagaattttggcgc----------tcggctccacagccaatgacttcacctcacctcattca---ctgca----------cat------tcttccgcttccaactggcaca-cgacgacaa------------------------------------------------cgcgaccgcgacggcgatgtg---cctcacattctgaatag-ctgctgacgagatgcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_norchiensis_CCTU_1009            ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactcccact-------acctgcgctggaccatggctggagagctgacattatcaaacagcatctattgtcggccgaccacgtcaccatgggtatgcga-ctcttatcctcg--aaatgtccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--acc-actgcatcgacgccgtcgcccgactacaata-------------cca--ttttttcgctctcatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------cttcggctccacagccaatgacctcacccgatacccacca---ccaca----------ctc------cgctcgctcttc-------atatcgccggcgaggtgct------ctcacaatccaaactgc--------------ttgctgagagcgccactggcaactcaa--cttcatgatctggacaa-ttgctgacgagatgccttataggaagccgccgaactcggtaaggg
+	Pseudocercospora_norchiensis_CCTU_1019            ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactcccact-------acctgcgctggaccatggctggagagctgacattatcaaacagcatctattgtcggccgaccacgtcaccatgggtatgcga-ctcttatcctcg--aaatgtccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--acc-actgcatcgacgccgtcgcccgactacaata-------------cca--ttttttcgctctcatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------cttcggctccacagccaatgacctcacccgatacccacca---ccaca----------ctc------cgctcgctcttc-------atatcgccggcgaggtgct------ctcacaatccaaactgc--------------ttgctgagagcgccactggcaactcaa--cttcatgatctggacaa-ttgctgacgagatgccttataggaagccgccgaactcggtaaggg
+	Pseudocercospora_norchiensis_CPC_13049            ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactcccact-------acctgcgctggaccatggctggagagctgacattatcaaacagcatctattgtcggccgaccacgtcaccatgggtatgcga-ctcttatcctcg--aaatgtccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--acc-actgcatcgacgccgtcgcccgactacaata-------------cca--ttttttcgctctcatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------cttcggctccacagccaatgacctcacccgatacccacca---ccaca----------ctc------cgctcgctcttc-------atatcgccggcgaggtgct------ctcacaatccaaactgc--------------ttgctgagagcgccactggcaactcaa--cttcatgatctggacaa-ttgctgacgagatgccttataggaagccgccgaactcggtaaggg
+	Pseudocercospora_norchiensis_CCTU_1032            ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactcccact-------acctgcgctggaccatggctggagagctgacattatcaaacagcatctattgtcggccgaccacgtcaccatgggtatgcga-ctcttatcctcg--aaatgtccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--acc-actgcatcgacgccgtcg-ccgactacaata-------------cca--ttttttcgctctcatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------cttcggctccacagccaatgacctcacccgatacccacca---ccaca----------ctc------cgctcgctcttc-------atatcgccggcgaggtgct------ctcacaatccaaactgc--------------ttgctgagagcgccactggcaactcaa--cttcatgatctggacaa-ttgctgacgagatgccttataggaagccgccgaactcggtaaggg
+	Pseudocercospora_norchiensis_CBS_114641           ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactcccact-------acctgcgctggaccatggctggagagctgacattatcaaacagcatctattgtcggccgaccacgtcaccatgggtatgcga-ctcttatcctcg--aaatgtccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--accaaaaaaatcgacgccgtcgcccgactacaata-------------cca--ttttttcgctctcatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------cttcggctccacagccaatgacctcacccgatacccacca---ccaca----------ctc------cgctcgctcttc-------atatcgccggcgaggtgct------ctcacaatccaaactgc--------------ttgctgagagcgccactggcaactcaa--cttcatgatctggacaa-ttgctgacgagatgccttataggaagccgccgaactcggcaaggg
+	Pseudocercospora_nogalesii_CBS_115022             ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactcccact-------acctgcgctgaaccacggctggagagctgacattatcaaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ctcttatcctcg--aaatttccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--atc-accacatcgctgccatcgctcgactgcaacg-------------cca--attttttgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------cttcggctccacagccaatgatctcaccccatacccacca---ccaca----------ctt------cgctcgctcttc-------atatcgccggcgaagtgct------ctcacaatccaaactgc--------------ttgctgagagcgccattggcaactcaa--cctcatgatctggacaa-ttgctgacgagatgccttctaggaagccgccgaactcggcaaggg
+	Pseudocercospora_sordida_MUCC_913                 ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggccgagctgtccgtctctaagcgttgtggaa-ttttactattcgcttcggggcgcgg-gcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgatgatgcgccacgagctgtcttccgtgagtactaccact-------atccgcgccggaccacggctggggagctgacattatcaaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ctcttattttcg--aaatgtccgagcagaatctgacaagagcacagtatcatgattggtt????aagccatcacc--atc-accatatcaaggccgtcgctcgattgcaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagagttttggcg---------c-tcggctctacagccaatgacctcaccccatac---cca---ctata----------ctc------cgcccgttcttc---------atcgacgtcgaggtgct------ctcacgattcgagcatg--------------ttgctgagggcactgatgccaactcgg--ccttatattctgaacat-gtgctgacgagatgccttacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_purpurea_CBS_114163              ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcggcgcggttcgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactccaact-------atccgcgctggaccacggctagagagctgacactatcaaccagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttcttatcctcg--aaatgtccgagttgtatctgacaagagcacagtatcatgattggtt????aagccatcgcc--atc-accacatcgctgccgtcgctcgactacaaca-------------cca--ttttttcgctcttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------c-tcggctccacagccaatgacctcacccgatac---cca---ctaca----------ctc------cgcccgctctac---------atcgatggcgaggtgct------ctcacgatctgagcac---------------ctgctgagggcgttgatgccaactcag--cctcataatctgaacgt-ttgctaacgagatgccttacaggaagccgccgaactcggtaaggg
+	Pseudocercospora_macrospora_CBS_114696            ggatcattactgagt--gaggg-ttcacgcccgacctccaaccctttgtgaaca-aatcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtg-tccggctgagctgtccgtctctaagcgttgtggaa-tttaactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttattt-aaggttatcatcggatca????cgctggtgatgatgcgccacgagctgtcttccgtgagtactgctact-------atctgcgctggaccagagctggagagctgacattatcaaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttcttatcctcg--aaatgtccgagcagtatctgacaagagcatagtatcatgattggtt????aggccatcatc--atc-accacatcgccgccgtcgctcgactacaact-------------cca--tcttttcgtccttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------c-tcggctccacagccaatgacctcaccccatac---cca---ctaca----------ctc------cgctcgctcttc---------atcgacggcgacgtgct------ctcacaaaccaaacagt--------------ttgctgaggggacc-ttggccagtcgt--tgccatagtctaaacat-ttgctgacgagatgccttacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_luzardii_CPC_2556                ggatcattactgagt--gaggg-ctcacgcccgacctccaaccctttgtgaaca-catcttgttgcttcgggggcgaccctgccggc-actttgtcgccgggcgcccccggaggtcttc-aaacactgcatcattgcgtcggagttt-aaacaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaa-ttttactattcgcttcggagcgcgg-gcggttcgcggccgttaaatctttagtc-aagcttatcatcggatca????cgccggtgacgatgcgccacgagctgtcttccgtgagtactaccact-------atccgcgctggaccacggctggagagctgacattatcaaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-ttcttattctcga-aaaagtccgagcagtatctgacaagagcacagtatcatgattggtt????aagccatcacc--atc-accacatcgctgccgtcgctcgactacaact-------------cca--tttttgcgcccttatcatcgttgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaattttggcg---------t-tcggctccacagccaatgacctcaccccatac---cca---ctacacagtcttcctccg------caccctctgagc---------atcagcggcgaggtgct------ctcgcattccgaacagc--------------ctcctgagggcatcgatggccactcgg--cctcataatctgaacat-tcgctgacgagatgccttacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_udagawana_CPC_10799              ggatcattactgagt--gaggg-cccacgcccgacctccaaccctttgtgaacc-aatcttgttgctccgggggcgaccctgccggc-acttcgtcgccgggcgcccccggaggtcatc-aaacactgcatctctgcgtcggagttt-aaatcaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcatattgcgccctctggtattccggagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgccgcggt-c-tgccgcgcgccttaaagtcttccggctgagctgtccgtctctaagcgttgtggaattttaactattcgcttcggagtgcgg-gtgg-ccgcggccgttaaatctttattcaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtaatgcctctcat----atccagcctta-gcagcgcca-ggagctgacaccatcaaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctcatcttcg--aactgcagccgccatgtctaacaagagtacagtatcatgattggct????aagccatcact--acc-ttatcctcgccgcagtcctttcactacagca-------------cca--tttttgcgctcttatcatcgttgcgctggtgac-gaggggcaaattttggt---------ggggtgcgagaattttggcg---------tttcggctccacagccaatgacttcatcccatat---cca---ccacg--ata-----cat------tcctcattccgt----------------------------------------------------------------tccttgaagcgttgacagcgaaaatg--cttccacttccgaatcg--cgctgataaaatgcctcacaggaagccgccgaactcggcaaggg
+	Pseudocercospora_sophoricola_CCTU_1037            ggatcattaccgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-caacttgttgcttcgggggcgaccctgccggc--gctcgtcgcggggcgcccccggaggtctcc-aaacactgcatctctgcgtcggagttt-aaaccaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctctggtattccggagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-c-cgccgcgcgccttaaagtcttccggccgagctgtccgtctccaagcgttgtggaa-tcaactaattcgcttcggggtacgg-gtgg-acgcggccgttaaatcttt-tccaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtaatgcctctcatctg-ccgcaggctcg-ccagcgccaggcagctgacaccatcgaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctcatcctcg--aactggagcggccatgtctaacaagagcgcagtatcatgattggtt????aagccatcacc--gcc-tcttcctcgccgccgccgccgccgttcgacaaaca--------tcat--tttttgcgctcttatcactgttgcgctggcgac-gaggggc-aaatttggt---------ggggtgcgagaattttggcat--------tttcggctccacagccaatgacttcatcccaaat---tca---ctaca----------cgatt----catgactccgctgctttgggcattgacggcgacatg--------------------------------------------------------------------ccatttcttctggactgcttgctgacaac---ccccataggaagccgccgaactcggtaaggg
+	Pseudocercospora_sophoricola_CCTU_1037_2          ggatcattaccgagt--gaggg-ctcacgcccgacctccaaccctttgtgaacc-caacttgttgcttcgggggcgaccctgccggc--gctcgtcgcggggcgcccccggaggtctcc-aaacactgcatctctgcgtcggagttt-aaaccaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctctggtattccggagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-c-cgccgcgcgccttaaagtcttccggccgagctgtccgtctccaagcgttgtggaa-tcaactaattcgcttcggggtacgg-gtgg-acgcggccgttaaatcttt-tccaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtaatgcctctcatctg-ccgcaggctcg-ccagcgccaggcagctgacaccatcgaacagcatccattgtcggccgaccacgtcaccatgggtatgcga-tcctcatcctcg--aactggagcggccatgtctaacaagagcgcagtatcatgattggtt????aagccatcacc--gcc-tcttcctcgccgccgccgccgccgttcgacaaaca--------tcat--tttttgcgctcttatcactgttgcgctggcgac-gaggggc-aaatttggt---------ggggtgcgagaattttggcat--------tttcggctccacagccaatgacttcatcccaaat---tca---ctaca----------cgatt----catgactccgctgctttgggcattgacggcgacatg--------------------------------------------------------------------ccatttcttctggactgcttgctgacaac---ccccataggaagccgccgaactcggtaaggg
+	Pseudocercospora_griseola_f._griseola_CBS_194_47  ggatcattaccgagt--gaggg-ctcacgcccgacctccaacccactgtgaacc-aatgttgttgcttcgggggcgaccctgccggc-actctgtcgccgggcgcccccggaggtctcctgaacactgcatctctgcgtcggagttc-aattaaatcgaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctagcttggtcttgggcgtcgcgggct-ccccgcgcgccttaaagtc-tccggctgagctgtccgactctaagcgctgtggca-cttaactattcgcttcggagtacgg-gcgg-ccgcggccgttaaatcttcattc-aaggttgacctcggatca????cgccggtgacgatgcgccgcgagctgtcttccgtaagtacctctgct-------atcaatggcga-ccagcggcggagagctgacaccattatacagcatccatcgtcggccggccacgtcaccatgggtatgcga-ttcttttctccg--agtcgacggagcaaattctgacaagagcatagtatcatgattggta????aa--taacacc--act-accttatcgcggccgccgcccgaccactaca-------------cca--tttttc--gctctgtcatcg-tgcgc?ggcagc-gaggggc-aaatttggt---------ggggtgcgagaattt-ggcg---------tttcggctctacagccaatgacttcatcccaaccaacccg---------------------------tcccgtcgcacattcttgcgcttcgacaacgatgcacacaatccccatttcccctgctctg--------------ctcctccgaacatcgatagtgatgcataattgacaaatctgcacagcttgctgataatgtatctcacaggaagccgccgaacttggcaaggg
+	Pseudocercospora_griseola_f._griseola_CPC_10779   ggatcattaccgagt--gaggg-ctcacgcccgacctccaacccactgtgaacc-aatgttgttgcttcgggggcgaccctgccggc-actctgtcgccgggcgcccccggaggtctcctaaacactgcatctctgcgtcggagttc-aattaaatcgaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctagcttggtcttgggcgtcgcgggct-ccccgcgcgccttaaagtc-tccggctgagctgtccgactctaagcgctgtggca-cttaactattcgcttcggagtacgg-gcgg-ccgcggccgttaaatcttcattc-aaggttgacctcggatca????cgccggtgacgatgcgccgcgagctgtcttccgtaagtacctctgct-------atcaatggcga-ccagcggcggagagctgacaccattatacagcatccatcgtcggccggccacgtcaccatgggtatgcga-ttcttttctccg--agtcgacggagcaaattctgacaagagcatagtatcatgattggta????aa-ttagcacc--act-accttatcgcggccgccgcccgaccactaca-------------cca--ttttttcgctcttgtcatcgttgcgctggcagc-gaggggcaaattttggt---------ggggtgcgagaattttggcg---------tttcggctctacagccaatgacttcatcccaaccaacccg---------------------------tcccgtcgcacattcttccgcttcgacaacgatgcacacaatccccatttcccctgctctg--------------ctccttcgaacatcgatagtgatgcataattgacaaatctgcacagcttgctgacaatgtatctcacaggaagccgccgaacttggcaaggg
+	Pseudocercospora_ocimi_basilici_CPC_10283         ggatcattaccgagt--gagggccccgtgcccgacctccaaccctttgtgaacc-catctcgttgcttcgggggcggccctgccggc--atccgtcggcgggcgcccccgggggtctgc-caacactgcatctctgcgtcggagttt-gaatcaatcatacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctctggtattccggagggcatgcctgttcgagcgtcatttcaccactcaagcctggcttggtattgggcgtcgcggt-c-cgccgcgcgcctcaaagtctcccggctgagctgtccgtctcctagcgttgtggaa--tcaactattcgcttgggagcgcgg-gcgg-ccgcggccgttaaatctccattgaaaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtgctgccacattgagatgcaaaagctgg-caggaagca-ggagctgacattg--ggatagcatccatcgtcggacgaccgcgccaccatgggtatgcga-tccgccatctcc--gccgctgcagaatcgtcctaacaagagcacagtatcatgattggtt????aagccatcgctaaact-tgtcactcatcgccgactctgctccccccaa------------tctc--attttgcgctgttaccatcgccgcgctggcgac-gaggggcaaaatttggt---------ggggtgcgagaatttcgacgt--------tttcggctccacggccaatgacttcatcccatac---act---ccgca----------cat------tcctccttcgccgcct----------------------------------------------------------------caagccatcaataataatatg---ccttccctttcgaactgtttgctaacga--tgcctcgcaggaagctgctgagctcggaaaggg
+	Pseudocercospora_vitis_CCTU_1076                  ggatcattactgagt--gaggg-ctcgcgcccgacctccaaccctttgtgaaccaaatcctgttgcttcgggggcgaccctgccggc-acaccgtcgccgggcgcccccggaggtcttc-aaacactgcatctttgcgtcggagtttaaatcaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctagcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaaattcaactattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtacctgtgct-------atcaatgtcaa-tcagcgata-ggagctgacactctcaactagcatccattgtcggtcgaccacgtcaccatgggtatgcga-ttcctgcccg----aacccttcgatcaatttctgacaggagcatagtatcatgattggtt????aagccctctcttcatc-acaacagtgctgtcgccgccaccgcggcacgctcatcaaatcgatcg--cctttgcactcttatcaggttgcgccccgcgac-aagcggcgaattttggt---------ggggtgcgagaattttggcg---------ctgccgatccacagttggtgcctgagccacccaa---ctc---caccc----------cagctgttcggcttcttcttcacct-------cggagacaacattcg------accacatacttctccaccacacattcctgcactaccttcgatatctgtcgctacatct--cgtcgtggtcagaacggctcgctgacgtgatctct---aggaagccgccgaacttggtaaggg
+	Pseudocercospora_vitis_CPC_11595                  ggatcattactgagt--gaggg-ctcgcgcccgacctccaaccctttgtgaaccaaatcctgttgcttcgggggcgaccctgccggc-acaccgtcgccgggcgcccccggaggtcttc-aaacactgcatctttgcgtcggagtttaaatcaaattaaacaaaactttcaacaacggatctcttggttctggcatcgatgaagaacgcagcgaaatgcgataagtaatgtgaattgcagaattcagtgaatcatcgaatctttgaacgcacattgcgccctttggtattccgaagggcatgcctgttcgagcgtcatttcaccactcaagcctagcttggtattgggcgtcgcgg----ctccgcgcgccttaaagtc-tccggctgagctgtccgtctctaagcgttgtggaaattcaactattcgcttcggagtgcgg-gcgg-ccgcggccgttaaatctttattc-aaggttgacctcggatca????cgccggtgacgatgcgccacgagctgtcttccgtaagtacctgtgct-------atcaatgtcaa-tcagcgata-ggagctgacactctcaactagcatccattgtcggtcgaccacgtcaccatgggtatgcga-ttcctgcccg----aacccttcgatcaatttctgacaggagcatagtatcatgattggtt????aagccctctcttcatc-acaacagtgctgtcgccgccaccgcggcacgctcatcaaatcgatcg--cctttgcactcttatcaggttgcgccccgcgac-aagcggcgaattttggt---------ggggtgcgagaattttggcg---------ctgccgatccacagttggtgcctgagccacccaa---ctc---caccc----------cagctgttcggcttcttcttcacct-------cggagacaacattcg------accacatacttctccaccacacattcctgcactaccttcgatatctgtcgctacatct--cgtcgtggtcagaacggctcgctgacgtgatctct---aggaagccgccgaacttggtaaggg
+
+;
+
+
+
+END;
+
+BEGIN TREES;
+	Title 'Trees from "Pseudo60_3g.nex"';
+	LINK Taxa = Taxa;
+	TRANSLATE
+		1 Passalora_eucalypti_CBS_111318,
+		2 Pseudocercospora_basiramifera_CBS_111072,
+		3 Pseudocercospora_basiramifera_CBS_114757,
+		4 Pseudocercospora_sp._B_CCTU_1066,
+		5 Pseudocercospora_sp._B_CCTU_1206,
+		6 Pseudocercospora_sp._B_CCTU_1191,
+		7 Pseudocercospora__ravenalicola_CBS_122468,
+		8 Pseudocercospora_punicae_CCTU_1169,
+		9 Pseudocercospora_punicae_CCTU_1125,
+		10 Pseudocercospora_neriicolla_CPC_23765,
+		11 Pseudocercospora_rubi_MUCC_875,
+		12 Pseudocercospora_dovyalidis_CPC_13771,
+		13 Pseudocercospora_cotoneastri_MUCC_876,
+		14 Pseudocercospora_elaeocarpi_MUCC_925,
+		15 Pseudocercospora_lythracearum_CPC_10707,
+		16 Pseudocercospora_kaki_MUCC_900,
+		17 Pseudocercospora_viticicola_MUCC_777,
+		18 Pseudocercospora_catappae_MUCC_809,
+		19 Pseudocercospora_fraxinites_CPC_10743,
+		20 Pseudocercospora_cf._cruenta_CBS_117232,
+		21 Pseudocercospora_sp._A_CCTU_1165,
+		22 Pseudocercospora_sp._A_CCTU_1166,
+		23 Pseudocercospora_cornicola_MUCC_909,
+		24 Pseudocercospora_eupatoriella_CBS_113372,
+		25 Pseudocercospora_lilacis_CPC_12767,
+		26 Pseudocercospora_cydoniae_CPC_10678,
+		27 Pseudocercospora_mazandaranensis_CCTU_1102,
+		28 Pseudocercospora_mazandaranensis_CCTU_1146,
+		29 Pseudocercospora__xanthocercidis_CPC_11665,
+		30 Pseudocercospora_glauca_CPC_10062,
+		31 Pseudocercospora_atromarginalis_CBS_114640,
+		32 Pseudocercospora_atromarginalis_CPC_11372,
+		33 Pseudocercospora_chengtuensis_CPC_10696,
+		34 Pseudocercospora_atromarginalis_CCTU_1193,
+		35 Pseudocercospora_atromarginalis_CCTU_1052,
+		36 Pseudocercospora_atromarginalis_CCTU_1056,
+		37 Pseudocercospora_atromarginalis_CCTU_1091,
+		38 Pseudocercospora_fuligena_MUCC_533,
+		39 Pseudocercospora_fuligena_CPC_12296,
+		40 Pseudocercospora_cruenta_CPC_10846,
+		41 Pseudocercospora_stahlii_CBS_117549,
+		42 Pseudocercospora_cf._kaki_CPC_10636,
+		43 Pseudocercospora_norchiensis_CCTU_1009,
+		44 Pseudocercospora_norchiensis_CCTU_1019,
+		45 Pseudocercospora_norchiensis_CPC_13049,
+		46 Pseudocercospora_norchiensis_CCTU_1032,
+		47 Pseudocercospora_norchiensis_CBS_114641,
+		48 Pseudocercospora_nogalesii_CBS_115022,
+		49 Pseudocercospora_sordida_MUCC_913,
+		50 Pseudocercospora_purpurea_CBS_114163,
+		51 Pseudocercospora_macrospora_CBS_114696,
+		52 Pseudocercospora_luzardii_CPC_2556,
+		53 Pseudocercospora_udagawana_CPC_10799,
+		54 Pseudocercospora_sophoricola_CCTU_1037,
+		55 Pseudocercospora_sophoricola_CCTU_1037_2,
+		56 Pseudocercospora_griseola_f._griseola_CBS_194_47,
+		57 Pseudocercospora_griseola_f._griseola_CPC_10779,
+		58 Pseudocercospora_ocimi_basilici_CPC_10283,
+		59 Pseudocercospora_vitis_CCTU_1076,
+		60 Pseudocercospora_vitis_CPC_11595;
+	TREE con_50_majrule = (1:0.8971182,((42:0.2157808,((((43:0.001514023,44:0.001663469,45:0.001611045,46:0.001595819):0.006032308,47:0.009052206):0.02738054,48:0.03134432):0.04596442,(49:0.07617982,50:0.04636075):0.01362423,(51:0.07760245,52:0.06084101):0.01858944):0.1201492):0.04711651,(53:0.1596179,(54:0.001660975,55:0.001638644):0.230905,58:0.566416):0.1351347,(56:0.01931281,57:0.007122873):0.3997429,(59:0.00143258,60:0.001277542):0.5979062):0.1097829,(((((2:0.001629335,3:0.001525815):0.02136004,(((4:0.001440656,5:0.001464787,6:0.003827332):0.01532099,(13:0.001726014,14:0.02387389):0.03128664):0.01787342,11:0.02008873):0.02051965):0.01937417,((7:0.008764925,(8:0.001608727,9:0.003595243):0.005444203):0.02902902,10:0.0248679,(12:0.03060449,41:0.06775177):0.02450143):0.01670292,((15:0.01938767,17:0.0195263):0.008603349,16:0.004522825):0.04478476):0.00739769,(((18:0.01980645,19:0.02842768):0.03328247,((20:0.005647168,(21:0.001566377,22:0.001628587):0.008196297):0.01564193,29:0.07107644):0.01144895):0.009288336,(((23:0.003738129,(24:0.004329985,25:0.01035279):0.01113074):0.01028924,(27:0.001550194,28:0.001586312):0.01197713):0.01900322,26:0.005514119):0.05806808):0.01957649):0.03137082,(30:0.03369486,(((31:0.003934118,32:0.001632532,33:0.001583753):0.003977086,34:0.001656849,(35:0.001420864,37:0.003585112):0.003549292,36:0.004006908,(38:0.004518619,39:0.01464185):0.005832664):0.03485304,40:0.005538056):0.05430095):0.04486626):0.07371679);
+
+END;
+
+
+begin mrbayes;
+outgroup Passalora_eucalypti_CBS_111318;
+      set partition = AllLoci;
+      prset statefreqpr = dirichlet ( 1 , 1 , 1 , 1 );
+      lset applyto = ( 1 , 3 ) nst = 6 rates = invgamma;
+      lset applyto = ( 2 ) nst = 6 rates = gamma;
+      unlink shape = ( all ) pinvar = ( all ) statefreq = ( all ) revmat = ( all );
+      mcmcp ngen = 100000000 relburnin = yes burninfrac = 0.25 printfreq = 1000 samplefreq = 1000 nchains = 4 temp = 0.15 savebrlens = yes stoprule = yes stopval = 0.015;
+      mcmc;
+      sumt;
+
+END;
+begin mrbayes;
+     outgroup Passalora_eucalypti_CBS_111318;
+      charset locus1 = 1 -493;
+      charset locus2 = 494 -694;
+      charset locus3 = 695 -1083;
+      charset excludedchars = 490 -493 691 -694;
+      exclude excludedchars;
+      partition AllLoci = 3 : locus1 , locus2 , locus3;
+      log start filename = PseudoMulti2.log;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  1083;
+
+END;
+
+BEGIN CODONS;
+	CODESET * UNTITLED   =  universal:  1 -  1083;
+
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Jukes-Cantor':  1 -  1083;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1409599569249;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 5214617434602398618;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 1812411034798373362;
+			mqVersion 275;
+			checksumv 0 3 224505834 null  getNumChars 1083 numChars 1083 getNumTaxa 60 numTaxa 60   short true   bits 3458764513820540943   states 15   sumSquaresStatesOnly 1219953.0 sumSquares -2.737266236237576E22 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 426;
+			setPopoutState 400;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1366 649;
+			setLocation -8 0;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #5214617434602398618  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 832.1409598208689.3132081379404650807;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 940 582;
+					setLocation -8 0;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareTree.SquareTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+						endTell;
+						setEdgeWidth 6;
+						orientUp;
+						setCornerMode Right_Angle  50;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition on;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					setDigits 4;
+					writeAsPercentage off;
+					toggleCentred on;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #1812411034798373362 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					getTable;
+					tell It;
+						rowNamesWidth 169;
+					endTell;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 940 582;
+					setLocation -8 0;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges off;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames off;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize off;
+					toggleColorsPanel off;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.align.AlignToDropped.AlignToDropped;
+				tell It;
+					gapCosts 8 3 2 2;
+					subCosts  10 5 10 10 10 5 5 10 10 10 5 10;
+				endTell;
+				getEmployee #mesquite.molec.ColorByAA.ColorByAA;
+				tell It;
+					emphasizeDegeneracy off;
+				endTell;
+				getEmployee #mesquite.molec.SequenceInfoEditor.SequenceInfoEditor;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+#NEXUS
+
+
+ begin taxa;
+	dimensions ntax = 60;
+	taxlabels
+		Passalora_eucalypti_CBS_111318
+		Ps__basiramifera_CBS_111072
+		Ps__basiramifera_CBS_114757
+		CCTU_1066
+		CCTU_1206
+		CCTU_1191
+		Ps__ravenalicola_CBS_122468
+		CCTU_1169
+		CCTU_1125
+		Ps_neriicolla_CPC_23765
+		Ps__rubi_MUCC_875
+		Ps__dovyalidis_CPC_13771
+		Ps__cotoneastri_MUCC_876
+		Ps__elaeocarpi_MUCC_925
+		Ps__lythracearum_CPC_10707
+		Ps__kaki_MUCC_900
+		Ps__viticicola_MUCC_777
+		Ps__catappae_MUCC_809
+		Ps__fraxinites_CPC_10743
+		Ps__cf__cruenta_CBS_117232
+		CCTU_1165
+		CCTU_1166
+		Ps__cornicola_MUCC_909
+		Ps__eupatoriella_CBS_113372
+		Ps__lilacis_CPC_12767
+		Ps__cydoniae_CPC_10678
+		CTU_1102
+		CCTU_1146
+		Ps__xanthocercidis_CPC_11665
+		Ps__glauca_CPC_10062
+		Ps__atromarginalis_CBS_114640
+		Ps__atromarginalis_CPC_11372
+		Ps__chengtuensis_CPC_10696
+		CCTU_1193
+		CCTU_1052
+		CCTU_1056
+		CCTU_1091
+		Ps__fuligena_MUCC_533
+		Ps__fuligena_CPC_12296
+		Ps__cruenta_CPC_10846
+		Ps__stahlii_CBS_117549
+		Ps__cf__kaki_CPC_10636
+		CCTU_1009
+		CCTU_1019
+		Ps__norchiensis_CPC_13049
+		CCTU_1032
+		Ps__norchiensis_CBS_114641
+		Ps__nogalesii_CBS_115022
+		Ps__sordida_MUCC_913
+		Ps__purpurea_CBS_114163
+		Ps__macrospora_CBS_114696
+		Ps__luzardii_CPC_2556
+		Ps__udagawana_CPC_10799
+		CCTU_1037
+		CCTU_1037_2
+		Pseudocercospora_griseola_f__griseola_CBS_194_47
+		Pseudocercospora_griseola_f__griseola_CPC_10779
+		Ps__ocimi_basilici_CPC_10283
+		CCTU_1076
+		Ps__vitis_CPC_11595
+;
+
+END;
+

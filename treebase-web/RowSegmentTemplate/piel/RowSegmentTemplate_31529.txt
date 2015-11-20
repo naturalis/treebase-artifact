@@ -1,0 +1,33 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Cochlostoma Turritus porroi porroi Serina 2147		1	528							Cochlostoma Turritus porroi porroi Serina 2147								
+Cochlostoma Turritus porroi porroi Serina 2148		1	528							Cochlostoma Turritus porroi porroi Serina 2148								
+Cochlostoma Turritus porroi porroi Serina 2149		1	528							Cochlostoma Turritus porroi porroi Serina 2149								
+Cochlostoma Turritus porroi porroi Serina 2150		1	528							Cochlostoma Turritus porroi porroi Serina 2150								
+Cochlostoma Turritus porroi gredleri Storo 2152		1	528							Cochlostoma Turritus porroi gredleri Storo 2152								
+Cochlostoma Turritus porroi gredleri Storo 2154		1	528							Cochlostoma Turritus porroi gredleri Storo 2154								
+Cochlostoma Turritus porroi gredleri Molina di Ledro 2157		1	528							Cochlostoma Turritus porroi gredleri Molina di Ledro 2157								
+Cochlostoma Turritus porroi gredleri Molina di Ledro 2158		1	528							Cochlostoma Turritus porroi gredleri Molina di Ledro 2158								
+Cochlostoma Turritus porroi gredleri Molina di Ledro 2159		1	528							Cochlostoma Turritus porroi gredleri Molina di Ledro 2159								
+Cochlostoma Turritus porroi gredleri Molina di Ledro 2160		1	528							Cochlostoma Turritus porroi gredleri Molina di Ledro 2160								
+Cochlostoma Turritus porroi gredleri Navazzo 2162		1	528							Cochlostoma Turritus porroi gredleri Navazzo 2162								
+Cochlostoma Turritus porroi gredleri Navazzo 2163		1	528							Cochlostoma Turritus porroi gredleri Navazzo 2163								
+Cochlostoma Turritus philippianum 2167		1	528							Cochlostoma Turritus philippianum 2167								
+Cochlostoma Turritus porroi gredleri Anfo 2168		1	528							Cochlostoma Turritus porroi gredleri Anfo 2168								
+Cochlostoma Turritus porroi gredleri Anfo 2169		1	528							Cochlostoma Turritus porroi gredleri Anfo 2169								
+Cochlostoma Turritus porroi stabilei Bellabio 2171		1	528							Cochlostoma Turritus porroi stabilei Bellabio 2171								
+Cochlostoma Turritus porroi stabilei Bellabio 2172		1	528							Cochlostoma Turritus porroi stabilei Bellabio 2172								
+Cochlostoma Turritus porroi stabilei Bellabio 2173		1	528							Cochlostoma Turritus porroi stabilei Bellabio 2173								
+Cochlostoma Turritus porroi stabilei Bellabio 2174		1	528							Cochlostoma Turritus porroi stabilei Bellabio 2174								
+Cochlostoma Turritus porroi stabilei Bellabio 2175		1	528							Cochlostoma Turritus porroi stabilei Bellabio 2175								
+Cochlostoma Turritus porroi porroi Cassiglio 2176		1	528							Cochlostoma Turritus porroi porroi Cassiglio 2176								
+Cochlostoma Turritus porroi porroi Cassiglio 2179		1	528							Cochlostoma Turritus porroi porroi Cassiglio 2179								
+Cochlostoma Turritus porroi porroi Frerola 2181		1	528							Cochlostoma Turritus porroi porroi Frerola 2181								
+Cochlostoma Turritus porroi porroi San Giovanni Bianco 2186		1	528							Cochlostoma Turritus porroi porroi San Giovanni Bianco 2186								
+Cochlostoma Turritus porroi porroi San Giovanni Bianco 2187		1	528							Cochlostoma Turritus porroi porroi San Giovanni Bianco 2187								
+Cochlostoma Turritus porroi porroi San Giovanni Bianco 2188		1	528							Cochlostoma Turritus porroi porroi San Giovanni Bianco 2188								
+Cochlostoma Turritus porroi gredleri Bagolino 2191		1	528							Cochlostoma Turritus porroi gredleri Bagolino 2191								
+Cochlostoma Turritus porroi stabilei Bellabio  2193		1	528							Cochlostoma Turritus porroi stabilei Bellabio  2193								
+Cochlostoma Cochlostoma septemspirale septemspirale 2194		1	528							Cochlostoma Cochlostoma septemspirale septemspirale 2194								
+Cochlostoma Turritus porroi gredleri Anfo 2226		1	528							Cochlostoma Turritus porroi gredleri Anfo 2226								
+Cochlostoma Turritus porroi gredleri Anfo 2227		1	528							Cochlostoma Turritus porroi gredleri Anfo 2227								
+Cochlostoma Turritus porroi gredleri Anfo 2228		1	528							Cochlostoma Turritus porroi gredleri Anfo 2228								

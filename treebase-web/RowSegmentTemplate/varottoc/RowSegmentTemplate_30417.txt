@@ -1,0 +1,19 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Lobularia maritima		1	67698							Lobularia maritima								
+Capsella bursa-pastoris		1	67698							Capsella bursa-pastoris								
+Draba nemorosa		1	67698							Draba nemorosa								
+Crucihimalaya wallichii		1	67698							Crucihimalaya wallichii								
+Brassica napus		1	67698							Brassica napus								
+Cardamine impatiens		1	67698							Cardamine impatiens								
+Pachycladon cheesemanii		1	67698							Pachycladon cheesemanii								
+Carica papaya		1	67698							Carica papaya								
+Pachycladon enysii		1	67698							Pachycladon enysii								
+Barbarea verna		1	67698							Barbarea verna								
+Olimarabidopsis pumila		1	67698							Olimarabidopsis pumila								
+Cardamine resedifolia		1	67698							Cardamine resedifolia								
+Arabis hirsuta		1	67698							Arabis hirsuta								
+Arabidopsis thaliana		1	67698							Arabidopsis thaliana								
+Aethionema grandiflorum		1	67698							Aethionema grandiflorum								
+Nasturtium officinale		1	67698							Nasturtium officinale								
+Lepidium virginicum		1	67698							Lepidium virginicum								
+Aethionema cordifolium		1	67698							Aethionema cordifolium								

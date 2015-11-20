@@ -1,0 +1,23 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Xylaria arbuscula AF163028		1	676							Xylaria arbuscula AF163028								
+Xylaria arbuscula AF163029		1	676							Xylaria arbuscula AF163029								
+Muscodor albus CZ620 AF324336		1	676							Muscodor albus CZ620 AF324336								
+Muscodor sp. A3-5 AY034665		1	676							Muscodor sp. A3-5 AY034665								
+Muscodor vitigenus AY100022		1	676							Muscodor vitigenus AY100022								
+Muscodor albus AY927993		1	676							Muscodor albus AY927993								
+Xylaria curta DQ322144		1	676							Xylaria curta DQ322144								
+Muscodor crispans EU195297		1	676							Muscodor crispans EU195297								
+Muscodor yucatanensis FJ917287		1	676							Muscodor yucatanensis FJ917287								
+Muscodor cinnanomi CMU-Cib 461 GQ848369		1	676							Muscodor cinnanomi CMU-Cib 461 GQ848369								
+Muscodor fengyangensis ZJLQ151 HM034852		1	676							Muscodor fengyangensis ZJLQ151 HM034852								
+Muscodor fengyangensis ZJLQ070 HM034853		1	676							Muscodor fengyangensis ZJLQ070 HM034853								
+Muscodor albus 9 6 HM034857		1	676							Muscodor albus 9 6 HM034857								
+Muscodor albus CMU44 HM473081		1	676							Muscodor albus CMU44 HM473081								
+Arthrinium phaeospermum OUCMBI101209 HQ914942		1	676							Arthrinium phaeospermum OUCMBI101209 HQ914942								
+Muscodor sutura SR-2011 JF938595		1	676							Muscodor sutura SR-2011 JF938595								
+Muscodor sp. AB-2011 JN426991		1	676							Muscodor sp. AB-2011 JN426991								
+Muscodor oryzae CMU-WR2 JX089321		1	676							Muscodor oryzae CMU-WR2 JX089321								
+Muscodor equiseti CMU-M2 JX089322		1	676							Muscodor equiseti CMU-M2 JX089322								
+Muscodor musae CMU-MU3 JX089323		1	676							Muscodor musae CMU-MU3 JX089323								
+Muscodor ghoomensis 6CCSTITD		1	676							Muscodor ghoomensis 6CCSTITD								
+Muscodor indica 6bCCSTITD		1	676							Muscodor indica 6bCCSTITD								

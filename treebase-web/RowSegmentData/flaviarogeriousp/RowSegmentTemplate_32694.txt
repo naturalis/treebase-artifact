@@ -1,0 +1,76 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Colletotrichum anthrisci   CBS125334  		1	1450				CBS 125334			Colletotrichum anthrisci   CBS125334  								
+Colletotrichum chlorophyti   IMI103806  		1	1450				 IMI 103806			Colletotrichum chlorophyti   IMI103806  								
+Colletotrichum circinans   CBS22181  		1	1450				CBS 22181			Colletotrichum circinans   CBS22181  								
+Colletotrichum curcumae   IMI288937  		1	1450				IMI 288937			Colletotrichum curcumae   IMI288937  								
+Colletotrichum dematium   CBS12525  		1	1450				CBS 12525			Colletotrichum dematium   CBS12525  								
+Colletotrichum fructi   CBS34637  		1	1450				CBS 34637 			Colletotrichum fructi   CBS34637  								
+Colletotrichum lineola   CBS125337  		1	1450				CBS 125337			Colletotrichum lineola   CBS125337  								
+Colletotrichum liriopes   CBS119444  		1	1450				CBS 119444			Colletotrichum liriopes   CBS119444  								
+Colletotrichum phaseolorum   CBS15736  		1	1450				CBS 15736			Colletotrichum phaseolorum   CBS15736  								
+Colletotrichum  rusci   CBS119206  		1	1450				CBS 119206			Colletotrichum  rusci   CBS119206  								
+Colletotrichum spaethianum   CBS16749  		1	1450				CBS 16749			Colletotrichum spaethianum   CBS16749  								
+Colletotrichum verruculosum   IMI45525  		1	1450				IMI 45525			Colletotrichum verruculosum   IMI45525  								
+Colletotrichum truncatum   CBS15135  		1	1450				  CBS15135  			Colletotrichum truncatum   CBS15135  								
+Colletotrichum truncatum   CBS71070  		1	1450				  CBS71070  			Colletotrichum truncatum   CBS71070  								
+Colletotrichum truncatum   CBS71170  		1	1450				   CBS71170  			Colletotrichum truncatum   CBS71170  								
+Colletotrichum truncatum   CBS50697  		1	1450				   CBS50697  			Colletotrichum truncatum   CBS50697  								
+Colletotrichum truncatum   CBS19532  		1	1450				   CBS19532  			Colletotrichum truncatum   CBS19532  								
+Colletotrichum truncatum   CBS17248  		1	1450				  CBS17248  			Colletotrichum truncatum   CBS17248  								
+Colletotrichum truncatum   CBS33575  		1	1450				   CBS33575  			Colletotrichum truncatum   CBS33575  								
+Colletotrichum truncatum   CBS18252  		1	1450				 CBS18252  			Colletotrichum truncatum   CBS18252  								
+Colletotrichum truncatum   CBS34570  		1	1450				   CBS34570  			Colletotrichum truncatum   CBS34570  								
+Colletotrichum coccodes   CBS36975  		1	1450				  CBS36975  			Colletotrichum coccodes   CBS36975  								
+Colletotrichum gloeosporioides   CBS112999 		1	1450				   CBS112999 			Colletotrichum gloeosporioides   CBS112999 								
+Colletotrichum lindemuthianum   CBS15128  		1	1450				   CBS15128  			Colletotrichum lindemuthianum   CBS15128  								
+CMES1068		1	1450							CMES1068								
+CMES1069		1	1450							CMES1069								
+CMES1030		1	1450							CMES1030								
+CMES1031		1	1450							CMES1031								
+CMES1032		1	1450							CMES1032								
+CMES1126		1	1450							CMES1126								
+CMES1127		1	1450							CMES1127								
+CMES1070		1	1450							CMES1070								
+CMES1033		1	1450							CMES1033								
+CMES1071		1	1450							CMES1071								
+CMES1034		1	1450							CMES1034								
+CMES1036		1	1450							CMES1036								
+CMES1037		1	1450							CMES1037								
+CMES1038		1	1450							CMES1038								
+CMES1039		1	1450							CMES1039								
+CMES1040		1	1450							CMES1040								
+CMES1132		1	1450							CMES1132								
+CMES1072		1	1450							CMES1072								
+CMES1041		1	1450							CMES1041								
+CMES1073		1	1450							CMES1073								
+CMES1043		1	1450							CMES1043								
+CMES1044		1	1450							CMES1044								
+CMES1075		1	1450							CMES1075								
+CMES1045		1	1450							CMES1045								
+CMES1141		1	1450							CMES1141								
+CMES1076		1	1450							CMES1076								
+CMES1144		1	1450							CMES1144								
+CMES1077		1	1450							CMES1077								
+CMES1046		1	1450							CMES1046								
+CMES1078		1	1450							CMES1078								
+CMES1079		1	1450							CMES1079								
+CMES1080		1	1450							CMES1080								
+CMES1081		1	1450							CMES1081								
+CMES1050		1	1450							CMES1050								
+CMES1051		1	1450							CMES1051								
+CMES1083		1	1450							CMES1083								
+CMES1055		1	1450							CMES1055								
+CMES1056		1	1450							CMES1056								
+CMES1057		1	1450							CMES1057								
+CMES1058		1	1450							CMES1058								
+CMES1059		1	1450							CMES1059								
+CMES1060		1	1450							CMES1060								
+CMES1061		1	1450							CMES1061								
+CMES1063		1	1450							CMES1063								
+CMES1064		1	1450							CMES1064								
+CMES1085		1	1450							CMES1085								
+CMES1066		1	1450							CMES1066								
+CMES1067		1	1450							CMES1067								
+CMES286		1	1450							CMES286								
+CMES1042		1	1450							CMES1042								
+CMES1182		1	1450							CMES1182								

@@ -1,0 +1,43 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Coturnix japonica		1	3792							Coturnix japonica								
+Lophophorus lhuysii		1	3792							Lophophorus lhuysii								
+Tragopan caboti		1	3792							Tragopan caboti								
+Polyplectron bicalcaratum		1	3792							Polyplectron bicalcaratum								
+Pavo muticus		1	3792							Pavo muticus								
+Lophura nycthemera		1	3792							Lophura nycthemera								
+Bambusicola thoracica		1	3792							Bambusicola thoracica								
+Syrmaticus soemmerringi ijimae		1	3792							Syrmaticus soemmerringi ijimae								
+Gallus gallus gallus		1	3792							Gallus gallus gallus								
+Coturnix chinensis		1	3792							Coturnix chinensis								
+Lophura ignita		1	3792							Lophura ignita								
+Phasianus versicolor		1	3792							Phasianus versicolor								
+Syrmaticus humiae		1	3792							Syrmaticus humiae								
+Syrmaticus ellioti		1	3792							Syrmaticus ellioti								
+Syrmaticus reevesii		1	3792							Syrmaticus reevesii								
+Gallus lafayettei		1	3792							Gallus lafayettei								
+Gallus varius		1	3792							Gallus varius								
+Alectoris chukar		1	3792							Alectoris chukar								
+Arborophila gingica		1	3792							Arborophila gingica								
+Arborophila rufogularis		1	3792							Arborophila rufogularis								
+Bambusicola fytchii		1	3792							Bambusicola fytchii								
+Bonasa bonasia		1	3792							Bonasa bonasia								
+Chrysolophus amherstiae		1	3792							Chrysolophus amherstiae								
+Chrysolophus pictus		1	3792							Chrysolophus pictus								
+Crossoptilon auritum		1	3792							Crossoptilon auritum								
+Lophophorus sclateri		1	3792							Lophophorus sclateri								
+Meleagris gallopavo		1	3792							Meleagris gallopavo								
+Perdix dauurica		1	3792							Perdix dauurica								
+Phasianus colchicus		1	3792							Phasianus colchicus								
+Pucrasia macrolopha		1	3792							Pucrasia macrolopha								
+Tetraophasis szechenyii		1	3792							Tetraophasis szechenyii								
+Tragopan temminckii		1	3792							Tragopan temminckii								
+Gallus sonneratii		1	3792							Gallus sonneratii								
+Arborophila rufipectus		1	3792							Arborophila rufipectus								
+Ithaginis cruentus		1	3792							Ithaginis cruentus								
+Tetraophasis obscurus		1	3792							Tetraophasis obscurus								
+Francolinus pintadeanus		1	3792							Francolinus pintadeanus								
+Crossoptilon harmani		1	3792							Crossoptilon harmani								
+Crossoptilon mantchuricum		1	3792							Crossoptilon mantchuricum								
+Crossoptilon crossoptilon		1	3792							Crossoptilon crossoptilon								
+Numida meleagris		1	3792							Numida meleagris								
+Alectura lathami		1	3792							Alectura lathami								

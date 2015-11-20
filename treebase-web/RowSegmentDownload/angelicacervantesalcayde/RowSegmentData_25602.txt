@@ -1,0 +1,34 @@
+RowSegmentID	Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+61374	Manihot auriculata		1	455	MEXU	MELR 3408		KP692010			Manihot auriculata					Mexico	Nayarit		
+61395	Manihot walkerae		1	455				KP692034			Manihot walkerae								
+61396	Manihot websteri		1	455	MEXU	ACA 17		KP692035		2005-05-04	Manihot websteri		18.0	98.0	1420.0	Mexico	Puebla	Between Izucar de Matamoros y Tehuitzingo	
+61397	Manihot esculenta CLONE 1		1	455				KP692037			Manihot esculenta CLONE 1								
+61400	Cnidoscolus egregius		1	455	MEXU	ACA 19		KP692040		2005-05-06	Cnidoscolus egregius		18.0	97.0	832.0	Mexico	Oaxaca	District of San Antonio Nanahuatipam	
+61402	Manihot esculenta CLONE 3		1	455				KP692039 			Manihot esculenta CLONE 3								
+61398	Manihot esculenta CLONE 2		1	455				KP692038			Manihot esculenta CLONE 2								
+61407	Manihot brachyloba 		1	455				KP692036  			Manihot brachyloba 								
+61394	Manihot tomatophylla CLONE 2		1	455	MEXU	ACA 34		KP692033		2005-08-09	Manihot tomatophylla CLONE 2		19.0	102.0	323.0	Mexico	Michoacan	District of Buenavista	
+61393	Manihot tomatophylla CLONE 1		1	455	MEXU	ACA 34		KP692032		2005-08-09	Manihot tomatophylla CLONE 1		19.0	102.0	323.0	Mexico	Michoacan	District of Buenavista	
+61392	Manihot subspicata CLONE 2		1	455		ACA 40		KP692031		2006-09-05	Manihot subspicata CLONE 2		26.0	100.0	298.0	Mexico	Nuevo Leon	Between Sabinas Hidalgo and Nuevo Laredo	
+61391	Manihot subspicata CLONE 1		1	455	MEXU	ACA 40		KP692030		2006-09-05	Manihot subspicata CLONE 1		26.0	100.0	298.0	Mexico	Nuevo Leon	Between Sabinas Hidalgo and Nuevo Laredo	
+61406	Manihot rubricaulis 		1	455	MEXU	ACA 46		KP692029		2007-01-25	Manihot rubricaulis 		24.0	104.0	1869.0	Mexico	Durango	District of Nombre de Dios	
+61390	Manihot rhomboidea CLONE 3		1	455	MEXU	ACA 26		KP692028		2005-08-07	Manihot rhomboidea CLONE 3		19.0	103.0	1925.0	Mexico	Colima	Between Colima and Minatitlan	
+61389	Manihot rhomboidea CLONE 2		1	455	MEXU	ACA 26		KP692027		2005-08-07	Manihot rhomboidea CLONE 2		19.0	103.0	1925.0	Mexico	Colima	Between Colima and Minatitlan	
+61388	Manihot rhomboidea CLONE 1		1	455	MEXU	ACA 26		KP692026		2005-08-07	Manihot rhomboidea CLONE 1		19.0	103.0	1925.0	Mexico	Colima	Between Colima and Minatitlan	
+61387	Manihot pringlei CLONE 3		1	455	MEXU	ACA 42		KP692025		2006-09-06	Manihot pringlei CLONE 3		23.0	99.0	852.0	Mexico	Tamaulipas	Between Ciudad Victoria and Jaumave	
+61386	Manihot pringlei CLONE 2		1	455	MEXU	ACA 42		KP692024		2006-09-06	Manihot pringlei CLONE 2		23.0	99.0	852.0	Mexico	Tamaulipas	Between Ciudad Victoria and Jaumave	
+61385	Manihot pringlei CLONE 1		1	455	MEXU	ACA 42		KP692023		2006-09-06	Manihot pringlei CLONE 1		23.0	99.0	852.0	Mexico	Tamaulipas	Between Ciudad Victoria and Jaumave	
+61384	Manihotoides pauciflora		1	455	MEXU	ACA 20		KP692022		2005-05-06	Manihotoides pauciflora		18.0	97.0	904.0	Mexico	Puebla	District of San Antonio Nanahuatipam	
+61405	Manihot obovata 		1	455	MEXU	ACA 8		KP692021		2005-04-17	Manihot obovata 		17.0	99.0	631.0	Mexico	Guerrero	District of Eduardo Neri	
+61383	Manihot oaxacana		1	455	MEXU	Olson 1116		KP692020			Manihot oaxacana					Mexico	Oaxaca		
+61382	Manihot michaelis CLONE 2		1	455	MEXU	ACA 25		KP692019		2005-08-06	Manihot michaelis CLONE 2		19.0	103.0	410.0	Mexico	Colima	Between Colima and Tecoman	
+61381	Manihot michaelis CLONE 1		1	455	MEXU	ACA 25		KP692018		2005-08-06	Manihot michaelis CLONE 1		19.0	103.0	410.0	Mexico	Colima	Between Colima and Tecoman	
+61380	Manihot mcvaughii		1	455	MEXU	ACA 35		KP692017		2005-08-10	Manihot mcvaughii		19.0	102.0	350.0	Mexico	Michoacan	District of Mugica	
+61379	Manihot foetida CLONE 2		1	455	MEXU	ACA 1		KP692016		2005-04-16	Manihot foetida CLONE 2		18.0	99.0	1015.0	Mexico	Morelos	District of Puente de Ixtla	
+61378	Manihot foetida CLONE 1		1	455	MEXU	ACA 1		KP692015		2005-04-16	Manihot foetida CLONE 1		18.0	99.0	1015.0	Mexico	Morelos	District of Puente de Ixtla	
+61377	Manihot davisiae		1	455	MEXU	ACA 50		KP692014		2007-01-07	Manihot davisiae		26.0	109.0	30.0	Mexico	Sinaloa	Between Los Mochis and Navojoa	
+61404	Manihot crassisepala 		1	455	MEXU	ACA 37		KP692013			2005-08-10	Manihot crassisepala 		18.0	102.0	650.0	Mexico	Michoacan	District of Arteaga	
+61403	Manihot chlorosticta 		1	455	MEXU	ACA 29				2005-08-08	Manihot chlorosticta 		19.0	103.0	410.0	Mexico	 Colima	Between Colima and Tecoman	
+61376	Manihot caudata		1	455	MEXU	ACA 23		KP692011		2005-08-05	Manihot caudata		20.0	102.0	1536.0	Mexico	Michoacan	South shore of the Lake of Chapala	
+61375	Manihot angustiloba		1	455	MEXU	ACA 49		KP692009		2007-01-30	Manihot angustiloba		25.0	109.0	23.0	Mexico	Sinaloa	District of Ahome	
+61401	Manihot aesculifolia 		1	455	MEXU	ACA 31		KP692008			2005-08-08	Manihot aesculifolia 		18.0	103.0	800.0	Mexico	Michoacan	District of Chinicuila	

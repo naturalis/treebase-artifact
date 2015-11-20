@@ -1,0 +1,105 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+AY693974/AY693975 Pseudofusicoccum stromaticum		1	914			CBS 117448 	AY693974	AY693975		AY693974/AY693975 Pseudofusicoccum stromaticum	S. Mohali				Venezuela			
+DQ436935/DQ436936 Pseudofusicoccum stromaticum		1	914			CBS 117449	DQ436935	DQ436936		DQ436935/DQ436936 Pseudofusicoccum stromaticum	S. Mohali				Venezuela			
+EU683656/EU683637 Endomelanconiopsis endophytica		1	914			CBS 120397	EU683656	EU683637		EU683656/EU683637 Endomelanconiopsis endophytica	E. Rojas, L. Mej?´a & Z. Maynard				Panama			
+EU683664EU683645 Endomelanconiopsis endophytica		1	914			CBS 122550	EU683664	EU683645		EU683664/EU683645 Endomelanconiopsis endophytica	E. Rojas, L. Mej?´a & Z. Maynard				Panama			
+JX646790JX646855 Botryosphaeria agaves		1	914			MFLUCC 10-0051	JX646790	JX646855		JX646790/JX646855 Botryosphaeria agaves	Putarak Chomnunti				Thailand			
+JX646791/JX646856 Botryosphaeria agaves		1	914			CBS 133992 	JX646791	JX646856		JX646791/JX646856 Botryosphaeria agaves	R. Phookamsak				Thailand			
+AY236949/AY236898 Botryosphaeria dothidea		1	914			CBS 115476 	AY236949	AY236898		AY236949/AY236898 Botryosphaeria dothidea	B. Slippers				Switzerland			
+B8 Botryosphaeria dothidea		1	914			B8	FJ481607	KM822740		B8 Botryosphaeria dothidea	A. Carlucci				Cerignola, Italy			
+B32 Botryosphaeria dothidea		1	914			B32	FJ481606	KM822741		B32 Botryosphaeria dothidea	A. Carlucci				Cerignola, Italy			
+B118 Botryosphaeria dothidea		1	914			B118				B118 Botryosphaeria dothidea	F. Lops				Foggia, Italy			
+B122 Botryosphaeria dothidea		1	914			B122	KM675739	KM822742		B122 Botryosphaeria dothidea	M.L. Raimondo				San Severo, Italy			
+B235 Botryosphaeria dothidea		1	914			B235				B235 Botryosphaeria dothidea	M.L. Raimondo				San Severo, Italy			
+B266 Botryosphaeria dothidea		1	914			B266				B266 Botryosphaeria dothidea	A. Carlucci				Cerignola, Italy			
+B281 Botryosphaeria dothidea		1	914			B281	KM675740	KM822743		B281 Botryosphaeria dothidea	A. Carlucci				Cerignola, Italy			
+B299 Botryosphaeria dothidea		1	914			B299	KM675741	KM822744		B299 Botryosphaeria dothidea	M.L. Raimondo				San Severo, Italy			
+DQ299245/EU017539 Botryosphaeria corticis		1	914			CBS 119047 	DQ299245	EU017539		DQ299245/EU017539 Botryosphaeria corticis	P.V. Oudemans				USA
+DQ299247/ EF614931 Botryosphaeria corticis		1	914			ATCC 22927	DQ299247	 EF614931		DQ299247/ EF614931 Botryosphaeria corticis	R.D. Millholland				USA
+JX646789/JX646854 Botryosphaeria fusispora		1	914			MFLUCC 10-0098 	JX646789	JX646854		JX646789/JX646854 Botryosphaeria fusispora	Saranyaphat Boonmee				Thailand
+JX646801/JX646866 Cophinforma eucalypti		1	914			MFLUCC 11-0655	JX646801	JX646866		JX646801/JX646866 Cophinforma eucalypti	M. Doilom				Thailand
+KF531822/KF531801 Cophinforma mamane		1	914			CBS 117444	KF531822	KF531801		KF531822/KF531801 Cophinforma mamane	S. Mohali				Venezuela
+KF531819/KF531797 Neoscytalidium dimidiatum		1	914			CBS 251.49	KF531819	KF531797		KF531819/KF531797 Neoscytalidium dimidiatum	Unknown				USA
+KF531820/KF531798 Neoscytalidium dimidiatum		1	914			CBS 499.66	KF531820	KF531798		KF531820/KF531798 Neoscytalidium dimidiatum	Unknown				USA
+KF531825/ KF766422 Macrophomina phaseolina		1	914			CBS 227.33	KF531825	KF766422		KF531825/ KF766422 Macrophomina phaseolina	Unknown				Unknown
+KF531826/KF531803 Macrophomina phaseolina		1	914			CBS 162.25	KF531826	KF531803		KF531826/KF531803 Macrophomina phaseolina	Unknown				Uganda
+B59 Lasiodiplodia theobromae		1	914			B59				B59 Lasiodiplodia theobromae	A. Carlucci				Cerignola, Italy
+AY640255/AY640258  Lasiodiplodia theobromae		1	914			CBS 164.96	AY640255	AY640258		AY640255/AY640258  Lasiodiplodia theobromae	A. Aptroot				New Guinea
+B85  Lasiodiplodia theobromae		1	914			B85	KM675759	KM822730		B85  Lasiodiplodia theobromae	A. Carlucci				Cerignola, Italy
+B171  Lasiodiplodia theobromae		1	914			B171				B171  Lasiodiplodia theobromae	F. Lops				San Severo, Italy
+B215  Lasiodiplodia theobromae		1	914			B215	KM675762	KM822733		B215  Lasiodiplodia theobromae	A. Carlucci				Cerignola, Italy
+B342  Lasiodiplodia theobromae		1	914			B342	KM675763	KM822734		B342  Lasiodiplodia theobromae	M.L. Raimondo				Cerignola, Italy
+B330  Lasiodiplodia theobromae		1	914			B330				B330  Lasiodiplodia theobromae	M.L. Raimondo				San Severo, Italy
+B202  Lasiodiplodia theobromae		1	914			B202	KM675761	KM822732		B202  Lasiodiplodia theobromae	M.L. Raimondo				Cerignola, Italy
+B159  Lasiodiplodia theobromae		1	914			B159				B159  Lasiodiplodia theobromae	M.L. Raimondo				Foggia, Italy
+B72  Lasiodiplodia theobromae		1	914			B72				B72  Lasiodiplodia theobromae	A. Carlucci				Cerignola, Italy
+B9  Lasiodiplodia citricola		1	914			B9	FJ481608	KM822725		B9  Lasiodiplodia citricola	A. Carlucci				Cerignola, Italy
+B98 Lasiodiplodia citricola		1	914			B98				B98 Lasiodiplodia citricola	A. Carlucci				Cerignola, Italy
+B310 Lasiodiplodia citricola		1	914			B310	KM675758	KM822729		B310 Lasiodiplodia citricola	A. Carlucci				Foggia, Italy
+B144 Lasiodiplodia citricola		1	914			B144	KM675755	KM822726		B144 Lasiodiplodia citricola	A. Carlucci				San Severo, Italy
+B177 Lasiodiplodia citricola		1	914			B177	KM675756	KM822727		B177 Lasiodiplodia citricola	M.L. Raimondo				Foggia, Italy
+B209 Lasiodiplodia citricola		1	914			B209	KM675757	KM822728		B209 Lasiodiplodia citricola	M.L. Raimondo				Cerignola, Italy
+B285 Lasiodiplodia citricola		1	914			B285				B285 Lasiodiplodia citricola	M.L. Raimondo				San Severo, Italy
+GU945354/GU945340 Lasiodiplodia citricola		1	914			CBS 124707 	GU945354	GU945340		GU945354/GU945340 Lasiodiplodia citricola	J. Abdollahzadeh & A. Javadi				Iran
+EF622083/EF622063 Lasiodiplodia parva		1	914			CBS 456.78	EF622083	EF622063		EF622083/EF622063 Lasiodiplodia parva	O. Rangel				Colombia
+EF622084/EF622064 Lasiodiplodia parva		1	914			CBS 494.78	EF622084/EF622064	EF622064		EF622084/EF622064 Lasiodiplodia parva	O. Rangel				Colombia
+B68 Diplodia corticola		1	914			B68	KM675745	KM822745		B68 Diplodia corticola	A. Carlucci				Cerignola, Italy
+AY259100/AY573227 Diplodia corticola		1	914			CBS 112549 	AY259100	AY573227		AY259100/AY573227 Diplodia corticola	A. Alves				Portugal
+B155 Diplodia corticola		1	914			B155	KM675746	KM822746		B155 Diplodia corticola	A. Carlucci				Cerignola, Italy
+B189 Diplodia corticola		1	914			B189	KM675747	KM822747		B189 Diplodia corticola	A. Carlucci				Cerignola, Italy
+B308 Diplodia corticola		1	914			B308	KM675748	KM822748		B308 Diplodia corticola	A. Carlucci				San Severo, Italy
+B52 Diplodia mutila		1	914			B52	KM675749	KM822710		B52 Diplodia mutila	A. Carlucci				Cerignola, Italy
+AY259093/AY573219 Diplodia mutila		1	914			CBS 112553	AY259093	AY573219		AY259093/AY573219 Diplodia mutila	A.J.L. Phillips				Portugal
+B112 Diplodia mutila		1	914			B112	KM675750	KM822711		B112 Diplodia mutila	F. Lops				San Severo, Italy
+B271 Diplodia mutila		1	914			B271	KM675751	KM822712		B271 Diplodia mutila	A. Carlucci				Cerignola, Italy
+B7 Diplodia seriata		1	914			B7	FJ481590	KM822713		B7 Diplodia seriata	A. Carlucci				Foggia, Italy
+B12 Diplodia seriata		1	914			B12	FJ481593	KM822714		B12 Diplodia seriata	A. Carlucci				Foggia, Italy
+B48 Diplodia seriata		1	914			B48				B48 Diplodia seriata	A. Carlucci				San Severo, Italy
+B102 Diplodia seriata		1	914			B102				B102 Diplodia seriata	A. Carlucci				Cerignola, Italy
+B115 Diplodia seriata		1	914			B115	KM675742	KM822715		B115 Diplodia seriata	A. Carlucci				Cerignola, Italy
+B117 Diplodia seriata		1	914			B117				B117 Diplodia seriata	M.L. Raimondo				San Severo, Italy
+B154 Diplodia seriata		1	914			B154				B154 Diplodia seriata	M.L. Raimondo				Cerignola, Italy
+B233 Diplodia seriata		1	914			B233	KM675743	KM822716		B233 Diplodia seriata	A. Carlucci				San Severo, Italy
+B311 Diplodia seriata		1	914			B311				B311 Diplodia seriata	A. Carlucci				San Severo, Italy
+B344 Diplodia seriata		1	914			B344	KM675744	KM822717		B344 Diplodia seriata	M.L. Raimondo				Foggia, Italy
+AY259094/AY573220 Diplodia seriata		1	914			CBS 112555 	AY259094	AY573220		AY259094/AY573220 Diplodia seriata	A.J.L. Phillips				Portugal
+EU673340/EU673309 Neodeightonia phoenicum		1	914			CBS 122528 	EU673340	EU673309		EU673340/EU673309 Neodeightonia phoenicum	F. Garcia				USA
+EU673338/EU673307 Neodeightonia phoenicum		1	914			CBS 169.34	EU673338	EU673307		EU673338/EU673307 Neodeightonia phoenicum	H.S. Fawcett				Spain
+EU673337/EU673306 Neodeightonia subglobosa		1	914			CBS 448.91 	EU673337	EU673306		EU673337/EU673306 Neodeightonia subglobosa	Unknown				United Kingdom
+EU673328/EU673294 Sphaeropsis citrigena		1	914			ICMP 16812 	EU673328	EU673294		EU673328/EU673294 Sphaeropsis citrigena	Unknown				New Zealand
+JX646803/JX646868 Sphaeropsis eucalypticola		1	914			MFLUCC 11-0654	JX646803	JX646868		JX646803/JX646868 Sphaeropsis eucalypticola	M. Doilom				Thailand
+EU673332/EU673298 Phaeobotryon mamane		1	914			CPC 12264	EU673332	EU673298		EU673332/EU673298 Phaeobotryon mamane	W. Gams				Hawaii
+ EU673330/EU673296 Barriopsis fusca		1	914			CBS 174.26 	 EU673330	EU673296		EU673330/EU673296 Barriopsis fusca	N.E. Stevens				Cuba
+KF531828/KF531807 Tialosporella graminis		1	914			CBS 118718	KF531828	KF531807		KF531828/KF531807 Tialosporella graminis	W.F.O. Marasas				South Africa
+KF531830/KF531809 Tialosporella tritici		1	914			CBS 118719 	KF531830	KF531809		KF531830/KF531809 Tialosporella tritici	W.F.O. Marasas				South Africa
+JX646792/JX646857 Botryobambusa fusicoccum		1	914			CBS 134113 	JX646792	JX646857 		JX646792/JX646857 Botryobambusa fusicoccum	R. Phookamsak				Thailand
+B6 Dothiorella iberica		1	914			B6	FJ481600	KM822718		B6 Dothiorella iberica	A. Carlucci				Cerignola, Italy
+B33 Dothiorella iberica		1	914			B33	FJ481601	HM236497		B33 Dothiorella iberica	A. Carlucci				Cerignola, Italy
+B38 Dothiorella iberica		1	914			B38	FJ481602	KM822719		B38 Dothiorella iberica	M.L. Raimondo				San Severo, Italy
+B40 Dothiorella iberica		1	914			B40	FJ481603	KM822720		B40 Dothiorella iberica	M.L. Raimondo				Cerignola, Italy
+AY573202/AY573222 Dothiorella iberica		1	914			CBS 115041 	AY573202	AY573222		AY573202/AY573222 Dothiorella iberica	J. Luque				Spain
+B56 Dothiorella sarmentorum		1	914			B56	FJ481604	HM236496		B56 Dothiorella sarmentorum	A. Carlucci				Cerignola, Italy
+B57 Dothiorella sarmentorum		1	914			B57	FJ481605	KM822721		B57 Dothiorella sarmentorum	A. Carlucci				San Severo, Italy
+B222 Dothiorella sarmentorum		1	914			B222	KM675752	KM822722		B222 Dothiorella sarmentorum	F. Lops				San Severo, Italy
+B333 Dothiorella sarmentorum		1	914			B333	KM675753	KM822723		B333 Dothiorella sarmentorum	M.L. Raimondo				San Severo, Italy
+B340 Dothiorella sarmentorum		1	914			B340	KM675754	KM822724		B340 Dothiorella sarmentorum	M.L. Raimondo				Foggia, Italy
+AY573212/AY573235 Dothiorella sarmentorum		1	914			IMI 63581b 	AY573212	AY573235		AY573212/AY573235 Dothiorella sarmentorum	E. A. Ellis				England
+JX646796/JX646861 Dothiorella thailandica		1	914			CBS 133991 	JX646796	JX646861		JX646796/JX646861 Dothiorella thailandica	Dongqin Dai				Thailand
+AY905554/AY905559 Spensermartinsia viticola		1	914			CBS 117009 	AY905554	AY905559		AY905554/AY905559 Spensermartinsia viticola	L. Luque & S. Martos				Spain
+EU673322/EU673289 Spensermartinsia viticola		1	914			ICMP 16827	EU673322	EU673289		EU673322/EU673289 Spensermartinsia viticola	S.R. Pennycook/P.R. Johnston				New Zealand
+B3 Neofusicoccum parvum 		1	914			B3	FJ481576	KM822735		B3 Neofusicoccum parvum 	M.L. Raimondo				Cerignola, Italy
+AY236943/AY236888 Neofusicoccum parvum 		1	914			ATCC 58191 	AY236943	AY236888		AY236943/AY236888 Neofusicoccum parvum 	G.J. Samuels				New Zealand
+B34 Neofusicoccum parvum 		1	914			B34				B34 Neofusicoccum parvum 	M.L. Raimondo				Cerignola, Italy
+B62 Neofusicoccum parvum 		1	914			B62				B62 Neofusicoccum parvum 	A. Carlucci				Cerignola, Italy
+B93 Neofusicoccum parvum 		1	914			B93	KM675764	KM822736		B93 Neofusicoccum parvum 	A. Carlucci				San Severo, Italy
+B107 Neofusicoccum parvum 		1	914			B107	KM675765	KM822737		B107 Neofusicoccum parvum 	M.L. Raimondo				Foggia, Italy
+B259 Neofusicoccum parvum 		1	914			B259				B259 Neofusicoccum parvum 	M.L. Raimondo				Foggia, Italy
+B288 Neofusicoccum parvum 		1	914			B288	KM675766	KM822738		B288 Neofusicoccum parvum 	A. Carlucci				Foggia, Italy
+B301 Neofusicoccum parvum 		1	914			B301				B301 Neofusicoccum parvum 	A. Carlucci				Cerignola, Italy
+B317 Neofusicoccum parvum 		1	914			B317				B317 Neofusicoccum parvum 	M.L. Raimondo				Cerignola, Italy
+B339 Neofusicoccum parvum 		1	914			B339	KM675767	KM822739		B339 Neofusicoccum parvum 	M.L. Raimondo				San Severo, Italy
+EU673311/EU673277 Neofusicoccum luteum		1	914			CBS 110497	EU673311	EU673277		EU673311/EU673277 Neofusicoccum luteum	A.J.L. Phillips				Portugal
+AY259091/AY573217 Neofusicoccum luteum		1	914			CBS 110299	AY259091	AY573217		AY259091/AY573217 Neofusicoccum luteum	A.J.L. Phillips				Portugal
+FJ824769/KF766423 Melanops tulasnei		1	914			CBS116805	FJ824769	KF766423		FJ824769/KF766423 Melanops tulasnei	Unknown				Germany
+FJ824770/FJ824775 Melanops tulasnei		1	914			CBS116806	FJ824770	FJ824775		FJ824770/FJ824775 Melanops tulasnei	Unknown				Germany
+KF766226/KF766438 Saccharata proteae		1	914			CBS 115206	KF766226	KF766438		KF766226/KF766438 Saccharata proteae	M.E. Palm				Australia 

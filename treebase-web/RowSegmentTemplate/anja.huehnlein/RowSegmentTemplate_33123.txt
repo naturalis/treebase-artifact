@@ -1,0 +1,29 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Potato leafroll virus strain 14.2, complete genome		1	6376							Potato leafroll virus strain 14.2, complete genome								
+Potato leafroll virus isolate ASL2000, complete genome		1	6376							Potato leafroll virus isolate ASL2000, complete genome								
+Potato leaf roll virus (Australian isolate) genomic RNA, complete sequence		1	6376							Potato leaf roll virus (Australian isolate) genomic RNA, complete sequence								
+Potato leaf roll virus (Canadian isolate) genomic RNA, complete sequence		1	6376							Potato leaf roll virus (Canadian isolate) genomic RNA, complete sequence								
+Potato leafroll virus strain CIP01, complete genome		1	6376							Potato leafroll virus strain CIP01, complete genome								
+Potato leafroll virus strain CU87, complete genome		1	6376							Potato leafroll virus strain CU87, complete genome								
+Cereal yellow dwarf virus-RPV, complete genome		1	6376							Cereal yellow dwarf virus-RPV, complete genome								
+Potato leafroll virus strain Fr1, complete genome		1	6376							Potato leafroll virus strain Fr1, complete genome								
+Potato leafroll virus isolate PLRV-HB, complete genome		1	6376							Potato leafroll virus isolate PLRV-HB, complete genome								
+Potato leafroll virus isolate PLRV-IM, complete genome		1	6376							Potato leafroll virus isolate PLRV-IM, complete genome								
+Potato leafroll virus isolate JokerMV10, complete genome		1	6376							Potato leafroll virus isolate JokerMV10, complete genome								
+Potato leafroll virus isolate JPI-1, partial genome		1	6376							Potato leafroll virus isolate JPI-1, partial genome								
+Potato leafroll virus isolate KHPI-1, partial genome		1	6376							Potato leafroll virus isolate KHPI-1, partial genome								
+Potato leafroll virus, complete genome (Mayo)		1	6376							Potato leafroll virus, complete genome (Mayo)								
+Potato leaf roll virus genomic RNA (NL)		1	6376							Potato leaf roll virus genomic RNA (NL)								
+Potato leafroll virus strain Noir, complete genome		1	6376							Potato leafroll virus strain Noir, complete genome								
+Potato leafroll virus strain OP, complete genome		1	6376							Potato leafroll virus strain OP, complete genome								
+Potato leafroll virus isolate OTNI-2, partial genome		1	6376							Potato leafroll virus isolate OTNI-2, partial genome								
+Potato leafroll virus isolate PBI-6, partial genome		1	6376							Potato leafroll virus isolate PBI-6, partial genome								
+Potato leaf roll virus RNA sequence (Poland)		1	6376							Potato leaf roll virus RNA sequence (Poland)								
+Potato leafroll virus isolate SMI-5, partial genome		1	6376							Potato leafroll virus isolate SMI-5, partial genome								
+Potato leafroll virus isolate SymlessLS10, complete genome		1	6376							Potato leafroll virus isolate SymlessLS10, complete genome								
+Potato leafroll virus, complete genome (US CA)		1	6376							Potato leafroll virus, complete genome (US CA)								
+Potato leafroll virus isolate VIRUBRA 1/045, partial sequence		1	6376							Potato leafroll virus isolate VIRUBRA 1/045, partial sequence								
+Potato leafroll virus isolate VIRUBRA 1/046, partial sequence		1	6376							Potato leafroll virus isolate VIRUBRA 1/046, partial sequence								
+Potato leafroll virus isolate VIRUBRA 1/047, complete sequence		1	6376							Potato leafroll virus isolate VIRUBRA 1/047, complete sequence								
+Potato leafroll virus isolate PLRV-YN, complete genome		1	6376							Potato leafroll virus isolate PLRV-YN, complete genome								
+Potato leafroll virus strain Zim13, complete genome		1	6376							Potato leafroll virus strain Zim13, complete genome								

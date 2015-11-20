@@ -1,0 +1,17 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Linum usitatissimum PDCT1		1	319							Linum usitatissimum PDCT1								
+Linum usitatissimum PDCT2		1	319							Linum usitatissimum PDCT2								
+Picea sitchensis		1	319				ABK25679			Picea sitchensis								
+Ricinus communis ROD1		1	319				 XM_002517597			Ricinus communis ROD1								
+Populus trichocarpa		1	319				XP_002327418			Populus trichocarpa								
+Arabidopsis thaliana ROD1		1	319				At3g15820			Arabidopsis thaliana ROD1								
+Brassica napus		1	319							Brassica napus								
+Gossypium raimondii		1	319							Gossypium raimondii								
+Glycine max		1	319				XP_003528315			Glycine max								
+Medicago truncatula		1	319				XP_003604371			Medicago truncatula								
+Helianthus annuus		1	319							Helianthus annuus								
+Brachypodium distachyon		1	319				XP_003563650			Brachypodium distachyon								
+Hordeum vulgare		1	319				BAK03357			Hordeum vulgare								
+Sorghum bicolor		1	319				XP_002437259			Sorghum bicolor								
+Zea mays		1	319				NP_001145186			Zea mays								
+Oryza sativa		1	319				NP_001058029			Oryza sativa								

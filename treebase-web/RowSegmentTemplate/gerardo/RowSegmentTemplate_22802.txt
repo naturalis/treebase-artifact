@@ -1,0 +1,44 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Galeandra batemanii		1	1512							Galeandra batemanii								
+Grobya galeata		1	1512							Grobya galeata								
+Catasetum aff laminatum		1	1512							Catasetum aff laminatum								
+Clowesia thylaciochila		1	1512							Clowesia thylaciochila								
+Cycnoches egertonianum		1	1512							Cycnoches egertonianum								
+Cycnoches ventricosum		1	1512							Cycnoches ventricosum								
+Dressleria dilecta		1	1512							Dressleria dilecta								
+Mormodes badia		1	1512							Mormodes badia								
+Mormodes oestlundiana		1	1512							Mormodes oestlundiana								
+Mormodes tezontle		1	1512							Mormodes tezontle								
+Mormodes lawrenceana		1	1512							Mormodes lawrenceana								
+Mormodes theiochlora		1	1512							Mormodes theiochlora								
+Mormodes buccinator		1	1512							Mormodes buccinator								
+Mormodes andreettae		1	1512							Mormodes andreettae								
+Mormodes castroi		1	1512							Mormodes castroi								
+Mormodes dasilvae		1	1512							Mormodes dasilvae								
+Mormodes elegans		1	1512							Mormodes elegans								
+Mormodes paraensis		1	1512							Mormodes paraensis								
+Mormodes tapoayensis		1	1512							Mormodes tapoayensis								
+Mormodes warzsewiczii		1	1512							Mormodes warzsewiczii								
+Mormodes rolfeana		1	1512							Mormodes rolfeana								
+Mormodes colossa		1	1512							Mormodes colossa								
+Mormodes aff sotoana		1	1512							Mormodes aff sotoana								
+Mormodes escobarii		1	1512							Mormodes escobarii								
+Mormodes fractiflexa		1	1512							Mormodes fractiflexa								
+Mormodes hookeri		1	1512							Mormodes hookeri								
+Mormodes horichii		1	1512							Mormodes horichii								
+Mormodes ignea		1	1512							Mormodes ignea								
+Mormodes lineata		1	1512							Mormodes lineata								
+Mormodes lobulata		1	1512							Mormodes lobulata								
+Mormodes aff fractiflexa		1	1512							Mormodes aff fractiflexa								
+Mormodes skinneri		1	1512							Mormodes skinneri								
+Mormodes sotoana		1	1512							Mormodes sotoana								
+Mormodes variabilis		1	1512							Mormodes variabilis								
+Mormodes maculata		1	1512							Mormodes maculata								
+Mormodes tuxtlensis		1	1512							Mormodes tuxtlensis								
+Mormodes nagelii		1	1512							Mormodes nagelii								
+Mormodes aromatica		1	1512							Mormodes aromatica								
+Mormodes luxata		1	1512							Mormodes luxata								
+Mormodes pardalinata		1	1512							Mormodes pardalinata								
+Mormodes sanguineoclaustra		1	1512							Mormodes sanguineoclaustra								
+Mormodes uncia		1	1512							Mormodes uncia								
+Mormodes williamsii		1	1512							Mormodes williamsii								

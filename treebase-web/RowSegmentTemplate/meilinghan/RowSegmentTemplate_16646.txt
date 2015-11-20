@@ -1,0 +1,58 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Fomitella rhodophaeaTFRI414		1	2026							Fomitella rhodophaeaTFRI414								
+Fomitopsis niveomarginata Wei 5583		1	2026							Fomitopsis niveomarginata Wei 5583								
+Fomitopsis incarnatus Cui 10348		1	2026							Fomitopsis incarnatus Cui 10348								
+Fomitopsis incarnatus Yuan 2653		1	2026							Fomitopsis incarnatus Yuan 2653								
+Fomitopsis incarnatus SNU m05072501		1	2026							Fomitopsis incarnatus SNU m05072501								
+Fomitopsis incarnatus SNU m04010313		1	2026							Fomitopsis incarnatus SNU m04010313								
+Fomitopsis feei Ryvarden 10804		1	2026							Fomitopsis feei Ryvarden 10804								
+Fomitopsis feei Oinonen 60119006		1	2026							Fomitopsis feei Oinonen 60119006								
+Fomitopsis subfeei Cui 9231		1	2026							Fomitopsis subfeei Cui 9231								
+Fomitopsis subfeei Dai 11887		1	2026							Fomitopsis subfeei Dai 11887								
+Fomitopsis subfeei Cui 1429		1	2026							Fomitopsis subfeei Cui 1429								
+Fomitopsis carnea Ryvarden 15519		1	2026							Fomitopsis carnea Ryvarden 15519								
+Fomitopsis africana MUCL 43284		1	2026							Fomitopsis africana MUCL 43284								
+Fomitopsis cajanderi Cui 9888		1	2026							Fomitopsis cajanderi Cui 9888								
+Fomitopsis cajanderi Cui 9871		1	2026							Fomitopsis cajanderi Cui 9871								
+Fomitopsis cajanderi Cui 9879		1	2026							Fomitopsis cajanderi Cui 9879								
+Fomitopsis palustris BC 315		1	2026							Fomitopsis palustris BC 315								
+Fomitopsis palustris CBS 283.65		1	2026							Fomitopsis palustris CBS 283.65								
+Fomitopsis pinicola CBS 221.39		1	2026							Fomitopsis pinicola CBS 221.39								
+Fomitopsis pinicola TFRI 513		1	2026							Fomitopsis pinicola TFRI 513								
+Fomitopsis spraguei Cui 8951		1	2026							Fomitopsis spraguei Cui 8951								
+Fomitopsis spraguei CBS 365.34		1	2026							Fomitopsis spraguei CBS 365.34								
+Fomitopsis rosea Cui 10520		1	2026							Fomitopsis rosea Cui 10520								
+Fomitopsis rosea Cui 10551		1	2026							Fomitopsis rosea Cui 10551								
+Fomitopsis rosea FP 104278T		1	2026							Fomitopsis rosea FP 104278T								
+Fomitopsis cupreorosea CBS 236.87		1	2026							Fomitopsis cupreorosea CBS 236.87								
+Fomitopsis lilacinogilva CBS 422.84		1	2026							Fomitopsis lilacinogilva CBS 422.84								
+Fomitopsis meliae 1P 1 1		1	2026							Fomitopsis meliae 1P 1 1								
+Fomitopsis meliae 5V 3 3		1	2026							Fomitopsis meliae 5V 3 3								
+Fomitopsis meliae 8IV7 1		1	2026							Fomitopsis meliae 8IV7 1								
+Fomitopsis ostreiformis BCC 23382		1	2026							Fomitopsis ostreiformis BCC 23382								
+Fomitopsis ostreiformis 10 R 8 1		1	2026							Fomitopsis ostreiformis 10 R 8 1								
+Fomitopsis subtropica Cui 10140		1	2026							Fomitopsis subtropica Cui 10140								
+Fomitopsis subtropica Cui 10154		1	2026							Fomitopsis subtropica Cui 10154								
+Fomitopsis subtropica Cui 10181		1	2026							Fomitopsis subtropica Cui 10181								
+Fomitopsis cana Dai 9611		1	2026							Fomitopsis cana Dai 9611								
+Fomitopsis cana Cui 6239		1	2026							Fomitopsis cana Cui 6239								
+Fomitopsis officinalis Stamets F09		1	2026							Fomitopsis officinalis Stamets F09								
+Fomitopsis officinalis Stamets F10		1	2026							Fomitopsis officinalis Stamets F10								
+Antrodia albida CBS 308.82		1	2026							Antrodia albida CBS 308.82								
+Antrodia heteromorpha CBS 200.91		1	2026							Antrodia heteromorpha CBS 200.91								
+Antrodia juniperina CBS 117.40		1	2026							Antrodia juniperina CBS 117.40								
+Antrodia variiformis CBS 309.82		1	2026							Antrodia variiformis CBS 309.82								
+Antrodia serialis 3193		1	2026							Antrodia serialis 3193								
+Antrodia serialis FP 105599		1	2026							Antrodia serialis FP 105599								
+Antrodia xantha TFRI 879		1	2026							Antrodia xantha TFRI 879								
+Antrodia sinuosa RLG 2538 Sp		1	2026							Antrodia sinuosa RLG 2538 Sp								
+Antrodia malicola Mieetinen X1382		1	2026							Antrodia malicola Mieetinen X1382								
+Antrodia malicola FP 104329 Sp		1	2026							Antrodia malicola FP 104329 Sp								
+Daedalea quercina 8085		1	2026							Daedalea quercina 8085								
+Daedalea dickinsii NBRC 6487		1	2026							Daedalea dickinsii NBRC 6487								
+Daedalea dickinsii NBRC 4979		1	2026							Daedalea dickinsii NBRC 4979								
+Piptoporus betulinus 8086		1	2026							Piptoporus betulinus 8086								
+Oligoporus rennyi KEW 57		1	2026							Oligoporus rennyi KEW 57								
+Taiwanofungus salmoneus B 147		1	2026							Taiwanofungus salmoneus B 147								
+Bjerkandera adusta DAOM 215869		1	2026							Bjerkandera adusta DAOM 215869								
+Phlebia radiata UBC F19726		1	2026							Phlebia radiata UBC F19726								

@@ -1,0 +1,43 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Psathyrella candolleana SH10		1	676							Psathyrella candolleana SH10								
+Parasola conopilus FM163225		1	676							Parasola conopilus FM163225								
+Parasola conopilus FM163224		1	676							Parasola conopilus FM163224								
+Parasola conopilus FM163223		1	676							Parasola conopilus FM163223								
+Parasola setulosa HQ847030		1	676							Parasola setulosa HQ847030								
+Parasola auricoma FM163186		1	676							Parasola auricoma FM163186								
+Parasola auricoma FM163185		1	676							Parasola auricoma FM163185								
+Parasola malakandensis SHP15		1	676							Parasola malakandensis SHP15								
+Parasola malakandensis SHP14		1	676							Parasola malakandensis SHP14								
+Parasola malakandensis SHP13		1	676							Parasola malakandensis SHP13								
+Parasola malakandensis SH4		1	676							Parasola malakandensis SH4								
+Parasola malakandensis SHP4		1	676							Parasola malakandensis SHP4								
+Parasola kuehneri FM163191		1	676							Parasola kuehneri FM163191								
+Parasola lilatincta FM163199		1	676							Parasola lilatincta FM163199								
+Parasola lilatincta FM163198		1	676							Parasola lilatincta FM163198								
+Parasola lilatincta FM163195		1	676							Parasola lilatincta FM163195								
+Parasola lilatincta FM163203		1	676							Parasola lilatincta FM163203								
+Parasola lilatincta FM163201		1	676							Parasola lilatincta FM163201								
+Parasola lilatincta FM163196		1	676							Parasola lilatincta FM163196								
+Parasola miser FM163210		1	676							Parasola miser FM163210								
+Parasola miser FM163209		1	676							Parasola miser FM163209								
+Parasola miser FM163211		1	676							Parasola miser FM163211								
+Parasola plicatilis FM163213		1	676							Parasola plicatilis FM163213								
+Parasola plicatilis FM163212		1	676							Parasola plicatilis FM163212								
+Parasola plicatilis FM163215		1	676							Parasola plicatilis FM163215								
+Parasola hemerobia FM163189		1	676							Parasola hemerobia FM163189								
+Parasola plicatilis FM163214		1	676							Parasola plicatilis FM163214								
+Parasola hercules HQ847027		1	676							Parasola hercules HQ847027								
+Parasola hercules FM163190		1	676							Parasola hercules FM163190								
+Parasola schroeterii FM163219		1	676							Parasola schroeterii FM163219								
+Parasola schroeterii FM163217		1	676							Parasola schroeterii FM163217								
+Parasola leiocephala FM163193		1	676							Parasola leiocephala FM163193								
+Parasola leiocephala FM163192		1	676							Parasola leiocephala FM163192								
+Parasola leiocephala FM163194		1	676							Parasola leiocephala FM163194								
+Parasola galericuliformis FM1631		1	676							Parasola galericuliformis FM1631								
+Parasola galericuliformis FM1631.copy		1	676							Parasola galericuliformis FM1631.copy								
+Parasola aff lilatincta FM163204		1	676							Parasola aff lilatincta FM163204								
+Parasola aff lilatincta FM163205		1	676							Parasola aff lilatincta FM163205								
+Parasola schroeterii FM163218		1	676							Parasola schroeterii FM163218								
+Parasola megasperma FM163208		1	676							Parasola megasperma FM163208								
+Parasola megasperma FM163207		1	676							Parasola megasperma FM163207								
+Parasola megasperma FM163206		1	676							Parasola megasperma FM163206								

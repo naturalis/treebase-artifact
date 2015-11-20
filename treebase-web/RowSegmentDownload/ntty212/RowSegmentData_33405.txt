@@ -1,0 +1,59 @@
+RowSegmentID	Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+68152	Tomophagus colossus Vietnam HCMC 10		1	559				JN184396		2015-09-14	Tomophagus colossus HCMC 10					Vietnam			
+68151	Tomophagus colossus Philippines CGMCC5.763		1	559				ZQ081068		2015-09-14	Tomophagus colossus CGMCC5.763					Philippines			
+68150	Ganoderma weberianum Australia SUT H2		1	559				AY569451		2015-09-14	Ganoderma weberianum SUT H2					Australia			
+68149	Ganoderma weberianum China HMAS97365		1	559				JF915411		2015-09-14	Ganoderma weberianum HMAS97365					China			
+68148	Ganoderma weberianum Philippines CBS219.36		1	559				JQ520219		2015-09-14	Ganoderma weberianum CBS219.36					Philippines			
+68147	Ganoderma tsugae U.S.A ASI-7064		1	559				JQ520216		2015-09-14	Ganoderma tsugae ASI-7064					U.S.A			
+68146	Ganoderma tsugae Canada ATCC64795		1	559				JQ520215		2015-09-14	Ganoderma tsugae ATCC64795					Canada			
+68145	Ganoderma tropicum Taiwan Wu 0407-2		1	559				EU021458		2015-09-14	Ganoderma tropicum Wu 0407-2					Taiwan			
+68144	Ganoderma tropicum China HMAS263143		1	559				JF915410		2015-09-14	Ganoderma tropicum HMAS263143					China			
+68143	Ganoderma resinaceum Czech IUM-3651		1	559				JQ520204		2015-09-14	Ganoderma resinaceum IUM-3651					Czech			
+68142	Ganoderma multipileum China HMAS242384		1	559				JF915409		2015-09-14	Ganoderma multipileum HMAS242384					China			
+68141	Ganoderma multipileum China BCRC37033		1	559				EU021462		2015-09-14	Ganoderma multipileum BCRC37033					China			
+68140	Ganoderma meredithae U.S.A ATCC64492		1	559				JQ520190		2015-09-14	Ganoderma meredithae ATCC64492					U.S.A			
+68139	Ganoderma lingzhi China Wu 1006-38		1	559				JQ781858		2015-09-14	Ganoderma lingzhi Wu 1006-38					China			
+68138	Ganoderma lingzhi China Dai12438		1	559				JQ781861		2015-09-14	Ganoderma lingzhi Dai12438					China			
+68137	Ganoderma lingzhi China Cui6982		1	559				JQ781862		2015-09-14	Ganoderma lingzhi Cui6982					China			
+68136	Ganoderma lingzhi China Cui9164		1	559				JQ781859		2015-09-14	Ganoderma lingzhi Cui9164					China			
+68135	Ganoderma sichuanense China HMAS251148		1	559				JF915403		2015-09-14	Ganoderma sichuanense HMAS251148					China			
+68134	Ganoderma sichuanense China HMAS251147		1	559				JF915402		2015-09-14	Ganoderma sichuanense HMAS251147					China			
+68133	Ganoderma sichuanense China HMAS251146		1	559				JF915401		2015-09-14	Ganoderma sichuanense HMAS251146					China			
+68132	Ganoderma sichuanense China HMAS251145		1	559				JF915400		2015-09-14	Ganoderma sichuanense HMAS251145					China			
+68131	Ganoderma sichuanense China HMAS250677		1	559				JF915399		2015-09-14	Ganoderma sichuanense HMAS250677					China			
+68130	Ganoderma sichuanense China HMAS250672		1	559				JF915398		2015-09-14	Ganoderma sichuanense HMAS250672					China			
+68129	Ganoderma sichuanense China HMAS240187		1	559				JF915397		2015-09-14	Ganoderma sichuanense HMAS240187					China			
+68128	Ganoderma sichuanense China HMAS240178		1	559				JF915396		2015-09-14	Ganoderma sichuanense HMAS240178					China			
+68127	Ganoderma sichuanense China HMAS240177		1	559				JF915395		2015-09-14	Ganoderma sichuanense HMAS240177					China			
+68126	Ganoderma sichuanense China HMAS240176		1	559				JF915394		2015-09-14	Ganoderma sichuanense HMAS240176					China			
+68125	Ganoderma sichuanense China HMAS240175		1	559				JF915393		2015-09-14	Ganoderma sichuanense HMAS240175					China			
+68124	Ganoderma sichuanense China HMAS130131		1	559				JF915408		2015-09-14	Ganoderma sichuanense HMAS130131					China			
+68123	Ganoderma sichuanense China HMAS130128		1	559				JF915404		2015-09-14	Ganoderma sichuanense HMAS130128					China			
+68122	Ganoderma sichuanense China HMAS99391		1	559				JF915407		2015-09-14	Ganoderma sichuanense HMAS99391					China			
+68121	Ganoderma sichuanense China HMAS76566		1	559				JF915406		2015-09-14	Ganoderma sichuanense HMAS76566					China			
+68120	Ganoderma sichuanense China HMAS62503		1	559				JF915405		2015-09-14	Ganoderma sichuanense HMAS62503					China			
+68119	Ganoderma sichuanense China HMAS60537		1	559				JN197281		2015-09-14	Ganoderma sichuanense HMAS60537					China			
+68118	Ganoderma lucidum U.K HMAS86597		1	559				AY884176		2015-09-14	Ganoderma lucidum HMAS86597					U.K			
+68117	Ganoderma lucidum Sweden Dai 2272		1	559				JQ781851		2015-09-14	Ganoderma lucidum Dai 2272					Sweden			
+68116	Ganoderma lucidum Finland Dai 11593		1	559				JQ781852		2015-09-14	Ganoderma lucidum Dai 11593					Finland			
+68115	Ganoderma lucidum Italy Glu1		1	559				JN588575		2015-09-14	Ganoderma lucidum Glu1					Italy			
+68114	Ganoderma lucidum France Gl-1-3		1	559				JN588574		2015-09-14	Ganoderma lucidum Gl-1-3					France			
+68113	Ganoderma lucidum Canada ATCC46755		1	559				JQ520185		2015-09-14	Ganoderma lucidum ATCC46755					Canada			
+68112	Ganoderma lucidum Japan KACC51690		1	559				KT717956		2015-09-14	Ganoderma lucidum KACC51690					Japan			
+68111	Ganoderma lucidum Japan KACC51689		1	559				KT717955		2015-09-14	Ganoderma lucidum KACC51689					Japan			
+68110	Ganoderma lucidum Japan KACC42232		1	559				KT717954		2015-09-14	Ganoderma lucidum KACC42232					Japan			
+68109	Ganoderma lucidum Bangladesh IUM-4304		1	559				JQ520183		2015-09-14	Ganoderma lucidum IUM-4304					Bangladesh			
+68108	Ganoderma lucidum Korea ASI-7135		1	559				JQ520173		2015-09-14	Ganoderma lucidum ASI-7135					Korea			
+68107	Ganoderma lucidum Korea KU-4035		1	559				JQ520207		2015-09-14	Ganoderma lucidum KU-4035					Korea			
+68106	Ganoderma lucidum Korea ASI-7094		1	559				JQ520172		2015-09-14	Ganoderma lucidum ASI-7094					Korea			
+68105	Ganoderma lucidum Korea ASI-7091		1	559				JQ520171		2015-09-14	Ganoderma lucidum ASI-7091					Korea			
+68104	Ganoderma lucidum Korea ASI-7074		1	559				JQ520170		2015-09-14	Ganoderma lucidum ASI-7074					Korea			
+68103	Ganoderma lucidum Korea ASI-7071		1	559				JQ520169		2015-09-14	Ganoderma lucidum ASI-7071					Korea			
+68102	Ganoderma lucidum Korea ASI-7013		1	559				JQ520168		2015-09-14	Ganoderma lucidum ASI-7013					Korea			
+68101	Ganoderma lucidum Korea ASI-7004		1	559				JQ520167		2015-09-14	Ganoderma lucidum ASI-7004					Korea			
+68100	Ganoderma lucidum Korea IUM-4100		1	559				JQ520179		2015-09-14	Ganoderma lucidum IUM-4100					Korea			
+68099	Ganoderma lucidum Korea IUM-4002		1	559				JQ520178		2015-09-14	Ganoderma lucidum IUM-4002					Korea			
+68098	Ganoderma lucidum Korea IUM-3986		1	559				JQ520177		2015-09-14	Ganoderma lucidum IUM-3986					Korea			
+68097	Ganoderma lucidum Korea IUM-0938		1	559				JQ520176		2015-09-14	Ganoderma lucidum IUM-0938					Korea			
+68096	Ganoderma lucidum Korea IUM-0757		1	559				JQ520175		2015-09-14	Ganoderma lucidum IUM-0757					Korea			
+68095	Ganoderma lucidum Korea IUM-0047		1	559				JQ520174		2015-09-14	Ganoderma lucidum IUM-0047					Korea			

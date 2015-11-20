@@ -1,0 +1,71 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Ensete ventricosum Entada1		1	68							Ensete ventricosum Entada1						Ethiopia	Ari	Cultiveted enset
+Ensete ventricosum Entada2		1	68							Ensete ventricosum Entada2						Ethiopia	Ari	Cultiveted enset
+Ensete ventricosum Entada3		1	68							Ensete ventricosum Entada3						Ethiopia	Ari	Cultiveted enset
+Ensete ventricosum Entada4		1	68							Ensete ventricosum Entada4						Ethiopia	Ari	Cultiveted enset
+Ensete ventricosum Entada5		1	68							Ensete ventricosum Entada5						Ethiopia	Ari	Cultiveted enset
+Ensete ventricosum Erpha1		1	68							Ensete ventricosum Erpha1						Ethiopia	Dawro	Wild enset
+Ensete ventricosum Erpha2		1	68							Ensete ventricosum Erpha2						Ethiopia	Dawro	Wild enset
+Ensete ventricosum Erpha3		1	68							Ensete ventricosum Erpha3						Ethiopia	Dawro	Wild enset
+Ensete ventricosum Erpha4		1	68							Ensete ventricosum Erpha4						Ethiopia	Dawro	Wild enset
+Ensete ventricosum Erpha5		1	68							Ensete ventricosum Erpha5						Ethiopia	Dawro	Wild enset
+Ensete ventricosum Erpha6		1	68							Ensete ventricosum Erpha6						Ethiopia	Dawro	Wild enset
+Ensete ventricosum Shibr		1	68							Ensete ventricosum Shibr						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Ayissade		1	68							Ensete ventricosum Ayissade						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Shalda		1	68							Ensete ventricosum Shalda						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Ame		1	68							Ensete ventricosum Ame						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Chicho		1	68							Ensete ventricosum Chicho						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Bino		1	68							Ensete ventricosum Bino						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Butta		1	68							Ensete ventricosum Butta						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Ketene		1	68							Ensete ventricosum Ketene						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Dolla		1	68							Ensete ventricosum Dolla						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Dellea1		1	68							Ensete ventricosum Dellea1						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Bergude		1	68							Ensete ventricosum Bergude						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Haleko		1	68							Ensete ventricosum Haleko						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Garanetsa		1	68							Ensete ventricosum Garanetsa						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum Dellea2		1	68							Ensete ventricosum Dellea2						Ethiopia	Gamo Gofa	Cultivated enset
+Ensete ventricosum GenaSidama		1	68							Ensete ventricosum GenaSidama						Ethiopia	Sidama	Cultivated enset
+Ensete ventricosum Astara		1	68							Ensete ventricosum Astara						Ethiopia	Sidama	Cultivated enset
+Ensete ventricosum Arisho		1	68							Ensete ventricosum Arisho						Ethiopia	Sidama	Cultivated enset
+Ensete ventricosum Medde		1	68							Ensete ventricosum Medde						Ethiopia	Sidama	Cultivated enset
+Ensete ventricosum Kule		1	68							Ensete ventricosum Kule						Ethiopia	Sidama	Cultivated enset
+Ensete ventricosum Wanadia		1	68							Ensete ventricosum Wanadia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Halaa		1	68							Ensete ventricosum Halaa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Ketenia		1	68							Ensete ventricosum Ketenia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Mazia		1	68							Ensete ventricosum Mazia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Sesa		1	68							Ensete ventricosum Sesa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Adinona		1	68							Ensete ventricosum Adinona						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Akacha		1	68							Ensete ventricosum Akacha						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Bulua		1	68							Ensete ventricosum Bulua						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum GenaWolaita		1	68							Ensete ventricosum GenaWolaita						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Siyuti		1	68							Ensete ventricosum Siyuti						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Zinkia		1	68							Ensete ventricosum Zinkia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Kuchaarkie		1	68							Ensete ventricosum Kuchaarkie						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Nekaka		1	68							Ensete ventricosum Nekaka						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Fenku		1	68							Ensete ventricosum Fenku						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Doko		1	68							Ensete ventricosum Doko						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Ankiegena		1	68							Ensete ventricosum Ankiegena						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Mochie		1	68							Ensete ventricosum Mochie						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Lochingie		1	68							Ensete ventricosum Lochingie						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Sanka		1	68							Ensete ventricosum Sanka						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Silikentie		1	68							Ensete ventricosum Silikentie						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Chichia		1	68							Ensete ventricosum Chichia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Arkia		1	68							Ensete ventricosum Arkia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Pokuwa		1	68							Ensete ventricosum Pokuwa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Tuzuma		1	68							Ensete ventricosum Tuzuma						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Tufa		1	68							Ensete ventricosum Tufa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Locha		1	68							Ensete ventricosum Locha						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Gemorcha		1	68							Ensete ventricosum Gemorcha						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Argama		1	68							Ensete ventricosum Argama						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Dirbuwa		1	68							Ensete ventricosum Dirbuwa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Bedadia		1	68							Ensete ventricosum Bedadia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Gefetenewa		1	68							Ensete ventricosum Gefetenewa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Bukinia		1	68							Ensete ventricosum Bukinia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Keltentia		1	68							Ensete ventricosum Keltentia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Agina		1	68							Ensete ventricosum Agina						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Mattie		1	68							Ensete ventricosum Mattie						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Chamia		1	68							Ensete ventricosum Chamia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Shelekumia		1	68							Ensete ventricosum Shelekumia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Keberia		1	68							Ensete ventricosum Keberia						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Feluwa		1	68							Ensete ventricosum Feluwa						Ethiopia	Wolaita	Cultivated enset
+Ensete ventricosum Liembo		1	68							Ensete ventricosum Liembo						Ethiopia	Wolaita	Cultivated enset

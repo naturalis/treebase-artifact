@@ -1,0 +1,47 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession (RPB2/RPB1)	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+F201114 Fusarium zanthoxyli		1	3368				KM236766/KM520380			F201114 Fusarium zanthoxyli								
+F201105 Fusarium zanthoxyli		1	3368				KM236757/KM520381			F201105 Fusarium zanthoxyli								
+F201310 Fusarium zanthoxyli		1	3368				KM236762/KM520382			F201310 Fusarium zanthoxyli								
+F201311 Fusarium zanthoxyli		1	3368				KM236763/KM520383			F201311 Fusarium zanthoxyli								
+F201321 Fusarium zanthoxyli		1	3368				KM236773/KM520384			F201321 Fusarium zanthoxyli								
+F201129 Fusarium continuum		1	3368				KM236781/KM520385			F201129 Fusarium continuum								
+F201127 Fusarium continuum		1	3368				KM236779/KM520386			F201127 Fusarium continuum								
+F201030 Fusarium continuum		1	3368				KM236782/KM520387			F201030 Fusarium continuum								
+F201126 Fusarium continuum		1	3368				KM236778/KM520388			F201126 Fusarium continuum								
+F201128 Fusarium continuum		1	3368				KM236780/KM520389			F201128 Fusarium continuum								
+54149 Fusarium torreyae		1	3368				HM068359/JX171548			54149 Fusarium torreyae								
+54150 Fusarium torreyae		1	3368				HM068360/JX504711			54150 Fusarium torreyae								
+54152 Fusarium torreyae		1	3368				HM068361/JX504712			54152 Fusarium torreyae								
+13622 Fusarium lateritium		1	3368				JX171571/JX171457			13622 Fusarium lateritium								
+20429 Fusarium stilboides		1	3368				JX171582/JX171468			20429 Fusarium stilboides								
+20472 Fusarium sarcochroum		1	3368				JX171586/JX171472			20472 Fusarium sarcochroum								
+3299 Fusarium sporotrichioides		1	3368				JX171558/JX171444			3299 Fusarium sporotrichioides								
+13374 Fusarium longipes		1	3368				JX171564/JX171450			13374 Fusarium longipes								
+25410 Fusarium aywerte		1	3368				JX171626/JX171513			25410 Fusarium aywerte								
+25473 Fusarium flocciferum		1	3368				JX171627/JX171514			25473 Fusarium flocciferum								
+25481 Fusarium tricinctum		1	3368				JX171629/JX171516			25481 Fusarium tricinctum								
+36452 Fusarium nurragi		1	3368				JX171650/JX171538			36452 Fusarium nurragi								
+13371 Fusarium buharicum		1	3368				JX171563/JX171449			13371 Fusarium buharicum								
+13384 Fusarium sublunatum		1	3368				JX171565/JX171451			13384 Fusarium sublunatum								
+20956 Fusarium verticillioides		1	3368				JX171598/JX171485			20956 Fusarium verticillioides								
+25486 Fusarium xylarioides		1	3368				JX171630/JX171517			25486 Fusarium xylarioides								
+22944 Fusarium proliferatum		1	3368				JX171617/JX171504			22944 Fusarium proliferatum								
+25226 Fusarium mangifera		1	3368				JX171622/JX171509			25226 Fusarium mangifera								
+25331 Fusarium circinatum		1	3368				JX171623/JX171510			25331 Fusarium circinatum								
+31084 Fusarium graminearum		1	3368				JX171644/JX171531			31084 Fusarium graminearum								
+20423 Fusarium lacertarum		1	3368				JX171581/JX171467			20423 Fusarium lacertarum								
+22187 Fusarium sambucinum		1	3368				JX171606/JX171493			22187 Fusarium sambucinum								
+22196 Fusarium venenatum		1	3368				JX171607/JX171494			22196 Fusarium venenatum								
+31041 Fusarium virguliforme		1	3368				JX171643/JX171530			31041 Fusarium virguliforme								
+22276 Fusarium phaseoli		1	3368				JX171608/JX171495			22276 Fusarium phaseoli								
+22090 Fusarium illudens		1	3368				JX171601/JX171488			22090 Fusarium illudens								
+45880 Fusarium solani f. sp. pisi		1	3368				JX171655/JX171543			45880 Fusarium solani f. sp. pisi								
+F201135 Fusarium sp. FSSC 6		1	3368				KM520374			F201135 Fusarium sp. FSSC 6								
+20438 Fusarium ambrosium		1	3368				JX171584/JX171470			20438 Fusarium ambrosium								
+																		
+																		
+																		
+																		
+																		
+																		
+																		

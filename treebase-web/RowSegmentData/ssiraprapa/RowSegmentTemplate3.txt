@@ -1,0 +1,24 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Xanthomonas melonis		1	1418				Y10756			Xanthomonas melonis LMG 8670								
+Xanthomonas hyacinthi		1	1418				Y10754			Xanthomonas hyacinthi Y6 LMG 739								
+Xanthomonas translucens		1	1418				X99299			Xanthomonas translucens LMG 876								
+Xanthomonas albilineans		1	1418				FP565176			Xanthomonas albilineans GPE PC73								
+Xanthomonas sacchari		1	1418				Y10766			Xanthomonas sacchari LMG 471								
+Strain 521		1	1418							Strain 521	Siraprapa Saraihom	17.87699	102.71322		Thailand	Nong Kai		
+Lysobacter enzymogenes 495		1	1418				AJ298291			Lysobacter enzymogenes 495								
+Lysobacter sp. C3		1	1418				AY074793			Lysobacter enzymogenes C3								
+Stenotrophomonas maltophilia		1	1418				AB294553			Stenotrophomonas maltophilia IAM 12423								
+Stenotrophomonas humi		1	1418				AM403587			Stenotrophomonas humi R 32729								
+Stenotrophomonas acidaminiphila		1	1418				AF273080			Stenotrophomonas acidaminiphila AMX 19								
+Pseudoxanthomonas mexicana		1	1418				AF273082			Pseudoxanthomonas mexicana AMX 26B								
+Pseudoxanthomonas japonensis		1	1418				AB008507			Pseudoxanthomonas japonensis 12 3								
+Pseudoxanthomonas broegbernensis		1	1418				AB681329			Pseudoxanthomonas broegbernensis NBRC 101013								
+Lysobacter koreensis		1	1418				AB166878			Lysobacter koreensis Dae16								
+Lysobacter gummosus		1	1418				AB161361			Lysobacter gummosus KCTC 12132								
+Lysobacter antibioticus		1	1418				AB019582			Lysobacter antibioticus USAM 3C								
+Lysobacter defluvii		1	1418				AM283465			Lysobacter defluvii IMMIB APB 9								
+Lysobacter daejeonensis		1	1418				DQ191178			Lysobacter daejeonensis GH1 9								
+Lysobacter concretionis		1	1418				AB161359			Lysobacter concretionis Ko07								
+Luteimonas mephitis		1	1418				AJ012228			Luteimonas mephitis B1953 27 1								
+Luteimonas lutimaris		1	1418				GU199001			Luteimonas lutimaris G3								
+Luteimonas marina		1	1418				EU295459			Luteimonas marina FR1330								

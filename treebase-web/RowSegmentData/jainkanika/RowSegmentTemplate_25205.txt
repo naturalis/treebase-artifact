@@ -1,0 +1,16 @@
+Row Taxon Label	Title	Start Index	End Index	Inst Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Chara vulgaris		1	16290				AY267353			Chara vulgaris								
+Chondrus crispus		1	16290				Z47547			Chondrus crispus								
+Cyanidioschyzon merolae		1	16290				D89861			Cyanidioschyzon merolae								
+Cyanidium caldarium		1	16290				Z48930			Cyanidium caldarium								
+Cyanophora paradoxa		1	16290				HQ849544			Cyanophora paradoxa								
+Galdieria sulphuraria		1	16290				KJ700460			Galdieria sulphuraria								
+Gracilariophila oryzoides		1	16290				HQ586059			Gracilariophila oryzoides								
+Gracilariopsis andersonii		1	16290				HQ586060			Gracilariopsis andersonii								
+Gracilariopsis lemaneiformis		1	16290				JQ071938			Gracilariopsis lemaneiformis								
+Nephroselmis olivacea		1	16290				AF110138			Nephroselmis olivacea								
+Plocamiocolax pulvinata		1	16290				HQ586061			Plocamiocolax pulvinata								
+Pyropia haitanensis		1	16290				JQ736808			Pyropia haitanensis								
+Porphyra purpurea		1	16290				AF114794			Porphyra purpurea								
+Porphyra umbilicalis		1	16290				JQ388471			Porphyra umbilicalis								
+Pyropia yezoensis		1	16290				JQ736809			Pyropia yezoensis								

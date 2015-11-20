@@ -1,0 +1,14 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Absconditella sphagnorum		1	990				JX298897.1			Absconditella sphagnorum								
+Absconditella lignicola		1	990				FJ904669.1			Absconditella lignicola								
+Carestiella socia		1	990				AY661687.1			Carestiella socia								
+Cryptodiscus foveolaris		1	990				FJ904673.1			Cryptodiscus foveolaris								
+Cryptodiscus pallidus		1	990				FJ904679.1			Cryptodiscus pallidus								
+Cryptodiscus pini		1	990				HM244762.1			Cryptodiscus pini								
+Ostropa barbara		1	990				HM244773.1			Ostropa barbara								
+Pelliciarosea asterica		1	990				KT758843			Pelliciarosea asterica								
+Phlyctis argena		1	990				KJ409433.1			Phlyctis argena								
+Stictis brunnescens		1	990				AY661688.1			Stictis brunnescens								
+Stictis confusa		1	990				DQ401143.1			Stictis confusa								
+Stictis populorum		1	990				AYY527334.1			Stictis populorum								
+Stictis radiata		1	990				DQ782846.1			Stictis radiata								

@@ -1,0 +1,195 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Ametrida centurio		1	9517							Ametrida centurio								
+Anoura caudifer		1	9517							Anoura caudifer								
+Anoura cultrata		1	9517							Anoura cultrata								
+Anoura geoffroyi		1	9517							Anoura geoffroyi								
+Anoura latidens		1	9517							Anoura latidens								
+Ardops nichollsi		1	9517							Ardops nichollsi								
+Ariteus flavescens		1	9517							Ariteus flavescens								
+Artibeus amplus		1	9517							Artibeus amplus								
+Artibeus anderseni		1	9517							Artibeus anderseni								
+Artibeus aztecus		1	9517							Artibeus aztecus								
+Artibeus bogotensis		1	9517							Artibeus bogotensis								
+Artibeus cinereus		1	9517							Artibeus cinereus								
+Artibeus concolor		1	9517							Artibeus concolor								
+Artibeus fimbriatus		1	9517							Artibeus fimbriatus								
+Artibeus fraterculus		1	9517							Artibeus fraterculus								
+Artibeus glaucus		1	9517							Artibeus glaucus								
+Artibeus gnomus		1	9517							Artibeus gnomus								
+Artibeus hirsutus		1	9517							Artibeus hirsutus								
+Artibeus incomitatus		1	9517							Artibeus incomitatus								
+Artibeus inopinatus		1	9517							Artibeus inopinatus								
+Artibeus intermedius		1	9517							Artibeus intermedius								
+Artibeus jamaicensis		1	9517							Artibeus jamaicensis								
+Artibeus lituratus		1	9517							Artibeus lituratus								
+Artibeus obscurus		1	9517							Artibeus obscurus								
+Artibeus phaeotis		1	9517							Artibeus phaeotis								
+Artibeus planirostris		1	9517							Artibeus planirostris								
+Artibeus schwartzi		1	9517							Artibeus schwartzi								
+Artibeus toltecus		1	9517							Artibeus toltecus								
+Artibeus watsoni		1	9517							Artibeus watsoni								
+Brachyphylla cavernarum		1	9517							Brachyphylla cavernarum								
+Brachyphylla nana nana		1	9517							Brachyphylla nana nana								
+Brachyphylla nana pumila		1	9517							Brachyphylla nana pumila								
+Carollia benkeithi		1	9517							Carollia benkeithi								
+Carollia brevicauda		1	9517							Carollia brevicauda								
+Carollia castanea		1	9517							Carollia castanea								
+Carollia perspicillata		1	9517							Carollia perspicillata								
+Carollia sowelli		1	9517							Carollia sowelli								
+Carollia subrufa		1	9517							Carollia subrufa								
+Centurio senex		1	9517							Centurio senex								
+Chiroderma doriae		1	9517							Chiroderma doriae								
+Chiroderma improvisum		1	9517							Chiroderma improvisum								
+Chiroderma salvini		1	9517							Chiroderma salvini								
+Chiroderma trinitatum		1	9517							Chiroderma trinitatum								
+Chiroderma villosum		1	9517							Chiroderma villosum								
+Choeroniscus godmani		1	9517							Choeroniscus godmani								
+Choeroniscus minor		1	9517							Choeroniscus minor								
+Choeronycteris mexicana		1	9517							Choeronycteris mexicana								
+Chrotopterus auritus		1	9517							Chrotopterus auritus								
+Desmodus rotundus		1	9517							Desmodus rotundus								
+Diaemus youngi		1	9517							Diaemus youngi								
+Diphylla ecaudata		1	9517							Diphylla ecaudata								
+Ectophylla alba		1	9517							Ectophylla alba								
+Enchisthenes hartii		1	9517							Enchisthenes hartii								
+Erophylla bombifrons		1	9517							Erophylla bombifrons								
+Erophylla sezekorni		1	9517							Erophylla sezekorni								
+Furipterus horrens		1	9517							Furipterus horrens								
+Glossophaga commissarisi		1	9517							Glossophaga commissarisi								
+Glossophaga leachii		1	9517							Glossophaga leachii								
+Glossophaga longirostris		1	9517							Glossophaga longirostris								
+Glossophaga morenoi		1	9517							Glossophaga morenoi								
+Glossophaga soricina		1	9517							Glossophaga soricina								
+Glyphonycteris daviesi		1	9517							Glyphonycteris daviesi								
+Glyphonycteris sylvestris		1	9517							Glyphonycteris sylvestris								
+Hylonycteris underwoodi		1	9517							Hylonycteris underwoodi								
+Lampronycteris brachyotis		1	9517							Lampronycteris brachyotis								
+Leptonycteris curasoae		1	9517							Leptonycteris curasoae								
+Leptonycteris yerbabuenae		1	9517							Leptonycteris yerbabuenae								
+Lichonycteris obscura		1	9517							Lichonycteris obscura								
+Lionycteris spurrelli		1	9517							Lionycteris spurrelli								
+Lonchophylla chocoana		1	9517							Lonchophylla chocoana								
+Lonchophylla dekeyseri		1	9517							Lonchophylla dekeyseri								
+Lonchophylla handleyi		1	9517							Lonchophylla handleyi								
+Lonchophylla hesperia		1	9517							Lonchophylla hesperia								
+Lonchophylla mordax		1	9517							Lonchophylla mordax								
+Lonchophylla robusta		1	9517							Lonchophylla robusta								
+Hsunycteris thomasi		1	9517							Hsunycteris thomasi								
+Lonchorhina aurita		1	9517							Lonchorhina aurita								
+Lonchorhina inusitata		1	9517							Lonchorhina inusitata								
+Lonchorhina orinocensis		1	9517							Lonchorhina orinocensis								
+Lophostoma brasiliense		1	9517							Lophostoma brasiliense								
+Lophostoma carrikeri		1	9517							Lophostoma carrikeri								
+Lophostoma evotis		1	9517							Lophostoma evotis								
+Lophostoma schulzi		1	9517							Lophostoma schulzi								
+Lophostoma silvicolum laephotis		1	9517							Lophostoma silvicolum laephotis								
+Lophostoma silvicolum centralis		1	9517							Lophostoma silvicolum centralis								
+Macrophyllum macrophyllum		1	9517							Macrophyllum macrophyllum								
+Macrotus californicus		1	9517							Macrotus californicus								
+Macrotus waterhousii mexicanus		1	9517							Macrotus waterhousii mexicanus								
+Macrotus waterhousii waterhousii		1	9517							Macrotus waterhousii waterhousii								
+Mesophylla macconnelli		1	9517							Mesophylla macconnelli								
+Vampyriscus nymphaea		1	9517							Vampyriscus nymphaea								
+Micronycteris brosseti		1	9517							Micronycteris brosseti								
+Micronycteris giovanniae		1	9517							Micronycteris giovanniae								
+Micronycteris hirsuta		1	9517							Micronycteris hirsuta								
+Micronycteris homezi		1	9517							Micronycteris homezi								
+Micronycteris matses		1	9517							Micronycteris matses								
+Micronycteris megalotis		1	9517							Micronycteris megalotis								
+Micronycteris microtis		1	9517							Micronycteris microtis								
+Micronycteris minuta		1	9517							Micronycteris minuta								
+Micronycteris schmidtorum		1	9517							Micronycteris schmidtorum								
+Micronycteris sp.		1	9517							Micronycteris sp.								
+Mimon bennettii		1	9517							Mimon bennettii								
+Mimon cozumelae		1	9517							Mimon cozumelae								
+Gardnerycteris crenulatum		1	9517							Gardnerycteris crenulatum								
+Monophyllus plethodon		1	9517							Monophyllus plethodon								
+Monophyllus redmani		1	9517							Monophyllus redmani								
+Mormoops blainvillei		1	9517							Mormoops blainvillei								
+Mormoops megalophylla		1	9517							Mormoops megalophylla								
+Musonycteris harrisoni		1	9517							Musonycteris harrisoni								
+Mystacina tuberculata		1	9517							Mystacina tuberculata								
+Myzopoda aurita		1	9517							Myzopoda aurita								
+Noctilio albiventris		1	9517							Noctilio albiventris								
+Noctilio leporinus		1	9517							Noctilio leporinus								
+Phylloderma stenops		1	9517							Phylloderma stenops								
+Phyllonycteris aphylla		1	9517							Phyllonycteris aphylla								
+Phyllonycteris poeyi obtusa		1	9517							Phyllonycteris poeyi obtusa								
+Phyllonycteris poeyi poeyi		1	9517							Phyllonycteris poeyi poeyi								
+Phyllops falcatus		1	9517							Phyllops falcatus								
+Phyllostomus discolor		1	9517							Phyllostomus discolor								
+Phyllostomus elongatus		1	9517							Phyllostomus elongatus								
+Phyllostomus hastatus		1	9517							Phyllostomus hastatus								
+Phyllostomus latifolius		1	9517							Phyllostomus latifolius								
+Platalina genovensium		1	9517							Platalina genovensium								
+Platyrrhinus albericoi		1	9517							Platyrrhinus albericoi								
+Platyrrhinus aurarius		1	9517							Platyrrhinus aurarius								
+Platyrrhinus brachycephalus		1	9517							Platyrrhinus brachycephalus								
+Platyrrhinus dorsalis		1	9517							Platyrrhinus dorsalis								
+Platyrrhinus helleri		1	9517							Platyrrhinus helleri								
+Platyrrhinus incarum		1	9517							Platyrrhinus incarum								
+Platyrrhinus infuscus		1	9517							Platyrrhinus infuscus								
+Platyrrhinus ismaeli		1	9517							Platyrrhinus ismaeli								
+Platyrrhinus lineatus		1	9517							Platyrrhinus lineatus								
+Platyrrhinus masu		1	9517							Platyrrhinus masu								
+Platyrrhinus matapalensis		1	9517							Platyrrhinus matapalensis								
+Platyrrhinus nigellus		1	9517							Platyrrhinus nigellus								
+Platyrrhinus recifinus		1	9517							Platyrrhinus recifinus								
+Platyrrhinus vittatus		1	9517							Platyrrhinus vittatus								
+Pteronotus davyi davyi		1	9517							Pteronotus davyi davyi								
+Pteronotus davyi fulvus		1	9517							Pteronotus davyi fulvus								
+Pteronotus gymnonotus		1	9517							Pteronotus gymnonotus								
+Pteronotus macleayii		1	9517							Pteronotus macleayii								
+Pteronotus parnellii parnellii		1	9517							Pteronotus parnellii parnellii								
+Pteronotus personatus personatus		1	9517							Pteronotus personatus personatus								
+Pteronotus parnellii portoricensis		1	9517							Pteronotus parnellii portoricensis								
+Pteronotus personatus psilotis		1	9517							Pteronotus personatus psilotis								
+Pteronotus parnellii pusillus		1	9517							Pteronotus parnellii pusillus								
+Pteronotus quadridens		1	9517							Pteronotus quadridens								
+Pteronotus parnellii rubiginosus 3		1	9517							Pteronotus parnellii rubiginosus 3								
+Pteronotus parnellii rubiginosus 1		1	9517							Pteronotus parnellii rubiginosus 1								
+Pteronotus parnellii rubiginosus 2		1	9517							Pteronotus parnellii rubiginosus 2								
+Pygoderma bilabiatum		1	9517							Pygoderma bilabiatum								
+Rhinophylla alethina		1	9517							Rhinophylla alethina								
+Rhinophylla fischerae		1	9517							Rhinophylla fischerae								
+Rhinophylla pumilio		1	9517							Rhinophylla pumilio								
+Sphaeronycteris toxophyllum		1	9517							Sphaeronycteris toxophyllum								
+Stenoderma rufum		1	9517							Stenoderma rufum								
+Sturnira angeli		1	9517							Sturnira angeli								
+Sturnira aratathomasi		1	9517							Sturnira aratathomasi								
+Sturnira bidens		1	9517							Sturnira bidens								
+Sturnira bogotensis		1	9517							Sturnira bogotensis								
+Sturnira erythromos		1	9517							Sturnira erythromos								
+Sturnira hondurensis		1	9517							Sturnira hondurensis								
+Sturnira koopmanhilli		1	9517							Sturnira koopmanhilli								
+Sturnira lilium		1	9517							Sturnira lilium								
+Sturnira ludovici		1	9517							Sturnira ludovici								
+Sturnira luisi		1	9517							Sturnira luisi								
+Sturnira magna		1	9517							Sturnira magna								
+Sturnira mordax		1	9517							Sturnira mordax								
+Sturnira nana		1	9517							Sturnira nana								
+Sturnira oporaphilum		1	9517							Sturnira oporaphilum								
+Sturnira parvidens		1	9517							Sturnira parvidens								
+Sturnira paulsoni		1	9517							Sturnira paulsoni								
+Sturnira perla		1	9517							Sturnira perla								
+Sturnira burtonlimi		1	9517							Sturnira burtonlimi								
+Sturnira bakeri		1	9517							Sturnira bakeri								
+Sturnira sp.		1	9517							Sturnira sp.								
+Sturnira tildae		1	9517							Sturnira tildae								
+Thyroptera discifera		1	9517							Thyroptera discifera								
+Thyroptera lavali		1	9517							Thyroptera lavali								
+Thyroptera tricolor		1	9517							Thyroptera tricolor								
+Tonatia bidens		1	9517							Tonatia bidens								
+Tonatia saurophila		1	9517							Tonatia saurophila								
+Trachops cirrhosus		1	9517							Trachops cirrhosus								
+Trinycteris nicefori		1	9517							Trinycteris nicefori								
+Uroderma bilobatum		1	9517							Uroderma bilobatum								
+Uroderma magnirostrum		1	9517							Uroderma magnirostrum								
+Vampyriscus bidens		1	9517							Vampyriscus bidens								
+Vampyriscus brocki		1	9517							Vampyriscus brocki								
+Vampyressa melissa		1	9517							Vampyressa melissa								
+Vampyressa pusilla		1	9517							Vampyressa pusilla								
+Vampyressa thyone		1	9517							Vampyressa thyone								
+Vampyrodes caraccioli		1	9517							Vampyrodes caraccioli								
+Vampyrodes major		1	9517							Vampyrodes major								
+Vampyrum spectrum		1	9517							Vampyrum spectrum								

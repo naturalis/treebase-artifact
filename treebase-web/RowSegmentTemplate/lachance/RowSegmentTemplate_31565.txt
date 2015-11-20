@@ -1,0 +1,26 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Metschnikowia borealis UWOPS 96 104.2T DQ641243		1	8208							Metschnikowia borealis UWOPS 96 104.2T DQ641243								
+Metschnikowia sp. UWOPS 00 154.1 DQ641241		1	8208							Metschnikowia sp. UWOPS 00 154.1 DQ641241								
+Metschnikowia sp. UWOPS 13 106.1 KP24178		1	8208							Metschnikowia sp. UWOPS 13 106.1 KP24178								
+Metschnikowia lochheadii UWOPS 00 133.2T DQ641240		1	8208							Metschnikowia lochheadii UWOPS 00 133.2T DQ641240								
+Metschnikowia matae var. maris UFMG CM Y397TKP241777		1	8208							Metschnikowia matae var. maris UFMG CM Y397TKP241777								
+Metschnikowia matae var. matae UFMG CM Y391AKP241776		1	8208							Metschnikowia matae var. matae UFMG CM Y391AKP241776								
+Metschnikowia continentalis UFMG 96 173T DQ641238		1	8208							Metschnikowia continentalis UFMG 96 173T DQ641238								
+Metschnikowia santaceciliae UWOPS 01 517a1T DQ641242		1	8208							Metschnikowia santaceciliae UWOPS 01 517a1T DQ641242								
+Metschnikowia cerradonensis UFMG 03T67.1T DQ641237		1	8208							Metschnikowia cerradonensis UFMG 03T67.1T DQ641237								
+Metschnikowia ipomoeae UWOPS 91 672.1T DQ641236		1	8208							Metschnikowia ipomoeae UWOPS 91 672.1T DQ641236								
+Metschnikowia cubensis MUCL 54753T EU143316		1	8208							Metschnikowia cubensis MUCL 54753T EU143316								
+Metschnikowia sp. UWOPS 01 655c1 KP241779		1	8208							Metschnikowia sp. UWOPS 01 655c1 KP241779								
+Metschnikowia kamakouana UWOPS 04 112.5T EU143312		1	8208							Metschnikowia kamakouana UWOPS 04 112.5T EU143312								
+Metschnikowia sp. UWOPS 04 226.1 EU143315		1	8208							Metschnikowia sp. UWOPS 04 226.1 EU143315								
+Metschnikowia sp UWOPS 04 218.3 EU143314		1	8208							Metschnikowia sp UWOPS 04 218.3 EU143314								
+Metschnikowia mauinuiana UWOPS 04 190.1T EU143313		1	8208							Metschnikowia mauinuiana UWOPS 04 190.1T EU143313								
+Metschnikowia hamakuensis UWOPS 04 204.1A EU143311		1	8208							Metschnikowia hamakuensis UWOPS 04 204.1A EU143311								
+Metschnikowia hamakuensis UWOPS 04 201.2 EU143310		1	8208							Metschnikowia hamakuensis UWOPS 04 201.2 EU143310								
+Metschnikowia hawaiiensis UWOPS 87 2167.2T DQ641239		1	8208							Metschnikowia hawaiiensis UWOPS 87 2167.2T DQ641239								
+Metschnikowia colocasiae UWOPS 03 134.2T EU143309		1	8208							Metschnikowia colocasiae UWOPS 03 134.2T EU143309								
+Metschnikowia arizonensis 99 103.3.1T KF647739		1	8208							Metschnikowia arizonensis 99 103.3.1T KF647739								
+Metschnikowia sp. UWOPS 03 147.1 KF647737		1	8208							Metschnikowia sp. UWOPS 03 147.1 KF647737								
+Metschnikowia dekortorum UWOPS 01 142b3T KF647736		1	8208							Metschnikowia dekortorum UWOPS 01 142b3T KF647736								
+Metschnikowia similis UWOPS 03 192.2T KF647735		1	8208							Metschnikowia similis UWOPS 03 192.2T KF647735								
+Metschnikowia bowlesiae UWOPS 04 243x5T KF647738		1	8208							Metschnikowia bowlesiae UWOPS 04 243x5T KF647738								

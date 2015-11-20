@@ -1,0 +1,48 @@
+Switching between headless and normal mode for Mesquite
+First, the Headless project is currently separate.  
+This means that for compilation, the Mesquite project needs to know about it,
+so the Headless project would need to be put into Mesquite Project's classpath.
+
+===== Source modification
+Normal to Headless:
+
+1. Select Mesquite Project source folder (or other source folder to be modified).
+File search, SELECTED RESOURCES ONLY.
+Enter "headless.awt." and choose replace.
+
+Replace with "headless.awt."
+
+
+2. Select Mesquite Project source folder (or other source folder to be modified).
+File search, SELECTED RESOURCES ONLY.
+Enter "headless.x.swing." and choose replace.
+
+Replace with "headless.x.swing."
+
+3. Change initial value of MesquiteWindow.headless to true
+
+4. comment out lines marked by //Headless in MesquitePDFFile.java
+
+
+
+Headless to Normal:
+
+1. Select Mesquite Project source folder (or other source folder to be modified).
+File search, SELECTED RESOURCES ONLY.
+Enter "headless.awt." and choose replace.
+
+Replace with "headless.awt."
+
+
+2. Select Mesquite Project source folder (or other source folder to be modified).
+File search, SELECTED RESOURCES ONLY.
+Enter "headless.x.swing." and choose replace.
+
+Replace with "headless.x.swing."
+
+3. Change initial value of MesquiteWindow.headless to false
+
+4. uncomment out lines marked by //Headless in MesquitePDFFile.java
+
+
+

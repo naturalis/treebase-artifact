@@ -1,0 +1,53 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Aliquandostipite crystallinus GU266239		1	1685							Aliquandostipite crystallinus GU266239								
+Aliquandostipite khaoyaiensis JN673028		1	1685							Aliquandostipite khaoyaiensis JN673028								
+Aliquandostipite khaoyaiensis EF175647		1	1685							Aliquandostipite khaoyaiensis EF175647								
+Aliquandostipite khaoyaiensis GU301796		1	1685							Aliquandostipite khaoyaiensis GU301796								
+Alternaria alternata DQ678082		1	1685							Alternaria alternata DQ678082								
+Anguillospora longissima JN673029		1	1685							Anguillospora longissima JN673029								
+Anguillospora longissima GU266240		1	1685							Anguillospora longissima GU266240								
+Brachiosphaera tropicalis EF175653		1	1685							Brachiosphaera tropicalis EF175653								
+Farlowiella carmichaeliana GU301791		1	1685							Farlowiella carmichaeliana GU301791								
+Geoglossum difforme  JN673043		1	1685							Geoglossum difforme  JN673043								
+Geoglossum simile JN673045		1	1685							Geoglossum simile JN673045								
+Jahnula aquatica EF175655		1	1685							Jahnula aquatica EF175655								
+Jahnula bipileata EF175657		1	1685							Jahnula bipileata EF175657								
+Jahnula bipileata EF175656		1	1685							Jahnula bipileata EF175656								
+Jahnula rostrata EF175660		1	1685							Jahnula rostrata EF175660								
+Jahnula sangamonensis EF175662		1	1685							Jahnula sangamonensis EF175662								
+Jahnula sangamonensis EF175663		1	1685							Jahnula sangamonensis EF175663								
+Megalohypha aqua dulces EF175667		1	1685							Megalohypha aqua dulces EF175667								
+Microthyrium microscopicum GU301846		1	1685							Microthyrium microscopicum GU301846								
+Montagnula opulenta DQ678086		1	1685							Montagnula opulenta DQ678086								
+Mycosphaerella punctiformis DQ470968		1	1685							Mycosphaerella punctiformis DQ470968								
+Myriangium hispanicum GU301854		1	1685							Myriangium hispanicum GU301854								
+Mytilinidion mytilinellum GU397347		1	1685							Mytilinidion mytilinellum GU397347								
+Scorias spongiosa DQ678075		1	1685							Scorias spongiosa DQ678075								
+Eremodothis angulata DQ384105		1	1685							Eremodothis angulata DQ384105								
+Xylomyces chlamydosporus EF175669		1	1685							Xylomyces chlamydosporus EF175669								
+Xylomyces sp. JN673054		1	1685							Xylomyces sp. JN673054								
+Lophiostoma arundinis AB618998		1	1685							Lophiostoma arundinis AB618998								
+Lophiostoma arundinis AB618999		1	1685							Lophiostoma arundinis AB618999								
+Lophiostoma compressum JN941380		1	1685							Lophiostoma compressum JN941380								
+Lophiostoma compressum JN941379		1	1685							Lophiostoma compressum JN941379								
+Lophiostoma macrostomum AB619010		1	1685							Lophiostoma macrostomum AB619010								
+Lophiostoma macrostomum AB433273		1	1685							Lophiostoma macrostomum AB433273								
+Lophiostoma semiliberum AB619012		1	1685							Lophiostoma semiliberum AB619012								
+Lophiostoma semiliberum AB619013		1	1685							Lophiostoma semiliberum AB619013								
+Lophiostoma winteri AB619017		1	1685							Lophiostoma winteri AB619017								
+Lophiostoma winteri AB619018		1	1685							Lophiostoma winteri AB619018								
+Apiosporina collinsii GU301798		1	1685							Apiosporina collinsii GU301798								
+Delitschia winteri DQ678077		1	1685							Delitschia winteri DQ678077								
+Hysterobrevium smilacis FJ161174		1	1685							Hysterobrevium smilacis FJ161174								
+Minutisphaera fimbriatispora HM196366		1	1685							Minutisphaera fimbriatispora HM196366								
+Minutisphaera fimbriatispora HM196367		1	1685							Minutisphaera fimbriatispora HM196367								
+Minutisphaera fimbriatispora HM196368		1	1685							Minutisphaera fimbriatispora HM196368								
+Minutisphaera fimbriatispora JX474859 G155 1a		1	1685							Minutisphaera fimbriatispora JX474859 G155 1a								
+Minutisphaera parafimbriatispora JX474860 G156 1a		1	1685							Minutisphaera parafimbriatispora JX474860 G156 1a								
+Minutisphaera japonica AB733438		1	1685							Minutisphaera japonica AB733438								
+Minutisphaera japonica AB733439		1	1685							Minutisphaera japonica AB733439								
+Minutisphaera japonica AB733440		1	1685							Minutisphaera japonica AB733440								
+Minutisphaera parafimbriatispora G156 1b		1	1685							Minutisphaera parafimbriatispora G156 1b								
+Minutisphaera aspera G427 a		1	1685							Minutisphaera aspera G427 a								
+Minutisphaera aspera G427 c		1	1685							Minutisphaera aspera G427 c								
+Minutisphaera parafimbriatispora G156 4a		1	1685							Minutisphaera parafimbriatispora G156 4a								

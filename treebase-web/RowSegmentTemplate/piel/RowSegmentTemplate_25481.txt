@@ -1,0 +1,101 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Cortinarius sp. CR2 ZT10422		1	2352							Cortinarius sp. CR2 ZT10422								
+Cortinarius sp. CR2 NY79537		1	2352							Cortinarius sp. CR2 NY79537								
+Cortinarius sp. CR2 NY796168		1	2352							Cortinarius sp. CR2 NY796168								
+Cortinarius sp. CR2 NY34724		1	2352							Cortinarius sp. CR2 NY34724								
+Cortinarius sp. CR2 NY795933		1	2352							Cortinarius sp. CR2 NY795933								
+Cortinarius sp. CR2 NY460906		1	2352							Cortinarius sp. CR2 NY460906								
+Cortinarius sp. SA1 TH9180		1	2352							Cortinarius sp. SA1 TH9180								
+Cortinarius sp. SA1 KC155389		1	2352							Cortinarius sp. SA1 KC155389								
+Cortinarius sp. NA1 TENN65527		1	2352							Cortinarius sp. NA1 TENN65527								
+Cortinarius sp. NA1 TENN65535		1	2352							Cortinarius sp. NA1 TENN65535								
+Cortinarius sp. CR1 NY34729		1	2352							Cortinarius sp. CR1 NY34729								
+Cortinarius sp. CR1 NYFranco-Molano1393		1	2352							Cortinarius sp. CR1 NYFranco-Molano1393								
+Cortinarius sp. CR1 NY181476		1	2352							Cortinarius sp. CR1 NY181476								
+Cortinarius sp. CR1 NY460484		1	2352							Cortinarius sp. CR1 NY460484								
+Cortinarius sp. CR1 NY75934		1	2352							Cortinarius sp. CR1 NY75934								
+Cortinarius sp. CR1 NY795935		1	2352							Cortinarius sp. CR1 NY795935								
+Cortinarius sp. CR1 NYREH5284		1	2352							Cortinarius sp. CR1 NYREH5284								
+Cortinarius sp. CR1 NYFranco-Molano151		1	2352							Cortinarius sp. CR1 NYFranco-Molano151								
+Cortinarius violaceus TENN62899		1	2352							Cortinarius violaceus TENN62899								
+Cortinarius violaceus TENN63104		1	2352							Cortinarius violaceus TENN63104								
+Cortinarius violaceus TENN65179		1	2352							Cortinarius violaceus TENN65179								
+Cortinarius violaceus NYBaroni1985		1	2352							Cortinarius violaceus NYBaroni1985								
+Cortinarius violaceus NY401880		1	2352							Cortinarius violaceus NY401880								
+Cortinarius violaceus NYHEB17339		1	2352							Cortinarius violaceus NYHEB17339								
+Cortinarius violaceus NYREH5693		1	2352							Cortinarius violaceus NYREH5693								
+Cortinarius violaceus NYREH6989		1	2352							Cortinarius violaceus NYREH6989								
+Cortinarius violaceus NYREH3768		1	2352							Cortinarius violaceus NYREH3768								
+Cortinarius violaceus NYREH5632		1	2352							Cortinarius violaceus NYREH5632								
+Cortinarius violaceus NYZebell1988		1	2352							Cortinarius violaceus NYZebell1988								
+Cortinarius violaceus NYHDThiers35271		1	2352							Cortinarius violaceus NYHDThiers35271								
+Cortinarius violaceus NYASMethven2133		1	2352							Cortinarius violaceus NYASMethven2133								
+Cortinarius violaceus NYBrooks1986		1	2352							Cortinarius violaceus NYBrooks1986								
+Cortinarius violaceus NYHEB11069		1	2352							Cortinarius violaceus NYHEB11069								
+Cortinarius violaceus NYHEB10812		1	2352							Cortinarius violaceus NYHEB10812								
+Cortinarius violaceus NYHEB15844		1	2352							Cortinarius violaceus NYHEB15844								
+Cortinarius violaceus NYHEB12510		1	2352							Cortinarius violaceus NYHEB12510								
+Cortinarius violaceus NYHEB1971		1	2352							Cortinarius violaceus NYHEB1971								
+Cortinarius violaceus TENN30078		1	2352							Cortinarius violaceus TENN30078								
+Cortinarius violaceus TENN27530		1	2352							Cortinarius violaceus TENN27530								
+Cortinarius violaceus TENN38038		1	2352							Cortinarius violaceus TENN38038								
+Cortinarius violaceus NYSmithF2309		1	2352							Cortinarius violaceus NYSmithF2309								
+Cortinarius violaceus NYHoltz574		1	2352							Cortinarius violaceus NYHoltz574								
+Cortinarius violaceus NYHEB6165		1	2352							Cortinarius violaceus NYHEB6165								
+Cortinarius violaceus NYHEB1956		1	2352							Cortinarius violaceus NYHEB1956								
+Cortinarius violaceus NYHEB1976		1	2352							Cortinarius violaceus NYHEB1976								
+Cortinarius violaceus AF325601		1	2352							Cortinarius violaceus AF325601								
+Cortinarius violaceus AF389130		1	2352							Cortinarius violaceus AF389130								
+Cortinarius violaceus AJ236059		1	2352							Cortinarius violaceus AJ236059								
+Cortinarius violaceus AY669579		1	2352							Cortinarius violaceus AY669579								
+Cortinarius violaceus AY669580		1	2352							Cortinarius violaceus AY669580								
+Cortinarius violaceus DQ384589		1	2352							Cortinarius violaceus DQ384589								
+Cortinarius violaceus DQ486695		1	2352							Cortinarius violaceus DQ486695								
+Cortinarius violaceus EU525958		1	2352							Cortinarius violaceus EU525958								
+Cortinarius violaceus FJ039649		1	2352							Cortinarius violaceus FJ039649								
+Cortinarius violaceus FJ157111		1	2352							Cortinarius violaceus FJ157111								
+Cortinarius violaceus JN021013		1	2352							Cortinarius violaceus JN021013								
+Cortinarius violaceus KJ920044		1	2352							Cortinarius violaceus KJ920044								
+Cortinarius violaceus UDB001184		1	2352							Cortinarius violaceus UDB001184								
+Cortinarius violaceus UDB002377		1	2352							Cortinarius violaceus UDB002377								
+Cortinarius violaceus UDB011352		1	2352							Cortinarius violaceus UDB011352								
+Cortinarius violaceus Neotype		1	2352							Cortinarius violaceus Neotype								
+Cortinarius sp. AY669638		1	2352							Cortinarius sp. AY669638								
+Cortinarius austroviolaceus PARATYPE MEL2121961		1	2352							Cortinarius austroviolaceus PARATYPE MEL2121961								
+Cortinarius austroviolaceus PARATYPE MEL2121960		1	2352							Cortinarius austroviolaceus PARATYPE MEL2121960								
+Cortinarius austroviolaceus MEL2359548		1	2352							Cortinarius austroviolaceus MEL2359548								
+Cortinarius austroviolaceus MEL2363754		1	2352							Cortinarius austroviolaceus MEL2363754								
+Cortinarius austroviolaceus MEL2359549		1	2352							Cortinarius austroviolaceus MEL2359549								
+Cortinarius austroviolaceus MEL2350380		1	2352							Cortinarius austroviolaceus MEL2350380								
+Cortinarius austroviolaceus MEL2033801		1	2352							Cortinarius austroviolaceus MEL2033801								
+Cortinarius austroviolaceus MEL227499		1	2352							Cortinarius austroviolaceus MEL227499								
+Cortinarius austroviolaceus MEL2231689		1	2352							Cortinarius austroviolaceus MEL2231689								
+Cortinarius violaceus sensu Moser 1986 ZT9485		1	2352							Cortinarius violaceus sensu Moser 1986 ZT9485								
+Cortinarius violaceus sensu Moser 1986 ZT12615		1	2352							Cortinarius violaceus sensu Moser 1986 ZT12615								
+Cortinarius violaceus sensu Moser 1986 PDD71219		1	2352							Cortinarius violaceus sensu Moser 1986 PDD71219								
+Cortinarius violaceus sensu Moser 1986 PDD72636		1	2352							Cortinarius violaceus sensu Moser 1986 PDD72636								
+Cortinarius violaceus sensu Moser 1986 PDD82693		1	2352							Cortinarius violaceus sensu Moser 1986 PDD82693								
+Cortinarius violaceus sensu Moser 1986 PDD88995		1	2352							Cortinarius violaceus sensu Moser 1986 PDD88995								
+Cortinarius violaceus sensu Moser 1986 PDD95444		1	2352							Cortinarius violaceus sensu Moser 1986 PDD95444								
+Cortinarius violaceus sensu Moser 1986 PDD95823		1	2352							Cortinarius violaceus sensu Moser 1986 PDD95823								
+Cortinarius violaceus sensu Moser 1986 PDD98057		1	2352							Cortinarius violaceus sensu Moser 1986 PDD98057								
+Cortinarius violaceus sensu Moser 1986 AF389131		1	2352							Cortinarius violaceus sensu Moser 1986 AF389131								
+Cortinarius violaceus sensu Moser 1986 GU222284		1	2352							Cortinarius violaceus sensu Moser 1986 GU222284								
+Cortinarius violaceus sensu Moser 1986 JX178614		1	2352							Cortinarius violaceus sensu Moser 1986 JX178614								
+Cortinarius sp. AU1 MEL2351101		1	2352							Cortinarius sp. AU1 MEL2351101								
+Cortinarius sp. AU1 TENN69666		1	2352							Cortinarius sp. AU1 TENN69666								
+Cortinarius sp. AU1  PDD99307		1	2352							Cortinarius sp. AU1  PDD99307								
+Cortinarius sp. AU1 PDD99308		1	2352							Cortinarius sp. AU1 PDD99308								
+Cortinarius sp. AU1 PDD99309		1	2352							Cortinarius sp. AU1 PDD99309								
+Cortinarius sp. AU2 MEL2350466		1	2352							Cortinarius sp. AU2 MEL2350466								
+Cortinarius sp. AU2 PERTH3978729		1	2352							Cortinarius sp. AU2 PERTH3978729								
+Cortinarius sp. AU2 PERTH5506794		1	2352							Cortinarius sp. AU2 PERTH5506794								
+Cortinarius sp. AU2 PERTH7581696		1	2352							Cortinarius sp. AU2 PERTH7581696								
+Cortinarius sp. AU2 MEL2300544		1	2352							Cortinarius sp. AU2 MEL2300544								
+Cortinarius walpolensis DQ328131		1	2352							Cortinarius walpolensis DQ328131								
+Cortinarius sp. HQ604652		1	2352							Cortinarius sp. HQ604652								
+Cortinarius vitiosus JN114094		1	2352							Cortinarius vitiosus JN114094								
+Cortinarius vitiosus JN114095		1	2352							Cortinarius vitiosus JN114095								
+Cortinarius vitiosus JN114096 		1	2352							Cortinarius vitiosus JN114096 								
+Cortinarius sp. JX316363		1	2352							Cortinarius sp. JX316363								
+Cortinarius sp. JX316449		1	2352							Cortinarius sp. JX316449								

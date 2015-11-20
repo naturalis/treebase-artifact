@@ -1,0 +1,32 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Marasmius grandiviridis EU643514		1	834							Marasmius grandiviridis EU643514								
+Marasmius puerariae JX470333		1	834							Marasmius puerariae JX470333								
+Marasmius purpureostriatus FJ431268		1	834							Marasmius purpureostriatus FJ431268								
+Marasmius galbinus HQ709445		1	834							Marasmius galbinus HQ709445								
+Marasmius laticlavatus EU643511		1	834							Marasmius laticlavatus EU643511								
+Marasmius pseudopurpureostriatus EU643513		1	834							Marasmius pseudopurpureostriatus EU643513								
+Marasmius albopurpureus KP127675		1	834							Marasmius albopurpureus KP127675								
+Marasmius albopurpureus KP127674		1	834							Marasmius albopurpureus KP127674								
+Marasmius siccus FJ431272		1	834							Marasmius siccus FJ431272								
+Marasmius haematocephalus FJ431248		1	834							Marasmius haematocephalus FJ431248								
+Marasmius distantifolius FJ431239		1	834							Marasmius distantifolius FJ431239								
+Marasmius mokfaensis EU643516		1	834							Marasmius mokfaensis EU643516								
+Marasmius aff camerunensis FJ431229		1	834							Marasmius aff camerunensis FJ431229								
+Marasmius purpureostriatus FJ904978		1	834							Marasmius purpureostriatus FJ904978								
+Marasmius musicolorus FJ431262		1	834							Marasmius musicolorus FJ431262								
+Marasmius iras FJ431249		1	834							Marasmius iras FJ431249								
+Marasmius pellucidus EU935508		1	834							Marasmius pellucidus EU935508								
+Marasmius pellucidus EU935509		1	834							Marasmius pellucidus EU935509								
+Marasmius aurantioferrugineus FJ904963		1	834							Marasmius aurantioferrugineus FJ904963								
+Marasmius aurantioferrugineus FJ904964		1	834							Marasmius aurantioferrugineus FJ904964								
+Marasmius albimyceliosus EU935544		1	834							Marasmius albimyceliosus EU935544								
+Marasmius brunneospermus FJ904967		1	834							Marasmius brunneospermus FJ904967								
+Marasmius brunneospermus FJ904969		1	834							Marasmius brunneospermus FJ904969								
+Marasmius fusicystidiosus FJ917624		1	834							Marasmius fusicystidiosus FJ917624								
+Marasmius nivicola FJ904970		1	834							Marasmius nivicola FJ904970								
+Marasmius nivicola FJ904973		1	834							Marasmius nivicola FJ904973								
+Marasmius wynneae FJ904979		1	834							Marasmius wynneae FJ904979								
+Marasmius maximus FJ904974		1	834							Marasmius maximus FJ904974								
+Marasmius maximus FJ904975		1	834							Marasmius maximus FJ904975								
+Marasmius crinis equi FJ431233		1	834							Marasmius crinis equi FJ431233								
+Marasmius guyanensis FJ431245		1	834							Marasmius guyanensis FJ431245								

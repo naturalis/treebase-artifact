@@ -1,0 +1,101 @@
+RowSegmentID	Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+65653	Cylindropuntia burrageana	psbA-trnH IGS	807	1139	MEXU				LN871120			J. Ahuatzin 8							
+65603	Cylindropuntia burrageana	atpB-rbcL IGS sequence	1	806	MEXU				LN871073		Cylindropuntia burrageana	J. Ahuatzin 8							
+65679	Grusonia bradtiana	psbA-trnH IGS	807	1139	MEXU				LN871146			R.T. Barcenas 1554							
+65629	Grusonia bradtiana	atpB-rbcL IGS sequence	1	806	MEXU				LN871099		Grusonia bradtiana	R.T. Barcenas 1554							
+65688	Grusonia parishii	psbA-trnH IGS	807	1139	RNG 10				LN871155			Nursery Acquired Plant							
+65638	Grusonia parishii	atpB-rbcL IGS sequence	1	806	RNG 10				LN871106		Grusonia parishii	Nursery Acquired Plant							
+65684	Grusonia kunzei	psbA-trnH IGS	807	1139	MEXU				LN871151			R.T. Barcenas 1576							
+65634	Grusonia kunzei	atpB-rbcL IGS sequence	1	806	MEXU				LN871102		Grusonia kunzei	R.T. Barcenas 1576							
+65662	Cylindropuntia leptocaulis	psbA-trnH IGS	807	1139	MEXU				LN871128			R.T. Barcenas 1561							
+65612	Cylindropuntia leptocaulis	atpB-rbcL IGS sequence	1	806	MEXU				LN871081		Cylindropuntia leptocaulis	R.T. Barcenas 1561							
+65668	Cylindropuntia ramosissima	psbA-trnH IGS	807	1139	QMEX				LN871134			R.T. Barcenas 1932							
+65618	Cylindropuntia ramosissima	atpB-rbcL IGS sequence	1	806	QMEX				LN871087		Cylindropuntia ramosissima	R.T. Barcenas 1932							
+65658	Cylindropuntia fulgida	psbA-trnH IGS	807	1139	MEXU				LN871124			R.T. Barcenas 1560							
+65608	Cylindropuntia fulgida	atpB-rbcL IGS sequence	1	806	MEXU				LN871077		Cylindropuntia fulgida	R.T. Barcenas 1560							
+65667	Cylindropuntia prolifera	psbA-trnH IGS	807	1139	QMEX				LN871133			R.T. Barcenas 1918							
+65617	Cylindropuntia prolifera	atpB-rbcL IGS sequence	1	806	QMEX				LN871086		Cylindropuntia prolifera	R.T. Barcenas 1918							
+65669	Cylindropuntia rosea	psbA-trnH IGS	807	1139	MEXU				LN871135			R.T. Barcenas 41							
+65619	Cylindropuntia rosea	atpB-rbcL IGS sequence	1	806	MEXU				LN871088		Cylindropuntia rosea	R.T. Barcenas 41							
+65673	Cylindropuntia thurberi	psbA-trnH IGS	807	1139	MEXU				LN871141			U. Eggli et al. 1957							
+65623	Cylindropuntia thurberi	atpB-rbcL IGS sequence	1	806	MEXU				LN871094		Cylindropuntia thurberi	U. Eggli et al. 1957							
+65675	Cylindropuntia versicolor	psbA-trnH IGS	807	1139	ZSS				LN871143			living collection 961060							
+65625	Cylindropuntia versicolor	atpB-rbcL IGS sequence	1	806	ZSS				LN871096		Cylindropuntia versicolor	living collection 961060							
+65691	Micropuntia pulchella	psbA-trnH IGS	807	1139	ZSS				LN871156			living collection 994243							
+65641	Micropuntia pulchella	atpB-rbcL IGS sequence	1	806	ZSS				LN871107		Micropuntia pulchella	living collection 994243							
+65693	Pereskiopsis diguetii	psbA-trnH IGS	807	1139	MEXU				LN871160			H.M. Hernandez 2466							
+65643	Pereskiopsis diguetii	atpB-rbcL IGS sequence	1	806	MEXU				LN871113		Pereskiopsis diguetii	H.M. Hernandez 2466							
+65694	Pereskiopsis porteri	psbA-trnH IGS	807	1139	MEXU				LN871161			S. Arias 1196							
+65644	Pereskiopsis porteri	atpB-rbcL IGS sequence	1	806	MEXU				LN871114		Pereskiopsis porteri	S. Arias 1196							
+65695	Portulaca oleracea	psbA-trnH IGS	807	1139	QMEX				LN871162			R.T. Barcenas s/n							
+65645	Portulaca oleracea	atpB-rbcL IGS sequence	1	806	QMEX				LN871115		Portulaca oleracea	R.T. Barcenas s/n							
+65686	Grusonia moelleri1	psbA-trnH IGS	807	1139	MEXU				LN871153			C. Gomez H. 1729							
+65636	Grusonia moelleri1	atpB-rbcL IGS sequence	1	806	MEXU				LN871104		Grusonia moelleri1	C. Gomez H. 1729							
+65677	Cylindropuntia x tetracantha	psbA-trnH IGS	807	1139	MEXU				LN871140			A. Flores 4510							
+65627	Cylindropuntia x tetracantha	atpB-rbcL IGS sequence	1	806	MEXU				LN871093		Cylindropuntia x tetracantha	A. Flores 4510							
+65672	Cylindropuntia tesajo	psbA-trnH IGS	807	1139	QMEX				LN871139			R.T. Barcenas 1900							
+65622	Cylindropuntia tesajo	atpB-rbcL IGS sequence	1	806	QMEX				LN871092		Cylindropuntia tesajo	R.T. Barcenas 1900							
+65663	Cylindropuntia lindsayi	psbA-trnH IGS	807	1139	MEXU				LN871129			G.E. Lindsay 3160							
+65613	Cylindropuntia lindsayi	atpB-rbcL IGS sequence	1	806	MEXU				LN871082		Cylindropuntia lindsayi	G.E. Lindsay 3160							
+65659	Cylindropuntia ganderi	psbA-trnH IGS	807	1139	MEXU				LN871125			G.E. Lindsay 3335							
+65609	Cylindropuntia ganderi	atpB-rbcL IGS sequence	1	806	MEXU				LN871078		Cylindropuntia ganderi	G.E. Lindsay 3335							
+65656	Cylindropuntia ciribe	psbA-trnH IGS	807	1139	MEXU				LN871122			H.Sanchez M. 4406							
+65606	Cylindropuntia ciribe	atpB-rbcL IGS sequence	1	806	MEXU				LN871075		Cylindropuntia ciribe	H.Sanchez M. 4406							
+65655	Cylindropuntia cholla	psbA-trnH IGS	807	1139	MEXU				LN871121			R.T. Barcenas 1533							
+65605	Cylindropuntia cholla	atpB-rbcL IGS sequence	1	806	MEXU				LN871074		Cylindropuntia cholla	R.T. Barcenas 1533							
+65671	Cylindropuntia santamaria	psbA-trnH IGS	807	1139	MEXU				LN871137			H.Sanchez M. 4395							
+65621	Cylindropuntia santamaria	atpB-rbcL IGS sequence	1	806	MEXU				LN871090		Cylindropuntia santamaria	H.Sanchez M. 4395							
+65657	Cylindropuntia clavellina	psbA-trnH IGS	807	1139	MEXU				LN871123			G.E. Lindsay 3140							
+65607	Cylindropuntia clavellina	atpB-rbcL IGS sequence	1	806	MEXU				LN871076		Cylindropuntia clavellina	G.E. Lindsay 3140							
+65687	Grusonia moelleri2	psbA-trnH IGS	807	1139	MEXU				LN871154			R.T. Barcenas 1555							
+65637	Grusonia moelleri2	atpB-rbcL IGS sequence	1	806	MEXU				LN871105		Grusonia moelleri2	R.T. Barcenas 1555							
+65690	Grusonia vilis	psbA-trnH IGS	807	1139	MEXU				LN871158			R.T. Barcenas 1529							
+65640	Grusonia vilis	atpB-rbcL IGS sequence	1	806	MEXU				LN871109		Grusonia vilis	R.T. Barcenas 1529							
+65680	Grusonia clavata	psbA-trnH IGS	807	1139	RNG 3				LN871147			Nursery Acquired Plant							
+65630	Grusonia clavata	atpB-rbcL IGS sequence	1	806	RNG 3				LN871100		Grusonia clavata	Nursery Acquired Plant							
+65664	Cylindropuntia molesta	psbA-trnH IGS	807	1139	MEXU				LN871130			P. Tenorio 12899							
+65614	Cylindropuntia molesta	atpB-rbcL IGS sequence	1	806	MEXU				LN871083		Cylindropuntia molesta	P. Tenorio 12899							
+65649	Cylindropuntia alcahes	psbA-trnH IGS	807	1139	QMEX				LN871117			R.T. Barcenas 1543							
+65599	Cylindropuntia alcahes	atpB-rbcL IGS sequence	1	806	QMEX				LN871069		Cylindropuntia alcahes	R.T. Barcenas 1543							
+65676	Cylindropuntia wolfii	psbA-trnH IGS	807	1139	MEXU				LN871144			Schmidt 40							
+65626	Cylindropuntia wolfii	atpB-rbcL IGS sequence	1	806	MEXU				LN871097		Cylindropuntia wolfii	Schmidt 40							
+65678	Grusonia aggeria	psbA-trnH IGS	807	1139	MEXU				LN871145			R.T. Barcenas 1557							
+65628	Grusonia aggeria	atpB-rbcL IGS sequence	1	806	MEXU				LN871098		Grusonia aggeria	R.T. Barcenas 1557							
+65681	Grusonia emoryi	psbA-trnH IGS	807	1139	SRSC				LN871148			A.M. Powell 5996							
+65631	Grusonia emoryi	atpB-rbcL IGS sequence	1	806	SRSC				LN871101		Grusonia emoryi	A.M. Powell 5996							
+65696	Quiabentia verticillata	psbA-trnH IGS	807	1139	n/a				AY875340										
+65646	Quiabentia verticillata	atpB-rbcL IGS sequence	1	806	n/a						Quiabentia verticillata								
+65697	Quiabentia zehntneri	psbA-trnH IGS	807	1139	n/a				AY875345										
+65647	Quiabentia zehntneri	atpB-rbcL IGS sequence	1	806	n/a						Quiabentia zehntneri								
+65692	Pereskia aculeata	psbA-trnH IGS	807	1139	MEXU				LN871159			Machuca 7871							
+65642	Pereskia aculeata	atpB-rbcL IGS sequence	1	806	MEXU				LN871112		Pereskia aculeata	Machuca 7871							
+65689	Grusonia schottii	psbA-trnH IGS	807	1139	QMEX				LN871157			R.T. Barcenas 1690							
+65639	Grusonia schottii	atpB-rbcL IGS sequence	1	806	QMEX				LN871108		Grusonia schottii	R.T. Barcenas 1690							
+65685	Grusonia marenae	psbA-trnH IGS	807	1139	MEXU				LN871152			R.T. Barcenas 1567							
+65635	Grusonia marenae	atpB-rbcL IGS sequence	1	806	MEXU				LN871103		Grusonia marenae	R.T. Barcenas 1567							
+65683	Grusonia invicta	psbA-trnH IGS	807	1139	MEXU				LN871150			R.T. Barcenas 1534							
+65633	Grusonia invicta	atpB-rbcL IGS sequence	1	806	MEXU				LN871111		Grusonia invicta	R.T. Barcenas 1534							
+65682	Grusonia grahamii	psbA-trnH IGS	807	1139	MEXU				LN871149			R.T. Barcenas 1548							
+65632	Grusonia grahamii	atpB-rbcL IGS sequence	1	806	MEXU				LN871110		Grusonia grahamii	R.T. Barcenas 1548							
+65670	Cylindropuntia sanfelipensis	psbA-trnH IGS	807	1139	QMEX				LN871136			R.T. Barcenas 1921							
+65620	Cylindropuntia sanfelipensis	atpB-rbcL IGS sequence	1	806	QMEX				LN871089		Cylindropuntia sanfelipensis	R.T. Barcenas 1921							
+65666	Cylindropuntia parryi	psbA-trnH IGS	807	1139	MEXU				LN871132			R. Moran 19190							
+65616	Cylindropuntia parryi	atpB-rbcL IGS sequence	1	806	MEXU				LN871085		Cylindropuntia parryi	R. Moran 19190							
+65665	Cylindropuntia munzii	psbA-trnH IGS	807	1139	QMEX				LN871131			R.T. Barcenas 1899							
+65615	Cylindropuntia munzii	atpB-rbcL IGS sequence	1	806	QMEX				LN871084		Cylindropuntia munzii	R.T. Barcenas 1899							
+65661	Cylindropuntia kleiniae	psbA-trnH IGS	807	1139	QMEX				LN871127			R.T. Barcenas 1723							
+65611	Cylindropuntia kleiniae	atpB-rbcL IGS sequence	1	806	QMEX				LN871080		Cylindropuntia kleiniae	R.T. Barcenas 1723							
+65660	Cylindropuntia imbricata	psbA-trnH IGS	807	1139	QMEX				LN871126			R.T. Barcenas 1724							
+65610	Cylindropuntia imbricata	atpB-rbcL IGS sequence	1	806	QMEX				LN871079		Cylindropuntia imbricata	R.T. Barcenas 1724							
+65654	Cylindropuntia cf spinosior	psbA-trnH IGS	807	1139	MEXU				LN871138			R.T. Barcenas 1562							
+65604	Cylindropuntia cf spinosior	atpB-rbcL IGS sequence	1	806	MEXU				LN871091		Cylindropuntia cf spinosior	R.T. Barcenas 1562							
+65651	Cylindropuntia arbuscula	psbA-trnH IGS	807	1139	MEXU				LN871119			U. Eggli et al. 1917							
+65601	Cylindropuntia arbuscula	atpB-rbcL IGS sequence	1	806	MEXU				LN871071		Cylindropuntia arbuscula	U. Eggli et al. 1917							
+65674	Cylindropuntia tunicata	psbA-trnH IGS	807	1139	QMEX				LN871142			R.T. Barcenas 1649							
+65624	Cylindropuntia tunicata	atpB-rbcL IGS sequence	1	806	QMEX				LN871095		Cylindropuntia tunicata	R.T. Barcenas 1649							
+65652	Cylindropuntia bigelovii	psbA-trnH IGS	807	1139	QMEX				n/a			R.T. Barcenas 1924							
+65602	Cylindropuntia bigelovii	atpB-rbcL IGS sequence	1	806	QMEX				LN871072		Cylindropuntia bigelovii	R.T. Barcenas 1924							
+65650	Cylindropuntia anteojoensis	psbA-trnH IGS	807	1139	MEXU				LN871118			H.Sanchez M. 4120							
+65600	Cylindropuntia anteojoensis	atpB-rbcL IGS sequence	1	806	MEXU				LN871070		Cylindropuntia anteojoensis	H.Sanchez M. 4120							
+65648	Cylindropuntia acanthocarpa	psbA-trnH IGS	807	1139	MEXU				LN871116			H.M. Hernandez 1564							
+65598	Cylindropuntia acanthocarpa	atpB-rbcL IGS sequence	1	806	MEXU				LN871068		Cylindropuntia acanthocarpa	H.M. Hernandez 1564							

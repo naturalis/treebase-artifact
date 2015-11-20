@@ -1,0 +1,32 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+R19		1	641							R19								
+R20		1	641							R20								
+R24		1	641							R24								
+R18		1	641							R18								
+R16		1	641							R16								
+R17		1	641							R17								
+R22		1	641							R22								
+R21		1	641							R21								
+R13		1	641							R13								
+R26		1	641							R26								
+R15		1	641							R15								
+R27		1	641							R27								
+R14		1	641							R14								
+R12		1	641							R12								
+R8		1	641							R8								
+R4		1	641							R4								
+R5		1	641							R5								
+R3		1	641							R3								
+R9		1	641							R9								
+R7		1	641							R7								
+R11		1	641							R11								
+R6		1	641							R6								
+R10		1	641							R10								
+R2		1	641							R2								
+R1		1	641							R1								
+Meterostachys siko		1	641							Meterostachys siko								
+R23		1	641							R23								
+R25		1	641							R25								
+Hylotelephium pseu		1	641							Hylotelephium pseu								
+Sinocrassula indic		1	641							Sinocrassula indic								
+Sinocrassula yunna		1	641							Sinocrassula yunna								

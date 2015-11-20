@@ -1,0 +1,50 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+JS115 AB430830		1	737							JS115 AB430830								
+Yasato2 1 1		1	737							Yasato2 1 1								
+Jinbaili4 AB430864		1	737							Jinbaili4 AB430864								
+12B1 1 AB430863		1	737							12B1 1 AB430863								
+12B1 3		1	737							12B1 3								
+12A1 3 AB430831		1	737							12A1 3 AB430831								
+12A1 1		1	737							12A1 1								
+Ibaraki5		1	737							Ibaraki5								
+Beijing4		1	737							Beijing4								
+Shandong1 2		1	737							Shandong1 2								
+F1		1	737							F1								
+Yunnan5		1	737							Yunnan5								
+Yali05 2		1	737							Yali05 2								
+Jilin3 3		1	737							Jilin3 3								
+38998		1	737							38998								
+Akita FB 1 AB430865		1	737							Akita FB 1 AB430865								
+12A1 4		1	737							12A1 4								
+F5		1	737							F5								
+Anhui1		1	737							Anhui1								
+12A53 1		1	737							12A53 1								
+OYO 1		1	737							OYO 1								
+38999		1	737							38999								
+SDYT5		1	737							SDYT5								
+Cili7		1	737							Cili7								
+Jinfeng14		1	737							Jinfeng14								
+Yunnan3		1	737							Yunnan3								
+NMN3		1	737							NMN3								
+Cili5		1	737							Cili5								
+Shandong4 2		1	737							Shandong4 2								
+Hongli3		1	737							Hongli3								
+Xingping2		1	737							Xingping2								
+Anhui2		1	737							Anhui2								
+Beijing6		1	737							Beijing6								
+Huoba1 1		1	737							Huoba1 1								
+Anhui4		1	737							Anhui4								
+Jinba05 2		1	737							Jinba05 2								
+YK3 1 1		1	737							YK3 1 1								
+38994		1	737							38994								
+Shuibian1 1		1	737							Shuibian1 1								
+Jinfeng3		1	737							Jinfeng3								
+PS 1		1	737							PS 1								
+Jilin1 4 1		1	737							Jilin1 4 1								
+KA1 1 1		1	737							KA1 1 1								
+38996		1	737							38996								
+zhongguo5		1	737							zhongguo5								
+38995		1	737							38995								
+Jilin4 3		1	737							Jilin4 3								
+Ibarki1		1	737							Ibarki1								
+L29041		1	737							L29041								

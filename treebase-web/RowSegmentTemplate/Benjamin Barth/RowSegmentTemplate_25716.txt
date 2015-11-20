@@ -1,0 +1,14 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Labidus praedator Cac1		1	490							Labidus praedator Cac1								
+Labidus praedator Cac2		1	490							Labidus praedator Cac2								
+Labidus praedator Tap		1	490							Labidus praedator Tap								
+Labidus praedator TC		1	490							Labidus praedator TC								
+Labidus praedator JTL001		1	490							Labidus praedator JTL001								
+Labidus praedator MAS005 KC418232		1	490							Labidus praedator MAS005 KC418232								
+Labidus praedator MAS005 KC418847		1	490							Labidus praedator MAS005 KC418847								
+Labidus praedator MAS001		1	490							Labidus praedator MAS001								
+Labidus praedator		1	490							Labidus praedator								
+Labidus praedator MAS004		1	490							Labidus praedator MAS004								
+Labidus praedator MAS002		1	490							Labidus praedator MAS002								
+Labidus praedator MAS003		1	490							Labidus praedator MAS003								
+Labidus spininodis		1	490							Labidus spininodis								

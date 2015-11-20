@@ -1,0 +1,45 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Agaricus pearsonii PEAR83340 JF797186 		1	688							Agaricus pearsonii PEAR83340 JF797186 								
+Agaricus sp. CA684 JF797187 		1	688							Agaricus sp. CA684 JF797187 								
+Agaricus bernardii ARP173  AF432880		1	688							Agaricus bernardii ARP173  AF432880								
+Agaricus gennadii CA387 JF797188		1	688							Agaricus gennadii CA387 JF797188								
+Agaricus bitorquis RWK1462 AF432898		1	688							Agaricus bitorquis RWK1462 AF432898								
+Agaricus tlaxcalensis MATA681 EU363033		1	688							Agaricus tlaxcalensis MATA681 EU363033								
+Agaricus phaeolepidotus CA217 DQ185552		1	688							Agaricus phaeolepidotus CA217 DQ185552								
+Agaricus hondensis RWK1938 DQ182513		1	688							Agaricus hondensis RWK1938 DQ182513								
+Agaricus biannulatus LAPAG611 JF896229		1	688							Agaricus biannulatus LAPAG611 JF896229								
+Agaricus freirei CA186 DQ185553		1	688							Agaricus freirei CA186 DQ185553								
+Agaricus xanthodermulus CA160 AY899273		1	688							Agaricus xanthodermulus CA160 AY899273								
+Agaricus aff. caribaeus F2530 JF727856		1	688							Agaricus aff. caribaeus F2530 JF727856								
+Agaricus sp. F2715 JF727847		1	688							Agaricus sp. F2715 JF727847								
+Agaricus endoxanthus ZRL3095 JF691554		1	688							Agaricus endoxanthus ZRL3095 JF691554								
+Agaricus xanthosarcus Goossens5415 JF514523		1	688							Agaricus xanthosarcus Goossens5415 JF514523								
+Agaricus sp. NTS07 JF514533		1	688							Agaricus sp. NTS07 JF514533								
+Agaricus aff. volvatulus F2767 JF727848		1	688							Agaricus aff. volvatulus F2767 JF727848								
+Agaricus sp. NTF58 JF514527		1	688							Agaricus sp. NTF58 JF514527								
+Agaricus xanthodermus CA15 AY899721		1	688							Agaricus xanthodermus CA15 AY899721								
+Agaricus tollocanensis MATA688 AY703913		1	688							Agaricus tollocanensis MATA688 AY703913								
+Agaricus parvitigrinus CA158 AY899267		1	688							Agaricus parvitigrinus CA158 AY899267								
+Agaricus laskibarii LAPAG115 AY943975		1	688							Agaricus laskibarii LAPAG115 AY943975								
+Agaricus iodosmus LAPAG245 DQ182518		1	688							Agaricus iodosmus LAPAG245 DQ182518								
+Agaricus placomyces RWK1959 DQ182525		1	688							Agaricus placomyces RWK1959 DQ182525								
+Agaricus moelleri CA209 DQ185561		1	688							Agaricus moelleri CA209 DQ185561								
+Agaricus moelleroides CA215 DQ185559		1	688							Agaricus moelleroides CA215 DQ185559								
+Agaricus californicus RWK1914 AY484679		1	688							Agaricus californicus RWK1914 AY484679								
+Agaricus pocillator DUKEJ173 U85308		1	688							Agaricus pocillator DUKEJ173 U85308								
+Agaricus menieri CA162 DQ185567		1	688							Agaricus menieri CA162 DQ185567								
+Agaricus pseudopratensis LAPAG20 DQ182526		1	688							Agaricus pseudopratensis LAPAG20 DQ182526								
+Agaricus bisporiticus CA910 KJ575609		1	688							Agaricus bisporiticus CA910 KJ575609								
+Agaricus bisporiticus LAH110811 KJ575608		1	688							Agaricus bisporiticus LAH110811 KJ575608								
+Agaricus bisporiticus CA929 KJ575610		1	688							Agaricus bisporiticus CA929 KJ575610								
+Agaricus bisporiticus LD2012111 KJ575611		1	688							Agaricus bisporiticus LD2012111 KJ575611								
+Agaricus murinocephalus ZRL3044 JF691555		1	688							Agaricus murinocephalus ZRL3044 JF691555								
+Agaricus fuscopunctatus NTF61 JF514528		1	688							Agaricus fuscopunctatus NTF61 JF514528								
+Agaricus fuscopunctatus CA919 KJ755613		1	688							Agaricus fuscopunctatus CA919 KJ755613								
+Agaricus fuscopunctatus MFLU20120952 KJ575612		1	688							Agaricus fuscopunctatus MFLU20120952 KJ575612								
+Agaricus microvolvatulus Grinling70109 JF514524		1	688							Agaricus microvolvatulus Grinling70109 JF514524								
+Agaricus microvolvatulus LD201271 KJ575614		1	688							Agaricus microvolvatulus LD201271 KJ575614								
+Agaricus microvolvatulus LD2012171 KJ575615		1	688							Agaricus microvolvatulus LD2012171 KJ575615								
+Agaricus microvolvatulus NTT84 KJ575616		1	688							Agaricus microvolvatulus NTT84 KJ575616								
+Agaricus microvolvatulus NTT38 KJ575617		1	688							Agaricus microvolvatulus NTT38 KJ575617								
+Agaricus microvolvatulus NTS117 KJ575618		1	688							Agaricus microvolvatulus NTS117 KJ575618								

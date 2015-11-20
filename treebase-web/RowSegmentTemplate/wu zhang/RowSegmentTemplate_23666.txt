@@ -1,0 +1,25 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Microdochium paspali WN-BD-452 		1	2097							Microdochium paspali WN-BD-452 								
+Microdochium paspali QH-BA-48 		1	2097							Microdochium paspali QH-BA-48 								
+Microdochium paspali SY-LQG-66 		1	2097							Microdochium paspali SY-LQG-66 								
+Microdochium paspali WC-WC-85 		1	2097							Microdochium paspali WC-WC-85 								
+Microdochium paspali HK-ML-1371 		1	2097							Microdochium paspali HK-ML-1371 								
+Microdochium triticicola AJ748691 		1	2097							Microdochium triticicola AJ748691 								
+Microdochium phragmitis CBS285.71 		1	2097							Microdochium phragmitis CBS285.71 								
+Microdochium phragmitis 5/97-66 		1	2097							Microdochium phragmitis 5/97-66 								
+Monographella lycopodina JF440980 		1	2097							Monographella lycopodina JF440980 								
+Monographella lycopodina JF440979 		1	2097							Monographella lycopodina JF440979 								
+Monographella stoveri FJ430601 		1	2097							Monographella stoveri FJ430601 								
+Monographella albescens S.11.1 		1	2097							Monographella albescens S.11.1 								
+Monographella albescens CIAT 7 		1	2097							Monographella albescens CIAT 7 								
+Monographella albescens CIAT 11 		1	2097							Monographella albescens CIAT 11 								
+Monographella albescens S.1.1 		1	2097							Monographella albescens S.1.1 								
+Monographella albescens S.12.1 		1	2097							Monographella albescens S.12.1 								
+Microdochium nivale 10106 		1	2097							Microdochium nivale 10106 								
+Microdochium nivale 10101 		1	2097							Microdochium nivale 10101 								
+Microdochium majus 10149 		1	2097							Microdochium majus 10149 								
+Microdochium majus 10099 		1	2097							Microdochium majus 10099 								
+Microdochium bolleyi 07020 		1	2097							Microdochium bolleyi 07020 								
+Microdochium bolleyi 07019 		1	2097							Microdochium bolleyi 07019 								
+Xylaria sp. XT09009 		1	2097							Xylaria sp. XT09009 								
+Hypoxylon fragiforme AC1102 III 		1	2097							Hypoxylon fragiforme AC1102 III 								

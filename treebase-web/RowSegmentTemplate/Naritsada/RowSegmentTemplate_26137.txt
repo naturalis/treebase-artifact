@@ -1,0 +1,33 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Agaricus subrufescens DEH513 AY818646 		1	671							Agaricus subrufescens DEH513 AY818646 								
+Agaricus subrufescens CA918 KJ541798		1	671							Agaricus subrufescens CA918 KJ541798								
+Agaricus subrufescens RM1 AY818651 		1	671							Agaricus subrufescens RM1 AY818651 								
+Agaricus sp. Thoen6951 JN204433 		1	671							Agaricus sp. Thoen6951 JN204433 								
+Agaricus sp. Thoen7297 JF514542		1	671							Agaricus sp. Thoen7297 JF514542								
+Agaricus flocculosipes H ZRL3028 JN664954 		1	671							Agaricus flocculosipes H ZRL3028 JN664954 								
+Agaricus flocculosipes CA917 KP705076		1	671							Agaricus flocculosipes CA917 KP705076								
+Agaricus subtilipes CA920 KJ787015 		1	671							Agaricus subtilipes CA920 KJ787015 								
+Agaricus subtilipes CA915 KP705077 		1	671							Agaricus subtilipes CA915 KP705077 								
+Agaricus subtilipes H LD201201 KP705078		1	671							Agaricus subtilipes H LD201201 KP705078								
+Agaricus subtilipes LD2012164 KP705079 		1	671							Agaricus subtilipes LD2012164 KP705079 								
+Agaricus sp. TL1644 JF495060 		1	671							Agaricus sp. TL1644 JF495060 								
+Agaricus eburneocanus H H7528 JF495062 		1	671							Agaricus eburneocanus H H7528 JF495062 								
+Agaricus sp. TL1650 JF495061 		1	671							Agaricus sp. TL1650 JF495061 								
+Agaricus subantarcticus I GAL9419 DQ232642 		1	671							Agaricus subantarcticus I GAL9419 DQ232642 								
+Agaricus augustus LAPAG233 KJ548135		1	671							Agaricus augustus LAPAG233 KJ548135								
+Agaricus crocodilinus LAPAG223 KJ548127 		1	671							Agaricus crocodilinus LAPAG223 KJ548127 								
+Agaricus greuteri H PALGR57140 KF114473 		1	671							Agaricus greuteri H PALGR57140 KF114473 								
+Agaricus abruptibulbus LAPAG524 KJ548132 		1	671							Agaricus abruptibulbus LAPAG524 KJ548132 								
+Agaricus macrolepis LAPAG409 KJ548128 		1	671							Agaricus macrolepis LAPAG409 KJ548128 								
+Agaricus fissuratus LAPAG488 JQ824135 		1	671							Agaricus fissuratus LAPAG488 JQ824135 								
+Agaricus cf tenuivolvatus LAPAG714 KJ548134		1	671							Agaricus cf tenuivolvatus LAPAG714 KJ548134								
+Agaricus macrocarpus LAPAG575 KJ548129 		1	671							Agaricus macrocarpus LAPAG575 KJ548129 								
+Agaricus sylvicola LAPAG242 KJ548130		1	671							Agaricus sylvicola LAPAG242 KJ548130								
+Agaricus inapertus Vellinga2339 AF482834 		1	671							Agaricus inapertus Vellinga2339 AF482834 								
+Agaricus essettei LAPAG676 KJ548131 		1	671							Agaricus essettei LAPAG676 KJ548131 								
+Agaricus indistinctus I LAPAG478		1	671							Agaricus indistinctus I LAPAG478								
+Agaricus arvensis E MA Fungi 80999 KF114474 		1	671							Agaricus arvensis E MA Fungi 80999 KF114474 								
+Agaricus deserticola RWK2019 JF896228 		1	671							Agaricus deserticola RWK2019 JF896228 								
+Agaricus sp. DeMeijer1904 JF797196		1	671							Agaricus sp. DeMeijer1904 JF797196								
+Agaricus campbellensis H GAL9420 DQ232644 		1	671							Agaricus campbellensis H GAL9420 DQ232644 								
+Agaricus brunneolus CA490 JF797203 		1	671							Agaricus brunneolus CA490 JF797203 								

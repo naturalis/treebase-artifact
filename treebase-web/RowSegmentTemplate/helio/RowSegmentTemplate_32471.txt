@@ -1,0 +1,55 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Piptoporus betulinus Voucher FP 125006 T		1	1632							Piptoporus betulinus Voucher FP 125006 T								
+Piptoporus betulinus RLG 5085 Sp		1	1632							Piptoporus betulinus RLG 5085 Sp								
+Piptoporus betulinus L15603Sp		1	1632							Piptoporus betulinus L15603Sp								
+Piptoporus betulinus Miettinen 12388		1	1632							Piptoporus betulinus Miettinen 12388								
+Piptoporus betulinus Isolate 277		1	1632							Piptoporus betulinus Isolate 277								
+Antrodia wangii Otto Miettinen X1059		1	1632							Antrodia wangii Otto Miettinen X1059								
+Antrodia wangii Otto Miettinen X1207		1	1632							Antrodia wangii Otto Miettinen X1207								
+Antrodia malicola Otto Miettinen X1382		1	1632							Antrodia malicola Otto Miettinen X1382								
+Antrodia malicola FP 104329 Sp		1	1632							Antrodia malicola FP 104329 Sp								
+Antrodia xantha TFRI 879		1	1632							Antrodia xantha TFRI 879								
+Antrodia sinuosa RLG 2538 Sp		1	1632							Antrodia sinuosa RLG 2538 Sp								
+Antrodia heteromorpha FP 101702		1	1632							Antrodia heteromorpha FP 101702								
+Antrodia albida FP 105979		1	1632							Antrodia albida FP 105979								
+Antrodia variiformis FP 90100SP		1	1632							Antrodia variiformis FP 90100SP								
+Antrodia serialis KHL 12010		1	1632							Antrodia serialis KHL 12010								
+Antrodia serialis FP 105599		1	1632							Antrodia serialis FP 105599								
+Antrodia juniperina SRM 403 T		1	1632							Antrodia juniperina SRM 403 T								
+Antrodia juniperina WM 284 T		1	1632							Antrodia juniperina WM 284 T								
+Antrodia oleracea MD 177		1	1632							Antrodia oleracea MD 177								
+Daedalea quercina Voucher Miettinen 12662		1	1632							Daedalea quercina Voucher Miettinen 12662								
+Daedalea quercina Voucher OKM3802Sp		1	1632							Daedalea quercina Voucher OKM3802Sp								
+Daedalea dickinsii NBRC 31163		1	1632							Daedalea dickinsii NBRC 31163								
+Fomitopsis lilacinogilva CBS 422 84		1	1632							Fomitopsis lilacinogilva CBS 422 84								
+Fomitopsis cupreorosea CBS 23687		1	1632							Fomitopsis cupreorosea CBS 23687								
+Fomitopsis cajanderi BCRC 35447		1	1632							Fomitopsis cajanderi BCRC 35447								
+Fomitopsis cajanderi Voucher Cui 9871		1	1632							Fomitopsis cajanderi Voucher Cui 9871								
+Fomitopsis sp HSJ2006a		1	1632							Fomitopsis sp HSJ2006a								
+Fomitopsis durescens Leif Ryvarden 41410		1	1632							Fomitopsis durescens Leif Ryvarden 41410								
+Fomitopsis durescens LO Overholts 4215		1	1632							Fomitopsis durescens LO Overholts 4215								
+Fomitopsis rosea voucher RLG6954		1	1632							Fomitopsis rosea voucher RLG6954								
+Fomitopsis rosea voucher Cui 10520		1	1632							Fomitopsis rosea voucher Cui 10520								
+Fomitopsis pinicola AFTOL ID 770		1	1632							Fomitopsis pinicola AFTOL ID 770								
+Fomitopsis pinicola Cui 10405		1	1632							Fomitopsis pinicola Cui 10405								
+Fomitopsis pinicola TFRI 513		1	1632							Fomitopsis pinicola TFRI 513								
+Fomitopsis subtropica Cui10140		1	1632							Fomitopsis subtropica Cui10140								
+Fomitopsis subtropica Cui10154		1	1632							Fomitopsis subtropica Cui10154								
+Fomitopsis subtropica Cui10181		1	1632							Fomitopsis subtropica Cui10181								
+Fomitopsis roseoalba AS 1566		1	1632							Fomitopsis roseoalba AS 1566								
+Fomitopsis roseoalba AS1496		1	1632							Fomitopsis roseoalba AS1496								
+Fomitopsis sp 7R 8 1		1	1632							Fomitopsis sp 7R 8 1								
+Fomitopsis sp 9V 3 1		1	1632							Fomitopsis sp 9V 3 1								
+Fomitopsis spraguei CBS 365 34		1	1632							Fomitopsis spraguei CBS 365 34								
+Fomitopsis cf ostreiformis 10 R		1	1632							Fomitopsis cf ostreiformis 10 R								
+Fomitopsis ostreiformis BCC23382		1	1632							Fomitopsis ostreiformis BCC23382								
+Fomitopsis palustris CBS 28365		1	1632							Fomitopsis palustris CBS 28365								
+Fomitopsis palustris		1	1632							Fomitopsis palustris								
+Fomitopsis cana Cui6239		1	1632							Fomitopsis cana Cui6239								
+Fomitopsis cana Dai9611		1	1632							Fomitopsis cana Dai9611								
+Fomitopsis cf meliae 1P 1 1		1	1632							Fomitopsis cf meliae 1P 1 1								
+Fomitopsis cf meliae 5V 3 3		1	1632							Fomitopsis cf meliae 5V 3 3								
+Fomitopsis cf meliae 8IV7 1		1	1632							Fomitopsis cf meliae 8IV7 1								
+Fomitopsis feei X1425		1	1632							Fomitopsis feei X1425								
+Perenniporia ochroleuca Dai11486		1	1632							Perenniporia ochroleuca Dai11486								
+Grifola sordulenta AFTOL ID 562		1	1632							Grifola sordulenta AFTOL ID 562								

@@ -1,0 +1,39 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Equine Infectious Anemia Virus		1	4345							Equine Infectious Anemia Virus								
+Equine Infectious Anemia Virus Strain Liaoning		1	4345							Equine Infectious Anemia Virus Strain Liaoning								
+Feline Immunodeficiency Virus Puma Subtype B		1	4345							Feline Immunodeficiency Virus Puma Subtype B								
+Feline Immunodeficiency Virus Puma Subtype A		1	4345							Feline Immunodeficiency Virus Puma Subtype A								
+Feline Immunodeficiency Virus Domestic Cat Subtype C		1	4345							Feline Immunodeficiency Virus Domestic Cat Subtype C								
+Feline Immunodeficiency Virus Domestic Cat San Diego Isolate		1	4345							Feline Immunodeficiency Virus Domestic Cat San Diego Isolate								
+Feline Immunodeficiency Virus Palla's Cat		1	4345							Feline Immunodeficiency Virus Palla's Cat								
+Maedi-Visna Virus		1	4345							Maedi-Visna Virus								
+Ovine Lentivirus		1	4345							Ovine Lentivirus								
+Caprine Arthritis Encephalitis Virus		1	4345							Caprine Arthritis Encephalitis Virus								
+Simian Immunodeficiency Virus Syke's Monkey		1	4345							Simian Immunodeficiency Virus Syke's Monkey								
+Simian Immunodeficiency Virus Gabon Talapoin		1	4345							Simian Immunodeficiency Virus Gabon Talapoin								
+Simian Immunodeficiency Virus Angolan Talapoin		1	4345							Simian Immunodeficiency Virus Angolan Talapoin								
+Simian Immunodeficiency Virus  Greater Spot Nosed Monkey		1	4345							Simian Immunodeficiency Virus  Greater Spot Nosed Monkey								
+Simian Immunodeficiency Virus Mustached Guenon		1	4345							Simian Immunodeficiency Virus Mustached Guenon								
+Simian Immunodeficiency Virus Mona Monkey		1	4345							Simian Immunodeficiency Virus Mona Monkey								
+Simian Immunodeficiency Virus Dent's Mona		1	4345							Simian Immunodeficiency Virus Dent's Mona								
+Simian Immunodeficiency Virus De Brazza's Monkey		1	4345							Simian Immunodeficiency Virus De Brazza's Monkey								
+Simian Immunodeficiency Virus Red Capped Mangabey		1	4345							Simian Immunodeficiency Virus Red Capped Mangabey								
+Simian Immunodeficiency Virus Drill		1	4345							Simian Immunodeficiency Virus Drill								
+Simian Immunodeficiency Virus Mandrill		1	4345							Simian Immunodeficiency Virus Mandrill								
+Simian Immunodeficiency Virus Chimpanzee		1	4345							Simian Immunodeficiency Virus Chimpanzee								
+Human Immunodeficiency Virus 1 Group M		1	4345							Human Immunodeficiency Virus 1 Group M								
+Human Immunodeficiency Virus 1 Group O		1	4345							Human Immunodeficiency Virus 1 Group O								
+Simian Immunodeficiency Virus  African Green Monkey Grivet		1	4345							Simian Immunodeficiency Virus  African Green Monkey Grivet								
+Simian Immunodeficiency Virus African Green Monkey Tantalus		1	4345							Simian Immunodeficiency Virus African Green Monkey Tantalus								
+Human Immunodeficiency Virus 2		1	4345							Human Immunodeficiency Virus 2								
+Simian Immunodeficiency Virus Sooty Mangabey		1	4345							Simian Immunodeficiency Virus Sooty Mangabey								
+Simian Immunodeficiency Virus Sun Tailed Monkey		1	4345							Simian Immunodeficiency Virus Sun Tailed Monkey								
+Simian Immunodeficiency Virus L'hoests Monkey		1	4345							Simian Immunodeficiency Virus L'hoests Monkey								
+Simian Immunodeficiency Virus Mantled Guereza		1	4345							Simian Immunodeficiency Virus Mantled Guereza								
+Jembrana Disease Virus		1	4345							Jembrana Disease Virus								
+Bovine Immunodeficiency Virus		1	4345							Bovine Immunodeficiency Virus								
+RELIK European Rabbit		1	4345							RELIK European Rabbit								
+RELIK Brown Hare		1	4345							RELIK Brown Hare								
+Prosimian Immunodeficiency Virus Gray Mouse Lemur		1	4345							Prosimian Immunodeficiency Virus Gray Mouse Lemur								
+Prosimian Immunodeficiency Virus Fat Tailed Dwarf Lemur		1	4345							Prosimian Immunodeficiency Virus Fat Tailed Dwarf Lemur								
+Prosimian Immunodeficiency Virus Mohol Bushbaby		1	4345							Prosimian Immunodeficiency Virus Mohol Bushbaby								

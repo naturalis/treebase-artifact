@@ -1,0 +1,24 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Graddonia coracina ILLS 60491 USA		1	1405							Graddonia coracina ILLS 60491 USA								
+Leucoglossum durandii HMAS70090 China		1	1405							Leucoglossum durandii HMAS70090 China								
+Trichoglossum octopartitum ILLS 61046 France		1	1405							Trichoglossum octopartitum ILLS 61046 France								
+Trichoglossum hirsutum ILLS 67355 USA		1	1405							Trichoglossum hirsutum ILLS 67355 USA								
+Trichoglossum hirsutum ILLS 61045 Czech Republic		1	1405							Trichoglossum hirsutum ILLS 61045 Czech Republic								
+Glutinoglossum heptaseptatum ILLS 63754 Czech Republic		1	1405							Glutinoglossum heptaseptatum ILLS 63754 Czech Republic								
+Glutinoglossum glutinosum ILLS 67352 USA		1	1405							Glutinoglossum glutinosum ILLS 67352 USA								
+Geoglossum umbratile ILLS 61040 Netherlands		1	1405							Geoglossum umbratile ILLS 61040 Netherlands								
+Geoglossum simile ILLS 67350 USA		1	1405							Geoglossum simile ILLS 67350 USA								
+Geoglossum simile ILLS 61039 USA		1	1405							Geoglossum simile ILLS 61039 USA								
+Geoglossum difforme ILLS 67349 USA		1	1405							Geoglossum difforme ILLS 67349 USA								
+Geoglossum difforme ILLS 67348 USA		1	1405							Geoglossum difforme ILLS 67348 USA								
+Geoglossum cookeanum ILLS 67347 Czech Republic		1	1405							Geoglossum cookeanum ILLS 67347 Czech Republic								
+Geoglossum cookeanum ILLS 61035 USA		1	1405							Geoglossum cookeanum ILLS 61035 USA								
+Geoglossum glabrum ILLS 61038 USA		1	1405							Geoglossum glabrum ILLS 61038 USA								
+Sabuloglossum arenarium ILLS 61043 Netherlands		1	1405							Sabuloglossum arenarium ILLS 61043 Netherlands								
+Sabuloglossum arenarium OULU-F077201 Finland		1	1405							Sabuloglossum arenarium OULU-F077201 Finland								
+Sarcoleotia globosa OSC63633		1	1405							Sarcoleotia globosa OSC63633								
+Sarcoleotia globosa MBH52476		1	1405							Sarcoleotia globosa MBH52476								
+Leucoglossum leucosporum LE 291891 Russia		1	1405							Leucoglossum leucosporum LE 291891 Russia								
+Leucoglossum leucosporum LE 291874 Russia		1	1405							Leucoglossum leucosporum LE 291874 Russia								
+Leucoglossum leucosporum B 70 0015492 Germany		1	1405							Leucoglossum leucosporum B 70 0015492 Germany								
+Leucoglossum leucosporum B 70 0015491 Germany		1	1405							Leucoglossum leucosporum B 70 0015491 Germany								

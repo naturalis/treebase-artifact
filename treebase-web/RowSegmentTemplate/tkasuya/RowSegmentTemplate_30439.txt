@@ -1,0 +1,37 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Russula compacta EU598157 outgroup		1	768							Russula compacta EU598157 outgroup								
+Russula risigallina AY061713 		1	768							Russula risigallina AY061713 								
+Russula risigallina DQ422022		1	768							Russula risigallina DQ422022								
+Russula amoenipes AY061656		1	768							Russula amoenipes AY061656								
+Russula cuprea AY061667 		1	768							Russula cuprea AY061667 								
+Russula velenovskyi AY061721 		1	768							Russula velenovskyi AY061721 								
+Russula integra AY061683		1	768							Russula integra AY061683								
+Russula integriformis AY061684 		1	768							Russula integriformis AY061684 								
+Russula decolorans AY061670		1	768							Russula decolorans AY061670								
+Russula decolorans KP149062		1	768							Russula decolorans KP149062								
+Russula decolorans AY194601		1	768							Russula decolorans AY194601								
+Russula decolorans FJ845432 		1	768							Russula decolorans FJ845432 								
+Russula xerampelina DQ367916 		1	768							Russula xerampelina DQ367916 								
+Russula xerampelina JF899571 		1	768							Russula xerampelina JF899571 								
+Russula paludosa KJ705227 		1	768							Russula paludosa KJ705227 								
+Russula paludosa KF007950 		1	768							Russula paludosa KF007950 								
+Russula paludosa KP149048		1	768							Russula paludosa KP149048								
+Russula paludosa KP149049		1	768							Russula paludosa KP149049								
+Russula paludosa AY061703 		1	768							Russula paludosa AY061703 								
+Russula paludosa GU373485 		1	768							Russula paludosa GU373485 								
+Russula paludosa KP149060		1	768							Russula paludosa KP149060								
+Russula paludosa KP149055		1	768							Russula paludosa KP149055								
+Russula paludosa KP149057		1	768							Russula paludosa KP149057								
+Russula paludosa KP149066		1	768							Russula paludosa KP149066								
+Russula paludosa AJ971402		1	768							Russula paludosa AJ971402								
+Russula paludosa KP149061		1	768							Russula paludosa KP149061								
+Russula paludosa KP149063		1	768							Russula paludosa KP149063								
+Russula paludosa KP149064		1	768							Russula paludosa KP149064								
+Russula paludosa UK JQ888199		1	768							Russula paludosa UK JQ888199								
+Russula paludosa KP149065		1	768							Russula paludosa KP149065								
+Russula paludosa AJ971400		1	768							Russula paludosa AJ971400								
+Russula paludosa JX029923		1	768							Russula paludosa JX029923								
+Russula paludosa KP149050		1	768							Russula paludosa KP149050								
+Russula paludosa KP149051		1	768							Russula paludosa KP149051								
+Russula paludosa KP149053		1	768							Russula paludosa KP149053								
+Russula paludosa JF908659 		1	768							Russula paludosa JF908659 								

@@ -1,0 +1,14 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+D. floribunda		1	131340							D. floribunda								
+F.iinumae		1	131340							F.iinumae								
+F. mandshurica		1	131340							F. mandshurica								
+F. vesca ssp. vesca- Hawaii4		1	131340							F. vesca ssp. vesca- Hawaii4								
+F. vesca ssp. bracteata- MRD60		1	131340							F. vesca ssp. bracteata- MRD60								
+F. vesca ssp. bracteata- MRD30		1	131340							F. vesca ssp. bracteata- MRD30								
+F. vesca ssp. bracteata- MRD102		1	131340							F. vesca ssp. bracteata- MRD102								
+F. vesca ssp. bracteata- LNF40		1	131340							F. vesca ssp. bracteata- LNF40								
+F. chiloensis- GP33		1	131340							F. chiloensis- GP33								
+F. virginiana- O477		1	131340							F. virginiana- O477								
+F. vesca ssp. bracteata- LNF23		1	131340							F. vesca ssp. bracteata- LNF23								
+F. chiloensis- SAL3		1	131340							F. chiloensis- SAL3								
+F. virginiana- Y33b2		1	131340							F. virginiana- Y33b2								

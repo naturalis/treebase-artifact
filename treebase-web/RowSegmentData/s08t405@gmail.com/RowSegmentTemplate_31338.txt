@@ -1,0 +1,36 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Ephoron shigae s01		1	373			s01	AB874274			Ephoron shigae					Japan			
+Ephoron shigae s02		1	373			s02	AB874275			Ephoron shigae					Japan			
+Ephoron shigae s03		1	373			s03	AB874276			Ephoron shigae					Japan			
+Ephoron shigae s04		1	373			s04	AB874277			Ephoron shigae					Japan			
+Ephoron shigae s05		1	373			s05	AB874278			Ephoron shigae					Japan			
+Ephoron shigae s06		1	373			s06	AB874279			Ephoron shigae					Japan			
+Ephoron shigae s07		1	373			s07	AB874280			Ephoron shigae					Japan			
+Ephoron shigae s08		1	373			s08	AB874281			Ephoron shigae					Japan			
+Ephoron shigae s09		1	373			s09	AB874282			Ephoron shigae					Japan			
+Ephoron shigae s10		1	373			s10	AB874283			Ephoron shigae					Japan			
+Ephoron shigae s11		1	373			s11	AB874284			Ephoron shigae					Japan			
+Ephoron shigae s12		1	373			s12	AB874285			Ephoron shigae					Japan			
+Ephoron shigae s13		1	373			s13	AB874286			Ephoron shigae					Japan			
+Ephoron shigae s14		1	373			s14	AB874287			Ephoron shigae					Japan			
+Ephoron shigae s15		1	373			s15	AB874288			Ephoron shigae					Japan			
+Ephoron shigae s16		1	373			s16	AB874289			Ephoron shigae					Japan			
+Ephoron shigae s17		1	373			s17	AB874290			Ephoron shigae					Japan			
+Ephoron shigae s18		1	373			s18	AB874291			Ephoron shigae					Japan			
+Ephoron shigae s19		1	373			s19	AB874292			Ephoron shigae					Japan			
+Ephoron shigae s20		1	373			s20	AB874293			Ephoron shigae					Japan			
+Ephoron shigae s21		1	373			s21	AB874294			Ephoron shigae					Japan			
+Ephoron shigae s22		1	373			s22	AB874295			Ephoron shigae					Japan			
+Ephoron shigae s23		1	373			s23	AB874296			Ephoron shigae					Japan			
+Ephoron shigae s24		1	373			s24	AB874297			Ephoron shigae					Japan			
+Ephoron shigae s25		1	373			s25	AB874298			Ephoron shigae					Japan			
+Ephoron shigae s26		1	373			s26	AB874299			Ephoron shigae					Japan			
+Ephoron shigae s27		1	373			s27	AB874300			Ephoron shigae					Japan			
+Ephoron shigae s28		1	373			s28	AB874301			Ephoron shigae					Japan			
+Ephoron shigae s29		1	373			s29	AB874302			Ephoron shigae					Japan			
+Ephoron shigae s30		1	373			s30	AB874303			Ephoron shigae					Japan			
+Ephoron shigae s31		1	373			s31	AB874304			Ephoron shigae					Japan			
+Ephoron shigae s32		1	373			s32	AB874305			Ephoron shigae					Japan			
+Ephoron shigae s33		1	373			s33	AB874306			Ephoron shigae					Japan			
+Ephoron shigae Korea1		1	373			Korea 1	AB711583			Ephoron shigae					Korea			
+Ephoron shigae Korea2		1	373			Korea 2	AB711590			Ephoron shigae					Korea			

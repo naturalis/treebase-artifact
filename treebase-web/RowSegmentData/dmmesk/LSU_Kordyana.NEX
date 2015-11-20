@@ -1,0 +1,805 @@
+#NEXUS
+[written Fri Nov 21 10:51:38 BRST 2014 by Mesquite  version 3.01 (build 658) at Usuario-PC/192.168.1.100]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=24;
+	TAXLABELS
+		AY272035_Entyloma_dahliae AB178263_Tilletiopsis_pallescens AF487401_Kordyana_celebensis AF487402_Kordyana_tradescantiae AB177598_Exobasidium_bisporum AF229351_Eballistra_lineata AF352052_Microstroma_album DQ823439_Quambalaria_pitereka DQ832244_Tilletia_controversa AF007523_Doassansia_epilobii DQ645528_Entyloma_arnoseridis DQ025487_Tilletiopsis_washington DQ831011_Moesziomyces_bullatus AY740100_Sporisorium_andropogoni AY740130_Sporisorium_penniseti AF453934_Ustilago_hordei AJ236139_Ustilago_nuda DQ875373_Tranzscheliella_hypodyt DQ875364_Melanotaenium_cingens EF517924_Melanustilospora_ari EF517930_Urocystis_ulei HM105582_Kordyana EF653981_Vankya_heufleri AY563606_Anthracoidea_arenaria 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=1887;
+	FORMAT DATATYPE = DNA INTERLEAVE GAP = - MISSING = ?;
+	MATRIX
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  ---------------------------------------------------------CGGCG-AGTGAAGCGGGAAGAGC
+	AF487401_Kordyana_celebensis      -------------------CATAAGCGAGAAAGAAACTACAAGGATTCCCCTAGTAACGGCG-AGTGAAGCGGGAAAAGC
+	AF487402_Kordyana_tradescantiae   -------------------------------------------GATTCCCCTAGTAACGGCG-AGTGAAGCGGGATGAGC
+	AB177598_Exobasidium_bisporum     ---------------------------------------------------------CGGCG-AGTGAAGCGGGATGAGC
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        ----------------------------------------------------AGTAACGGCG-AGTGAAGCGGGAAGAGC
+	DQ823439_Quambalaria_pitereka     ---------------------------------------------------------CGGCG-AGTGAAGCGGGAAGAGC
+	DQ832244_Tilletia_controversa     -------------------------------AAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGCGGGATGAGC
+	AF007523_Doassansia_epilobii      ----------------------------------------------CCCCTTAGTAACGGCG-AGTGAAGCGGGAAGAGC
+	DQ645528_Entyloma_arnoseridis     ------------------------------------------GGATTCCCCTAGTAACGGCG-AGTGAAGCGGGAAGAGC
+	DQ025487_Tilletiopsis_washington  -------------------------------------AACAAGGATTCCCCTAGTAACGGCG-AGTGAAGCGGGAAGAGC
+	DQ831011_Moesziomyces_bullatus    GAACTTAAGCATATCAATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	AY740100_Sporisorium_andropogoni  --------GCATATCAATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	AY740130_Sporisorium_penniseti    ----------------ATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	AF453934_Ustilago_hordei          --------------ATATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	AJ236139_Ustilago_nuda            -----------------------------------------------CCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	DQ875373_Tranzscheliella_hypodyt  --------------------GCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAAAGC
+	DQ875364_Melanotaenium_cingens    ---------------AATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAAAGC
+	EF517924_Melanustilospora_ari     -------------TCAATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------GCATATCAATAAGCGGAGGAAAAGAAACTAACAAGGATTCCCCTAGTAACGGCG-AGTGAAGAGGGAAGAGC
+	AY563606_Anthracoidea_arenaria    -------------------------------------------------CCTAGTAACGGCGAAGTGAAGAGGGAGGAGC
+
+
+	AY272035_Entyloma_dahliae         -CAAATTTGAAAGCTGGCGTCT---TC--GGCGTCCGCATTGTAATCTCGAGAAGTGTT-TTCCGCGTTGGACCATGTAC
+	AB178263_Tilletiopsis_pallescens  TCAAATTTGAAAGCTGGCGTCT---TC--GACGTCCGCATTGTAATCTCGAGAAGTGTT-TTCCGTGTTGGACCATGTAC
+	AF487401_Kordyana_celebensis      TCAAATTTGAAAGCTTACAGT--------AATGTACGCGTTGTAATCTCGAGAAATGTT-TTCCGTGCTGGACCATGGAC
+	AF487402_Kordyana_tradescantiae   TCAAATTTGAAAGCTTGCAGC--------AATGCACGCGTTGTAATCTCGAGAAATGTT-TTCCGTGCTGGWCCATGGAC
+	AB177598_Exobasidium_bisporum     TCAAATTTGAAAGCTGGCAGT--------AATGTCCGCATTGTAATCTCGAGAGTTGTT-TTCCGCGCTGGACCACGTAC
+	AF229351_Eballistra_lineata       ------TTGAAAGCTGGCTCCT---TT-AGGTGTCCGCATTGTAATCTCGAGAAGCGTT-TTCCGCGCTGGACCGCGTAC
+	AF352052_Microstroma_album        TCAAATTTGAAAGCTGGCGCCT---TC--GGCGTCCGCGTTGTAATCTCGAGAAGTGTT-TTCCGTGCTGGACCATGTAC
+	DQ823439_Quambalaria_pitereka     TCAAATTTGAAAGCTGGCACCT---TC--GGTGTCCGCGTTGTAATCTCGAGAAGTGTT-TTCCGTGCTGGACCATGTAC
+	DQ832244_Tilletia_controversa     TCAAATTTGAAAGCTGGCACCT---TT--GGTGTCCGCATTGTAATCTCGAGAAGTAGT-TTCTGTGCCGGACCATGTAC
+	AF007523_Doassansia_epilobii      TCAAATTTGAAAGCTGGCAGCT---TC--GCTGTCCGCGTTGTAATCTCGAGAAGTGTT-TTCCGCGCCGGACCGCGTAC
+	DQ645528_Entyloma_arnoseridis     TCAAATTTGAAAGCTGTTGCCT---TT--GGTAACCGCATTGTAATCTCGAGATCTGTT-TTCCGCGCTGGACCATGTAC
+	DQ025487_Tilletiopsis_washington  TCAAATTTGAAAGCTGGCGTCT---TC--GGCGTCCGCATTGTAATCTCGAGAGTTGTT-TTCCGTGCTGGACCATGTAC
+	DQ831011_Moesziomyces_bullatus    CCAAGATTGAAAGCTGGCGTCT---TC--GGCGTCCGCATTGTAATCTCAAGAAGTGTT-TTCCGCTTCGGACCAAGCCT
+	AY740100_Sporisorium_andropogoni  CCAAGATTGAAAGCTGGCGTCT---TC--GGCGTCCGCATTGTAATCTCAAGAAGTGTT-TTCCGCTTCGGACCATGCCT
+	AY740130_Sporisorium_penniseti    CCAAGATTGAAAGCTGGCGTCT---TC--GGCGTCCGCATTGTAATCTCAAGAAGTGTT-TTCCGCTTCGGACCATGCCT
+	AF453934_Ustilago_hordei          CCAAGATTGAAAGCTGGCGTCT---TT--GGCGTCCGCATTGTAATCTCAAGAAGTGTT-TTCCGCTTCGGACCATGCCT
+	AJ236139_Ustilago_nuda            CCAAGATTGAAAGCTGGCGTCT---TT--GGCGTCCGCATTGTAATCTCAAGAAGTGTT-TTCCGCTTCGGACCATGCCT
+	DQ875373_Tranzscheliella_hypodyt  CCAAGATTGAAAGCTGGCGCCT---TC--GGCGTCCGCATTGTAATCTCAAGAAGTGTT-TTCCGCTTCGGACCAAGCCT
+	DQ875364_Melanotaenium_cingens    CCAAGATTGAAAGCTGGCGTCA---TTCAGGCGTCCGCATTGTAATCTCGTGAAGTGTT-ATCCGCGCTGGACCAAGTTA
+	EF517924_Melanustilospora_ari     CCAAGTTTGAAAGCTGGTGTTTGTATTCAGGCATCCGCATTGTAAACTCGAGAAGTGTT-ATCCGCGCCGGACCAGGTTC
+	EF517930_Urocystis_ulei           --------------------------------------ATTGTAAACTCGAGAAGTGTT-ATCCGCGCCGGACCAGGTTC
+	HM105582_Kordyana                 --------------------------------------GTTGTAATCTCGAGAAATGTT-TTCCGTGCTGGACCATGGAC
+	EF653981_Vankya_heufleri          CCAAGTTTGAAAGCTGGCGTTTGTATTCAGGCGTCCGCATTGTAAACTCGAGAAGTGTT-ATCCGCGCCGGACCAGGTTC
+	AY563606_Anthracoidea_arenaria    CCACGATTGGAAGCTGGCGCCRTGTTCTGGCGTTCCGCATTGTAATCTCAAGAAGCGCTGATCCGCCTCGGACCAGGTCG
+
+
+	AY272035_Entyloma_dahliae         AAGTTCCTTGGAACAGGACGTCATAGAGGGTGAGAATCCCGTACTTGACATGGA-TGCCCAACGCT-TTGTGATACG--C
+	AB178263_Tilletiopsis_pallescens  AAGTTCCTTGGAACAGGACGTCATAGAGGGTGAGAATCCCGTACTTGACATGGA-TGCCCAATGCT-TTGTGATACG--C
+	AF487401_Kordyana_celebensis      AAGTTCCTTGGAATAGGATGTCATAGAGGGTGAGAACCCCGTCTTTGCCATGGA-CGCCCAGCGCT-TTGCGATACA--T
+	AF487402_Kordyana_tradescantiae   AAGTTCCTTGGAATAGGATGTCATAGAGGGTGAGAACCCCGTCTTTGCCATGGA-CGCCCAGTGCT-TTGTGATACA--T
+	AB177598_Exobasidium_bisporum     AAGTTCCTTGGAATAGGATGTCATAGAGGGTGAAAATCCCGTACTTGATGTGGA-CGCCCAGTGCT-TTGTGATACA--T
+	AF229351_Eballistra_lineata       AAGTCCCTTGGAATAGGGCATCGTAGAGGGTGAGAATCCCGTACTTGACGCGG--CAGCCAGTGCT-TTGTGATACG--C
+	AF352052_Microstroma_album        AAGTTCCTTGGAATAGGACGTCATAGAGGGTGAAAATCCCGTCCTTGACATGGA-CGCCCAGTGCT-TTGTGATACG--C
+	DQ823439_Quambalaria_pitereka     AAGTTCCTTGGAATAGGACGTCATAGAGGGTGAAAATCCCGTACTTGACATGGA-CGCCCAGTGCT-TTGTGATACA--C
+	DQ832244_Tilletia_controversa     AAGTTCCTTGGAATAGGACATCAGAGAGGGTGAGAATCCCGTACTTGACATGGA-C-CCCGGTGCT-TTGTGATCTG--C
+	AF007523_Doassansia_epilobii      AAGTTCCTTGGAACAGGATGTCATAGAGGGTGAGAACCCCGTACTTGACGTGG--CGCCCGGTGCT-TTGTGATACA--C
+	DQ645528_Entyloma_arnoseridis     AAGTCCCTTGGAATAGGGCGTCATAGAGGGTGAGAATCCCGTACTTGACATGGC-CTCCCAGTGCT-TTGTGATACA--G
+	DQ025487_Tilletiopsis_washington  AAGTTCCTTGGAATAGGACGTCATAGAGGGTGAGAATCCCGTACTTGACATGGC-TGCCCAGTGCT-TTGTGATACA--A
+	DQ831011_Moesziomyces_bullatus    AAGTCCCTTGGAAAAGGGCATCATAGAGGGTGATAATCCCGTACATGGCTTGGAGCGCCCGAGGCT-TTGTGATACG--C
+	AY740100_Sporisorium_andropogoni  AAGTCCCTTGGAAAAGGGCATCATAGAGGGTGATAATCCCGTACATGGCATGGAGCGCCCGGAGCT-TTGTGATACG--C
+	AY740130_Sporisorium_penniseti    AAGTCCCTTGGAAAAGGGCATCATAGAGGGTGATAATCCCGTACATGGCATGGAGCGCCCGAGGCT-TTGTGATACA--C
+	AF453934_Ustilago_hordei          AAGTCCCTTGGAAAAGGGCATCATAGAGGGTGATAATCCCGTACATGGCATGGAGCGCCCGAAGCT-TTGTGATACA--C
+	AJ236139_Ustilago_nuda            AAGTCCCTTGGAAAAGGGCATCATAGAGGGTGATAATCCCGTACATGGCATGGAGCGCCCGAAGCT-TTGTGATACA--C
+	DQ875373_Tranzscheliella_hypodyt  AAGTTTCCTGGAAAGGAGCATCGTAGAGGGTGAAAATCCCGTCCATGGTTTGGAGCGCCCGGAGCT-TTGTGATACA--C
+	DQ875364_Melanotaenium_cingens    AAGTCTCTTGGAATAGAGTATCAAAGAGGGTGATAATCCCGTATTTGGCTTGGAGTCTCCAGGGCT-TTGTGATGCA--C
+	EF517924_Melanustilospora_ari     AAGTCCCTTGGAATAGGGCATCATAGAGGGTGAAAGTCCCGTGCTTGATCTGGAGTCCCCGGGGCT-TTGTGATGCG--C
+	EF517930_Urocystis_ulei           AAGTCCCTTGGAATAGGGCATCATAGAGGGTGAAAGTCCCGTGCTTGATCTGGAACCCCCSGGGCT-TTGTGATGCG--C
+	HM105582_Kordyana                 AAGTTCCTTGGAATAGGATGTCATAGAGGGTGAGAACCCCGTCTTTGCCATGGA-CGCCCAGTGCT-TTGTGATACA--T
+	EF653981_Vankya_heufleri          AAGTCCCTTGGAATAGGGCATCATAGAGGGTGAAAGTCCCGTGCTTGATCTGGAACCCCCGGGGCT-TTGTGATGCG--C
+	AY563606_Anthracoidea_arenaria    AAGTGTCTTGGAAAAGAACATCATGGAGGGTGAGAATCCCGTGTGTGACCTGGAGCCACCGAAGGTACTGCGATGCGTTT
+
+
+	AY272035_Entyloma_dahliae         TCTCCACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AB178263_Tilletiopsis_pallescens  TCTCCACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AF487401_Kordyana_celebensis      TTTCGAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AF487402_Kordyana_tradescantiae   TTTCGAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AB177598_Exobasidium_bisporum     CTTCGAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AF229351_Eballistra_lineata       TCTCCACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AF352052_Microstroma_album        TCTCCACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	DQ823439_Quambalaria_pitereka     TCTCCACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	DQ832244_Tilletia_controversa     TCTCTATGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	AF007523_Doassansia_epilobii      CCTCAACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATCGGGGAGAGAC
+	DQ645528_Entyloma_arnoseridis     GCTCAACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	DQ025487_Tilletiopsis_washington  CCTCAACGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	DQ831011_Moesziomyces_bullatus    TTTCTAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	AY740100_Sporisorium_andropogoni  TTTCTAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	AY740130_Sporisorium_penniseti    TTTCTAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	AF453934_Ustilago_hordei          TTTCTAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	AJ236139_Ustilago_nuda            TTTCTAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	DQ875373_Tranzscheliella_hypodyt  TTTCTAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	DQ875364_Melanotaenium_cingens    TCTCAAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGGGGAGAGAC
+	EF517924_Melanustilospora_ari     TCTCAAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATTGAGGAGAGAC
+	EF517930_Urocystis_ulei           TCTCAAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATCGAGGAGAGAC
+	HM105582_Kordyana                 TTTCGAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATTCCATCTAAAGCTAAATATTGGGGAGAGAC
+	EF653981_Vankya_heufleri          TCTCAAAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATCGAGGAGAGAC
+	AY563606_Anthracoidea_arenaria    TTTCTCAGAGTCGAGTTGTTTGGGAATGCAGCTCAAAATGGGTGGTAAATGCCATCTAAGGCTAAATATAGGGGAGAGAC
+
+
+	AY272035_Entyloma_dahliae         CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTTGAAA
+	AB178263_Tilletiopsis_pallescens  CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCGAAA
+	AF487401_Kordyana_celebensis      CGATAGCAAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	AF487402_Kordyana_tradescantiae   CGATAGCAAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	AB177598_Exobasidium_bisporum     CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	AF229351_Eballistra_lineata       CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCGAAA
+	AF352052_Microstroma_album        CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCGAAA
+	DQ823439_Quambalaria_pitereka     CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCGAAA
+	DQ832244_Tilletia_controversa     CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	AF007523_Doassansia_epilobii      CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCGAAA
+	DQ645528_Entyloma_arnoseridis     CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	DQ025487_Tilletiopsis_washington  CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-CACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	DQ831011_Moesziomyces_bullatus    CGATAGCGAACAAGTACAGTGATGGAAAGATGAAAAG-AACTTTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCAAAA
+	AY740100_Sporisorium_andropogoni  CGATAGCGAACAAGTACAGTGATGGAAAGATGAAAAG-AACTTTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCAAAA
+	AY740130_Sporisorium_penniseti    CGATAGCGAACAAGTACAGTGATGGAAAGATGAAAAG-AACTTTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCAAAA
+	AF453934_Ustilago_hordei          CGATAGCGAACAAGTACAGTGATGGAAAGATGAAAAG-AACTTTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCAAAA
+	AJ236139_Ustilago_nuda            CGATAGCGAACAAGTACAGTGATGGAAAGATGAAAAG-AACTTTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCAAAA
+	DQ875373_Tranzscheliella_hypodyt  CGATAGCGAACAAGTACAGTGATGGAAAGATGAAAAG-AACTTTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCAAAA
+	DQ875364_Melanotaenium_cingens    CGATAGCGAACAAGTACCGTGAGGGAAAGTTGAAAAG-AACTTTGAAAAGAGAGTTAAA-AGTACGTGAAATTGTCAAAA
+	EF517924_Melanustilospora_ari     CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-AACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGCCGGAA
+	EF517930_Urocystis_ulei           CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAGAAACTCTGAAAAGAGAGTTAAACAGTACGTGAAATTGCCGGAA
+	HM105582_Kordyana                 CGATAGCAAACAAGTACCGTGAGGGAAAGATGAAAAG-CA-TTTGGAAAGAGAGTTAAACAGTACGTGAAATTGTCAAAA
+	EF653981_Vankya_heufleri          CGATAGCGAACAAGTACCGTGAGGGAAAGATGAAAAG-AACTTTGGAAAGAGAGTTAAACAGTACGTGAAATTGCCGGAA
+	AY563606_Anthracoidea_arenaria    CGATAGCAAACAAGTACCGTGAGGGAAAGATGCAAAG-AACTTTGGAAAGAGAGTTAAACAGTATGTGAAATTGCCAGAA
+
+
+	AY272035_Entyloma_dahliae         GGGAAGCGCTTGAAGTCAGACATGC-TGCTGAGA-CTCAACCTTGG-TTTT--CCTTGGTGTACTTCTC-AGTT------
+	AB178263_Tilletiopsis_pallescens  GGGAAGCGCTTGAAGTCAGACATGC-TGCTGAGA-CTCAGCCTTGG-TTTT--CCTTGGTGTATTTCTC-AGTT------
+	AF487401_Kordyana_celebensis      GGGAAGCGCTTCAAGTCAGACGTGTAGCGCGGTA-CTCAGCCTTAT-----------GGTGTTTTTACC-GCAT------
+	AF487402_Kordyana_tradescantiae   GGGAAGCGCTTCAAGTCAGACGTGTAGTGCGGTA-CTCAGCCTTAC-----------GGCGTTTTTACC-GTTT------
+	AB177598_Exobasidium_bisporum     GGGAAGCATTTAAAGTCAGACGTGTATTGTAGTA-TTCAGCCTTGC-TTTT--GCTTGGTGTATTTGCT-ATTT------
+	AF229351_Eballistra_lineata       GGGAAGCGCTTGAAGTCAGCTATGTTGTTTGGAA-TTCAGCCTTGC-TTCT--GCATGGTGTACTTTCC-TTGT------
+	AF352052_Microstroma_album        GGGAAGCGCTTGAAGTTAGACATGCCTGCTGGAA-TTCAGCCTTGCTTTTT--GCTTGGTGTATTTTCC-AGTG------
+	DQ823439_Quambalaria_pitereka     GGGAAGCGCTTGAAGTTAGACATGCTTGTCGGGA-TTCAGCCTTGC-TTTT--GCTTGGTGTATTTCCC-GGTG------
+	DQ832244_Tilletia_controversa     GGGAAGCGCTTGAGGTTAGACATGCATGC-AGTA-TTCAACCTTTC-TTTTGGGATTGGCGTATTTGCT-GTTG------
+	AF007523_Doassansia_epilobii      GGGAAGCGCTTGAAGTCAGTTATGCACTCCGGGT-TTCAGCCTTGC-TTTT--GCTTGGTGTATTACCC-GGTT------
+	DQ645528_Entyloma_arnoseridis     GGGAACCGTTTAAAGTTAGTCATGCTTGCCTGGA-CTCAGCCTTGC-TTTT--GCTTGGTGCATTTCCA-GGTT------
+	DQ025487_Tilletiopsis_washington  GGGAAGCGCTTGAAGTTAGTTATGCTTGCTGGGA-CTCAGCCTTGC-TTTT--GCTTGGTGCATTTCCC-AGTA------
+	DQ831011_Moesziomyces_bullatus    GGGAAGGGTAGGAGGTCAGAGATGCGGCCTGGGA-TTCAGCCTTGC-TTTT--GCTTGGTGTTTTTCCC-AGAT------
+	AY740100_Sporisorium_andropogoni  GGGAAGGGTAGGAGGTCAGAGATGCGTCTTGGGA-TTCAGCCTTGC-TTTT--GCTTGGTGTTTTTCCC-AAGT------
+	AY740130_Sporisorium_penniseti    GGGAAGGGTAGGAGGTCAGAGATGCGTCTTGGGA-TTCAGCCTTGCATTTT--GCTTGGTGTTTTTCCCAAGTT------
+	AF453934_Ustilago_hordei          GGGAAGGGTAGGAGGTCAGAGATGCGGTCTGGGA-TTCAGCCTTGC-TTTT--GCTGGGTGTTTTTCTC-AGAT------
+	AJ236139_Ustilago_nuda            GGGAAGGGTAGGAGGTCAGAGATGCGGTCTGGGA-TTCAGCCTTGC-TTTT--GCTGGGTGTTTTTCTC-AGAT------
+	DQ875373_Tranzscheliella_hypodyt  GGGAAGGGTAGGAGGTCAGAGATGCGGCCTGGGA-TTCAGCCTTGC-TTCT--GCTTGGTGTATTTCCC-AGAT------
+	DQ875364_Melanotaenium_cingens    GGGAAGGGTATGAAGTCAGATATGCAATTTGGGA-TTCAGCCTTGCATTTTTTGCTTGGTGTATTTTCT-ATTT------
+	EF517924_Melanustilospora_ari     GGGAAGGGTAGGAAGTCAGACATGCCTTTGCAAA-TTCAGCCTTGT-CTTTGGACTTGGTGCATTTTTG-TAAT------
+	EF517930_Urocystis_ulei           GGGAAGGGTAGGAAGTCAGACATGCCTTTGCAGA-TTCAGCCTTGT-CTTTGGACTTGGTGCATTTTTG-TAAT------
+	HM105582_Kordyana                 GGGAAGCGCTTCAAGTCAGATGTGTGGCGCGGTA-CTCAGCCTCAC-----------GGCGTTTTTACC-GCGT------
+	EF653981_Vankya_heufleri          GGGAAGGGTAGGAAGTCAGACATGCCTTTGCAGA-TTCAGCCTTGT-CTTTGGACTTGGTGCATTTTTG-TAAT------
+	AY563606_Anthracoidea_arenaria    GGGAAGGGTAGGCAGTCAGAGATGCGGAGGCGTAGCTCCGCCGGGT-ATCTGTCGTGGGTACCTGGTCTAGGCTACGGCC
+
+
+	AY272035_Entyloma_dahliae         --GGCAGGCCAGCATCAGTTTTG-GCTGTTGGATAAGGGTAG-GAGGAATGTGGCATC---CT--CGGAT---GTG---T
+	AB178263_Tilletiopsis_pallescens  --GGCAGGCCAGCATCAGTTTTG-GCTGTTGGATAAGGGTAG-GAGGAATGTGGCATC---CT--CGGAT---GTG---T
+	AF487401_Kordyana_celebensis      --TACTGGCCAGCATCGATTTTG-AGCGACGGAGAAGGGTGT-GAGGAACGTGGCACC-----TCCGGGT---GTG---T
+	AF487402_Kordyana_tradescantiae   --TACTAGCCAGCATCGATTTTG-AGCAACGGATAAGGGTGT-GGGGAACGTGGCACC------TCGGGT---GTG---T
+	AB177598_Exobasidium_bisporum     --TACAGGCCAACATCAGTTTTG-AATGACGGATAAGGGTAT-TTGGAATGTGGCATC---CT--CGGAT---GTG---T
+	AF229351_Eballistra_lineata       --AACAGGCCAGCATCGGTTTCA-TCGGCCGGATAAGGGTGG-GAGGAATGTAGCATC---CTTCGGGAT---GTG---T
+	AF352052_Microstroma_album        --AGCAGGCCAGCATCAGTTTTG-TCTGTCGGATAAGGGTAG-GAGGAACGTAGCCCC---CCTCGGGGG---GTG---T
+	DQ823439_Quambalaria_pitereka     --TGCAGGCCAGCATCAGTTTTG-TTTGCCGGATAAGGGTGA-GAGGAATGTGGCCCC---TT----GGG---GTG---T
+	DQ832244_Tilletia_controversa     --TGCAGGCCAGCATCGGTTTTG-TCTGCTGGATAATAGTAG-GAGAAATGTGGCATC---TT--CGGAT---GTG---T
+	AF007523_Doassansia_epilobii      ---GCAGGTCAGCATCGGTTTTG-CCTGTCGGATAAGGGTGG-GAGGAACGTAGCACC---CT--CGGGT---GTG---T
+	DQ645528_Entyloma_arnoseridis     --AGCAGGTCAGCATCGGTTTTG-ACTGCTGGATAAGGGTGA-GAGGAATGTGGCACC---TT--CGGGT---GTG---T
+	DQ025487_Tilletiopsis_washington  --TGCAGGTCAGCATCGGTTTTG-TCTGCTGGATAAGGGTAA-AAGGAACGTGGCACC---CT--CGGGT---GTG---T
+	DQ831011_Moesziomyces_bullatus    --TGCAGGCCAACGTCGGTTTTG-GGCACTGGAGAAGGGTAG-GAGGAATGTGGCACC---CCTCGGGGT---GTG---T
+	AY740100_Sporisorium_andropogoni  --TGCAGGCCAACGTCGGTTTTG-GGCACTGGAGAAGGGTGG-AAGGAACGTGGCACC---CCTCGGGGT---GTG---T
+	AY740130_Sporisorium_penniseti    --TGCAGGCCAACGTCGGTTTTG-GGCACTGGAGAAGGGTGG-AAGGAATGTGGCACC---TCTCGGGGT---GTG---T
+	AF453934_Ustilago_hordei          --TGCAGGCCAACGTCGGTTTTG-GGCGCTGGAGAAGGGTGG-AAGGAATGTGGCACC---TCTCGGGGT---GTG---T
+	AJ236139_Ustilago_nuda            --TGCAGGCCAACGTCGGTTTTG-GGCGCTGGAGAAGGGTGG-AAGGAATGTGGCACC---TCTCGGGGT---GTG---T
+	DQ875373_Tranzscheliella_hypodyt  --GGCAGGCCAACGTCGGTTTTG-GACACTGGAGAAGGGTAA-GAGGAATGTGGCACT---TCTCGGAGT---GTG---T
+	DQ875364_Melanotaenium_cingens    --TGCAGGCCAATGTGGATTTTG-GCTGCTGGAGAATGGTAG-AAAGAATGTGGCACTTGTTTTACAGGT---GTG---T
+	EF517924_Melanustilospora_ari     --GGTAGGCCAGTGTCGGTTTGT-GTCGCCGGATATAGGTTT-AGGGAATGTGGCTTT--GCCTTCGGGTAAAGTG---T
+	EF517930_Urocystis_ulei           --GGCAGGCCAGCGTCGGTTTGT-GCCGCCAGATATAGGTTT-GGGGAATGTGGCTTT--GCCTTTGGGCAAAGTG---T
+	HM105582_Kordyana                 --TACTGGCCAGCATCGATTTTG-AACGACGGATAAGGGTGT-GAGGAACGTGGCACC---CT-CTGGGT---GTG---T
+	EF653981_Vankya_heufleri          --GGCAGGCCAGCGTCGGTTTAT-GTCGCTGGATATAGGTTT-AGGGAATGTAGCTTT--ACCTTCGGGCAAAGTG---T
+	AY563606_Anthracoidea_arenaria    TCGGCAGGCCAATGTCGGTTCTGTGGCGCGGGAAATCGGAGGCTGGGAATGTGGCATT---TCTTCGGAG---GTGTGTT
+
+
+	AY272035_Entyloma_dahliae         TATAGC----CTCTTACTGGATACAAC-----------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  TATAGC----CTCTTACTGGATACAACG-GCTGGGACTGAGGAA-CGCAGTGTGCCTTCG--GGCGGGTCTTCGGACACC
+	AF487401_Kordyana_celebensis      TATAGC----CTTACACTGGATACGTCG-CTTGGGATCGAGGAA-CGCAGCGCACCCGCAAGGGCAGGTCTTCGGACACT
+	AF487402_Kordyana_tradescantiae   TATAGM----CTTACACTGGATACGTCG-CTTGGGATCGAGGAA-CGCAGTGCACCCGCAAGGGCAGGTCTTCGGACACT
+	AB177598_Exobasidium_bisporum     TATAGC----CTTTTACTGGATACGTCG-TTTGGGACTGAGGAA-CGCAGCGCGCCGTAA--GGCAGACCTTCGGGTACT
+	AF229351_Eballistra_lineata       TATAGC----CTCTTACTGGATACGGCTCGACGAGACCGAGGAA-CGCAGTGCGCCCTCACKGGTGGGCCCTCGGGCACC
+	AF352052_Microstroma_album        TATAGC----CTCTTACTGGATACGGCG-GATGGGACTGAGGAC-CGCAGTGTGCCTTTAT-GGCGGGCCTTCGGGCACC
+	DQ823439_Quambalaria_pitereka     TATAGC----CTCTCACTGGATACGGCG-GATGGGACTGAGGAC-CGCAGTGTGCCTTTAT-GGCGGGCCTTCGGGCACC
+	DQ832244_Tilletia_controversa     TATAGT----CTCGTATTGGATACAGTG-GATGGGACCGAGGAC-CGCAGTGTGCCGTAA--GGCGGCTCTTCGGAGACC
+	AF007523_Doassansia_epilobii      TATAGC----CTTCTTCTGGATACGATG-GTTGGGACCGAGGAT-CGCAGCGCGCCCTTGT-GGCGGACCTTCGGGTACT
+	DQ645528_Entyloma_arnoseridis     TATAGC----CTTTCACTGGATGCAGCA-GTTGGGACCGAGGAA-CGCAGCGCGCCTTTAT-GGCGGACCTTCGGGTACC
+	DQ025487_Tilletiopsis_washington  TATAGC----CTTCTACTGGATACAGCG-GACGGGACCGAGGAA-CGCAGCGCGCCTCAC--GGCGGACCTTCGGGTACC
+	DQ831011_Moesziomyces_bullatus    TATAGC----CTCCTACTGGATACAGCG-ACCGAGACCGAGGAC-AGCAGCGTACTCGTAAGAGCGGGCCCTCGGGCACC
+	AY740100_Sporisorium_andropogoni  TATAGC----CTTCCACTGGATACAGCG-ACCGAGACCGAGGAC-AGCAGCGTACTCGCAAGAGCGGGCCTTCGGGCACC
+	AY740130_Sporisorium_penniseti    TATAGC----CTTCTACTGGATACAGCG-ACCGAGACCGAGGAC-AGCAGCGTACTCGCAAGAGCGGGCCTTCGGGCACC
+	AF453934_Ustilago_hordei          TATAGC----CTTCTACTGGATACAGTG-ACCGAGACCGAGGAC-AGCAGCGTACTCGCAAGAGCGGGCCTTCGGGCACC
+	AJ236139_Ustilago_nuda            TATAGC----CTTCTACTGGATACAGTG-ACCGAGACCGAGGAC-AGCAGCGTACTCGCAAGAGCGGGCCTTCGGGCACC
+	DQ875373_Tranzscheliella_hypodyt  TATAGC----CTCTTACTGGATGCAGCG-ACCGAGACCGAGGAA-CGCAGCGTACTCGTAAGAGCGGGCCTTCGGGCACC
+	DQ875364_Melanotaenium_cingens    TATAGC----TTTTTACTTGATACAGTG-GCTGGGATCGAGGAC-AGCAGTGTACCGTAA--GGCGGGCCCTCGGGCACC
+	EF517924_Melanustilospora_ari     TATAGC----CCTTTACTGAGTACGGCG-GTGTGGACTGAGGAA-CGCAGCGCACCCATTAGGGCGGGCCTTCGGGCACC
+	EF517930_Urocystis_ulei           TATAGC----CCTTTACTGAGTATGGCG-GTGTGGACCGAGGAA-CGCAGCGCACCCATTAGGRCGGGCCTTCGG-----
+	HM105582_Kordyana                 TATAGC----CTTACACTGGATACGTC-----------------------------------------------------
+	EF653981_Vankya_heufleri          TATAGC----CCTTTACTGAGTACGGCG-GTGTGGACTGAGGAA-CGCAGCGCACCCATTAGGGCGGGCCTTCGGGCACC
+	AY563606_Anthracoidea_arenaria    TATAGACCGGCTCTTGCGGACCAGCGCG---TGGGACTGAGGACGAGCGGCATG--------GGGCGGCTTTTGTGTTCC
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  TTCACACTTAGGATGCTGGCGTAATGGCTTTA------------------------------------------------
+	AF487401_Kordyana_celebensis      TTTGCGCTTAGGATGCTGGCGTA---------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   CT------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     TTCGCGCTTAGGATGTTGGCGTAATGGCTTTA------------------------------------------------
+	AF229351_Eballistra_lineata       TTCGCACTTAGGATGCTGGC-TAATGGCTTTAAGCGGCCCGTC?TG-AAACACG--------------------------
+	AF352052_Microstroma_album        TTCACACTTAGGATGCT---------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     TTCACACTTAGGATGCTGGCGTAATGGCTTTAAGCGACCCGTC-------------------------------------
+	DQ832244_Tilletia_controversa     TTCGCACTTAGGATGCTGGCGTAATGGCCTTAAGCGGCCCGTCTTG-AAACACGGACCAAGGAGTCTAACATATTTGCGA
+	AF007523_Doassansia_epilobii      CTCGCGCTT-----------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     TTCGCGCTTAGGATGCTGGCATAATAGCTTTAAGCGACCCGTCTTG-AAACACGGACCAAGGAGTCTAACATGTCTGCGA
+	DQ025487_Tilletiopsis_washington  TTCGCGCTTAGGATG-----------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    TTTACGCTTAGGGCGTTGGCATAATGGCCCTCTACCACCCGTCTTG-AAACACGGACCAAGGAGTCTAACATGTATGCGA
+	AY740100_Sporisorium_andropogoni  TTTACGCTTAGGGCGTTGGCATAATGGCCCTCTACCACCCGTCTTGAAACACG---------------------------
+	AY740130_Sporisorium_penniseti    TTTACGCTTAGGGCGTTGGCATAATGGCCCTCTACCACCCGTCTTG-AAACACGGACCAAGGAGTCT-------------
+	AF453934_Ustilago_hordei          TTTACGCTTAGGGCGTTGGCATAATGGCCCTCTACCACCCGTCTTGA---------------------------------
+	AJ236139_Ustilago_nuda            TTTACGCTTAGGGCGTTG--------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  TTTACGCTTAGGGCGTTGGCATAATGGCCCTCTACCACCCGTCTTGAAAACACGGACC----------------------
+	DQ875364_Melanotaenium_cingens    TTTACACTTAGGACATTGGCTTAATGGCTTTATGCCACCCGTCTTGAAACACGACCA-----------------------
+	EF517924_Melanustilospora_ari     TTTGCGCTTAGGATGCTGGCTTAATGGCTTTCTGCCACCCCGTCTTGAAACAC---------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          TTTGCGCTTAGGATGCTGGCTTAATGGCTTTCTGCCACCCCGTCTTGAAACACGGACC----------------------
+	AY563606_Anthracoidea_arenaria    TCCACTTCGTGGTGGGGGGGGCGGGAGCTGTTTTAGGTTCCTTTTTCACGAGGGGGCACTATTCATGC------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     GTCTTTGGGTGGCAAACCCATAGGCGTAATGAAAGTGAATGCAGGTGGGATCCTTCTTTATGGAGGTGCACCATCGACCG
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     GTCTTTGGGTGGCAAACCCATAGGCGCAATGAAAGTGAATGCAGGTGGGATCCTC-------ACGGAGCACCATCGACCG
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    GTCTTTGGGTGGCAAACCCATAGGCGCAATGAAAGTGAATTCAGGTGGGATCCGCAAGGTGCACCAT---CGACCGATCC
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     ATCCGGAATTTCTAGGATGGATTTGAGTACGAGCACATATGTTGGGACCCGAAAGATGGTGAACTATGCCTGAATAGGGC
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     ATCCAGATCTTCTGTGACGGATTTGAGTAAGAGCATATATGTTGGGACCCGAAAGATGGTGAACTATGCCTGAATAGGGC
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    TCACGTCTTTTAAGTCGTGGATTTGAGTAAGAGCATACCTGTTGGGACCCGAAAGATGGTGAACTATGCCTGAATAGGGT
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     GAAGCCAGAGGAAACTCTGGTGGAGGCTCGTAGCGATTCTGACGTGCAAATCGATCGTCAAATTTGGGTATAGGGGCGAA
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     GAAGCCAGAGGAAACTCTGGTGGAGGCTCGTAGCGGTTCTGACGTGCAAATCGATCGTCAAATTTGGGTATAGGGGCGAA
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    GAAGCCAGAGGAAACTCTGGTGGAGGCTCGTAGCGGTTCTGACGTGCAAATCGATCGTCAAATTTGGGTATAGGGGCGAA
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     AGACTAATCGAACCAT----------------------------------------------------------------
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     AGACTAATCGAACCATTAACAGACTACAGGTGGTTAATAGGCAGCTGAAAAGTGCTTGTCTAGTATGGCCTACAGTGGAC
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    AGACTAATCGAACCAT----------------------------------------------------------------
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     --------------------------------------------------------------------------------
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     ATGCGACATCTTCCAATTGCGGGGACATCCTAAAACCTTCATCACCAAGCTAGCATGGAAACGTGCATAGTGGCCGAGCT
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    --------------------------------------------------------------------------------
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     --------------------------------------------------------------------------------
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     AATAGCCCTGGGTATGGTAAAAGTATGAAGGATGTTACAATGGACAATCCGCAGCCAAGCTCTACGTTGCAGCAATGCAA
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    --------------------------------------------------------------------------------
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     --------------------------------------------------------------------------------
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     TATGAGTGCAGTTCACAGACTAAATGGAGATGGGTGGCGTAAGCTGCTTAAGTTATAGTCGACCCCTTGCGAGAGCAAGC
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    --------------------------------------------------------------------------------
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     --------------------------------------------------------------------------------
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     CAAGTTGAGAAAGAGTTGACGGTTTCCCACTGTGTTAATGAACCCAACTCCCGAGCTTCTTGGAGCGATTCGCATTATGT
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    --------------------------------------------------------------------------------
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     ---------------------CTAGTAGCTGGTTCCTGCCGAAGTTTCCCTCAGGATAGCAGAAACTCGCATCAGTTTTA
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     AAGCAATCGCTGGACTACGTGCTAGTAGCTGGTTCCTGCCGAAGTTTCCCTCAGGATAGCAGAAACTCGCATCAGTTTTA
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    ---------------------CTAGTAGCTGGTTCCTGCCGAAGTTTCCCTCAGGATAGCAGAAACTCACATCAGTTTTA
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     TGAGGTAAAGCGAATGATTAGAGGCCTTGGGGATGTAACATCCTTAACCTATTCTCAAACTTTAAATATGTAAGAAGTCC
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     TGAGGTAAAGCGAATGATTAGAGGCCTTGGGGATGCAACATCCTTAACCTATTCTCAAACTTTAAATATGTAAGAAGCCC
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    TGAGGTAAAGCGAATGATTAGAGGCCTTGGGGAAGTAACTTCCTTAACCTATTCTCAAACTTTAAATGTGTAAGAAGCCC
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     TTGTTACTTAGTTGAACGTGGACATGCGAATGAGAGTTTCTAGTGGGCCATTTTTGGTAAGCAGAACTGGCGATGCGGGA
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     TTGTTACTTAAGTGAACGTGGGCATGCGAATGAGAGTTTCTAGTGGGCCATTTTTGGTAAGCAGAACTGGCGATGCGGGA
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    TTGTTACTTAAGTGAACGAGGGCATGCGAATGAGAGTTTCTAGTGGGCCATTTTTGGTAAGCAGAACTGGCGATGCGGGA
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     TGAACCGATCGTGAGGTTAAGGTGCCGGAATACACGCTCATCAGACACCACAAAAGGTGTTAGCACATCTAGACAGCAGG
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     TGAACCGATCGTGGGGTTAAGGTGCCGGAATACACGCTCATCAGACACCACAAAAGGTGTTAGTTCATCTAGACAGCAGG
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    TGAACCGAACGTTGGGTTAAGGTGCCAAAGTATACGCTCATCAGATACCAGAAAAGGTGTTATTTAGTCTAGACAGTGGG
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     ACGGTGGCCATGGAAGTCGGAATCCGCTAAGGAGTGTGTAACAACTCACCTGCCGAATGTGCTAGCCCTGAAAATGGATG
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     ACGGTGGCCATGGAAGTCGGAATCCGCTAAGGAGTGTGTAACAACTCACCTGCCGAATGAACTAGCCCTGAAAATGGATG
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    ACGGTGGCCATGGAAGTCGGAAACCGCTAAGGAGTGTGTAACAACTCACCCACCGAATTAAGTAGCCCTGAAAATGGATG
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         --------------------------------------------------------------------------------
+	AB178263_Tilletiopsis_pallescens  --------------------------------------------------------------------------------
+	AF487401_Kordyana_celebensis      --------------------------------------------------------------------------------
+	AF487402_Kordyana_tradescantiae   --------------------------------------------------------------------------------
+	AB177598_Exobasidium_bisporum     --------------------------------------------------------------------------------
+	AF229351_Eballistra_lineata       --------------------------------------------------------------------------------
+	AF352052_Microstroma_album        --------------------------------------------------------------------------------
+	DQ823439_Quambalaria_pitereka     --------------------------------------------------------------------------------
+	DQ832244_Tilletia_controversa     GCGCTTAAGCGTGTTACCCATACCTCACCGTCAGTGTTGTAGCGACGCGCTGACGAGTAGGCAGGCGTGGAGGTTTGTGA
+	AF007523_Doassansia_epilobii      --------------------------------------------------------------------------------
+	DQ645528_Entyloma_arnoseridis     GCGCTTAAGCGTGTTACCCATACCCCACCGTCAGCGTTAGAGCGACGCGTTGACGAGTAGGCAGGCGTGGAGGTCAGTGA
+	DQ025487_Tilletiopsis_washington  --------------------------------------------------------------------------------
+	DQ831011_Moesziomyces_bullatus    GCGCTCAAGCGTATCACCGATACCCAACCGTCAGTGTTTAGCGAAGCGCTGACGAGTAGGCAGGCGTGGGGGTCCGTATG
+	AY740100_Sporisorium_andropogoni  --------------------------------------------------------------------------------
+	AY740130_Sporisorium_penniseti    --------------------------------------------------------------------------------
+	AF453934_Ustilago_hordei          --------------------------------------------------------------------------------
+	AJ236139_Ustilago_nuda            --------------------------------------------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  --------------------------------------------------------------------------------
+	DQ875364_Melanotaenium_cingens    --------------------------------------------------------------------------------
+	EF517924_Melanustilospora_ari     --------------------------------------------------------------------------------
+	EF517930_Urocystis_ulei           --------------------------------------------------------------------------------
+	HM105582_Kordyana                 --------------------------------------------------------------------------------
+	EF653981_Vankya_heufleri          --------------------------------------------------------------------------------
+	AY563606_Anthracoidea_arenaria    --------------------------------------------------------------------------------
+
+
+	AY272035_Entyloma_dahliae         -----------------------------------------------
+	AB178263_Tilletiopsis_pallescens  -----------------------------------------------
+	AF487401_Kordyana_celebensis      -----------------------------------------------
+	AF487402_Kordyana_tradescantiae   -----------------------------------------------
+	AB177598_Exobasidium_bisporum     -----------------------------------------------
+	AF229351_Eballistra_lineata       -----------------------------------------------
+	AF352052_Microstroma_album        -----------------------------------------------
+	DQ823439_Quambalaria_pitereka     -----------------------------------------------
+	DQ832244_Tilletia_controversa     CGAAGCTTAGGCAGTGA------------------------------
+	AF007523_Doassansia_epilobii      -----------------------------------------------
+	DQ645528_Entyloma_arnoseridis     AGAA-------------------------------------------
+	DQ025487_Tilletiopsis_washington  -----------------------------------------------
+	DQ831011_Moesziomyces_bullatus    GAAGCCTTGGCAGTGATGCTGGGTGGAACGGCCTCTAGTGCAGATCT
+	AY740100_Sporisorium_andropogoni  -----------------------------------------------
+	AY740130_Sporisorium_penniseti    -----------------------------------------------
+	AF453934_Ustilago_hordei          -----------------------------------------------
+	AJ236139_Ustilago_nuda            -----------------------------------------------
+	DQ875373_Tranzscheliella_hypodyt  -----------------------------------------------
+	DQ875364_Melanotaenium_cingens    -----------------------------------------------
+	EF517924_Melanustilospora_ari     -----------------------------------------------
+	EF517930_Urocystis_ulei           -----------------------------------------------
+	HM105582_Kordyana                 -----------------------------------------------
+	EF653981_Vankya_heufleri          -----------------------------------------------
+	AY563606_Anthracoidea_arenaria    -----------------------------------------------
+
+;
+
+
+
+END;
+
+BEGIN MRBAYES;
+	Lset nst = 6 rates = invgamma;
+	Prset statefreqpr = dirichlet ( 1 , 1 , 1 , 1 );
+
+END;
+MCMC ngen = 10000000 samplefreq = 1000 nruns = 2 nchains = 4 temp = 0.6;
+sump burnin = 2500 nruns = 2;
+sumt burnin = 2500 nruns = 2;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  1887;
+
+END;
+
+BEGIN CODONS;
+	CODESET * UNTITLED   =  universal:  1 -  1887;
+
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Jukes-Cantor':  1 -  1887;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1416574303034;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 2876437273365473996;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 5130422882763733091;
+			mqVersion 301;
+			checksumv 0 3 2030979218 null  getNumChars 1887 numChars 1887 getNumTaxa 24 numTaxa 24   short true   bits 2305843009213693967   states 15   sumSquaresStatesOnly 356263.0 sumSquares 276729.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1 errorReportedDuringRun;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 400;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #5130422882763733091 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 600 392;
+					setLocation 8 8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges off;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames off;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize off;
+					toggleColorsPanel off;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.align.AlignToDropped.AlignToDropped;
+				tell It;
+					gapCosts 8 3 2 2;
+					subCosts  10 5 10 10 10 5 5 10 10 10 5 10;
+				endTell;
+				getEmployee #mesquite.molec.ColorByAA.ColorByAA;
+				tell It;
+					emphasizeDegeneracy off;
+				endTell;
+				getEmployee #mesquite.molec.SequenceInfoEditor.SequenceInfoEditor;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

@@ -1,0 +1,123 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Leptodeira punctata EF078577		1	802							Leptodeira punctata EF078577								
+Pseudoleptodeira latifasciata EF078582		1	802							Pseudoleptodeira latifasciata EF078582								
+Tropidodipsas sartorii EF078588		1	802							Tropidodipsas sartorii EF078588								
+Hypsiglena slevini EU363043		1	802							Hypsiglena slevini EU363043								
+Hypsiglena slevini EF078545		1	802							Hypsiglena slevini EF078545								
+Hypsiglena slevini EF078546		1	802							Hypsiglena slevini EF078546								
+Hypsiglena slevini EF078547		1	802							Hypsiglena slevini EF078547								
+Hypsiglena tanzeri EU363044		1	802							Hypsiglena tanzeri EU363044								
+Hypsiglena jani dunklei EU363056		1	802							Hypsiglena jani dunklei EU363056								
+Hypsiglena jani dunklei EU363057		1	802							Hypsiglena jani dunklei EU363057								
+Hypsiglena jani jani EU363059		1	802							Hypsiglena jani jani EU363059								
+Hypsiglena jani texana EU363060		1	802							Hypsiglena jani texana EU363060								
+Hypsiglena jani texana EU363062		1	802							Hypsiglena jani texana EU363062								
+Hypsiglena jani texana EU363063		1	802							Hypsiglena jani texana EU363063								
+Streptococcus equi subsp. ruminatorum EU078551		1	802							Streptococcus equi subsp. ruminatorum EU078551								
+Hypsiglena jani texana EU363064		1	802							Hypsiglena jani texana EU363064								
+Hypsiglena jani texana EU363065		1	802							Hypsiglena jani texana EU363065								
+Hypsiglena jani texana EU363066		1	802							Hypsiglena jani texana EU363066								
+Hypsiglena jani texana EU363067		1	802							Hypsiglena jani texana EU363067								
+Hypsiglena jani texana EU363068		1	802							Hypsiglena jani texana EU363068								
+Hypsiglena jani texana EU363070		1	802							Hypsiglena jani texana EU363070								
+Hypsiglena jani texana EU363076		1	802							Hypsiglena jani texana EU363076								
+Hypsiglena jani texana EU363080		1	802							Hypsiglena jani texana EU363080								
+Hypsiglena jani texana EU363083		1	802							Hypsiglena jani texana EU363083								
+Hypsiglena jani texana EU363084		1	802							Hypsiglena jani texana EU363084								
+Hypsiglena jani texana EU363088		1	802							Hypsiglena jani texana EU363088								
+Hypsiglena jani texana EU363089		1	802							Hypsiglena jani texana EU363089								
+Hypsiglena jani texana EU363090		1	802							Hypsiglena jani texana EU363090								
+Hypsiglena jani texana EU363093		1	802							Hypsiglena jani texana EU363093								
+Hypsiglena jani texana EU363095		1	802							Hypsiglena jani texana EU363095								
+Hypsiglena jani texana EU363096		1	802							Hypsiglena jani texana EU363096								
+Hypsiglena jani texana EU363098		1	802							Hypsiglena jani texana EU363098								
+Hypsiglena jani texana EU363100		1	802							Hypsiglena jani texana EU363100								
+Hypsiglena affinis EU363055		1	802							Hypsiglena affinis EU363055								
+Hypsiglena torquata EU363045		1	802							Hypsiglena torquata EU363045								
+Hypsiglena torquata EU363047		1	802							Hypsiglena torquata EU363047								
+Hypsiglena torquata EU363049		1	802							Hypsiglena torquata EU363049								
+Hypsiglena torquata EU363050		1	802							Hypsiglena torquata EU363050								
+Hypsiglena torquata EU363051		1	802							Hypsiglena torquata EU363051								
+Hypsiglena torquata EU363052		1	802							Hypsiglena torquata EU363052								
+Hypsiglena torquata EU363053		1	802							Hypsiglena torquata EU363053								
+Hypsiglena torquata EU363054		1	802							Hypsiglena torquata EU363054								
+Hypsiglena chlorophaea catalinae EU363106		1	802							Hypsiglena chlorophaea catalinae EU363106								
+Hypsiglena chlorophaea catalinae EU363107		1	802							Hypsiglena chlorophaea catalinae EU363107								
+Hypsiglena chlorophaea chlorophaea EU363101		1	802							Hypsiglena chlorophaea chlorophaea EU363101								
+Hypsiglena chlorophaea chlorophaea EU363102		1	802							Hypsiglena chlorophaea chlorophaea EU363102								
+Hypsiglena chlorophaea chlorophaea EU363105		1	802							Hypsiglena chlorophaea chlorophaea EU363105								
+Hypsiglena chlorophaea chlorophaea EU363108		1	802							Hypsiglena chlorophaea chlorophaea EU363108								
+Hypsiglena chlorophaea chlorophaea EU363109		1	802							Hypsiglena chlorophaea chlorophaea EU363109								
+Hypsiglena chlorophaea chlorophaea EU363112		1	802							Hypsiglena chlorophaea chlorophaea EU363112								
+Hypsiglena chlorophaea chlorophaea EU363114		1	802							Hypsiglena chlorophaea chlorophaea EU363114								
+Hypsiglena chlorophaea chlorophaea EU363117		1	802							Hypsiglena chlorophaea chlorophaea EU363117								
+Hypsiglena chlorophaea chlorophaea EU363118		1	802							Hypsiglena chlorophaea chlorophaea EU363118								
+Hypsiglena chlorophaea chlorophaea EU363119		1	802							Hypsiglena chlorophaea chlorophaea EU363119								
+Hypsiglena chlorophaea chlorophaea EU363120		1	802							Hypsiglena chlorophaea chlorophaea EU363120								
+Hypsiglena chlorophaea chlorophaea EU363121		1	802							Hypsiglena chlorophaea chlorophaea EU363121								
+Hypsiglena chlorophaea chlorophaea EU363122		1	802							Hypsiglena chlorophaea chlorophaea EU363122								
+Hypsiglena chlorophaea chlorophaea EU363167		1	802							Hypsiglena chlorophaea chlorophaea EU363167								
+Hypsiglena chlorophaea deserticola EU363123		1	802							Hypsiglena chlorophaea deserticola EU363123								
+Hypsiglena chlorophaea deserticola EU363125		1	802							Hypsiglena chlorophaea deserticola EU363125								
+Hypsiglena chlorophaea deserticola EU363128		1	802							Hypsiglena chlorophaea deserticola EU363128								
+Hypsiglena chlorophaea deserticola EU363129		1	802							Hypsiglena chlorophaea deserticola EU363129								
+Hypsiglena chlorophaea deserticola EU363130		1	802							Hypsiglena chlorophaea deserticola EU363130								
+Hypsiglena chlorophaea deserticola EU363138		1	802							Hypsiglena chlorophaea deserticola EU363138								
+Hypsiglena chlorophaea deserticola EU363140		1	802							Hypsiglena chlorophaea deserticola EU363140								
+Hypsiglena chlorophaea deserticola EU363141		1	802							Hypsiglena chlorophaea deserticola EU363141								
+Hypsiglena chlorophaea deserticola EU363142		1	802							Hypsiglena chlorophaea deserticola EU363142								
+Hypsiglena chlorophaea deserticola EU363143		1	802							Hypsiglena chlorophaea deserticola EU363143								
+Hypsiglena chlorophaea deserticola EU363144		1	802							Hypsiglena chlorophaea deserticola EU363144								
+Hypsiglena chlorophaea deserticola EU363145		1	802							Hypsiglena chlorophaea deserticola EU363145								
+Hypsiglena chlorophaea deserticola EU363146		1	802							Hypsiglena chlorophaea deserticola EU363146								
+Hypsiglena chlorophaea deserticola EU363148		1	802							Hypsiglena chlorophaea deserticola EU363148								
+Hypsiglena chlorophaea deserticola EU363149		1	802							Hypsiglena chlorophaea deserticola EU363149								
+Hypsiglena chlorophaea deserticola EU363150		1	802							Hypsiglena chlorophaea deserticola EU363150								
+Hypsiglena chlorophaea deserticola EU363151		1	802							Hypsiglena chlorophaea deserticola EU363151								
+Hypsiglena chlorophaea deserticola EU363152		1	802							Hypsiglena chlorophaea deserticola EU363152								
+Hypsiglena chlorophaea deserticola EU363153		1	802							Hypsiglena chlorophaea deserticola EU363153								
+Hypsiglena chlorophaea deserticola EU363154		1	802							Hypsiglena chlorophaea deserticola EU363154								
+Hypsiglena chlorophaea loreala EU363155		1	802							Hypsiglena chlorophaea loreala EU363155								
+Hypsiglena chlorophaea loreala EU363157		1	802							Hypsiglena chlorophaea loreala EU363157								
+Hypsiglena chlorophaea loreala EU363158		1	802							Hypsiglena chlorophaea loreala EU363158								
+Hypsiglena chlorophaea loreala EU363160		1	802							Hypsiglena chlorophaea loreala EU363160								
+Hypsiglena chlorophaea loreala EU363161		1	802							Hypsiglena chlorophaea loreala EU363161								
+Hypsiglena chlorophaea loreala EU363162		1	802							Hypsiglena chlorophaea loreala EU363162								
+Hypsiglena chlorophaea loreala EU363163		1	802							Hypsiglena chlorophaea loreala EU363163								
+Hypsiglena chlorophaea loreala EU363164		1	802							Hypsiglena chlorophaea loreala EU363164								
+Hypsiglena chlorophaea loreala EU363165		1	802							Hypsiglena chlorophaea loreala EU363165								
+Hypsiglena chlorophaea loreala EU363166		1	802							Hypsiglena chlorophaea loreala EU363166								
+Hypsiglena chlorophaea loreala EU363156		1	802							Hypsiglena chlorophaea loreala EU363156								
+Hypsiglena sp. 1 DGM-2008 EU363182		1	802							Hypsiglena sp. 1 DGM-2008 EU363182								
+Hypsiglena sp. 1 DGM-2008 EU363183		1	802							Hypsiglena sp. 1 DGM-2008 EU363183								
+Hypsiglena sp. 1 DGM-2008 EU363185		1	802							Hypsiglena sp. 1 DGM-2008 EU363185								
+Hypsiglena sp. 1 DGM-2008 EU363186		1	802							Hypsiglena sp. 1 DGM-2008 EU363186								
+Hypsiglena ochrorhyncha nuchalata EU363187		1	802							Hypsiglena ochrorhyncha nuchalata EU363187								
+Hypsiglena ochrorhyncha nuchalata EU363188		1	802							Hypsiglena ochrorhyncha nuchalata EU363188								
+Hypsiglena ochrorhyncha nuchalata EU363189		1	802							Hypsiglena ochrorhyncha nuchalata EU363189								
+Hypsiglena ochrorhyncha nuchalata EU363190		1	802							Hypsiglena ochrorhyncha nuchalata EU363190								
+Hypsiglena ochrorhyncha nuchalata EU363191		1	802							Hypsiglena ochrorhyncha nuchalata EU363191								
+Hypsiglena ochrorhyncha nuchalata EU363192		1	802							Hypsiglena ochrorhyncha nuchalata EU363192								
+Hypsiglena ochrorhyncha nuchalata EF078549		1	802							Hypsiglena ochrorhyncha nuchalata EF078549								
+Hypsiglena ochrorhyncha nuchalata EU363193		1	802							Hypsiglena ochrorhyncha nuchalata EU363193								
+Hypsiglena ochrorhyncha klauberi EU363195		1	802							Hypsiglena ochrorhyncha klauberi EU363195								
+Hypsiglena ochrorhyncha klauberi EU363198		1	802							Hypsiglena ochrorhyncha klauberi EU363198								
+Hypsiglena ochrorhyncha klauberi EU363200		1	802							Hypsiglena ochrorhyncha klauberi EU363200								
+Hypsiglena ochrorhyncha klauberi EU363202		1	802							Hypsiglena ochrorhyncha klauberi EU363202								
+Hypsiglena ochrorhyncha klauberi EU363203		1	802							Hypsiglena ochrorhyncha klauberi EU363203								
+Hypsiglena ochrorhyncha klauberi EU363205		1	802							Hypsiglena ochrorhyncha klauberi EU363205								
+Hypsiglena ochrorhyncha klauberi EU363206		1	802							Hypsiglena ochrorhyncha klauberi EU363206								
+Hypsiglena ochrorhyncha klauberi EU363207		1	802							Hypsiglena ochrorhyncha klauberi EU363207								
+Hypsiglena ochrorhyncha klauberi EU363209		1	802							Hypsiglena ochrorhyncha klauberi EU363209								
+Hypsiglena ochrorhyncha venusta EU363211		1	802							Hypsiglena ochrorhyncha venusta EU363211								
+Hypsiglena ochrorhyncha venusta EU363212		1	802							Hypsiglena ochrorhyncha venusta EU363212								
+Hypsiglena ochrorhyncha baueri EU363210		1	802							Hypsiglena ochrorhyncha baueri EU363210								
+Hypsiglena ochrorhyncha ochrorhyncha EU363213		1	802							Hypsiglena ochrorhyncha ochrorhyncha EU363213								
+Hypsiglena ochrorhyncha ochrorhyncha EU363214		1	802							Hypsiglena ochrorhyncha ochrorhyncha EU363214								
+Hypsiglena ochrorhyncha ochrorhyncha EU363215		1	802							Hypsiglena ochrorhyncha ochrorhyncha EU363215								
+Hypsiglena ochrorhyncha ochrorhyncha EU363217		1	802							Hypsiglena ochrorhyncha ochrorhyncha EU363217								
+Hypsiglena ochrorhyncha ochrorhyncha EU363218		1	802							Hypsiglena ochrorhyncha ochrorhyncha EU363218								
+Hypsiglena unaocularus KF548611		1	802							Hypsiglena unaocularus KF548611								
+Hypsiglena unaocularus KF548608		1	802							Hypsiglena unaocularus KF548608								
+Hypsiglena unaocularus KF548607		1	802							Hypsiglena unaocularus KF548607								
+Hypsiglena unaocularus KF548609		1	802							Hypsiglena unaocularus KF548609								

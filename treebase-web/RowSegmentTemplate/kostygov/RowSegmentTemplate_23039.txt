@@ -1,0 +1,64 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Crithidia abscondita		1	1097							Crithidia abscondita								
+Crithidia brachyflagelli		1	1097							Crithidia brachyflagelli								
+Crithidia confusa		1	1097							Crithidia confusa								
+Crithidia fasciculata		1	1097							Crithidia fasciculata								
+Crithidia insperata		1	1097							Crithidia insperata								
+Crithidia otongatchiensis		1	1097							Crithidia otongatchiensis								
+Crithidia permixta		1	1097							Crithidia permixta								
+Crithidia pragensis		1	1097							Crithidia pragensis								
+Leptomonas acus		1	1097							Leptomonas acus								
+Leptomonas barvae		1	1097							Leptomonas barvae								
+Leptomonas bifurcata		1	1097							Leptomonas bifurcata								
+Leishmania braziliensis		1	1097							Leishmania braziliensis								
+Leptomonas costaricensis		1	1097							Leptomonas costaricensis								
+Leishmania donovani		1	1097							Leishmania donovani								
+Leptomonas jaderae		1	1097							Leptomonas jaderae								
+Leptomonas moramango		1	1097							Leptomonas moramango								
+Leptomonas neopamerae		1	1097							Leptomonas neopamerae								
+Leptomonas podlipaevi		1	1097							Leptomonas podlipaevi								
+Leptomonas pyrrhocoris		1	1097							Leptomonas pyrrhocoris								
+Leptomonas scantii		1	1097							Leptomonas scantii								
+Leptomonas seymouri		1	1097							Leptomonas seymouri								
+Leptomonas spiculata		1	1097							Leptomonas spiculata								
+Leptomonas tarcoles		1	1097							Leptomonas tarcoles								
+Leishmania tarentolae		1	1097							Leishmania tarentolae								
+Leptomonas tenua		1	1097							Leptomonas tenua								
+Crithidia brevicula 101 clone1		1	1097							Crithidia brevicula 101 clone1								
+Crithidia brevicula 101 clone2		1	1097							Crithidia brevicula 101 clone2								
+Crithidia brevicula 101 clone3		1	1097							Crithidia brevicula 101 clone3								
+Crithidia brevicula 101 clone4		1	1097							Crithidia brevicula 101 clone4								
+Crithidia brevicula 101 clone5		1	1097							Crithidia brevicula 101 clone5								
+Crithidia brevicula 101 clone6		1	1097							Crithidia brevicula 101 clone6								
+Crithidia brevicula BM-33 clone1		1	1097							Crithidia brevicula BM-33 clone1								
+Crithidia brevicula BM-33 clone2		1	1097							Crithidia brevicula BM-33 clone2								
+Crithidia brevicula CL8 clone1		1	1097							Crithidia brevicula CL8 clone1								
+Crithidia brevicula CL8 clone2		1	1097							Crithidia brevicula CL8 clone2								
+Crithidia brevicula CL8 clone3		1	1097							Crithidia brevicula CL8 clone3								
+Crithidia brevicula F2 clone1		1	1097							Crithidia brevicula F2 clone1								
+Crithidia brevicula F2 clone2		1	1097							Crithidia brevicula F2 clone2								
+Crithidia brevicula F2 clone3		1	1097							Crithidia brevicula F2 clone3								
+Crithidia brevicula F5 clone1		1	1097							Crithidia brevicula F5 clone1								
+Crithidia brevicula F5 clone2		1	1097							Crithidia brevicula F5 clone2								
+Crithidia brevicula F5 clone3		1	1097							Crithidia brevicula F5 clone3								
+Crithidia brevicula F6 clone1		1	1097							Crithidia brevicula F6 clone1								
+Crithidia brevicula F6 clone2		1	1097							Crithidia brevicula F6 clone2								
+Crithidia brevicula F6 clone3		1	1097							Crithidia brevicula F6 clone3								
+Crithidia brevicula F7 clone1		1	1097							Crithidia brevicula F7 clone1								
+Crithidia brevicula F7 clone2		1	1097							Crithidia brevicula F7 clone2								
+Crithidia brevicula F7 clone3		1	1097							Crithidia brevicula F7 clone3								
+Crithidia brevicula F8 clone1		1	1097							Crithidia brevicula F8 clone1								
+Crithidia brevicula F8 clone2		1	1097							Crithidia brevicula F8 clone2								
+Crithidia brevicula F8 clone3		1	1097							Crithidia brevicula F8 clone3								
+Crithidia brevicula KV-1 clone1		1	1097							Crithidia brevicula KV-1 clone1								
+Crithidia brevicula KV-1 clone2		1	1097							Crithidia brevicula KV-1 clone2								
+Crithidia brevicula KV-1 clone3		1	1097							Crithidia brevicula KV-1 clone3								
+Crithidia brevicula Nbr clone1		1	1097							Crithidia brevicula Nbr clone1								
+Crithidia brevicula Nbr clone2		1	1097							Crithidia brevicula Nbr clone2								
+Crithidia brevicula Nbr clone3		1	1097							Crithidia brevicula Nbr clone3								
+Crithidia brevicula Wg clone1		1	1097							Crithidia brevicula Wg clone1								
+Crithidia brevicula Wg clone2		1	1097							Crithidia brevicula Wg clone2								
+Crithidia brevicula Wg clone3		1	1097							Crithidia brevicula Wg clone3								
+Crithidia brevicula ZK clone1		1	1097							Crithidia brevicula ZK clone1								
+Crithidia brevicula ZK clone2		1	1097							Crithidia brevicula ZK clone2								
+Crithidia brevicula ZK clone3		1	1097							Crithidia brevicula ZK clone3								

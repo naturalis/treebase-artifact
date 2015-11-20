@@ -1,0 +1,37 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Agaricus bambusae var bambusae A subrufescens GF5003 KP705081 		1	282							Agaricus bambusae var bambusae A subrufescens GF5003 KP705081 								
+Agaricus bambusae var bambusae L A subrufescens GF283 KP705080 		1	282							Agaricus bambusae var bambusae L A subrufescens GF283 KP705080 								
+Agaricus bambusae var bambusae A subrufescens Grin71145 KP705082 		1	282							Agaricus bambusae var bambusae A subrufescens Grin71145 KP705082 								
+Agaricus subrufescens DEH513 AY818646 		1	282							Agaricus subrufescens DEH513 AY818646 								
+Agaricus subrufescens CA918 KJ541798		1	282							Agaricus subrufescens CA918 KJ541798								
+Agaricus subrufescens RM1 AY818651 		1	282							Agaricus subrufescens RM1 AY818651 								
+Agaricus sp. Thoen6951 JN204433 		1	282							Agaricus sp. Thoen6951 JN204433 								
+Agaricus sp. Thoen7297 JF514542		1	282							Agaricus sp. Thoen7297 JF514542								
+Agaricus flocculosipes H ZRL3028 JN664954 		1	282							Agaricus flocculosipes H ZRL3028 JN664954 								
+ Agaricus flocculosipes CA917 KP705076		1	282							 Agaricus flocculosipes CA917 KP705076								
+Agaricus subtilipes CA920 KP787015 		1	282							Agaricus subtilipes CA920 KP787015 								
+Agaricus subtilipes CA915 KP705077 A		1	282							Agaricus subtilipes CA915 KP705077 A								
+Agaricus subtilipes H LD201201 KP705078 		1	282							Agaricus subtilipes H LD201201 KP705078 								
+Agaricus subtilipes LD2012164 KP705079 		1	282							Agaricus subtilipes LD2012164 KP705079 								
+Agaricus sp. TL1644 JF495060		1	282							Agaricus sp. TL1644 JF495060								
+Agaricus eburneocanus H H7528 JF495062 		1	282							Agaricus eburneocanus H H7528 JF495062 								
+Agaricus sp. TL1650 JF495061 		1	282							Agaricus sp. TL1650 JF495061 								
+Agaricus bambusae var australis I A horakianus Horak69194 KP705083		1	282							Agaricus bambusae var australis I A horakianus Horak69194 KP705083								
+Agaricus subantarcticus GAL9419 DQ232642 		1	282							Agaricus subantarcticus GAL9419 DQ232642 								
+Agaricus augustus LAPAG233 KJ548135		1	282							Agaricus augustus LAPAG233 KJ548135								
+Agaricus crocodilinus LAPAG223 KJ548127		1	282							Agaricus crocodilinus LAPAG223 KJ548127								
+Agaricus greuteri H PALGR57140 KF114473 		1	282							Agaricus greuteri H PALGR57140 KF114473 								
+Agaricus abruptibulbus LAPAG524 KJ548132		1	282							Agaricus abruptibulbus LAPAG524 KJ548132								
+Agaricus macrolepis LAPAG409 KJ548128		1	282							Agaricus macrolepis LAPAG409 KJ548128								
+Agaricus fissuratus LAPAG488 JQ824135		1	282							Agaricus fissuratus LAPAG488 JQ824135								
+Agaricus cf tenuivolvatus LAPAG714 KJ548134		1	282							Agaricus cf tenuivolvatus LAPAG714 KJ548134								
+Agaricus macrocarpus LAPAG575 KJ548129 		1	282							Agaricus macrocarpus LAPAG575 KJ548129 								
+Agaricus sylvicola LAPAG242 KJ548130		1	282							Agaricus sylvicola LAPAG242 KJ548130								
+Agaricus inapertus Vellinga2339 AF482834		1	282							Agaricus inapertus Vellinga2339 AF482834								
+Agaricus essettei LAPAG676 KJ548131		1	282							Agaricus essettei LAPAG676 KJ548131								
+Agaricus indistinctus I LAPAG478 		1	282							Agaricus indistinctus I LAPAG478 								
+Agaricus arvensis E MA Fungi 80999 KF114474		1	282							Agaricus arvensis E MA Fungi 80999 KF114474								
+Agaricus deserticola RWK2019 JF896228		1	282							Agaricus deserticola RWK2019 JF896228								
+Agaricus sp. DeMeijer1904 JF797196		1	282							Agaricus sp. DeMeijer1904 JF797196								
+Agaricus campbellensis H GAL9420 DQ232644 		1	282							Agaricus campbellensis H GAL9420 DQ232644 								
+Agaricus brunneolus CA490 JF797203 		1	282							Agaricus brunneolus CA490 JF797203 								

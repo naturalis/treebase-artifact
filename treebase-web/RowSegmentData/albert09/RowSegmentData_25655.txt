@@ -1,0 +1,20 @@
+	Beauveria bassiana							EU371503											
+	Beauveria pseudobassiana							NC_022708											
+	Cordyceps brongniartii							NC_011194											
+	Lecanicillium muscarium							AF487277											
+	Cordyceps militaris							NC_022834											
+	Metarhizium anisopliae							AY884128											
+	Pochonia chlamydosporia							KF479445								China			
+	Hypocrea jecorina							AF447590											
+	Fusarium solani							NC_016680											
+	Fusarium graminearum							NC_009493											
+	Fusarium oxysporum							AY945289											
+	Fusarium verticillioides							NC_016687											
+	Neurospora crassa																		
+	Aspergillus niger							NC_007445											
+	Aspergillus tubingensis							NC_007597											
+	Aspergillus fumigatus							JQ346809											
+	Paracoccidioides brasiliensis							NC_007935											
+	Trichophyton rubrum							NC_012824											
+	Epidermophyton floccosum							NC_007394											
+	Candida parapsilosis							NC_005253											

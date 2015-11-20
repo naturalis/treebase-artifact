@@ -1,0 +1,19 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Cicer_arietinum_XP_004514350.1_NAC_domain-containing_protein 72-like		1	384							Cicer_arietinum_XP_004514350.1_NAC_domain-containing_protein 72-like								
+Cicer_arietinum_ACS94037.1_NAC_family_transcription_factor 4		1	384							Cicer_arietinum_ACS94037.1_NAC_family_transcription_factor 4								
+Ricinus_communis_XP_002533913.1_NAC_domain-containing_protein		1	384							Ricinus_communis_XP_002533913.1_NAC_domain-containing_protein								
+Medicago_truncatula_KEH19435.1_NAC_transcription_factor-like_protein		1	384							Medicago_truncatula_KEH19435.1_NAC_transcription_factor-like_protein								
+Medicago_truncatula_KEH38790.1_NAC_transcription_factor-like_protein1		1	384							Medicago_truncatula_KEH38790.1_NAC_transcription_factor-like_protein1								
+Vitis_vinifera_XP_002284668.1_NAC_domain-containing_protein_72		1	384							Vitis_vinifera_XP_002284668.1_NAC_domain-containing_protein_72								
+CiNAC3_KM366067		1	384							CiNAC3_KM366067								
+CiNAC4_KM366068		1	384							CiNAC4_KM366068								
+GmNAC3_NP_001238234.1		1	384							GmNAC3_NP_001238234.1								
+GmNAC4_NP_001238424.1		1	384							GmNAC4_NP_001238424.1								
+ANAC019_NP_175697.1		1	384							ANAC019_NP_175697.1								
+ANAC055_NP_188169.1		1	384							ANAC055_NP_188169.1								
+ANAC072(NP_567773.1)		1	384							ANAC072(NP_567773.1)								
+Brassica_napus_AAP35056.1_NAC485		1	384							Brassica_napus_AAP35056.1_NAC485								
+Lotus_japonicus_AK339627.1_cDNA,clone: LjFL3-039-CC06		1	384							Lotus_japonicus_AK339627.1_cDNA,clone: LjFL3-039-CC06								
+Lotus_japonicus_AK339756.1_cDNA,clone: LjFL3-077-CD02		1	384							Lotus_japonicus_AK339756.1_cDNA,clone: LjFL3-077-CD02								
+Phaseolus_vulgaris_AGV54694.1_NAC_domain-containing_protein_72-like_isoform_1		1	384							Phaseolus_vulgaris_AGV54694.1_NAC_domain-containing_protein_72-like_isoform_1								
+Phaseolus_vulgaris_XP_007149614.1_hypothetical_protein_PHAVU_005G084500g		1	384							Phaseolus_vulgaris_XP_007149614.1_hypothetical_protein_PHAVU_005G084500g								

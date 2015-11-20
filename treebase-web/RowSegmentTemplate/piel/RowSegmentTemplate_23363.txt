@@ -1,0 +1,126 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Acanthisitta chloris AY325307		1	15392							Acanthisitta chloris AY325307								
+Acridotheres cristatellus NC_015613		1	15392							Acridotheres cristatellus NC_015613								
+Acrocephalus scirpaceus NC_010227		1	15392							Acrocephalus scirpaceus NC_010227								
+Agelaius phoeniceus		1	15392							Agelaius phoeniceus								
+Agelaius phoeniceus JX516062		1	15392							Agelaius phoeniceus JX516062								
+Alauda arvensis NC_020425		1	15392							Alauda arvensis NC_020425								
+Amblyramphus holosericeus JX516063		1	15392							Amblyramphus holosericeus JX516063								
+Bombycilla cedrorum		1	15392							Bombycilla cedrorum								
+Bucanetes mongolicus		1	15392							Bucanetes mongolicus								
+Campylorhynchus zonatus KF509924		1	15392							Campylorhynchus zonatus KF509924								
+Cardinalis cardinalis		1	15392							Cardinalis cardinalis								
+Carduelis pinus		1	15392							Carduelis pinus								
+Carduelis psaltria		1	15392							Carduelis psaltria								
+Carduelis sinica		1	15392							Carduelis sinica								
+Carduelis sinica NC_015196		1	15392							Carduelis sinica NC_015196								
+Carduelis spinus NC_015198		1	15392							Carduelis spinus NC_015198								
+Carpodacus cassinii		1	15392							Carpodacus cassinii								
+Carpodacus erythrinus		1	15392							Carpodacus erythrinus								
+Carpodacus mexicanus		1	15392							Carpodacus mexicanus								
+Carpodacus roseus		1	15392							Carpodacus roseus								
+Chlorophanes spiza		1	15392							Chlorophanes spiza								
+Chrysomus cyanopus JX516076		1	15392							Chrysomus cyanopus JX516076								
+Chrysomus icterocephalus JX516060		1	15392							Chrysomus icterocephalus JX516060								
+Chrysomus ruficapillus JX516056		1	15392							Chrysomus ruficapillus JX516056								
+Chrysomus thilius JX516069		1	15392							Chrysomus thilius JX516069								
+Chrysomus xanthophthalmus JX516059		1	15392							Chrysomus xanthophthalmus JX516059								
+Cnemotriccus fuscatus NC_007975		1	15392							Cnemotriccus fuscatus NC_007975								
+Coccothraustes coccothraustes		1	15392							Coccothraustes coccothraustes								
+Corvus frugilegus NC_002069		1	15392							Corvus frugilegus NC_002069								
+Curaeus curaeus JX516070		1	15392							Curaeus curaeus JX516070								
+Cyanopica cyanus NC_015824		1	15392							Cyanopica cyanus NC_015824								
+Cyanoptila cyanomelana NC_015232		1	15392							Cyanoptila cyanomelana NC_015232								
+Dives dives JX516061		1	15392							Dives dives JX516061								
+Emberiza chrysophrys NC_015233		1	15392							Emberiza chrysophrys NC_015233								
+Emberiza tristrami NC_015234		1	15392							Emberiza tristrami NC_015234								
+Eopsaltria australis NC_019665		1	15392							Eopsaltria australis NC_019665								
+Epthianura albifrons NC_019664		1	15392							Epthianura albifrons NC_019664								
+Euphagus cyanocephalus JX516072		1	15392							Euphagus cyanocephalus JX516072								
+Ficedula zanthopygia NC_015802		1	15392							Ficedula zanthopygia NC_015802								
+Fringilla coelebs		1	15392							Fringilla coelebs								
+Garrulax canorus NC_020429		1	15392							Garrulax canorus NC_020429								
+Garrulus glandarius NC_015810		1	15392							Garrulus glandarius NC_015810								
+Gnorimopsar chopi JX516055		1	15392							Gnorimopsar chopi JX516055								
+Gracula religiosa NC_015898		1	15392							Gracula religiosa NC_015898								
+Gymnomystax mexicanus JX516075		1	15392							Gymnomystax mexicanus JX516075								
+Hemignathus flavus		1	15392							Hemignathus flavus								
+Hemignathus parvus		1	15392							Hemignathus parvus								
+Hemignathus stejnegeri		1	15392							Hemignathus stejnegeri								
+Hemignathus virens virens		1	15392							Hemignathus virens virens								
+Hemignathus virens wilsoni		1	15392							Hemignathus virens wilsoni								
+Hesperiphona vespertina		1	15392							Hesperiphona vespertina								
+Himatione sanguinea		1	15392							Himatione sanguinea								
+Hyliota flavigaster		1	15392							Hyliota flavigaster								
+Icterus mesomelas JX516068		1	15392							Icterus mesomelas JX516068								
+Lampropsar tanagrinus JX516057		1	15392							Lampropsar tanagrinus JX516057								
+Lanius tephronotus JX486029		1	15392							Lanius tephronotus JX486029								
+Leiothrix argentauris NC_015114		1	15392							Leiothrix argentauris NC_015114								
+Leiothrix lutea NC_020427		1	15392							Leiothrix lutea NC_020427								
+Lepidothrix coronata		1	15392							Lepidothrix coronata								
+Leucosticte arctoa		1	15392							Leucosticte arctoa								
+Leucosticte brandti		1	15392							Leucosticte brandti								
+Loxia curvirostra		1	15392							Loxia curvirostra								
+Loxops caeruleirostris		1	15392							Loxops caeruleirostris								
+Luscinia calliope NC_015074		1	15392							Luscinia calliope NC_015074								
+Macroagelaius imthurni JX516073		1	15392							Macroagelaius imthurni JX516073								
+Malurus melanocephalus		1	15392							Malurus melanocephalus								
+Melamprosops phaeosoma		1	15392							Melamprosops phaeosoma								
+Menura novaehollandiae NC_007883		1	15392							Menura novaehollandiae NC_007883								
+Molothrus aeneus JX516067		1	15392							Molothrus aeneus JX516067								
+Molothrus badius JX516074		1	15392							Molothrus badius JX516074								
+Nesopsar nigerrimus JX516054		1	15392							Nesopsar nigerrimus JX516054								
+Notiomystis cincta		1	15392							Notiomystis cincta								
+Nucifraga columbiana KF509923		1	15392							Nucifraga columbiana KF509923								
+Oedistoma iliolophum		1	15392							Oedistoma iliolophum								
+Oreomystis bairdi		1	15392							Oreomystis bairdi								
+Oreomystis mana		1	15392							Oreomystis mana								
+Oreopsar bolivianus JX516058		1	15392							Oreopsar bolivianus JX516058								
+Oriolus chinensis NC_020424		1	15392							Oriolus chinensis NC_020424								
+Paroreomyza montana		1	15392							Paroreomyza montana								
+Passer domesticus		1	15392							Passer domesticus								
+Petroica boodang NC_019666		1	15392							Petroica boodang NC_019666								
+Petroica goodenovii NC_019667		1	15392							Petroica goodenovii NC_019667								
+Petroica phoenicea NC_019668		1	15392							Petroica phoenicea NC_019668								
+Pica pica NC_015200		1	15392							Pica pica NC_015200								
+Picathartes gymnocephalus		1	15392							Picathartes gymnocephalus								
+Pinicola enucleator		1	15392							Pinicola enucleator								
+Podoces hendersoni NC_014879		1	15392							Podoces hendersoni NC_014879								
+Poecile atricapilla		1	15392							Poecile atricapilla								
+Pseudoleistes guirahuro JX516071		1	15392							Pseudoleistes guirahuro JX516071								
+Pseudoleistes virescens JX516066		1	15392							Pseudoleistes virescens JX516066								
+Pseudonestor xanthophrys		1	15392							Pseudonestor xanthophrys								
+Pseudopodoces humilis NC_014341		1	15392							Pseudopodoces humilis NC_014341								
+Pycnonotus sinensis NC_013838		1	15392							Pycnonotus sinensis NC_013838								
+Pycnonotus taivanus NC_013483		1	15392							Pycnonotus taivanus NC_013483								
+Pyrrhula pyrrhula		1	15392							Pyrrhula pyrrhula								
+Regulus calendula		1	15392							Regulus calendula								
+Scytalopus magellanicus		1	15392							Scytalopus magellanicus								
+Serinus albogularis		1	15392							Serinus albogularis								
+Serinus canaria		1	15392							Serinus canaria								
+Serinus serinus		1	15392							Serinus serinus								
+Sitta carolinensis		1	15392							Sitta carolinensis								
+Smithornis sharpei NC_000879		1	15392							Smithornis sharpei NC_000879								
+Sturnus cineraceus NC_015237		1	15392							Sturnus cineraceus NC_015237								
+Sturnus nigricollis NC_020423		1	15392							Sturnus nigricollis NC_020423								
+Sturnus sericeus NC_014455		1	15392							Sturnus sericeus NC_014455								
+Sturnus tristis NC_015195		1	15392							Sturnus tristis NC_015195								
+Sylvia atricapilla NC_010228		1	15392							Sylvia atricapilla NC_010228								
+Sylvia crassirostris NC_010229		1	15392							Sylvia crassirostris NC_010229								
+Tachycineta albilinea NC_020601		1	15392							Tachycineta albilinea NC_020601								
+Tachycineta albiventer NC_020602		1	15392							Tachycineta albiventer NC_020602								
+Tachycineta bicolor NC_020596		1	15392							Tachycineta bicolor NC_020596								
+Tachycineta euchrysea NC_020598		1	15392							Tachycineta euchrysea NC_020598								
+Tachycineta leucorrhoa NC_020603		1	15392							Tachycineta leucorrhoa NC_020603								
+Tachycineta stolzmanni NC_020600		1	15392							Tachycineta stolzmanni NC_020600								
+Taeniopygia guttata NC_007897		1	15392							Taeniopygia guttata NC_007897								
+Thamnophilus nigrocinereus		1	15392							Thamnophilus nigrocinereus								
+Thraupis episcopus		1	15392							Thraupis episcopus								
+Tregellasia leucops		1	15392							Tregellasia leucops								
+Turdus migratorius		1	15392							Turdus migratorius								
+Uragus sibiricus		1	15392							Uragus sibiricus								
+Urocissa erythrorhyncha NC_020426		1	15392							Urocissa erythrorhyncha NC_020426								
+Vestiaria coccinea		1	15392							Vestiaria coccinea								
+Vidua chalybeata NC_000880		1	15392							Vidua chalybeata NC_000880								
+Vireo olivaceus		1	15392							Vireo olivaceus								
+Xanthopsar flavus JX516065		1	15392							Xanthopsar flavus JX516065								

@@ -1,0 +1,33 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Cochlostoma Turritus porroi porroi 2147		1	543							Cochlostoma Turritus porroi porroi 2147								
+Cochlostoma Turritus porroi porroi 2148		1	543							Cochlostoma Turritus porroi porroi 2148								
+Cochlostoma Turritus porroi porroi 2149		1	543							Cochlostoma Turritus porroi porroi 2149								
+Cochlostoma Turritus porroi porroi 2150		1	543							Cochlostoma Turritus porroi porroi 2150								
+Cochlostoma Turritus porroi gredleri 2152		1	543							Cochlostoma Turritus porroi gredleri 2152								
+Cochlostoma Turritus porroi gredleri 2154		1	543							Cochlostoma Turritus porroi gredleri 2154								
+Cochlostoma Turritus porroi gredleri 2157		1	543							Cochlostoma Turritus porroi gredleri 2157								
+Cochlostoma Turritus porroi gredleri 2158		1	543							Cochlostoma Turritus porroi gredleri 2158								
+Cochlostoma Turritus porroi gredleri 2159		1	543							Cochlostoma Turritus porroi gredleri 2159								
+Cochlostoma Turritus porroi gredleri 2160		1	543							Cochlostoma Turritus porroi gredleri 2160								
+Cochlostoma Turritus porroi gredleri 2162		1	543							Cochlostoma Turritus porroi gredleri 2162								
+Cochlostoma Turritus porroi gredleri 2163		1	543							Cochlostoma Turritus porroi gredleri 2163								
+Cochlostoma Turritus philippianum2167		1	543							Cochlostoma Turritus philippianum2167								
+Cochlostoma Turritus porroi gredleri 2168		1	543							Cochlostoma Turritus porroi gredleri 2168								
+Cochlostoma Turritus porroi gredleri 2169		1	543							Cochlostoma Turritus porroi gredleri 2169								
+Cochlostoma Turritus porroi stabilei 2171		1	543							Cochlostoma Turritus porroi stabilei 2171								
+Cochlostoma Turritus porroi stabilei 2172		1	543							Cochlostoma Turritus porroi stabilei 2172								
+Cochlostoma Turritus porroi stabilei 2173		1	543							Cochlostoma Turritus porroi stabilei 2173								
+Cochlostoma Turritus porroi stabilei 2174		1	543							Cochlostoma Turritus porroi stabilei 2174								
+Cochlostoma Turritus porroi stabilei		1	543							Cochlostoma Turritus porroi stabilei								
+Cochlostoma Turritus porroi porroi 2176		1	543							Cochlostoma Turritus porroi porroi 2176								
+Cochlostoma Turritus porroi porroi 2179		1	543							Cochlostoma Turritus porroi porroi 2179								
+Cochlostoma Turritus porroi porroi 2181		1	543							Cochlostoma Turritus porroi porroi 2181								
+Cochlostoma Turritus porroi porroi 2186		1	543							Cochlostoma Turritus porroi porroi 2186								
+Cochlostoma Turritus porroi porroi 2187		1	543							Cochlostoma Turritus porroi porroi 2187								
+Cochlostoma Turritus porroi porroi 2188		1	543							Cochlostoma Turritus porroi porroi 2188								
+Cochlostoma Turritus porroi gredleri 2191		1	543							Cochlostoma Turritus porroi gredleri 2191								
+Cochlostoma Turritus porroi stabilei 2193		1	543							Cochlostoma Turritus porroi stabilei 2193								
+Cochlostoma Cochlostoma septemspirale septemspirale 2194		1	543							Cochlostoma Cochlostoma septemspirale septemspirale 2194								
+Cochlostoma Turritus porroi gredleri 2226		1	543							Cochlostoma Turritus porroi gredleri 2226								
+Cochlostoma Turritus porroi gredleri 2227		1	543							Cochlostoma Turritus porroi gredleri 2227								
+Cochlostoma Turritus porroi gredleri 2228		1	543							Cochlostoma Turritus porroi gredleri 2228								

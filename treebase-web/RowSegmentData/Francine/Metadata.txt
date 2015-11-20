@@ -1,0 +1,49 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Adenophorus oahuensis		1	3819	COLO			AF469789			Adenophorus oahuensis	Ranker 969							
+Campyloneurum phyllitidis		1	3819	GOET			EF104514			Campyloneurum phyllitidis	Schuettpelz 612							
+Microgramma persicariifolia		1	3819	BHCB						Microgramma persicariifolia	Almeida 2738							
+Pecluma alfredii		1	3819	GOET						Pecluma alfredii	Tejero 4944							
+Pecluma barituensis		1	3819	MCNS						Pecluma barituensis	Martínez 1459							
+Pecluma bourgeauana		1	3819	BHCB						Pecluma bourgeauana	Salino 15414							
+Pecluma camptophyllaria		1	3819	QCA						Pecluma camptophyllaria	Lehnert 191							
+Pecluma chnoophora		1	3819	BHCB						Pecluma chnoophora	Salino 15511							
+Pecluma choquetangensis		1	3819	BHCB						Pecluma choquetangensis	Almeida 3081							
+Pecluma consimilis		1	3819	MO						Pecluma consimilis	Jimenez-Pérez 5179							
+Pecluma curvans		1	3819	GOET						Pecluma curvans	Lehnert 272							
+Pecluma dispersa		1	3819	DUKE						Pecluma dispersa	Grusz 08-24							
+Pecluma divaricata		1	3819	BHCB						Pecluma divaricata	Salino 15324A							
+Pecluma dulce		1	3819	UC			AY362668			Pecluma dulce	Hill 28995							
+Pecluma eurybasis var glabrescens		1	3819	BHCB						Pecluma eurybasis var glabrescens	Almeida 3091							
+Pecluma eurybasis var villosa		1	3819	BHCB						Pecluma eurybasis var villosa	Almeida 3080							
+Pecluma filicula		1	3819	UC						Pecluma filicula	Jimenez-Pérez 2406							
+Pecluma hartwegiana		1	3819	GOET						Pecluma hartwegiana	Tejero-Diez 4934							
+Pecluma hygrometrica		1	3819	BHCB						Pecluma hygrometrica	Almeida 2602							
+Pecluma insularis		1	3819	UB						Pecluma insularis	Faria 614							
+Pecluma longepinnulata		1	3819	GOET						Pecluma longepinnulata	Tejero-Diez 4910							
+Pecluma macedoi		1	3819	CGMS						Pecluma macedoi	Lehn 1054							
+Pecluma oranensis		1	3819	MCNS						Pecluma oranensis	Chambi 514							
+Pecluma paradiseae		1	3819	HEL						Pecluma paradiseae	Christenhusz 4720							
+Pecluma pastazensis		1	3819	NY						Pecluma pastazensis	Moran 7568							
+Pecluma pectinata		1	3819	BHCB						Pecluma pectinata	Almeida 2552							
+Pecluma pectinatiformis		1	3819	BHCB						Pecluma pectinatiformis	Souza 1490							
+Pecluma perpinnata		1	3819	UC						Pecluma perpinnata	Jimenez-Pérez 1511							
+Pecluma pilosa		1	3819	UC						Pecluma pilosa	Jimenez-Pérez 2295							
+Pecluma plumula		1	3819	USM						Pecluma plumula	Lehnert 318							
+Pecluma ptilota		1	3819	MO						Pecluma ptilota	Jimenez-Pérez 5244							
+Pecluma recurvata		1	3819	BHCB						Pecluma recurvata	Souza 1493							
+Pecluma rhachipterygia		1	3819	GOET			FJ825679			Pecluma rhachipterygia	Kroemer 2718							
+Pecluma sicca		1	3819	BHCB						Pecluma sicca	Salino 15516							
+Pecluma singeri		1	3819	BHCB						Pecluma singeri	Salino 15591							
+Pecluma sursumcurrens		1	3819	GOET						Pecluma sursumcurrens	Kroemer 2909							
+Pecluma truncorum		1	3819	BHCB						Pecluma truncorum	Almeida 3053							
+Pecluma venturii		1	3819	LPB						Pecluma venturii	I. Jimenez 1287							
+Phlebodium areolatum		1	3819	GOET			FJ825690			Phlebodium areolatum	Kroemer 2706							
+Phlebodium pseudoaureum		1	3819	UC			AY362663			Phlebodium pseudoaureum	Salino 3122							
+Pleopeltis angusta var angusta		1	3819	GOET			EU650083			Pleopeltis angusta var angusta	Kroemer 2664							
+Pleopeltis hirsutissima		1	3819	GOET			DQ642272			Pleopeltis hirsutissima	Schuettpelz 622							
+Polypodium glycyrrhiza		1	3819	KANU			AF159188			Polypodium glycyrrhiza	Therrien s.n.							
+Polypodium plesiosorum		1	3819	KANU			AF159179			Polypodium plesiosorum	Barrington 924							
+Polypodium subpetiolatum		1	3819	GOET			FJ825677			Polypodium subpetiolatum	Kroemer 2662							
+Polypodium vulgare		1	3819	GOET			EF551081			Polypodium vulgare	Schwertfeger s.n.							
+Serpocaulon levigatum		1	3819	DUKE			EF551141			Serpocaulon levigatum	Schuettpelz 248							
+Serpocaulon loriceum		1	3819	NY			EF551142			Serpocaulon loriceum	Moran 6920							

@@ -1,0 +1,19 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Anopheles albimanus		1	5145							Anopheles albimanus								
+Anopheles arabiensis		1	5145							Anopheles arabiensis								
+Anopheles atroparvus		1	5145							Anopheles atroparvus								
+Anopheles christyi		1	5145							Anopheles christyi								
+Anopheles culicifacies		1	5145							Anopheles culicifacies								
+Anopheles dirus		1	5145							Anopheles dirus								
+Anopheles epiroticus		1	5145							Anopheles epiroticus								
+Anopheles farauti		1	5145							Anopheles farauti								
+Anopheles funestus		1	5145							Anopheles funestus								
+Anopheles gambiae		1	5145							Anopheles gambiae								
+Anopheles maculatus		1	5145							Anopheles maculatus								
+Anopheles melas		1	5145							Anopheles melas								
+Anopheles merus		1	5145							Anopheles merus								
+Anopheles minimus		1	5145							Anopheles minimus								
+Anopheles quadriannulatus		1	5145							Anopheles quadriannulatus								
+Anopheles sinensis		1	5145							Anopheles sinensis								
+Anopheles stephensi		1	5145							Anopheles stephensi								
+Drosophila melanogaster		1	5145							Drosophila melanogaster								

@@ -1,0 +1,24 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Xanthomonas melonis LMG 8670		1	1418							Xanthomonas melonis LMG 8670								
+Xanthomonas hyacinthi Y6 LMG 739		1	1418							Xanthomonas hyacinthi Y6 LMG 739								
+Xanthomonas translucens LMG 876		1	1418							Xanthomonas translucens LMG 876								
+Xanthomonas albilineans GPE PC73		1	1418							Xanthomonas albilineans GPE PC73								
+Xanthomonas sacchari LMG 471		1	1418							Xanthomonas sacchari LMG 471								
+Strain 521		1	1418							Strain 521								
+Lysobacter enzymogenes 495		1	1418							Lysobacter enzymogenes 495								
+Lysobacter enzymogenes C3		1	1418							Lysobacter enzymogenes C3								
+Stenotrophomonas maltophilia IAM 12423		1	1418							Stenotrophomonas maltophilia IAM 12423								
+Stenotrophomonas humi R 32729		1	1418							Stenotrophomonas humi R 32729								
+Stenotrophomonas acidaminiphila AMX 19		1	1418							Stenotrophomonas acidaminiphila AMX 19								
+Pseudoxanthomonas mexicana AMX 26B		1	1418							Pseudoxanthomonas mexicana AMX 26B								
+Pseudoxanthomonas japonensis 12 3		1	1418							Pseudoxanthomonas japonensis 12 3								
+Pseudoxanthomonas broegbernensis NBRC 101013		1	1418							Pseudoxanthomonas broegbernensis NBRC 101013								
+Lysobacter koreensis Dae16		1	1418							Lysobacter koreensis Dae16								
+Lysobacter gummosus KCTC 12132		1	1418							Lysobacter gummosus KCTC 12132								
+Lysobacter antibioticus USAM 3C		1	1418							Lysobacter antibioticus USAM 3C								
+Lysobacter defluvii IMMIB APB 9		1	1418							Lysobacter defluvii IMMIB APB 9								
+Lysobacter daejeonensis GH1 9		1	1418							Lysobacter daejeonensis GH1 9								
+Lysobacter concretionis Ko07		1	1418							Lysobacter concretionis Ko07								
+Luteimonas mephitis B1953 27 1		1	1418							Luteimonas mephitis B1953 27 1								
+Luteimonas lutimaris G3		1	1418							Luteimonas lutimaris G3								
+Luteimonas marina FR1330		1	1418							Luteimonas marina FR1330								

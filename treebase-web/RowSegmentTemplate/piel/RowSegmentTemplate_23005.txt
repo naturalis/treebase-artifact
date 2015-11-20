@@ -1,0 +1,40 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Pythium adhaerens HQ111468 CBS 127278		1	707							Pythium adhaerens HQ111468 CBS 127278								
+Pythium angustatum HQ643437 CBS52274		1	707							Pythium angustatum HQ643437 CBS52274								
+Pythium apleroticum HQ643444 CBS77281		1	707							Pythium apleroticum HQ643444 CBS77281								
+Pythium aquatile HQ643445 CBS21580		1	707							Pythium aquatile HQ643445 CBS21580								
+Pythium aristosporum HQ643447 CBS26338		1	707							Pythium aristosporum HQ643447 CBS26338								
+Pythium arrhenomanes AY858635 CBS34262		1	707							Pythium arrhenomanes AY858635 CBS34262								
+Pythium capillosum HQ643483 CBS22294		1	707							Pythium capillosum HQ643483 CBS22294								
+Pythium catenulatum HQ643494 CBS84268		1	707							Pythium catenulatum HQ643494 CBS84268								
+Pythium chondricola HQ643498 CBS20385		1	707							Pythium chondricola HQ643498 CBS20385								
+Pythium coloratum HQ643501 CBS15464		1	707							Pythium coloratum HQ643501 CBS15464								
+Pythium conidiophorum HQ643509		1	707							Pythium conidiophorum HQ643509								
+Pythium diclinum HQ643524 CBS66479		1	707							Pythium diclinum HQ643524 CBS66479								
+Pythium dissimile HQ643526 CBS15564		1	707							Pythium dissimile HQ643526 CBS15564								
+Pythium dissotocum AY598634 CBS 166.68		1	707							Pythium dissotocum AY598634 CBS 166.68								
+Pythium flevoense HQ643537 CBS23672		1	707							Pythium flevoense HQ643537 CBS23672								
+Pythium folliculosum HQ643540 CBS22094		1	707							Pythium folliculosum HQ643540 CBS22094								
+Pythium graminicola HQ643545 CBS32762		1	707							Pythium graminicola HQ643545 CBS32762								
+Pythium inflatum HQ643566 CBS16868		1	707							Pythium inflatum HQ643566 CBS16868								
+Pythium lutarium HQ643682 CBS22288		1	707							Pythium lutarium HQ643682 CBS22288								
+Pythium pachycaule HQ643726 CBS22494		1	707							Pythium pachycaule HQ643726 CBS22494								
+Pythium marinum AY598689 CBS 750.96		1	707							Pythium marinum AY598689 CBS 750.96								
+Pythium pectinolyticum HQ643739 CBS122643		1	707							Pythium pectinolyticum HQ643739 CBS122643								
+Pythium myriotylum AY598678 CBS 254.70		1	707							Pythium myriotylum AY598678 CBS 254.70								
+Pythium oopapillum FJ655174 DAOM BR632		1	707							Pythium oopapillum FJ655174 DAOM BR632								
+Pythium periilum HQ643740 CBS16968		1	707							Pythium periilum HQ643740 CBS16968								
+Pythium plurisporium HQ643749 CBS100530		1	707							Pythium plurisporium HQ643749 CBS100530								
+Pythium pyrilobum HQ643755 CBS15864		1	707							Pythium pyrilobum HQ643755 CBS15864								
+Pythium salpingophorum HQ643768 CBS47150		1	707							Pythium salpingophorum HQ643768 CBS47150								
+Pythium scleroteichum HQ643771 CBS29437		1	707							Pythium scleroteichum HQ643771 CBS29437								
+Pythium sulcatum AY598682 CBS 603.73		1	707							Pythium sulcatum AY598682 CBS 603.73								
+Pythium torulosum HQ643859 CBS31633		1	707							Pythium torulosum HQ643859 CBS31633								
+Pythium volutum HQ643970 Lev1528		1	707							Pythium volutum HQ643970 Lev1528								
+Pythium absentium UZ00758		1	707							Pythium absentium UZ00758								
+Pythium absentium UZ00769		1	707							Pythium absentium UZ00769								
+Pythium biformum UZ00796		1	707							Pythium biformum UZ00796								
+Pythium biformum UZ00798		1	707							Pythium biformum UZ00798								
+Pythium brachiatum UZ00735		1	707							Pythium brachiatum UZ00735								
+Pythium brachiatum UZ00736		1	707							Pythium brachiatum UZ00736								
+Pythium brachiatum UZ00746		1	707							Pythium brachiatum UZ00746								

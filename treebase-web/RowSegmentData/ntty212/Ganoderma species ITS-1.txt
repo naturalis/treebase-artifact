@@ -1,0 +1,64 @@
+Row Taxon Label	Start Index	End Index	GenBank Accession	Country
+Ganoderma lucidum Korea IUM-0047	1	559	JQ520174	Korea
+Ganoderma lucidum Korea IUM-0757	1	559	JQ520175	Korea
+Ganoderma lucidum Korea IUM-0938	1	559	JQ520176	Korea
+Ganoderma lucidum Korea IUM-3986	1	559	JQ520177	Korea
+Ganoderma lucidum Korea IUM-4002	1	559	JQ520178	Korea
+Ganoderma lucidum Korea IUM-4100	1	559	JQ520179	Korea
+Ganoderma lucidum Korea IUM-4537	1	559	KT717953	Korea
+Ganoderma lucidum Korea ASI-7004	1	559	JQ520167	Korea
+Ganoderma lucidum Korea ASI-7013	1	559	JQ520168	Korea
+Ganoderma lucidum Korea ASI-7071	1	559	JQ520169	Korea
+Ganoderma lucidum Korea ASI-7074	1	559	JQ520170	Korea
+Ganoderma lucidum Korea ASI-7091	1	559	JQ520171	Korea
+Ganoderma lucidum Korea ASI-7094	1	559	JQ520172	Korea
+Ganoderma lucidum Korea KU-4035	1	559	JQ520207	Korea
+Ganoderma lucidum Korea ASI-7135	1	559	JQ520173	Korea
+Ganoderma lucidum Bangladesh IUM-4304	1	559	JQ520183	Bangladesh
+Ganoderma lucidum Japan KACC42232	1	559	KT717954	Japan
+Ganoderma lucidum Japan KACC51689	1	559	KT717955	Japan
+Ganoderma lucidum Japan KACC51690	1	559	KT717956	Japan
+Ganoderma lucidum Canada ATCC46755	1	559	JQ520185	Canada
+Ganoderma lucidum France Gl-1-3	1	559	JN588574	France
+Ganoderma lucidum Italy Glu1	1	559	JN588575	Italy
+Ganoderma lucidum Finland Dai 11593	1	559	JQ781852	Finland
+Ganoderma lucidum Sweden Dai 2272	1	559	JQ781851	Sweden
+Ganoderma lucidum U.K HMAS86597	1	559	AY884176	U.K
+Ganoderma sichuanense China HMAS60537	1	559	JN197281	China
+Ganoderma sichuanense China HMAS62503	1	559	JF915405	China
+Ganoderma sichuanense China HMAS76566	1	559	JF915406	China
+Ganoderma sichuanense China HMAS99391	1	559	JF915407	China
+Ganoderma sichuanense China HMAS130128	1	559	JF915404	China
+Ganoderma sichuanense China HMAS130131	1	559	JF915408	China
+Ganoderma sichuanense China HMAS240175	1	559	JF915393	China
+Ganoderma sichuanense China HMAS240176	1	559	JF915394	China
+Ganoderma sichuanense China HMAS240177	1	559	JF915395	China
+Ganoderma sichuanense China HMAS240178	1	559	JF915396	China
+Ganoderma sichuanense China HMAS240187	1	559	JF915397	China
+Ganoderma sichuanense China HMAS250672	1	559	JF915398	China
+Ganoderma sichuanense China HMAS250677	1	559	JF915399	China
+Ganoderma sichuanense China HMAS251145	1	559	JF915400	China
+Ganoderma sichuanense China HMAS251146	1	559	JF915401	China
+Ganoderma sichuanense China HMAS251147	1	559	JF915402	China
+Ganoderma sichuanense China HMAS251148	1	559	JF915403	China
+Ganoderma lingzhi China Cui9164	1	559	JQ781859	China
+Ganoderma lingzhi China Cui6982	1	559	JQ781862	China
+Ganoderma lingzhi China Dai12438	1	559	JQ781861	China
+Ganoderma lingzhi China Wu 1006-38	1	559	JQ781858	China
+Ganoderma meredithae U.S.A ATCC64492	1	559	JQ520190	U.S.A
+Ganoderma meredithae Unknown ASI-7140	1	559	JQ520191	Unknown
+Ganoderma multipileum China BCRC37033	1	559	EU021462	China
+Ganoderma multipileum China HMAS242384	1	559	JF915409	China
+Ganoderma resinaceum U.K. CBS152.27	1	559	JQ520200	U.K
+Ganoderma resinaceum Czech IUM-3651	1	559	JQ520204	Czech
+Ganoderma resinaceum U.K. HMAS86599	1	559	AY884177	U.K 
+Ganoderma tropicum China HMAS263143	1	559	JF915410	China
+Ganoderma tropicum Taiwan Wu 0407-2	1	559	EU021458	Taiwan
+Ganoderma tsugae Canada ATCC64795	1	559	JQ520215	Canada
+Ganoderma tsugae U.S.A ASI-7064	1	559	JQ520216	U.S.A
+Ganoderma weberianum Philippines CBS219.36	1	559	JQ520219	Philippines
+Ganoderma weberianum China HMAS97365	1	559	JF915411	China
+Ganoderma weberianum Australia SUT H2	1	559	AY569451	Australia
+Tomophagus colossus Philippines CGMCC5.763	1	559	ZQ081068	Philippines
+Tomophagus colossus Vietnam HCMC 10	1	559	JN184396	Vietnam
+				

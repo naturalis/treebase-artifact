@@ -1,0 +1,64 @@
+Row Taxon Label	Start Index	End Index	GenBank Accession	Sample Taxon Label	Country
+Ganoderma lucidum Korea IUM-0047	1	559	JQ520174	Ganoderma lucidum IUM-0047	Korea
+Ganoderma lucidum Korea IUM-0757	1	559	JQ520175	Ganoderma lucidum IUM-0757	Korea
+Ganoderma lucidum Korea IUM-0938	1	559	JQ520176	Ganoderma lucidum IUM-0938	Korea
+Ganoderma lucidum Korea IUM-3986	1	559	JQ520177	Ganoderma lucidum IUM-3986	Korea
+Ganoderma lucidum Korea IUM-4002	1	559	JQ520178	Ganoderma lucidum IUM-4002	Korea
+Ganoderma lucidum Korea IUM-4100	1	559	JQ520179	Ganoderma lucidum IUM-4100	Korea
+Ganoderma lucidum Korea IUM-4537	1	559	KT717953	Ganoderma lucidum IUM-4537	Korea
+Ganoderma lucidum Korea ASI-7004	1	559	JQ520167	Ganoderma lucidum ASI-7004	Korea
+Ganoderma lucidum Korea ASI-7013	1	559	JQ520168	Ganoderma lucidum ASI-7013	Korea
+Ganoderma lucidum Korea ASI-7071	1	559	JQ520169	Ganoderma lucidum ASI-7071	Korea
+Ganoderma lucidum Korea ASI-7074	1	559	JQ520170	Ganoderma lucidum ASI-7074	Korea
+Ganoderma lucidum Korea ASI-7091	1	559	JQ520171	Ganoderma lucidum ASI-7091	Korea
+Ganoderma lucidum Korea ASI-7094	1	559	JQ520172	Ganoderma lucidum ASI-7094	Korea
+Ganoderma lucidum Korea KU-4035	1	559	JQ520207	Ganoderma lucidum KU-4035	Korea
+Ganoderma lucidum Korea ASI-7135	1	559	JQ520173	Ganoderma lucidum ASI-7135	Korea
+Ganoderma lucidum Bangladesh IUM-4304	1	559	JQ520183	Ganoderma lucidum IUM-4304	Bangladesh
+Ganoderma lucidum Japan KACC42232	1	559	KT717954	Ganoderma lucidum KACC42232	Japan
+Ganoderma lucidum Japan KACC51689	1	559	KT717955	Ganoderma lucidum KACC51689	Japan
+Ganoderma lucidum Japan KACC51690	1	559	KT717956	Ganoderma lucidum KACC51690	Japan
+Ganoderma lucidum Canada ATCC46755	1	559	JQ520185	Ganoderma lucidum ATCC46755	Canada
+Ganoderma lucidum France Gl-1-3	1	559	JN588574	Ganoderma lucidum Gl-1-3	France
+Ganoderma lucidum Italy Glu1	1	559	JN588575	Ganoderma lucidum Glu1	Italy
+Ganoderma lucidum Finland Dai 11593	1	559	JQ781852	Ganoderma lucidum Dai 11593	Finland
+Ganoderma lucidum Sweden Dai 2272	1	559	JQ781851	Ganoderma lucidum Dai 2272	Sweden
+Ganoderma lucidum U.K HMAS86597	1	559	AY884176	Ganoderma lucidum HMAS86597	U.K
+Ganoderma sichuanense China HMAS60537	1	559	JN197281	Ganoderma sichuanense HMAS60537	China
+Ganoderma sichuanense China HMAS62503	1	559	JF915405	Ganoderma sichuanense HMAS62503	China
+Ganoderma sichuanense China HMAS76566	1	559	JF915406	Ganoderma sichuanense HMAS76566	China
+Ganoderma sichuanense China HMAS99391	1	559	JF915407	Ganoderma sichuanense HMAS99391	China
+Ganoderma sichuanense China HMAS130128	1	559	JF915404	Ganoderma sichuanense HMAS130128	China
+Ganoderma sichuanense China HMAS130131	1	559	JF915408	Ganoderma sichuanense HMAS130131	China
+Ganoderma sichuanense China HMAS240175	1	559	JF915393	Ganoderma sichuanense HMAS240175	China
+Ganoderma sichuanense China HMAS240176	1	559	JF915394	Ganoderma sichuanense HMAS240176	China
+Ganoderma sichuanense China HMAS240177	1	559	JF915395	Ganoderma sichuanense HMAS240177	China
+Ganoderma sichuanense China HMAS240178	1	559	JF915396	Ganoderma sichuanense HMAS240178	China
+Ganoderma sichuanense China HMAS240187	1	559	JF915397	Ganoderma sichuanense HMAS240187	China
+Ganoderma sichuanense China HMAS250672	1	559	JF915398	Ganoderma sichuanense HMAS250672	China
+Ganoderma sichuanense China HMAS250677	1	559	JF915399	Ganoderma sichuanense HMAS250677	China
+Ganoderma sichuanense China HMAS251145	1	559	JF915400	Ganoderma sichuanense HMAS251145	China
+Ganoderma sichuanense China HMAS251146	1	559	JF915401	Ganoderma sichuanense HMAS251146	China
+Ganoderma sichuanense China HMAS251147	1	559	JF915402	Ganoderma sichuanense HMAS251147	China
+Ganoderma sichuanense China HMAS251148	1	559	JF915403	Ganoderma sichuanense HMAS251148	China
+Ganoderma lingzhi China Cui9164	1	559	JQ781859	Ganoderma lingzhi Cui9164	China
+Ganoderma lingzhi China Cui6982	1	559	JQ781862	Ganoderma lingzhi Cui6982	China
+Ganoderma lingzhi China Dai12438	1	559	JQ781861	Ganoderma lingzhi Dai12438	China
+Ganoderma lingzhi China Wu 1006-38	1	559	JQ781858	Ganoderma lingzhi Wu 1006-38	China
+Ganoderma meredithae U.S.A ATCC64492	1	559	JQ520190	Ganoderma meredithae ATCC64492	U.S.A
+Ganoderma meredithae Unknown ASI-7140	1	559	JQ520191	Ganoderma meredithae ASI-7140	Unknown
+Ganoderma multipileum China BCRC37033	1	559	EU021462	Ganoderma multipileum BCRC37033	China
+Ganoderma multipileum China HMAS242384	1	559	JF915409	Ganoderma multipileum HMAS242384	China
+Ganoderma resinaceum U.K. CBS152.27	1	559	JQ520200	Ganoderma resinaceum CBS152.27	U.K
+Ganoderma resinaceum Czech IUM-3651	1	559	JQ520204	Ganoderma resinaceum IUM-3651	Czech
+Ganoderma resinaceum U.K. HMAS86599	1	559	AY884177	Ganoderma resinaceum HMAS86599	U.K 
+Ganoderma tropicum China HMAS263143	1	559	JF915410	Ganoderma tropicum HMAS263143	China
+Ganoderma tropicum Taiwan Wu 0407-2	1	559	EU021458	Ganoderma tropicum Wu 0407-2	Taiwan
+Ganoderma tsugae Canada ATCC64795	1	559	JQ520215	Ganoderma tsugae ATCC64795	Canada
+Ganoderma tsugae U.S.A ASI-7064	1	559	JQ520216	Ganoderma tsugae ASI-7064	U.S.A
+Ganoderma weberianum Philippines CBS219.36	1	559	JQ520219	Ganoderma weberianum CBS219.36	Philippines
+Ganoderma weberianum China HMAS97365	1	559	JF915411	Ganoderma weberianum HMAS97365	China
+Ganoderma weberianum Australia SUT H2	1	559	AY569451	Ganoderma weberianum SUT H2	Australia
+Tomophagus colossus Philippines CGMCC5.763	1	559	ZQ081068	Tomophagus colossus CGMCC5.763	Philippines
+Tomophagus colossus Vietnam HCMC 10	1	559	JN184396	Tomophagus colossus HCMC 10	Vietnam
+					

@@ -1,0 +1,70 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Amphicosmia salleana		1	267							Amphicosmia salleana								
+Angulicervix peasei		1	267							Angulicervix peasei								
+Anoma levis		1	267							Anoma levis								
+Apoma chemnitzianum		1	267							Apoma chemnitzianum								
+Archegocoptis crenata		1	267							Archegocoptis crenata								
+Autocoptis (Autocoptis) adamsiana		1	267							Autocoptis (Autocoptis) adamsiana								
+Autocoptis (Autocoptis) menkeana		1	267							Autocoptis (Autocoptis) menkeana								
+Autocoptis (Urocoptola) arcuata		1	267							Autocoptis (Urocoptola) arcuata								
+Autocoptis (Urocoptola) evelynae 1443		1	267							Autocoptis (Urocoptola) evelynae 1443								
+Autocoptis (Urocoptola) evelynae 1342		1	267							Autocoptis (Urocoptola) evelynae 1342								
+Autocoptis (Urocoptola) guigouana		1	267							Autocoptis (Urocoptola) guigouana								
+Brachypodella caymanensis		1	267							Brachypodella caymanensis								
+Brachypodella collaris		1	267							Brachypodella collaris								
+Brachypodella costata		1	267							Brachypodella costata								
+Brachypodella dominicensis gabbi		1	267							Brachypodella dominicensis gabbi								
+Brachypodella dubia		1	267							Brachypodella dubia								
+Brachypodella morini		1	267							Brachypodella morini								
+Brachypodella pallida		1	267							Brachypodella pallida								
+Brachypodella raveni		1	267							Brachypodella raveni								
+Brachypodella riisei		1	267							Brachypodella riisei								
+Brachypodella speluncae		1	267							Brachypodella speluncae								
+Brachypodella trinitaria		1	267							Brachypodella trinitaria								
+Brevipedella angulifera		1	267							Brevipedella angulifera								
+Brevipedella portoricensis		1	267							Brevipedella portoricensis								
+Callonia elliotti		1	267							Callonia elliotti								
+Cerion striatellum crassilabris		1	267							Cerion striatellum crassilabris								
+Cochlodinella (Cochlodinella) variegata		1	267							Cochlodinella (Cochlodinella) variegata								
+Cochlodinella (Cochlodinella)  poeyana		1	267							Cochlodinella (Cochlodinella)  poeyana								
+Eucalodium sp.		1	267							Eucalodium sp.								
+Geminicoptis rocai		1	267							Geminicoptis rocai								
+Geoscala robertsi		1	267							Geoscala robertsi								
+Gongylostoma elegans elegans		1	267							Gongylostoma elegans elegans								
+Gyraxis sericata		1	267							Gyraxis sericata								
+Heterocoptis (Heterocoptis) bicorda		1	267							Heterocoptis (Heterocoptis) bicorda								
+Idiostemma alfredoi		1	267							Idiostemma alfredoi								
+Levistemma peculiaris		1	267							Levistemma peculiaris								
+Liocallonia (Cenocoptis) andresensis andresensis		1	267							Liocallonia (Cenocoptis) andresensis andresensis								
+Liparotes obesula		1	267							Liparotes obesula								
+Macroceramus microdon		1	267							Macroceramus microdon								
+Microceramus pontificus		1	267							Microceramus pontificus								
+Mychostoma album		1	267							Mychostoma album								
+Nesocoptis pruinosa pruinosa		1	267							Nesocoptis pruinosa pruinosa								
+Nodulia vignalensis balnearum		1	267							Nodulia vignalensis balnearum								
+Pfeiffericoptis (Pfeiffericoptis) fumosa		1	267							Pfeiffericoptis (Pfeiffericoptis) fumosa								
+Planostemma pilotensis		1	267							Planostemma pilotensis								
+Pleurostemma perplicata yunquensis		1	267							Pleurostemma perplicata yunquensis								
+Poecilocoptis incerta		1	267							Poecilocoptis incerta								
+Poeycoptis lituus stearnsi		1	267							Poeycoptis lituus stearnsi								
+Pseudopineria barbadensis		1	267							Pseudopineria barbadensis								
+Pycnoptychia (Pycnoptychia) scaeva		1	267							Pycnoptychia (Pycnoptychia) scaeva								
+Sagracoptis coronadoi		1	267							Sagracoptis coronadoi								
+Simplicervix inornata		1	267							Simplicervix inornata								
+Spiroceramus amplus		1	267							Spiroceramus amplus								
+Spirostemma dunkeri		1	267							Spirostemma dunkeri								
+Spirostemma tenellum		1	267							Spirostemma tenellum								
+Steatocoptis bioscai		1	267							Steatocoptis bioscai								
+Strophina laterradii		1	267							Strophina laterradii								
+Teneria teneriensis		1	267							Teneria teneriensis								
+Tenuistemma lateralis		1	267							Tenuistemma lateralis								
+Tomelasmus irroratus saccharinus		1	267							Tomelasmus irroratus saccharinus								
+Torrecoptis holguinensis		1	267							Torrecoptis holguinensis								
+Trilamellaxis proteus		1	267							Trilamellaxis proteus								
+Uncinicoptis sancticola		1	267							Uncinicoptis sancticola								
+Urocoptis (Urocoptis) ambigua		1	267							Urocoptis (Urocoptis) ambigua								
+Urocoptis (Spirocoptis) producta		1	267							Urocoptis (Spirocoptis) producta								
+Bactrocoptis rosea		1	267							Bactrocoptis rosea								
+Urocoptidae species A		1	267							Urocoptidae species A								
+Urocoptidae species B		1	267							Urocoptidae species B								
+Brachypodella spec.		1	267							Brachypodella spec.								

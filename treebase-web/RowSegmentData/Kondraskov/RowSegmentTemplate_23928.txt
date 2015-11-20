@@ -1,0 +1,55 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Prunus lusitanica		1	864				JQ776840			Prunus lusitanica								
+Prunus africana		1	864				EU669109			Prunus africana								
+Prunus grayana		1	864				JQ776857			Prunus grayana								
+Prunuspadus		1	864				JQ926626			Prunuspadus								
+Prunus wilsonii		1	864				JQ034162			Prunus wilsonii								
+Prunus incisoserrata		1	864				JQ776889			Prunus incisoserrata								
+Prunus serotina		1	864				DQ006035			Prunus serotina								
+Prunus buergeriana		1	864				JQ926628			Prunus buergeriana								
+Prunus wallichii		1	864				HM856806			Prunus wallichii								
+Prunus laurocerasus		1	864				FJ899100			Prunus laurocerasus								
+Prunus mahaleb		1	864				AF318747			Prunus mahaleb								
+Prunus maackii		1	864				JQ034152			Prunus maackii								
+Prunus persica		1	864				DQ006273			Prunus persica								
+Prunus spinulosa		1	864				JQ776844			Prunus spinulosa								
+Prunus arborea		1	864				JQ776895			Prunus arborea								
+Prunus integrifolia		1	864				HM856811			Prunus integrifolia								
+Prunus lusitanica azorica Sao Miguel		1	864				KC862356			Prunus lusitanica azorica Sao Miguel								
+Prunus lusitanica azorica Sao Miguel a		1	864				KC862357			Prunus lusitanica azorica Sao Miguel a								
+Prunus lusitanica azorica Sao Miguel b		1	864				KC862358			Prunus lusitanica azorica Sao Miguel b								
+Prunus lusitanica azorica Terceira		1	864				KC862359			Prunus lusitanica azorica Terceira								
+Prunus lusitanica azorica Terceira a		1	864				KC862360			Prunus lusitanica azorica Terceira a								
+Prunus lusitanica azorica Sao Jorge		1	864				KC862361			Prunus lusitanica azorica Sao Jorge								
+Prunus lusitanica azorica Sao Jorge a		1	864				KC862362			Prunus lusitanica azorica Sao Jorge a								
+Prunus lusitanica azorica Sao Jorge b		1	864				KC862363			Prunus lusitanica azorica Sao Jorge b								
+Prunus lusitanica azorica Pico		1	864				KC862364			Prunus lusitanica azorica Pico								
+Prunus lusitanica azorica Pico a		1	864				KC862365			Prunus lusitanica azorica Pico a								
+Prunus lusitanica azorica Pico b		1	864				KC862366			Prunus lusitanica azorica Pico b								
+Prunus lusitanica azorica Pico c		1	864				KC862367			Prunus lusitanica azorica Pico c								
+Prunus lusitanica azorica Faial		1	864				KC862368			Prunus lusitanica azorica Faial								
+Prunus lusitanica azorica Faial a		1	864				KC862369			Prunus lusitanica azorica Faial a								
+Prunus lusitanica azorica Faial b		1	864				KC862370			Prunus lusitanica azorica Faial b								
+Prunus lusitanica lusitanica Portugal		1	864				KC862372			Prunus lusitanica lusitanica Portugal								
+Prunus lusitanica azorica Flores		1	864				KC862371			Prunus lusitanica azorica Flores								
+Prunus lusitanica lusitanica Portugal a		1	864				KC862373			Prunus lusitanica lusitanica Portugal a								
+Prunus lusitanica lusitanica Portugal b		1	864				KC862374			Prunus lusitanica lusitanica Portugal b								
+Prunus lusitanica lusitanica Portugal c		1	864				KC862375			Prunus lusitanica lusitanica Portugal c								
+Prunus lusitanica lusitanica Portugal d		1	864				KC862376			Prunus lusitanica lusitanica Portugal d								
+Prunus lusitanica hixa La Gomera		1	864				KC862377			Prunus lusitanica hixa La Gomera								
+Prunus lusitanica hixa La Gomera a		1	864				KC862378			Prunus lusitanica hixa La Gomera a								
+Prunus lusitanica hixa Madeira		1	864				KC862379			Prunus lusitanica hixa Madeira								
+Prunus lusitanica hixa Madeira a		1	864				KC862380			Prunus lusitanica hixa Madeira a								
+Prunus lusitanica hixa Tenerife		1	864				KM458054			Prunus lusitanica hixa Tenerife								
+Prunus lusitanica hixa Gran Canaria		1	864				KM458056			Prunus lusitanica hixa Gran Canaria								
+Prunus lusitanica lusitanica Morocco		1	864				KM458053			Prunus lusitanica lusitanica Morocco								
+Prunus laurocerasus Madeira		1	864				KM458055			Prunus laurocerasus Madeira								
+Prunus lusitanica hixa La Gomera b		1	864				KM458052			Prunus lusitanica hixa La Gomera b								
+Physocarpus opulifolius		1	864				JQ034169			Physocarpus opulifolius								
+Holodiscus discolor		1	864				EU669091			Holodiscus discolor								
+Prunus himalyana		1	864				HM856814			Prunus himalyana								
+Prunus hypoleuca		1	864				JQ776888			Prunus hypoleuca								
+Prunus virginiana		1	864				JQ926625			Prunus virginiana								
+Prunus javanica		1	864				JQ776839			Prunus javanica								
+Prunus phaeosticta		1	864				EU669095			Prunus phaeosticta								
+Prunus minutiflora		1	864				JQ926608			Prunus minutiflora								

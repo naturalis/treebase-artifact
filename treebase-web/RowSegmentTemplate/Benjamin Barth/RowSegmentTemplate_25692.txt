@@ -1,0 +1,12 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Labidus praedator Sp. Cac1		1	1387							Labidus praedator Sp. Cac1								
+Labidus praedator Sp. Cac2		1	1387							Labidus praedator Sp. Cac2								
+Labidus praedator Sp. Tap		1	1387							Labidus praedator Sp. Tap								
+Labidus praedator Sp. TC		1	1387							Labidus praedator Sp. TC								
+Labidus coecus AY233696 AY233578		1	1387							Labidus coecus AY233696 AY233578								
+Labidus spininodis AY233697 AY233577		1	1387							Labidus spininodis AY233697 AY233577								
+Eciton burchellii AY233695 AY233576		1	1387							Eciton burchellii AY233695 AY233576								
+Eciton vagans AY233694 AY233572		1	1387							Eciton vagans AY233694 AY233572								
+Eciton mexicanum AY233691 AY233575		1	1387							Eciton mexicanum AY233691 AY233575								
+Nomamyrmex esenbeckii  AY233699 AY233579		1	1387							Nomamyrmex esenbeckii  AY233699 AY233579								
+Dorylus nigricans AY233705 AY233560		1	1387							Dorylus nigricans AY233705 AY233560								

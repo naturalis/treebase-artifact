@@ -1,0 +1,23 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Graddonia coracina ILLS 60491 USA		1	490	ILLS		ILLS 60491	JQ256423			Graddonia coracina ILLS 60491 USA					USA			
+Leucoglossum durandii HMAS70090 China		1	490	HMAS		HMAS70090	HQ222875			Leucoglossum durandii HMAS70090 China					China			
+Leucoglossum leucosporum LE 291891 Russia		1	490	LE		LE 291891	KP272114			Leucoglossum leucosporum LE 291891 Russia					Russia			
+Leucoglossum leucosporum LE 291874 Russia		1	490	LE		LE 291874	KP272112			Leucoglossum leucosporum LE 291874 Russia					Russia			
+Leucoglossum leucosporum B 70 0015492 Germany		1	490	B		B 70 0015492	KP272111			Leucoglossum leucosporum B 70 0015492 Germany					Germany			
+Leucoglossum leucosporum B 70 0015491 Germany		1	490	B		B 70 0015491	KP272110			Leucoglossum leucosporum B 70 0015491 Germany					Germany			
+Glutinoglossum heptaseptatum ILLS 63754 Czech Republic		1	490	ILLS		ILLS 63754	KC222130			Glutinoglossum heptaseptatum ILLS 63754 Czech Republic					Czech Republic			
+Glutinoglossum glutinosum ILLS 67352 USA		1	490	ILLS		ILLS 67352	KC222128			Glutinoglossum glutinosum ILLS 67352 USA					USA			
+Sabuloglossum arenarium ILLS 61043 Netherlands		1	490	ILLS		ILLS 61043	JQ256426			Sabuloglossum arenarium ILLS 61043 Netherlands					Netherlands			
+Sabuloglossum arenarium OULU-F077201 Finland		1	490	OULU		OULU-F077201	GU324765			Sabuloglossum arenarium OULU-F077201 Finland					Finland			
+Geoglossum umbratile ILLS 61040 Netherlands		1	490	ILLS		ILLS 61040	JQ256422			Geoglossum umbratile ILLS 61040 Netherlands					Netherlands			
+Geoglossum simile ILLS 67350 USA		1	490	ILLS		ILLS 67350	KC222125			Geoglossum simile ILLS 67350 USA					USA			
+Geoglossum simile ILLS 61039 USA		1	490	ILLS		ILLS 61039	JQ256421			Geoglossum simile ILLS 61039 USA					USA			
+Geoglossum cookeanum ILLS 67347 Czech Republic		1	490	ILLS		ILLS 67347 	KC222122			Geoglossum cookeanum ILLS 67347 Czech Republic					Czech Republic			
+Geoglossum cookeanum ILLS 61035 USA		1	490	ILLS		ILLS 61035	JQ256417			Geoglossum cookeanum ILLS 61035 USA					USA			
+Geoglossum glabrum ILLS 61038 USA		1	490	ILLS		ILLS 61038	JQ256420			Geoglossum glabrum ILLS 61038 USA					USA			
+Geoglossum difforme ILLS 67349 USA		1	490	ILLS		ILLS 67349	KC222124			Geoglossum difforme ILLS 67349 USA					USA			
+Geoglossum difforme ILLS 67348 USA		1	490	ILLS		ILLS 67348	KC222123			Geoglossum difforme ILLS 67348 USA					USA			
+Sarcoleotia globosa OSC63633		1	490	OSC		OSC63633	AY789410			Sarcoleotia globosa OSC63633								
+Trichoglossum octopartitum ILLS 61046 France		1	490	ILLS		ILLS 61046	JQ256429			Trichoglossum octopartitum ILLS 61046 France					France			
+Trichoglossum hirsutum ILLS 67355 USA		1	490	ILLS		ILLS 67355	KC222132			Trichoglossum hirsutum ILLS 67355 USA					USA			
+Trichoglossum hirsutum ILLS 61045 Czech Republic		1	490	ILLS		ILLS 61045	JQ256428			Trichoglossum hirsutum ILLS 61045 Czech Republic					Czech Republic			

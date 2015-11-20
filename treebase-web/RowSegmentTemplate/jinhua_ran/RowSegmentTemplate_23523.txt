@@ -1,0 +1,94 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Hesperocyparis bakeri 1		1	1947							Hesperocyparis bakeri 1								
+Hesperocyparis arizonica		1	1947							Hesperocyparis arizonica								
+Xanthocyparis vietnamensis 5		1	1947							Xanthocyparis vietnamensis 5								
+Callitropsis nootkatensis		1	1947							Callitropsis nootkatensis								
+Juniperus chinensis		1	1947							Juniperus chinensis								
+Juniperus formosana		1	1947							Juniperus formosana								
+Cupressus atlantica 4		1	1947							Cupressus atlantica 4								
+Cupressus dupreziana		1	1947							Cupressus dupreziana								
+Calocedrus decurrens		1	1947							Calocedrus decurrens								
+Platycladus orientalis		1	1947							Platycladus orientalis								
+Microbiota decussata		1	1947							Microbiota decussata								
+Tetraclinis articulata		1	1947							Tetraclinis articulata								
+Fokienia hodginsii		1	1947							Fokienia hodginsii								
+Chamaecyparis lawsoniana		1	1947							Chamaecyparis lawsoniana								
+Thujopsis dolabrata		1	1947							Thujopsis dolabrata								
+Thuja plicata		1	1947							Thuja plicata								
+Fitzroya cupressoides 1		1	1947							Fitzroya cupressoides 1								
+Diselma archeri		1	1947							Diselma archeri								
+Widdringtonia nodiflora		1	1947							Widdringtonia nodiflora								
+Neocallitropsis pancheri		1	1947							Neocallitropsis pancheri								
+Actinostrobus pyramidalis		1	1947							Actinostrobus pyramidalis								
+Callitris columellaris		1	1947							Callitris columellaris								
+Pilgerodendron uviferum		1	1947							Pilgerodendron uviferum								
+Libocedrus plumosa		1	1947							Libocedrus plumosa								
+Papuacedrus papuana		1	1947							Papuacedrus papuana								
+Austrocedrus chilensis		1	1947							Austrocedrus chilensis								
+Taxodium distichum var. imbricatum		1	1947							Taxodium distichum var. imbricatum								
+Glyptostrobus pensilis		1	1947							Glyptostrobus pensilis								
+Cryptomeria japonica		1	1947							Cryptomeria japonica								
+Athrotaxis laxifolia		1	1947							Athrotaxis laxifolia								
+Metasequoia glyptostroboides		1	1947							Metasequoia glyptostroboides								
+Sequoia sempervirens 1		1	1947							Sequoia sempervirens 1								
+Sequoiadendron giganteum		1	1947							Sequoiadendron giganteum								
+Taiwania cryptomerioides		1	1947							Taiwania cryptomerioides								
+Cunninghamia lanceolata 3		1	1947							Cunninghamia lanceolata 3								
+Torreya californica 3		1	1947							Torreya californica 3								
+Amentotaxus argotaenia 6		1	1947							Amentotaxus argotaenia 6								
+Cephalotaxus sinensis		1	1947							Cephalotaxus sinensis								
+Pseudotaxus chienii 2		1	1947							Pseudotaxus chienii 2								
+Taxus cuspidata var. nana		1	1947							Taxus cuspidata var. nana								
+Austrotaxus spicata 6		1	1947							Austrotaxus spicata 6								
+Afrocarpus gracilior 1		1	1947							Afrocarpus gracilior 1								
+Podocarpus macrophyllus		1	1947							Podocarpus macrophyllus								
+Retrophyllum comptonii 2		1	1947							Retrophyllum comptonii 2								
+Nageia fleuryi 2		1	1947							Nageia fleuryi 2								
+Falcatifolium taxoides 5		1	1947							Falcatifolium taxoides 5								
+Dacrydium elatum 2		1	1947							Dacrydium elatum 2								
+Dacrycarpus imbricatus 2		1	1947							Dacrycarpus imbricatus 2								
+Acmopyle pancheri 5		1	1947							Acmopyle pancheri 5								
+Pherosphaera fitzgeraldii 8		1	1947							Pherosphaera fitzgeraldii 8								
+Saxegothaea conspicua 1		1	1947							Saxegothaea conspicua 1								
+Microcachrys tetragona 1		1	1947							Microcachrys tetragona 1								
+Halocarpus bidwillii 1		1	1947							Halocarpus bidwillii 1								
+Lagarostrobos franklinii 3		1	1947							Lagarostrobos franklinii 3								
+Manoao colensoi 1		1	1947							Manoao colensoi 1								
+Parasitaxus usta 3		1	1947							Parasitaxus usta 3								
+Phyllocladus trichomanoides 3		1	1947							Phyllocladus trichomanoides 3								
+Lepidothamnus fonkii 4		1	1947							Lepidothamnus fonkii 4								
+Sundacarpus amarus		1	1947							Sundacarpus amarus								
+Prumnopitys andina 3		1	1947							Prumnopitys andina 3								
+Wollemia nobilis 1		1	1947							Wollemia nobilis 1								
+Agathis robusta 2		1	1947							Agathis robusta 2								
+Araucaria heterophylla		1	1947							Araucaria heterophylla								
+Sciadopitys verticillata		1	1947							Sciadopitys verticillata								
+Gnetum parvifolium		1	1947							Gnetum parvifolium								
+Welwitschia mirabilis		1	1947							Welwitschia mirabilis								
+Ephedra equisetina c1		1	1947							Ephedra equisetina c1								
+Pinus radiata		1	1947							Pinus radiata								
+Pinus armandii		1	1947							Pinus armandii								
+Cathaya argyrophylla		1	1947							Cathaya argyrophylla								
+Picea abies		1	1947							Picea abies								
+Pseudotsuga menziesii		1	1947							Pseudotsuga menziesii								
+Larix kaempferi 1		1	1947							Larix kaempferi 1								
+Nothotsuga longibracteata		1	1947							Nothotsuga longibracteata								
+Tsuga dumosa 5		1	1947							Tsuga dumosa 5								
+Keteleeria evelyniana		1	1947							Keteleeria evelyniana								
+Abies holophylla 8		1	1947							Abies holophylla 8								
+Pseudolarix amabilis		1	1947							Pseudolarix amabilis								
+Cedrus deodara 1		1	1947							Cedrus deodara 1								
+Ginkgo biloba		1	1947							Ginkgo biloba								
+Lepidozamia peroffskyana 1		1	1947							Lepidozamia peroffskyana 1								
+Encephalartos arenarius c1		1	1947							Encephalartos arenarius c1								
+Macrozamia lucida 4		1	1947							Macrozamia lucida 4								
+Ceratozamia mexicana 3		1	1947							Ceratozamia mexicana 3								
+Bowenia spectabilis 1		1	1947							Bowenia spectabilis 1								
+Zamia furfuracea		1	1947							Zamia furfuracea								
+Microcycas calocoma 1		1	1947							Microcycas calocoma 1								
+Stangeria eriopus 1		1	1947							Stangeria eriopus 1								
+Dioon spinulosum 2		1	1947							Dioon spinulosum 2								
+Cycas multipinnata 2		1	1947							Cycas multipinnata 2								
+Angiopteris lygodiifolia AnLFY2		1	1947							Angiopteris lygodiifolia AnLFY2								
+Angiopteris lygodiifolia AlLFY4		1	1947							Angiopteris lygodiifolia AlLFY4								
+Angiopteris lygodiifolia AnLFY3		1	1947							Angiopteris lygodiifolia AnLFY3								

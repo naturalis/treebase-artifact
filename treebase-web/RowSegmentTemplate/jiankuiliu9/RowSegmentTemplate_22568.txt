@@ -1,0 +1,415 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Acanthostigma chiangmaiensis MFLUCC 10 0125		1	4584							Acanthostigma chiangmaiensis MFLUCC 10 0125								
+Acanthostigma sp. MFLUCC 10 0116		1	4584							Acanthostigma sp. MFLUCC 10 0116								
+Acanthostigma sp. MFLUCC 11 0378		1	4584							Acanthostigma sp. MFLUCC 11 0378								
+Acrocalymma aquatica		1	4584							Acrocalymma aquatica								
+Acrocordiopsis patilii BCC 28167		1	4584							Acrocordiopsis patilii BCC 28167								
+Acrogenospora sphaerocephala CBS 164.76		1	4584							Acrogenospora sphaerocephala CBS 164.76								
+Acrospermum adeanum M 133		1	4584							Acrospermum adeanum M 133								
+Acrospermum compressum M 151		1	4584							Acrospermum compressum M 151								
+Acrospermum graminum M 152		1	4584							Acrospermum graminum M 152								
+Aigialus grandis BCC 18419		1	4584							Aigialus grandis BCC 18419								
+Aigialus mangrovis BCC 33564		1	4584							Aigialus mangrovis BCC 33564								
+Aigialus parvus BCC 32558		1	4584							Aigialus parvus BCC 32558								
+Aigialus rhizophorae BCC 33572		1	4584							Aigialus rhizophorae BCC 33572								
+Aliquandostipite crystallinus R 76 1		1	4584							Aliquandostipite crystallinus R 76 1								
+Aliquandostipite khaoyaiensis CBS 118232		1	4584							Aliquandostipite khaoyaiensis CBS 118232								
+Aliquandostipite siamensiae SS 81.02		1	4584							Aliquandostipite siamensiae SS 81.02								
+Alternaria alternata CBS 916.96		1	4584							Alternaria alternata CBS 916.96								
+Amniculicola immersa CBS 123083		1	4584							Amniculicola immersa CBS 123083								
+Amniculicola parva CBS 123092		1	4584							Amniculicola parva CBS 123092								
+Anisomeridium ubianum 94		1	4584							Anisomeridium ubianum 94								
+Anteaglonium abbreviatum ANM 925a		1	4584							Anteaglonium abbreviatum ANM 925a								
+Anteaglonium abbreviatum GKM 1029		1	4584							Anteaglonium abbreviatum GKM 1029								
+Anteaglonium globosum ANM 925.2		1	4584							Anteaglonium globosum ANM 925.2								
+Anteaglonium globosum		1	4584							Anteaglonium globosum								
+Anteaglonium latirostrum GKM 1119		1	4584							Anteaglonium latirostrum GKM 1119								
+Anteaglonium latirostrum L100N 2		1	4584							Anteaglonium latirostrum L100N 2								
+Anteaglonium parvulum GKM 1218		1	4584							Anteaglonium parvulum GKM 1218								
+Anteaglonium parvulum GKM 219N		1	4584							Anteaglonium parvulum GKM 219N								
+Anteaglonium parvulum SMH 5223		1	4584							Anteaglonium parvulum SMH 5223								
+Apiosporina collinsii CBS 118973		1	4584							Apiosporina collinsii CBS 118973								
+Aplosporella prunicola STE U 6326		1	4584							Aplosporella prunicola STE U 6326								
+Aquasubmersa mircensis		1	4584							Aquasubmersa mircensis								
+Ascochyta pisi CBS 126.54		1	4584							Ascochyta pisi CBS 126.54								
+Ascocratera manglicola		1	4584							Ascocratera manglicola								
+Asterina cestricola TH 591		1	4584							Asterina cestricola TH 591								
+Asterina fuchsiae TH 590		1	4584							Asterina fuchsiae TH 590								
+Asterina phenacis TH 589		1	4584							Asterina phenacis TH 589								
+Asterina weinmanniae TH 592		1	4584							Asterina weinmanniae TH 592								
+Asterina zanthoxyli TH 561		1	4584							Asterina zanthoxyli TH 561								
+Asteromassaria pulchra CBS 124082		1	4584							Asteromassaria pulchra CBS 124082								
+Astrosphaeriella aggregata MAFF 239486		1	4584							Astrosphaeriella aggregata MAFF 239486								
+Astrosphaeriella bakeriana CBS 115556		1	4584							Astrosphaeriella bakeriana CBS 115556								
+Astrothelium confusum 98		1	4584							Astrothelium confusum 98								
+Auerswaldia dothiorella MFLUCC 11 0438		1	4584							Auerswaldia dothiorella MFLUCC 11 0438								
+Aulographina pinorum CBS 174.9O		1	4584							Aulographina pinorum CBS 174.9O								
+Aureobasidium pullulans CBS 584.75		1	4584							Aureobasidium pullulans CBS 584.75								
+Bagnisiella examinans CBS 551.66		1	4584							Bagnisiella examinans CBS 551.66								
+Bambusicola bambusae MFLUCC 11 0614		1	4584							Bambusicola bambusae MFLUCC 11 0614								
+Bambusicola irregulispora MFLUCC 11 0437		1	4584							Bambusicola irregulispora MFLUCC 11 0437								
+Bambusicola massarinia MFLUCC 11 0389		1	4584							Bambusicola massarinia MFLUCC 11 0389								
+Bambusicola splendida MFLUCC 11 0439		1	4584							Bambusicola splendida MFLUCC 11 0439								
+Barriopsis fusca CBS 174.26		1	4584							Barriopsis fusca CBS 174.26								
+Biatriospora marina CY 1228		1	4584							Biatriospora marina CY 1228								
+Bimuria novae zelandiae CBS 107.79		1	4584							Bimuria novae zelandiae CBS 107.79								
+Botryobambusa fusicoccum MFLUCC 11 0143		1	4584							Botryobambusa fusicoccum MFLUCC 11 0143								
+Botryosphaeria agaves MFLUCC 11 0125		1	4584							Botryosphaeria agaves MFLUCC 11 0125								
+Botryosphaeria dothidea CBS 115476		1	4584							Botryosphaeria dothidea CBS 115476								
+Botryosphaeria tsugae CBS 418.64		1	4584							Botryosphaeria tsugae CBS 418.64								
+Byssolophis sphaerioides IFRDCC 2053		1	4584							Byssolophis sphaerioides IFRDCC 2053								
+Byssosphaeria jamaicana SMH 1403		1	4584							Byssosphaeria jamaicana SMH 1403								
+Byssosphaeria rhodomphala GKM L153N		1	4584							Byssosphaeria rhodomphala GKM L153N								
+Byssosphaeria salebrosa SMH 2387		1	4584							Byssosphaeria salebrosa SMH 2387								
+Byssosphaeria schiedermayeriana GKM 1197		1	4584							Byssosphaeria schiedermayeriana GKM 1197								
+Byssosphaeria villosa GKM 204N		1	4584							Byssosphaeria villosa GKM 204N								
+Byssothecium circinans CBS 675.92		1	4584							Byssothecium circinans CBS 675.92								
+Capnobotryella renispora CBS 215.9O		1	4584							Capnobotryella renispora CBS 215.9O								
+Capnodiales		1	4584							Capnodiales								
+Capnodiales sp. Rock TRN 137 CBS 118300		1	4584							Capnodiales sp. Rock TRN 137 CBS 118300								
+Capnodiales sp. Rock TRN 152 CBS 118346		1	4584							Capnodiales sp. Rock TRN 152 CBS 118346								
+Capnodium coffeae CBS 147.52		1	4584							Capnodium coffeae CBS 147.52								
+Catenulostroma abietis CBS 459.93		1	4584							Catenulostroma abietis CBS 459.93								
+Cercospora beticola CBS 116456		1	4584							Cercospora beticola CBS 116456								
+Chaetosphaeronema hispidulum CBS 216.75		1	4584							Chaetosphaeronema hispidulum CBS 216.75								
+Chlamydotubeufia huaikangplaensis MFLUCC 10 0926		1	4584							Chlamydotubeufia huaikangplaensis MFLUCC 10 0926								
+Chlamydotubeufia khunkornensis MFLUCC 10 0117		1	4584							Chlamydotubeufia khunkornensis MFLUCC 10 0117								
+Chlamydotubeufia sp. MFLUCC 11 0418		1	4584							Chlamydotubeufia sp. MFLUCC 11 0418								
+Cladosporium cladosporioides CBS 170.54		1	4584							Cladosporium cladosporioides CBS 170.54								
+Cladosporium herbarum CBS 399.8O		1	4584							Cladosporium herbarum CBS 399.8O								
+Clohesyomyces aquaticus		1	4584							Clohesyomyces aquaticus								
+Cochliobolus heterostrophus CBS 134.39		1	4584							Cochliobolus heterostrophus CBS 134.39								
+Cochliobolus sativus DAOM 226212		1	4584							Cochliobolus sativus DAOM 226212								
+Coleroa robertiani CBS 458.64		1	4584							Coleroa robertiani CBS 458.64								
+Columnosphaeria fagi CBS 171.93		1	4584							Columnosphaeria fagi CBS 171.93								
+Condioxyphium gardeniorum CPC 14327		1	4584							Condioxyphium gardeniorum CPC 14327								
+Conidiocarpus asiana MFLUCC10 0062		1	4584							Conidiocarpus asiana MFLUCC10 0062								
+Conidiocarpus betle MFLUCC10 0053		1	4584							Conidiocarpus betle MFLUCC10 0053								
+Conidiocarpus siamense MFLUCC10 0061		1	4584							Conidiocarpus siamense MFLUCC10 0061								
+Conidiocarpus siamense MFLUCC10 0065		1	4584							Conidiocarpus siamense MFLUCC10 0065								
+Coniothyrium palmarum CBS 400.71		1	4584							Coniothyrium palmarum CBS 400.71								
+Cophinforma eucalypti MFLUCC 11 0425		1	4584							Cophinforma eucalypti MFLUCC 11 0425								
+Corynespora cassiicola CBS 100822		1	4584							Corynespora cassiicola CBS 100822								
+Corynespora olivacea CBS 114450		1	4584							Corynespora olivacea CBS 114450								
+Corynespora smithii CABI 5649b		1	4584							Corynespora smithii CABI 5649b								
+Cucurbitaria berberidis CBS 394.84		1	4584							Cucurbitaria berberidis CBS 394.84								
+Davidiellaceae sp. CBS 117950		1	4584							Davidiellaceae sp. CBS 117950								
+Decaisnella formosa BCC 25617		1	4584							Decaisnella formosa BCC 25617								
+Decorospora gaudefroyi CBS 332.63		1	4584							Decorospora gaudefroyi CBS 332.63								
+Delitschia chaetomioides SMH 3253.2		1	4584							Delitschia chaetomioides SMH 3253.2								
+Delitschia winteri CBS 225.62		1	4584							Delitschia winteri CBS 225.62								
+Delphinella strobiligena		1	4584							Delphinella strobiligena								
+Dendryphiopsis atra DAOM 231155		1	4584							Dendryphiopsis atra DAOM 231155								
+Devriesia strelitziae CBS 122379		1	4584							Devriesia strelitziae CBS 122379								
+Didymella bryoniae CBS 133.96		1	4584							Didymella bryoniae CBS 133.96								
+Diplodia mutila CBS 431.82		1	4584							Diplodia mutila CBS 431.82								
+Dissoconium aciculare CBS 204.89		1	4584							Dissoconium aciculare CBS 204.89								
+Dissoconium aciculare CBS 342.82		1	4584							Dissoconium aciculare CBS 342.82								
+Dothidea hippophaes CBS 188.58		1	4584							Dothidea hippophaes CBS 188.58								
+Dothidea insculpta CBS 189.58		1	4584							Dothidea insculpta CBS 189.58								
+Dothidotthia aspera CPC 12933		1	4584							Dothidotthia aspera CPC 12933								
+Dothidotthia symphoricarpi CBS 119687		1	4584							Dothidotthia symphoricarpi CBS 119687								
+Dothiora cannabinae CBS 737.71		1	4584							Dothiora cannabinae CBS 737.71								
+Dothiora ellyptica CBS 736.71		1	4584							Dothiora ellyptica CBS 736.71								
+Dothiorella iberica CBS 115041		1	4584							Dothiorella iberica CBS 115041								
+Dothistroma septosporum CBS 543.74		1	4584							Dothistroma septosporum CBS 543.74								
+Elsinoe centrolobi		1	4584							Elsinoe centrolobi								
+Elsinoe phaseoli CBS 165.31		1	4584							Elsinoe phaseoli CBS 165.31								
+Elsinoe veneta CBS 150.27		1	4584							Elsinoe veneta CBS 150.27								
+Endomelanconiopsis endophytica		1	4584							Endomelanconiopsis endophytica								
+Endomelanconiopsis microspora CBS 353.97		1	4584							Endomelanconiopsis microspora CBS 353.97								
+Entodesmium rude CBS 650.86		1	4584							Entodesmium rude CBS 650.86								
+Falciformispora lignatilis BCC 21117		1	4584							Falciformispora lignatilis BCC 21117								
+Falciformispora lignatilis BCC 21118		1	4584							Falciformispora lignatilis BCC 21118								
+Fissuroma aggregata KT 984		1	4584							Fissuroma aggregata KT 984								
+Fissuroma maculans MFLUCC 10 0886		1	4584							Fissuroma maculans MFLUCC 10 0886								
+Flavobathelium epiphyllum 67		1	4584							Flavobathelium epiphyllum 67								
+Floricola striata JK 5678I		1	4584							Floricola striata JK 5678I								
+Fusicladium africanum CPC 12828		1	4584							Fusicladium africanum CPC 12828								
+Fusicladium africanum CPC 12829		1	4584							Fusicladium africanum CPC 12829								
+Fusicladium intermedium CBS 110746		1	4584							Fusicladium intermedium CBS 110746								
+Fusicladium pini CBS 463.82		1	4584							Fusicladium pini CBS 463.82								
+Gibbera conferta CBS 191.53		1	4584							Gibbera conferta CBS 191.53								
+Gloniopsis praelonga CBS 112415		1	4584							Gloniopsis praelonga CBS 112415								
+Gloniopsis subrugosa CBS 123346		1	4584							Gloniopsis subrugosa CBS 123346								
+Glonium stellatum CBS 207.34		1	4584							Glonium stellatum CBS 207.34								
+Guignardia bidwellii CBS 237.48		1	4584							Guignardia bidwellii CBS 237.48								
+Guignardia citricarpa CBS 102374		1	4584							Guignardia citricarpa CBS 102374								
+Guignardia gaultheriae CBS 447.7O		1	4584							Guignardia gaultheriae CBS 447.7O								
+Halomassarina thalassiae JK 5262D		1	4584							Halomassarina thalassiae JK 5262D								
+Halomassarina thalassiae JK 5385B		1	4584							Halomassarina thalassiae JK 5385B								
+Halotthia posidoniae BBH 22481		1	4584							Halotthia posidoniae BBH 22481								
+Helicascus nypae BCC 36752		1	4584							Helicascus nypae BCC 36752								
+Helicomyces roseus CBS 283.51		1	4584							Helicomyces roseus CBS 283.51								
+Herpotrichia diffusa CBS 250.62		1	4584							Herpotrichia diffusa CBS 250.62								
+Herpotrichia juniperi		1	4584							Herpotrichia juniperi								
+Herpotrichia macrotricha GKM 196N		1	4584							Herpotrichia macrotricha GKM 196N								
+Hortaea werneckii CBS 100496		1	4584							Hortaea werneckii CBS 100496								
+Hyalosphaera LSU1D LR5		1	4584							Hyalosphaera LSU1D LR5								
+Hysterium angustatum CBS 236.34		1	4584							Hysterium angustatum CBS 236.34								
+Hysterobrevium smilacis		1	4584							Hysterobrevium smilacis								
+Hysteropatella clavispora CBS 247.34		1	4584							Hysteropatella clavispora CBS 247.34								
+Hysteropatella elliptica CBS 935.97		1	4584							Hysteropatella elliptica CBS 935.97								
+Jahnula aquatica R 68 1		1	4584							Jahnula aquatica R 68 1								
+Jahnula bipileata AF 220 1		1	4584							Jahnula bipileata AF 220 1								
+Jahnula bipileata		1	4584							Jahnula bipileata								
+Jahnula bipolaris		1	4584							Jahnula bipolaris								
+Jahnula sangamonensis A 402 1B		1	4584							Jahnula sangamonensis A 402 1B								
+Jahnula sangamonensis A 482 1B		1	4584							Jahnula sangamonensis A 482 1B								
+Jahnula sangamonensis F 81 1		1	4584							Jahnula sangamonensis F 81 1								
+Jahnula seychellensis SS 2113.1		1	4584							Jahnula seychellensis SS 2113.1								
+Jahnula seychellensis SS 2113.2		1	4584							Jahnula seychellensis SS 2113.2								
+Julella avicenniae BCC 18422		1	4584							Julella avicenniae BCC 18422								
+Julella avicenniae BCC 20173		1	4584							Julella avicenniae BCC 20173								
+Kalmusia scabrispora NBRC 106237		1	4584							Kalmusia scabrispora NBRC 106237								
+Karstenula rhodostoma CBS 690.94		1	4584							Karstenula rhodostoma CBS 690.94								
+Katumotoa bambusicola MAFF 239641		1	4584							Katumotoa bambusicola MAFF 239641								
+Keissleriella cladophila CBS 104.55		1	4584							Keissleriella cladophila CBS 104.55								
+Kellermania macrospora CBS 131716		1	4584							Kellermania macrospora CBS 131716								
+Kellermania yuccigena CBS 131727		1	4584							Kellermania yuccigena CBS 131727								
+Kirschsteiniothelia aethiops CBS 109.53		1	4584							Kirschsteiniothelia aethiops CBS 109.53								
+Kirschsteiniothelia lignicola MFLUCC 10 0036		1	4584							Kirschsteiniothelia lignicola MFLUCC 10 0036								
+Lasiodiplodia theobromae CBS 164.96		1	4584							Lasiodiplodia theobromae CBS 164.96								
+Lentithecium aquaticum CBS 123099		1	4584							Lentithecium aquaticum CBS 123099								
+Lentithecium arundinaceum CBS 619.86		1	4584							Lentithecium arundinaceum CBS 619.86								
+Lentithecium fluviatile CBS 122367		1	4584							Lentithecium fluviatile CBS 122367								
+Lepidosphaeria nicotiae CBS 101341		1	4584							Lepidosphaeria nicotiae CBS 101341								
+Leptosphaeria biglobosa CBS 303.51		1	4584							Leptosphaeria biglobosa CBS 303.51								
+Leptosphaeria doliolum		1	4584							Leptosphaeria doliolum								
+Leptosphaeria dryadis CBS 643.86		1	4584							Leptosphaeria dryadis CBS 643.86								
+Leptosphaerulina argentinensis CBS 569.94		1	4584							Leptosphaerulina argentinensis CBS 569.94								
+Leptosphaerulina australis CBS 317.83		1	4584							Leptosphaerulina australis CBS 317.83								
+Leptosphearia maculans DAOM 229267		1	4584							Leptosphearia maculans DAOM 229267								
+Leptoxyphium cacuminum MFLUCC10 0086		1	4584							Leptoxyphium cacuminum MFLUCC10 0086								
+Leptoxyphium fumago		1	4584							Leptoxyphium fumago								
+Lichenoconium aeruginosum CBS 129239		1	4584							Lichenoconium aeruginosum CBS 129239								
+Lichenoconium erodens CBS 128704		1	4584							Lichenoconium erodens CBS 128704								
+Lichenoconium lecanorae CBS 128024		1	4584							Lichenoconium lecanorae CBS 128024								
+Lichenoconium usneae		1	4584							Lichenoconium usneae								
+Lichenothelia cf. calcarea L1323		1	4584							Lichenothelia cf. calcarea L1323								
+Lichenothelia cf. calcarea L1324		1	4584							Lichenothelia cf. calcarea L1324								
+Lichenothelia convexa		1	4584							Lichenothelia convexa								
+Lichenothelia convexa L1607		1	4584							Lichenothelia convexa L1607								
+Lichenothelia convexa L1608		1	4584							Lichenothelia convexa L1608								
+Lichenothelia convexa L1609		1	4584							Lichenothelia convexa L1609								
+Lichenothelia sp. L984		1	4584							Lichenothelia sp. L984								
+Lichenothelia sp. L985		1	4584							Lichenothelia sp. L985								
+Lichenothelia sp. L986		1	4584							Lichenothelia sp. L986								
+Lindgomyces breviappendiculata HHUF 28193		1	4584							Lindgomyces breviappendiculata HHUF 28193								
+Lindgomyces breviappendiculatus KT 1399		1	4584							Lindgomyces breviappendiculatus KT 1399								
+Lindgomyces cinctosporae  R56 1		1	4584							Lindgomyces cinctosporae  R56 1								
+Lindgomyces cinctosporae  R56 3		1	4584							Lindgomyces cinctosporae  R56 3								
+Lindgomyces ingoldianus ATCC 200398		1	4584							Lindgomyces ingoldianus ATCC 200398								
+Lindgomyces rotundatus HHUF 27999		1	4584							Lindgomyces rotundatus HHUF 27999								
+Lophiostoma arundinis CBS 621.86		1	4584							Lophiostoma arundinis CBS 621.86								
+Lophiostoma caulium CBS 623.86		1	4584							Lophiostoma caulium CBS 623.86								
+Lophiostoma compressum IFRD 2014		1	4584							Lophiostoma compressum IFRD 2014								
+Lophiostoma crenatum CBS 629.86		1	4584							Lophiostoma crenatum CBS 629.86								
+Lophiostoma macrostomoides GKM 1033		1	4584							Lophiostoma macrostomoides GKM 1033								
+Lophiostoma quadrinucleatum GKM 1233		1	4584							Lophiostoma quadrinucleatum GKM 1233								
+Lophiostoma scabridisporum BCC 22835		1	4584							Lophiostoma scabridisporum BCC 22835								
+Lophiotrema brunneosporum CBS 123095		1	4584							Lophiotrema brunneosporum CBS 123095								
+Lophiotrema lignicola CBS 122364		1	4584							Lophiotrema lignicola CBS 122364								
+Lophiotrema neoarundinaria MAFF 239461		1	4584							Lophiotrema neoarundinaria MAFF 239461								
+Lophiotrema neoarundinaria NBRC 106238		1	4584							Lophiotrema neoarundinaria NBRC 106238								
+Lophiotrema neoarundinaria NBRC 106239		1	4584							Lophiotrema neoarundinaria NBRC 106239								
+Lophiotrema neohysterioides		1	4584							Lophiotrema neohysterioides								
+Lophiotrema neohysterioides MAFF 23945		1	4584							Lophiotrema neohysterioides MAFF 23945								
+Lophiotrema nucula CBS 627.86		1	4584							Lophiotrema nucula CBS 627.86								
+Lophiotrema nucula JCM 14132		1	4584							Lophiotrema nucula JCM 14132								
+Lophiotrema vagabundum JCM 17674		1	4584							Lophiotrema vagabundum JCM 17674								
+Lophiotrema vagabundum JCM 17675		1	4584							Lophiotrema vagabundum JCM 17675								
+Lophium mytilinum CBS 269.34		1	4584							Lophium mytilinum CBS 269.34								
+Loratospora aestuarii JK 5535B		1	4584							Loratospora aestuarii JK 5535B								
+Macrophomina phaseolina CBS 227.33		1	4584							Macrophomina phaseolina CBS 227.33								
+Macroventuria anomochaeta CBS 525.71		1	4584							Macroventuria anomochaeta CBS 525.71								
+Manglicola guatemalensis BCC 20079		1	4584							Manglicola guatemalensis BCC 20079								
+Manglicola guatemalensis BCC 20156		1	4584							Manglicola guatemalensis BCC 20156								
+Manglicola guatemalensis BCC 20157		1	4584							Manglicola guatemalensis BCC 20157								
+Manglicola guatemalensis BCC 24217		1	4584							Manglicola guatemalensis BCC 24217								
+Massaria anomia CBS 591.78		1	4584							Massaria anomia CBS 591.78								
+Massaria ariae M 52		1	4584							Massaria ariae M 52								
+Massaria aucupariae M 49		1	4584							Massaria aucupariae M 49								
+Massaria campestris M 28		1	4584							Massaria campestris M 28								
+Massaria conspurcata M 14		1	4584							Massaria conspurcata M 14								
+Massaria gigantispora M 26		1	4584							Massaria gigantispora M 26								
+Massaria inquinans M 19		1	4584							Massaria inquinans M 19								
+Massaria lantanae M 18		1	4584							Massaria lantanae M 18								
+Massaria macra M 3		1	4584							Massaria macra M 3								
+Massaria mediterranea M 45		1	4584							Massaria mediterranea M 45								
+Massaria platani CBS 221.37		1	4584							Massaria platani CBS 221.37								
+Massaria platanoidea M 7		1	4584							Massaria platanoidea M 7								
+Massaria pyri		1	4584							Massaria pyri								
+Massaria vindobonensis M 27		1	4584							Massaria vindobonensis M 27								
+Massaria vomitoria M 13		1	4584							Massaria vomitoria M 13								
+Massarina arundinariae NBRC 106238		1	4584							Massarina arundinariae NBRC 106238								
+Massarina cisti CBS 266.62		1	4584							Massarina cisti CBS 266.62								
+Massarina eburnea CBS 473.64		1	4584							Massarina eburnea CBS 473.64								
+Massarina igniaria CBS 845.96		1	4584							Massarina igniaria CBS 845.96								
+Massariosphaeria grandispora CBS 613.86		1	4584							Massariosphaeria grandispora CBS 613.86								
+Massariosphaeria phaeospora CBS 611.86		1	4584							Massariosphaeria phaeospora CBS 611.86								
+Massariosphaeria typhicola CBS 123126		1	4584							Massariosphaeria typhicola CBS 123126								
+Mauritiana rhizophorae BCC 28866		1	4584							Mauritiana rhizophorae BCC 28866								
+Megalotremis verrucosa 104		1	4584							Megalotremis verrucosa 104								
+Melanomma pulvis pyrius CBS 124080		1	4584							Melanomma pulvis pyrius CBS 124080								
+Melanops tulasnei CBS 116805		1	4584							Melanops tulasnei CBS 116805								
+Micropeltis zingiberacicola IFRDCC 2264		1	4584							Micropeltis zingiberacicola IFRDCC 2264								
+Microthyrium microscopicum CBS 115976		1	4584							Microthyrium microscopicum CBS 115976								
+Microxyphium citri CBS 451.66		1	4584							Microxyphium citri CBS 451.66								
+Microxyphium theae		1	4584							Microxyphium theae								
+Misturatosphaeria aurantonotata GKM 1280		1	4584							Misturatosphaeria aurantonotata GKM 1280								
+Misturatosphaeria claviformis GKM 1210		1	4584							Misturatosphaeria claviformis GKM 1210								
+Misturatosphaeria kenyensis GKM 1195		1	4584							Misturatosphaeria kenyensis GKM 1195								
+Misturatosphaeria minima GKM 169N		1	4584							Misturatosphaeria minima GKM 169N								
+Misturatosphaeria tennesseensis ANM 911		1	4584							Misturatosphaeria tennesseensis ANM 911								
+Misturatosphaeria uniseptata SMH 4330		1	4584							Misturatosphaeria uniseptata SMH 4330								
+Monascostroma innumerosum CBS 345.5O		1	4584							Monascostroma innumerosum CBS 345.5O								
+Monotosporella tuberculata CBS 256.84		1	4584							Monotosporella tuberculata CBS 256.84								
+Montagnula opulenta CBS 168.34		1	4584							Montagnula opulenta CBS 168.34								
+Morosphaeria ramunculicola JK 5304B		1	4584							Morosphaeria ramunculicola JK 5304B								
+Mycomicrothelia hemispherica 102		1	4584							Mycomicrothelia hemispherica 102								
+Mycomicrothelia miculiformis 101B		1	4584							Mycomicrothelia miculiformis 101B								
+Mycomicrothelia obovata 95		1	4584							Mycomicrothelia obovata 95								
+Mycosphaerella eurypotami JK 5586J		1	4584							Mycosphaerella eurypotami JK 5586J								
+Mycosphaerella graminicola CBS 292.38		1	4584							Mycosphaerella graminicola CBS 292.38								
+Mycosphaerella punctiformis CBS 113265		1	4584							Mycosphaerella punctiformis CBS 113265								
+Myriangium duriaei CBS 260.36		1	4584							Myriangium duriaei CBS 260.36								
+Myriangium hispanicum CBS 247.33		1	4584							Myriangium hispanicum CBS 247.33								
+Mytilinidion acicola EB O349		1	4584							Mytilinidion acicola EB O349								
+Mytilinidion andinense CBS 123562		1	4584							Mytilinidion andinense CBS 123562								
+Mytilinidion mytilinellum CBS 303.34		1	4584							Mytilinidion mytilinellum CBS 303.34								
+Mytilinidion scolecosporum CBS 305.34		1	4584							Mytilinidion scolecosporum CBS 305.34								
+Natipusilla bellaspora PE91 1a		1	4584							Natipusilla bellaspora PE91 1a								
+Natipusilla bellaspora PE91 1b		1	4584							Natipusilla bellaspora PE91 1b								
+Natipusilla decorospora AF236 1a		1	4584							Natipusilla decorospora AF236 1a								
+Natipusilla limonensis AF286 1a		1	4584							Natipusilla limonensis AF286 1a								
+Natipusilla limonensis PE3 2a		1	4584							Natipusilla limonensis PE3 2a								
+Natipusilla limonensis PE3 2b		1	4584							Natipusilla limonensis PE3 2b								
+Natipusilla naponensis AF217 1a		1	4584							Natipusilla naponensis AF217 1a								
+Natipusilla naponensis AF217 1b		1	4584							Natipusilla naponensis AF217 1b								
+Neoastrosphaeriella krabiensis MFLUCC 11 0025		1	4584							Neoastrosphaeriella krabiensis MFLUCC 11 0025								
+Neodeightonia palmicola MFLUCC 10 0822		1	4584							Neodeightonia palmicola MFLUCC 10 0822								
+Neodeightonia phoenicum CBS 122528		1	4584							Neodeightonia phoenicum CBS 122528								
+Neodeightonia subglobosa CBS 448.91		1	4584							Neodeightonia subglobosa CBS 448.91								
+Neofusicoccum parvum CMW 9081		1	4584							Neofusicoccum parvum CMW 9081								
+Neofusicoccum ribis CBS 115475		1	4584							Neofusicoccum ribis CBS 115475								
+Neomicrothyrium siamense IFRDCC 2194		1	4584							Neomicrothyrium siamense IFRDCC 2194								
+Neophaeosphaeria filamentosa CBS 102202		1	4584							Neophaeosphaeria filamentosa CBS 102202								
+Neoscytalidium novaehollandiae WAC 12691		1	4584							Neoscytalidium novaehollandiae WAC 12691								
+Neottiosporina paspali CBS 331.37		1	4584							Neottiosporina paspali CBS 331.37								
+Oedohysterium insidens CBS 238.34		1	4584							Oedohysterium insidens CBS 238.34								
+Oedohysterium sinense CBS 123345		1	4584							Oedohysterium sinense CBS 123345								
+Ophiosphaerella herpotricha		1	4584							Ophiosphaerella herpotricha								
+Ophiosphaerella sasicola MAFF 239644		1	4584							Ophiosphaerella sasicola MAFF 239644								
+Paraconiothyrium minitans CBS 122788		1	4584							Paraconiothyrium minitans CBS 122788								
+Paraphaeosphaeria michotii CBS 591.73		1	4584							Paraphaeosphaeria michotii CBS 591.73								
+Patellaria atrata CBS 958.97		1	4584							Patellaria atrata CBS 958.97								
+Phaeobotryon mamane CPC 12440		1	4584							Phaeobotryon mamane CPC 12440								
+Phaeobotryosphaeria eucalypti MFLUCC 11 0579		1	4584							Phaeobotryosphaeria eucalypti MFLUCC 11 0579								
+Phaeocryptopus nudus CBS 268.37		1	4584							Phaeocryptopus nudus CBS 268.37								
+Phaeodothis winteri CBS 182.58		1	4584							Phaeodothis winteri CBS 182.58								
+Phaeosclera dematioides		1	4584							Phaeosclera dematioides								
+Phaeosphaeria ammophilae CBS 114595		1	4584							Phaeosphaeria ammophilae CBS 114595								
+Phaeosphaeria avenaria CBS 602.86		1	4584							Phaeosphaeria avenaria CBS 602.86								
+Phaeosphaeria brevispora NBRC 106240		1	4584							Phaeosphaeria brevispora NBRC 106240								
+Phaeosphaeria caricis CBS 120249		1	4584							Phaeosphaeria caricis CBS 120249								
+Phaeosphaeria elongata CBS 120250		1	4584							Phaeosphaeria elongata CBS 120250								
+Phaeosphaeria eustoma CBS 573.86		1	4584							Phaeosphaeria eustoma CBS 573.86								
+Phaeosphaeria luctuosa CBS 308.79		1	4584							Phaeosphaeria luctuosa CBS 308.79								
+Phaeosphaeria nigrans CBS 576.86		1	4584							Phaeosphaeria nigrans CBS 576.86								
+Phaeosphaeria nodorum CBS 259.49		1	4584							Phaeosphaeria nodorum CBS 259.49								
+Phaeosphaeria oryzae CBS 110110		1	4584							Phaeosphaeria oryzae CBS 110110								
+Phaeosphaeriopsis musae CBS 120026		1	4584							Phaeosphaeriopsis musae CBS 120026								
+Phaeotrichum benjaminii CBS 541.72		1	4584							Phaeotrichum benjaminii CBS 541.72								
+Phoma betae CBS 109410		1	4584							Phoma betae CBS 109410								
+Phoma complanata CBS 268.92		1	4584							Phoma complanata CBS 268.92								
+Phoma cucurbitacearum CBS 133.96		1	4584							Phoma cucurbitacearum CBS 133.96								
+Phoma exigua CBS 431.74		1	4584							Phoma exigua CBS 431.74								
+Phoma glomerata CBS 528.66		1	4584							Phoma glomerata CBS 528.66								
+Phoma herbarum CBS 276.37		1	4584							Phoma herbarum CBS 276.37								
+Phoma radicina CBS 111.79		1	4584							Phoma radicina CBS 111.79								
+Phoma zeae maydis CBS 588.69		1	4584							Phoma zeae maydis CBS 588.69								
+Phyllobathelium anomalum 242		1	4584							Phyllobathelium anomalum 242								
+Pleomassaria siparia CBS 279.74		1	4584							Pleomassaria siparia CBS 279.74								
+Pleospora herbarum CBS 191.86		1	4584							Pleospora herbarum CBS 191.86								
+Polychaeton coartatum MFLUCC10 0066		1	4584							Polychaeton coartatum MFLUCC10 0066								
+Polychaeton coartatum MFLUCC10 0070		1	4584							Polychaeton coartatum MFLUCC10 0070								
+Polyplosphaeria fusca CBS 125425		1	4584							Polyplosphaeria fusca CBS 125425								
+Pontoporeia biturbinata BBH 23338		1	4584							Pontoporeia biturbinata BBH 23338								
+Preussia funiculata CBS 659.74		1	4584							Preussia funiculata CBS 659.74								
+Preussia lignicola CBS 264.69		1	4584							Preussia lignicola CBS 264.69								
+Preussia terricola		1	4584							Preussia terricola								
+Prosthemium betulinum CBS 127468		1	4584							Prosthemium betulinum CBS 127468								
+Prosthemium canba JCM 16966		1	4584							Prosthemium canba JCM 16966								
+Prosthemium orientale JCM 12841		1	4584							Prosthemium orientale JCM 12841								
+Prosthemium stellar		1	4584							Prosthemium stellar								
+Protoventuria barriae CBS 300.93		1	4584							Protoventuria barriae CBS 300.93								
+Pseudofusicoccum stromaticum CBS 117448		1	4584							Pseudofusicoccum stromaticum CBS 117448								
+Pseudotetraploa curviappendiculata CBS 125426		1	4584							Pseudotetraploa curviappendiculata CBS 125426								
+Pseudotrichia guatopoensis SMH 4535		1	4584							Pseudotrichia guatopoensis SMH 4535								
+Pseudoveronaea obclavata CBS 132086		1	4584							Pseudoveronaea obclavata CBS 132086								
+Psiloglonium araucanum CBS 112412		1	4584							Psiloglonium araucanum CBS 112412								
+Psiloglonium clavisporum CBS 123338		1	4584							Psiloglonium clavisporum CBS 123338								
+Psiloglonium simulans CBS 206.34		1	4584							Psiloglonium simulans CBS 206.34								
+Pyrenochaeta nobilis CBS 407.76		1	4584							Pyrenochaeta nobilis CBS 407.76								
+Pyrenophora phaeocomes DAOM 222769		1	4584							Pyrenophora phaeocomes DAOM 222769								
+Pyrenophora tritici repentis OSC 100066		1	4584							Pyrenophora tritici repentis OSC 100066								
+Quadricrura septentrionalis CBS 125428		1	4584							Quadricrura septentrionalis CBS 125428								
+Quintaria submersa CBS 115553		1	4584							Quintaria submersa CBS 115553								
+Ramichloridium apiculatum CBS 156.59		1	4584							Ramichloridium apiculatum CBS 156.59								
+Ramichloridium apiculatum CPC 12310		1	4584							Ramichloridium apiculatum CPC 12310								
+Repetophragma ontariense HKUCC 10830		1	4584							Repetophragma ontariense HKUCC 10830								
+Rhytidhysterium rufulum CBS 306.38		1	4584							Rhytidhysterium rufulum CBS 306.38								
+Rimora mangrovei JK 5246A		1	4584							Rimora mangrovei JK 5246A								
+Roussoella hysterioides CBS 125434		1	4584							Roussoella hysterioides CBS 125434								
+Roussoella pustulans MAFF 239637		1	4584							Roussoella pustulans MAFF 239637								
+Roussoellopsis tosaensis MAFF 239638		1	4584							Roussoellopsis tosaensis MAFF 239638								
+Saccardoella rhizophorae JK 5456A		1	4584							Saccardoella rhizophorae JK 5456A								
+Saccharata proteae CBS 115206		1	4584							Saccharata proteae CBS 115206								
+Saccothecium sepincola CBS 278.32		1	4584							Saccothecium sepincola CBS 278.32								
+Salsuginea ramicola KT 2597.1		1	4584							Salsuginea ramicola KT 2597.1								
+Schismatomma decolorans DUKE 47570		1	4584							Schismatomma decolorans DUKE 47570								
+Scorias spongiosa CBS 325.33		1	4584							Scorias spongiosa CBS 325.33								
+Scorias spongiosa MFLUCC10 0084		1	4584							Scorias spongiosa MFLUCC10 0084								
+Setomelanomma holmii CBS 110217		1	4584							Setomelanomma holmii CBS 110217								
+Spencermartinsia viticola CBS 117009		1	4584							Spencermartinsia viticola CBS 117009								
+Sporormiella minima CBS 524.5		1	4584							Sporormiella minima CBS 524.5								
+Stagonospora macropycnidia CBS 114202		1	4584							Stagonospora macropycnidia CBS 114202								
+Stylodothis puccinioides		1	4584							Stylodothis puccinioides								
+Sydowia polyspora CBS 116.29		1	4584							Sydowia polyspora CBS 116.29								
+Sympoventuria capensis CPC 12839		1	4584							Sympoventuria capensis CPC 12839								
+Sympoventuria capensis CPC 12840		1	4584							Sympoventuria capensis CPC 12840								
+Teratosphaeria associata CBS 112224		1	4584							Teratosphaeria associata CBS 112224								
+Tetraplosphaeria sasicola MAFF 239677		1	4584							Tetraplosphaeria sasicola MAFF 239677								
+Thaxteriella inthanonensis MFLUCC 11 0003		1	4584							Thaxteriella inthanonensis MFLUCC 11 0003								
+Thaxteriellopsis lignicola MFLUCC 10 0121		1	4584							Thaxteriellopsis lignicola MFLUCC 10 0121								
+Thaxteriellopsis lignicola MFLUCC 10 0123		1	4584							Thaxteriellopsis lignicola MFLUCC 10 0123								
+Thyridaria rubronotata CBS 419.85		1	4584							Thyridaria rubronotata CBS 419.85								
+Trematosphaeria pertusa CBS 122368		1	4584							Trematosphaeria pertusa CBS 122368								
+Trematosphaeria pertusa CBS 122371		1	4584							Trematosphaeria pertusa CBS 122371								
+Trichodelitschia bisporula CBS 262.69		1	4584							Trichodelitschia bisporula CBS 262.69								
+Trichodelitschia munkii Kruys 201		1	4584							Trichodelitschia munkii Kruys 201								
+Triplosphaeria maxima MAFF 239682		1	4584							Triplosphaeria maxima MAFF 239682								
+Trypethelium eluteriae 111		1	4584							Trypethelium eluteriae 111								
+Trypethelium tropicum 25		1	4584							Trypethelium tropicum 25								
+Tubeufia cerea CBS 254.75		1	4584							Tubeufia cerea CBS 254.75								
+Tubeufia khunkornensis MFLUCC 10 0119		1	4584							Tubeufia khunkornensis MFLUCC 10 0119								
+Tubeufia paludosa CBS 120503		1	4584							Tubeufia paludosa CBS 120503								
+Tubeufia sp. MFLUCC 10 0115		1	4584							Tubeufia sp. MFLUCC 10 0115								
+Tubeufia sp. MFLUCC 10 0120		1	4584							Tubeufia sp. MFLUCC 10 0120								
+Tubeufia sp. MFLUCC 11 0375		1	4584							Tubeufia sp. MFLUCC 11 0375								
+Tubeufia sp. MFLUCC 11 0379		1	4584							Tubeufia sp. MFLUCC 11 0379								
+Tubeufia sp. MFLUCC 11 0416		1	4584							Tubeufia sp. MFLUCC 11 0416								
+Tubeufia sp. MFLUCC 11 0420		1	4584							Tubeufia sp. MFLUCC 11 0420								
+Tyrannosorus pinicola CBS 124.88		1	4584							Tyrannosorus pinicola CBS 124.88								
+Ulospora bilgramii CBS 110020		1	4584							Ulospora bilgramii CBS 110020								
+Uwebraunia commune CBS 132091		1	4584							Uwebraunia commune CBS 132091								
+Uwebraunia commune CBS 132092		1	4584							Uwebraunia commune CBS 132092								
+Uwebraunia dekkeri CBS 132093		1	4584							Uwebraunia dekkeri CBS 132093								
+Venturia inaequalis CBS 815.69		1	4584							Venturia inaequalis CBS 815.69								
+Veronaeopsis simplex CBS 588.66		1	4584							Veronaeopsis simplex CBS 588.66								
+Verruculina enalia 		1	4584							Verruculina enalia 								
+Westerdykella angulata CBS 610.74		1	4584							Westerdykella angulata CBS 610.74								
+Westerdykella cylindrica CBS 454.72		1	4584							Westerdykella cylindrica CBS 454.72								
+Westerdykella dispersa CBS 508.75		1	4584							Westerdykella dispersa CBS 508.75								
+Westerdykella ornata CBS 379.55		1	4584							Westerdykella ornata CBS 379.55								

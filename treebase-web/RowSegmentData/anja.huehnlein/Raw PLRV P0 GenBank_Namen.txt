@@ -1,0 +1,71 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+"Potato leaf roll virus isolate 14.1 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453405			"Potato leaf roll virus isolate 14.1 P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leafroll virus strain 14.2, complete genome		1	173				AF453394			Potato leafroll virus strain 14.2, complete genome								
+"Potato leaf roll virus isolate 1457 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF454283			"Potato leaf roll virus isolate 1457 P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leafroll virus isolate Ard912MR P0 gene, complete cds		1	173				JF914934			Potato leafroll virus isolate Ard912MR P0 gene, complete cds								
+Potato leafroll virus isolate Ard923A P0 gene, complete cds		1	173				JF914935			Potato leafroll virus isolate Ard923A P0 gene, complete cds								
+Potato leafroll virus isolate Ard924A P0 gene, complete cds		1	173				JF914936			Potato leafroll virus isolate Ard924A P0 gene, complete cds								
+Potato leafroll virus isolate Ard930A P0 gene, complete cds		1	173				JF914937			Potato leafroll virus isolate Ard930A P0 gene, complete cds								
+Potato leafroll virus isolate ASL2000, complete genome		1	173				JQ346190			Potato leafroll virus isolate ASL2000, complete genome								
+"Potato leaf roll virus isolate Au16 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453395			"Potato leaf roll virus isolate Au16 P0 gene, complete cds; and P1 gene, partial cds"								
+"Potato leaf roll virus isolate Au40b P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453396			"Potato leaf roll virus isolate Au40b P0 gene, complete cds; and P1 gene, partial cds"								
+"Potato leaf roll virus isolate Au252 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453398			"Potato leaf roll virus isolate Au252 P0 gene, complete cds; and P1 gene, partial cds"								
+"Potato leaf roll virus isolate Br1 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453406			"Potato leaf roll virus isolate Br1 P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leaf roll virus (Canadian isolate) genomic RNA, complete sequence		1	173				D13954			Potato leaf roll virus (Canadian isolate) genomic RNA, complete sequence								
+Potato leafroll virus strain CIP01, complete genome		1	173				AF453392			Potato leafroll virus strain CIP01, complete genome								
+Potato leafroll virus strain CU87, complete genome		1	173				AF453393			Potato leafroll virus strain CU87, complete genome								
+Potato leafroll virus isolate D33 P0 gene, complete cds		1	173				JF914933			Potato leafroll virus isolate D33 P0 gene, complete cds								
+Potato leafroll virus isolate Es4 P0 gene, complete cds		1	173				JF914938			Potato leafroll virus isolate Es4 P0 gene, complete cds								
+Potato leafroll virus strain Fr1, complete genome		1	173				AF453391			Potato leafroll virus strain Fr1, complete genome								
+Potato leafroll virus isolate PLRV-HB, complete genome		1	173				KC456053			Potato leafroll virus isolate PLRV-HB, complete genome								
+Potato leafroll virus isolate PLRV-IM, complete genome		1	173				KC456052			Potato leafroll virus isolate PLRV-IM, complete genome								
+Potato leafroll virus isolate is4 P0 gene, complete cds		1	173				AY645681			Potato leafroll virus isolate is4 P0 gene, complete cds								
+Potato leafroll virus isolate is5 P0 gene, complete cds		1	173				AY645677			Potato leafroll virus isolate is5 P0 gene, complete cds								
+Potato leafroll virus isolate is6 P0 gene, complete cds		1	173				AY645682			Potato leafroll virus isolate is6 P0 gene, complete cds								
+Potato leafroll virus isolate is16 P0 gene, complete cds		1	173				AY645678			Potato leafroll virus isolate is16 P0 gene, complete cds								
+Potato leafroll virus isolate is24 P0 gene, complete cds		1	173				AY645683			Potato leafroll virus isolate is24 P0 gene, complete cds								
+Potato leafroll virus isolate is26 P0 gene, complete cds		1	173				AY645679			Potato leafroll virus isolate is26 P0 gene, complete cds								
+Potato leafroll virus isolate is29 P0 gene, complete cds		1	173				AY645684			Potato leafroll virus isolate is29 P0 gene, complete cds								
+Potato leafroll virus isolate is30 P0 gene, complete cds		1	173				AY645680			Potato leafroll virus isolate is30 P0 gene, complete cds								
+Potato leafroll virus isolate isSAM P0 gene, complete cds		1	173				AY645685			Potato leafroll virus isolate isSAM P0 gene, complete cds								
+Potato leafroll virus isolate JokerMV10, complete genome		1	173				JQ346191			Potato leafroll virus isolate JokerMV10, complete genome								
+Potato leafroll virus isolate JPI-1, partial genome		1	173				JQ420901			Potato leafroll virus isolate JPI-1, partial genome								
+"Potato leaf roll virus isolate K5 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453399			"Potato leaf roll virus isolate K5 P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leafroll virus isolate Kerman P0 gene, complete cds		1	173				FJ481110			Potato leafroll virus isolate Kerman P0 gene, complete cds								
+Potato leafroll virus isolate KHPI-1, partial genome		1	173				JQ420902			Potato leafroll virus isolate KHPI-1, partial genome								
+"Potato leaf roll virus isolate L7 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453401			"Potato leaf roll virus isolate L7 P0 gene, complete cds; and P1 gene, partial cds"								
+"Potato leaf roll virus isolate L13B P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453403			"Potato leaf roll virus isolate L13B P0 gene, complete cds; and P1 gene, partial cds"								
+"Potato leaf roll virus isolate L13D P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453404			"Potato leaf roll virus isolate L13D P0 gene, complete cds; and P1 gene, partial cds"								
+"Potato leaf roll virus isolate L18 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453400			"Potato leaf roll virus isolate L18 P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leafroll virus isolate Mah11 P0 gene, complete cds		1	173				JF914939			Potato leafroll virus isolate Mah11 P0 gene, complete cds								
+Potato leafroll virus, complete genome (Mayo)		1	173				NC_001747			Potato leafroll virus, complete genome (Mayo)								
+Potato leaf roll virus genomic RNA (NL)		1	173				Y07496			Potato leaf roll virus genomic RNA (NL)								
+Potato leafroll virus strain Noir, complete genome		1	173				AF453390			Potato leafroll virus strain Noir, complete genome								
+Potato leafroll virus strain OP, complete genome		1	173				AF453389			Potato leafroll virus strain OP, complete genome								
+Potato leafroll virus isolate OTNI-2, partial genome		1	173				JQ420904			Potato leafroll virus isolate OTNI-2, partial genome								
+Potato leafroll virus isolate PBI-6, partial genome		1	173				JQ420903			Potato leafroll virus isolate PBI-6, partial genome								
+Potato leaf roll virus (Australian isolate) genomic RNA, complete sequence		1	173				D13953			Potato leaf roll virus (Australian isolate) genomic RNA, complete sequence								
+Potato leafroll virus isolate PLRV-Ar53 P0 protein gene, complete cds		1	173				EU450867			Potato leafroll virus isolate PLRV-Ar53 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Ar91 P0 protein gene, complete cds		1	173				EU450868			Potato leafroll virus isolate PLRV-Ar91 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Az36 P0 protein gene, complete cds		1	173				EU450869			Potato leafroll virus isolate PLRV-Az36 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Az79 P0 protein gene, complete cds		1	173				EU450870			Potato leafroll virus isolate PLRV-Az79 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Es18 P0 protein gene, complete cds		1	173				EU450871			Potato leafroll virus isolate PLRV-Es18 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Es87 P0 protein gene, complete cds		1	173				EU450872			Potato leafroll virus isolate PLRV-Es87 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Ha94 P0 protein gene, complete cds		1	173				EU450873			Potato leafroll virus isolate PLRV-Ha94 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Ha103 P0 protein gene, complete cds		1	173				EU450874			Potato leafroll virus isolate PLRV-Ha103 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Kh64 P0 protein gene, complete cds		1	173				EU450875			Potato leafroll virus isolate PLRV-Kh64 P0 protein gene, complete cds								
+Potato leafroll virus isolate PLRV-Kh116 P0 protein gene, complete cds		1	173				EU450876			Potato leafroll virus isolate PLRV-Kh116 P0 protein gene, complete cds								
+"Potato leaf roll virus isolate PLRV-V P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453402			"Potato leaf roll virus isolate PLRV-V P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leaf roll virus RNA sequence (Poland)		1	173				X74789			Potato leaf roll virus RNA sequence (Poland)								
+Potato leafroll virus isolate SMI-5, partial genome		1	173				JQ420905			Potato leafroll virus isolate SMI-5, partial genome								
+Potato leafroll virus isolate SymlessLS10, complete genome		1	173				JQ346189			Potato leafroll virus isolate SymlessLS10, complete genome								
+Potato leafroll virus isolate T21 P0 gene, complete cds		1	173				JF914941			Potato leafroll virus isolate T21 P0 gene, complete cds								
+"Potato leaf roll virus isolate TYTV2 P0 gene, complete cds; and P1 gene, partial cds"		1	173				AF453397			"Potato leaf roll virus isolate TYTV2 P0 gene, complete cds; and P1 gene, partial cds"								
+Potato leafroll virus, complete genome (US CA)		1	173				KP090166			Potato leafroll virus, complete genome (US CA)								
+Potato leafroll virus isolate VIRUBRA 1/045, partial sequence		1	173				EU717545			Potato leafroll virus isolate VIRUBRA 1/045, partial sequence								
+Potato leafroll virus isolate VIRUBRA 1/046, partial sequence		1	173				EU717546			Potato leafroll virus isolate VIRUBRA 1/046, partial sequence								
+Potato leafroll virus isolate VIRUBRA 1/047, complete sequence		1	173				EU313202			Potato leafroll virus isolate VIRUBRA 1/047, complete sequence								
+Potato leafroll virus isolate PLRV-YN, complete genome		1	173				KC456054			Potato leafroll virus isolate PLRV-YN, complete genome								
+Potato leafroll virus isolate Z7 P0 gene, complete cds		1	173				JF914940			Potato leafroll virus isolate Z7 P0 gene, complete cds								
+Potato leafroll virus strain Zim13, complete genome		1	173				AF453388			Potato leafroll virus strain Zim13, complete genome								
+Cereal yellow dwarf virus-RPV, complete genome		1	173				NC_004751			Cereal yellow dwarf virus-RPV, complete genome								

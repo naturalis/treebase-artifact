@@ -1,0 +1,46 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Crithidia bombi GU321187.1		1	593							Crithidia bombi GU321187.1								
+Crithidia bombi GU321188.1		1	593							Crithidia bombi GU321188.1								
+Crithidia expoeki GU321189.1		1	593							Crithidia expoeki GU321189.1								
+Crithidia expoeki GU321190.1		1	593							Crithidia expoeki GU321190.1								
+Crithidia expoeki GU321191.1		1	593							Crithidia expoeki GU321191.1								
+Crithidia mellificae 30254 KJ684951		1	593							Crithidia mellificae 30254 KJ684951								
+Crithidia mellificae 30254 KJ684952		1	593							Crithidia mellificae 30254 KJ684952								
+Crithidia mellificae 30254 KJ684953		1	593							Crithidia mellificae 30254 KJ684953								
+Crithidia mellificae 30254 KJ684954		1	593							Crithidia mellificae 30254 KJ684954								
+Crithidia mellificae 30862 KJ684965		1	593							Crithidia mellificae 30862 KJ684965								
+Crithidia mellificae 30862 KJ684966		1	593							Crithidia mellificae 30862 KJ684966								
+Crithidia mellificae 30862 KJ684967		1	593							Crithidia mellificae 30862 KJ684967								
+Crithidia mellificae 30862 KJ684968		1	593							Crithidia mellificae 30862 KJ684968								
+Crithidia mellificae 30862 KJ684969		1	593							Crithidia mellificae 30862 KJ684969								
+Crithidia mellificae BELGIUM ex. OSMIA BICORNIS KM066251		1	593							Crithidia mellificae BELGIUM ex. OSMIA BICORNIS KM066251								
+Endotrypanum schaudinni AB434689.1		1	593							Endotrypanum schaudinni AB434689.1								
+Leishmania braziliensis EF579900.1		1	593							Leishmania braziliensis EF579900.1								
+Leishmania equatorensis AB434686.1		1	593							Leishmania equatorensis AB434686.1								
+Leishmania mexicana M92828.1		1	593							Leishmania mexicana M92828.1								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066240		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066240								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066241		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066241								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066242		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066242								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066243		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066243								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066244		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066244								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066245		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066245								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066246		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066246								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066247		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066247								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066248		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066248								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066249		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066249								
+Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066250		1	593							Leptomonas passim BELGIUM ex. APIS MELLIFERA KM066250								
+Leptomonas passim BRL KJ684960		1	593							Leptomonas passim BRL KJ684960								
+Leptomonas passim BRL KJ684961		1	593							Leptomonas passim BRL KJ684961								
+Leptomonas passim BRL KJ684962		1	593							Leptomonas passim BRL KJ684962								
+Leptomonas passim BRL KJ684963		1	593							Leptomonas passim BRL KJ684963								
+Leptomonas passim BRL KJ684964		1	593							Leptomonas passim BRL KJ684964								
+Leptomonas passim CHINA ex. APIS CERANA HAPC AB744129.1		1	593							Leptomonas passim CHINA ex. APIS CERANA HAPC AB744129.1								
+Leptomonas passim JAPAN ex. APIS MELLIFERA HAPA AB716358.1		1	593							Leptomonas passim JAPAN ex. APIS MELLIFERA HAPA AB716358.1								
+Leptomonas passim JAPAN ex. APIS MELLIFERA HAPB AB716359.1		1	593							Leptomonas passim JAPAN ex. APIS MELLIFERA HAPB AB716359.1								
+Leptomonas passim SF KJ684955		1	593							Leptomonas passim SF KJ684955								
+Leptomonas passim SF KJ684956		1	593							Leptomonas passim SF KJ684956								
+Leptomonas passim SF KJ684957		1	593							Leptomonas passim SF KJ684957								
+Leptomonas passim SF KJ684958		1	593							Leptomonas passim SF KJ684958								
+Leptomonas passim SF KJ684959		1	593							Leptomonas passim SF KJ684959								
+Trypanosoma brucei M17998.1		1	593							Trypanosoma brucei M17998.1								
+Trypanosoma cruzi DQ343646.1		1	593							Trypanosoma cruzi DQ343646.1								

@@ -1,0 +1,35 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Syringa vulgaris		1	653							Syringa vulgaris								
+Ligustrum vulgare		1	653							Ligustrum vulgare								
+Picconia azorica  Pico SMNS 142 		1	653							Picconia azorica  Pico SMNS 142 								
+Picconia azorica S Jorge SMNS 141 		1	653							Picconia azorica S Jorge SMNS 141 								
+Picconia excelsa  LaPalma SMNS 064 		1	653							Picconia excelsa  LaPalma SMNS 064 								
+Picconia excelsa Tenerife SMNS 151 		1	653							Picconia excelsa Tenerife SMNS 151 								
+Picconia excelsa Madeira SMNS 136 		1	653							Picconia excelsa Madeira SMNS 136 								
+Picconia excelsa GranCanaria SMNS 061 		1	653							Picconia excelsa GranCanaria SMNS 061 								
+Picconia excelsa Madeira SMNS 135 		1	653							Picconia excelsa Madeira SMNS 135 								
+Picconia excelsa  La Gomera SMNS 058 		1	653							Picconia excelsa  La Gomera SMNS 058 								
+Picconia excelsa  El Hierro SMNS 056 		1	653							Picconia excelsa  El Hierro SMNS 056 								
+Picconia excelsa LaPalma SMNS 055 		1	653							Picconia excelsa LaPalma SMNS 055 								
+Picconia excelsa Tenerife SMNS 152 		1	653							Picconia excelsa Tenerife SMNS 152 								
+Picconia excelsa La Gomera SMNS 060 		1	653							Picconia excelsa La Gomera SMNS 060 								
+Phillyrea angustifolia Gran Canaria SMNS 150 		1	653							Phillyrea angustifolia Gran Canaria SMNS 150 								
+Phillyrea angustifolia Spain SMNS 049 b 		1	653							Phillyrea angustifolia Spain SMNS 049 b 								
+Phillyrea latifolia Syrien SMNS 052 		1	653							Phillyrea latifolia Syrien SMNS 052 								
+Phillyrea latifolia Turkey SMNS 051 b 		1	653							Phillyrea latifolia Turkey SMNS 051 b 								
+Phillyrea latifolia Italy SMNS 053 		1	653							Phillyrea latifolia Italy SMNS 053 								
+Phillyrea latifolia AF231874 UK		1	653							Phillyrea latifolia AF231874 UK								
+Chionanthus retusus		1	653							Chionanthus retusus								
+Nestegis sandwicensis		1	653							Nestegis sandwicensis								
+Olea brachiata		1	653							Olea brachiata								
+Osmanthus americanus		1	653							Osmanthus americanus								
+Noronhia emarginata		1	653							Noronhia emarginata								
+Olea europaea		1	653							Olea europaea								
+Olea maroccana Marocco GC1043 		1	653							Olea maroccana Marocco GC1043 								
+ Phillyrea medwedewii Georgia SMNS 054 b		1	653							 Phillyrea medwedewii Georgia SMNS 054 b								
+Osmanthus heterophyllus		1	653							Osmanthus heterophyllus								
+Osmanthus fragrans		1	653							Osmanthus fragrans								
+Forestiera acuminata		1	653							Forestiera acuminata								
+Fraxinus quadrangulata		1	653							Fraxinus quadrangulata								
+Fraxinus americana		1	653							Fraxinus americana								
+Fraxinus excelsior		1	653							Fraxinus excelsior								

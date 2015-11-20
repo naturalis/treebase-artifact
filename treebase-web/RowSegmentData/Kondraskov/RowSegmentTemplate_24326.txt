@@ -1,0 +1,71 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Abelia chinensis		1	716				FJ745388			Abelia chinensis								
+Acanthocalyx nepalensis		1	716				AY290015			Acanthocalyx nepalensis								
+Adoxa moschatellina		1	716				U88194			Adoxa moschatellina								
+Bupleurum longiradiatum		1	716				JF837167			Bupleurum longiradiatum								
+Bupleurum yunnanense		1	716				HQ687968			Bupleurum yunnanense								
+Centranthus lecoqii		1	716				DQ354165			Centranthus lecoqii								
+Cryptothladia chinensis		1	716				AY236184			Cryptothladia chinensis								
+Cryptothladia chlorantha		1	716				AY290012			Cryptothladia chlorantha								
+Diervilla sessilifolia		1	716				AY236177			Diervilla sessilifolia								
+Dipelta yunnanensis		1	716				AY236180			Dipelta yunnanensis								
+Dipsacus asperoides		1	716				EU925567			Dipsacus asperoides								
+Fedia pallescens		1	716				AY310450			Fedia pallescens								
+Hedera nepalensis		1	716				GU054637			Hedera nepalensis								
+Heptacodium miconioides		1	716				EU240665			Heptacodium miconioides								
+Kolkwitzia amabilis		1	716				EU240666			Kolkwitzia amabilis								
+Leycesteria formosa		1	716				AF265276			Leycesteria formosa								
+Lonicera caerulea		1	716				EU240677			Lonicera caerulea								
+Morina longifolia		1	716				AY236185			Morina longifolia								
+Plectritis brachystemon		1	716				AY792828			Plectritis brachystemon								
+Pterocephalus papposus		1	716				FJ640773			Pterocephalus papposus								
+Viburnum rigidum El Hierro SMNS 095		1	716				KJ188951			Viburnum rigidum El Hierro SMNS 095								
+Viburnum rigidum La Palma SMNS 096 		1	716				KJ188952			Viburnum rigidum La Palma SMNS 096 								
+Viburnum rigidum El Hierro SMNS 098 		1	716				KJ188953			Viburnum rigidum El Hierro SMNS 098 								
+Viburnum rigidum La Gomera SMNS 099 		1	716				KJ188954			Viburnum rigidum La Gomera SMNS 099 								
+Viburnum rigidum La Gomera SMNS 100 		1	716				KJ188955			Viburnum rigidum La Gomera SMNS 100 								
+Viburnum rigidum Gran Canaria SMNS 101 		1	716				KJ188956			Viburnum rigidum Gran Canaria SMNS 101 								
+Viburnum rigidum Gran Canaria SMNS 102 		1	716				KJ188957			Viburnum rigidum Gran Canaria SMNS 102 								
+Viburnum rigidum La Palma SMNS 103 		1	716				KJ188958			Viburnum rigidum La Palma SMNS 103 								
+Viburnum tinus Mallorca SMNS 107 		1	716				KJ188964			Viburnum tinus Mallorca SMNS 107 								
+Viburnum tinus Kroatien SMNS 109 		1	716				KJ188965			Viburnum tinus Kroatien SMNS 109 								
+Viburnum tinus France SMNS 110 		1	716				KJ188960			Viburnum tinus France SMNS 110 								
+Viburnum tinus Azoren SMNS 111 		1	716				KJ188961			Viburnum tinus Azoren SMNS 111 								
+Viburnum tinus Azoren SMNS 112 		1	716				KJ188962			Viburnum tinus Azoren SMNS 112 								
+Viburnum tinus Italien SMNS 113 		1	716				KJ188963			Viburnum tinus Italien SMNS 113 								
+Sambucus palmensis La Palma SMNS 125 		1	716				KJ188945			Sambucus palmensis La Palma SMNS 125 								
+Sambucus palmensis La Gomera SMNS 126 		1	716				KJ188946			Sambucus palmensis La Gomera SMNS 126 								
+Sambucus palmensis Gran Canaria SMNS 128 		1	716				KJ188947			Sambucus palmensis Gran Canaria SMNS 128 								
+Sambucus nigra maderensis Madeira SMNS 129 		1	716				KJ188948			Sambucus nigra maderensis Madeira SMNS 129 								
+Sambucus nigra maderensis Madeira SMNS 130		1	716				KJ188949			Sambucus nigra maderensis Madeira SMNS 130								
+Sambucus palmensis Teneriffa SMNS 134 		1	716				KJ188950			Sambucus palmensis Teneriffa SMNS 134 								
+Viburnum rigidum Tenerife SMNS 162 		1	716				KJ188959			Viburnum rigidum Tenerife SMNS 162 								
+Sambucus adnata		1	716				JF978509			Sambucus adnata								
+Sambucus australis		1	716				U88196			Sambucus australis								
+Sambucus caerulea		1	716				U88197			Sambucus caerulea								
+Sambucus ebulus DQ679819		1	716				DQ679819			Sambucus ebulus DQ679819								
+Sambucus javanica		1	716				U88201			Sambucus javanica								
+Sambucus nigra A		1	716				DQ521258			Sambucus nigra A								
+Sambucus nigra B		1	716				HQ714455			Sambucus nigra B								
+Sambucus peruviana		1	716				U88205			Sambucus peruviana								
+Sambucus racemosa		1	716				HQ714459			Sambucus racemosa								
+Sambucus wightiana		1	716				U88208			Sambucus wightiana								
+Sambucus williamsii AF366929		1	716				AF366929			Sambucus williamsii AF366929								
+Sinadoxa corydalifolia		1	716				AF248611			Sinadoxa corydalifolia								
+Symphoricarpos sinensis		1	716				GQ268148			Symphoricarpos sinensis								
+Triosteum himalayanum		1	716				AF265286			Triosteum himalayanum								
+Triplostegia glandulifera		1	716				AY236189			Triplostegia glandulifera								
+Valeriana officinalis		1	716				DQ180745			Valeriana officinalis								
+Valeriana tuberosa		1	716				DQ354166			Valeriana tuberosa								
+Viburnum acerifolium		1	716				AY265114			Viburnum acerifolium								
+Viburnum cinnamomifolium		1	716				AY265116			Viburnum cinnamomifolium								
+Viburnum clemensiae		1	716				AY265117			Viburnum clemensiae								
+Viburnum davidii		1	716				AY265120			Viburnum davidii								
+Viburnum furcatum Japan AB237444		1	716				AB237444			Viburnum furcatum Japan AB237444								
+Viburnum japonicum		1	716				AY265131			Viburnum japonicum								
+Viburnum jucundum		1	716				AY265132			Viburnum jucundum								
+Viburnum lantana Italien FJ490781		1	716				FJ490781			Viburnum lantana Italien FJ490781								
+Viburnum opulus AF366928		1	716				AF366928			Viburnum opulus AF366928								
+Viburnum tinus ITS JQ805228 Marocco		1	716				JQ805228			Viburnum tinus ITS JQ805228 Marocco								
+Viburnum wrightii		1	716				HQ591986			Viburnum wrightii								
+Weigela florida		1	716				AF078711			Weigela florida								

@@ -1,0 +1,40 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+F201114 Fusarium zanthoxyli		1	3368							F201114 Fusarium zanthoxyli								
+F201105 Fusarium zanthoxyli		1	3368							F201105 Fusarium zanthoxyli								
+F201310 Fusarium zanthoxyli		1	3368							F201310 Fusarium zanthoxyli								
+F201311 Fusarium zanthoxyli		1	3368							F201311 Fusarium zanthoxyli								
+F201321 Fusarium zanthoxyli		1	3368							F201321 Fusarium zanthoxyli								
+F201129 Fusarium continuum		1	3368							F201129 Fusarium continuum								
+F201127 Fusarium continuum		1	3368							F201127 Fusarium continuum								
+F201030 Fusarium continuum		1	3368							F201030 Fusarium continuum								
+F201126 Fusarium continuum		1	3368							F201126 Fusarium continuum								
+F201128 Fusarium continuum		1	3368							F201128 Fusarium continuum								
+54149 Fusarium torreyae		1	3368							54149 Fusarium torreyae								
+54150 Fusarium torreyae		1	3368							54150 Fusarium torreyae								
+54152 Fusarium torreyae		1	3368							54152 Fusarium torreyae								
+13622 Fusarium lateritium		1	3368							13622 Fusarium lateritium								
+20429 Fusarium stilboides		1	3368							20429 Fusarium stilboides								
+20472 Fusarium sarcochroum		1	3368							20472 Fusarium sarcochroum								
+3299 Fusarium sporotrichioides		1	3368							3299 Fusarium sporotrichioides								
+13374 Fusarium longipes		1	3368							13374 Fusarium longipes								
+25410 Fusarium aywerte		1	3368							25410 Fusarium aywerte								
+25473 Fusarium flocciferum		1	3368							25473 Fusarium flocciferum								
+25481 Fusarium tricinctum		1	3368							25481 Fusarium tricinctum								
+36452 Fusarium nurragi		1	3368							36452 Fusarium nurragi								
+13371 Fusarium buharicum		1	3368							13371 Fusarium buharicum								
+13384 Fusarium sublunatum		1	3368							13384 Fusarium sublunatum								
+20956 Fusarium verticillioides		1	3368							20956 Fusarium verticillioides								
+25486 Fusarium xylarioides		1	3368							25486 Fusarium xylarioides								
+22944 Fusarium proliferatum		1	3368							22944 Fusarium proliferatum								
+25226 Fusarium mangifera		1	3368							25226 Fusarium mangifera								
+25331 Fusarium circinatum		1	3368							25331 Fusarium circinatum								
+31084 Fusarium graminearum		1	3368							31084 Fusarium graminearum								
+20423 Fusarium lacertarum		1	3368							20423 Fusarium lacertarum								
+22187 Fusarium sambucinum		1	3368							22187 Fusarium sambucinum								
+22196 Fusarium venenatum		1	3368							22196 Fusarium venenatum								
+31041 Fusarium virguliforme		1	3368							31041 Fusarium virguliforme								
+22276 Fusarium phaseoli		1	3368							22276 Fusarium phaseoli								
+22090 Fusarium illudens		1	3368							22090 Fusarium illudens								
+45880 Fusarium solani f. sp. pisi		1	3368							45880 Fusarium solani f. sp. pisi								
+F201135 Fusarium sp. FSSC 6		1	3368							F201135 Fusarium sp. FSSC 6								
+20438 Fusarium ambrosium		1	3368							20438 Fusarium ambrosium								

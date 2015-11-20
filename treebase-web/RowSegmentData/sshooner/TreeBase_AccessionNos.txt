@@ -1,0 +1,44 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Achillea millefolium		1	1360				JN966065.1	JN965214.1		Achillea millefolium								
+Alnus viridis		1	1360			MT00187542	KT307911	KT307933		Alnus viridis								
+Arctous alpina		1	1360			MT00187534	KT307912	KT307934		Arctous alpina								
+Betula glandulosa		1	1360			MT00187541	KT307913	KT307935		Betula glandulosa								
+Carex sp.		1	1360			MT00187471	KT307914	KT307936		Carex sp.								
+Cerastium alpinum		1	1360			MT00187458	KT307915	KT307937		Cerastium alpinum								
+Cerastium arcticum		1	1360				KC474436.1	KC482409.1		Cerastium arcticum								
+Chamerion angustifolium		1	1360				KC474459.1	KC482434.1		Chamerion angustifolium								
+Coptis trifolia		1	1360			MT00187423	KT307916	KT307938		Coptis trifolia								
+Cornus canadensis		1	1360			MT00187443	KT307917	KT307939		Cornus canadensis								
+Cystopteris montana		1	1360			MT00187475		KT307940		Cystopteris montana								
+Diapensia lapponica		1	1360			MT00187530	KT307918	KT307941		Diapensia lapponica								
+Dryas integrifolia		1	1360			MT00187426	KT307919	KT307943		Dryas integrifolia								
+Empetrum nigrum		1	1360			MT00187412	KT307920	KT307944		Empetrum nigrum								
+Equisetum sylvaticum		1	1360			MT00187422		KT307945		Equisetum sylvaticum								
+Kalmia angustifolia		1	1360				AF419826.1			Kalmia angustifolia								
+Kalmia procumbens		1	1360			MT00187411	JN966344.1	KT307946		Kalmia procumbens								
+Larix laricina		1	1360			MT00187456		KT307947		Larix laricina								
+Linnaea borealis		1	1360			MT00187469		KT307948		Linnaea borealis								
+Mitella nuda		1	1360			MT00187452	KT307921	KT307949		Mitella nuda								
+Petasites frigidus		1	1360				KC475256.1	KC483415.1		Petasites frigidus								
+Picea glauca		1	1360			MT00187464		KT307950		Picea glauca								
+Picea sp.		1	1360					KC483441.1		Picea sp.								
+Poa sp.		1	1360			MT00187446	KT307922	KT307951		Poa sp.								
+Pyrola grandiflora		1	1360			MT00187459	KT307923	KT307952		Pyrola grandiflora								
+Rhododendron groenlandicum		1	1360			MT00187476	JN966494.1	KT307953		Rhododendron groenlandicum								
+Ribes glandulosum		1	1360			MT00187554	KT307924	KT307954		Ribes glandulosum								
+Rubus arcticus		1	1360				KC475689.1	KC483881.1		Rubus arcticus								
+Rubus chamaemorus		1	1360			MT00187432	JN966513.1	KT307955		Rubus chamaemorus								
+Salix glauca		1	1360			MT00187436	KT307925	KT307956		Salix glauca								
+Salix herbacea		1	1360				JN966589.1	JN965897.1		Salix herbacea								
+Salix planifolia		1	1360			MT00187440		KT307957		Salix planifolia								
+Salix sp.		1	1360				JN966635.1	JN965956.1		Salix sp.								
+Salix uva-ursi		1	1360			MT00187410		KT307958		Salix uva-ursi								
+Salix vestita		1	1360			MT00187416		KT307959		Salix vestita								
+Solidago macrophylla		1	1360			MT00187571	KT307926	KT307960		Solidago macrophylla								
+Taraxacum officinale		1	1360				JX520947.1	JX520956.1		Taraxacum officinale								
+Trientalis borealis		1	1360			MT00187431	KT307927	KT307961		Trientalis borealis								
+Vaccinium caespitosum		1	1360			MT00187560	KT307928	KT307962		Vaccinium caespitosum								
+Vaccinium myrtilloides		1	1360			MT00187450	KT307929	KT307963		Vaccinium myrtilloides								
+Vaccinium uliginosum		1	1360			MT00187425	KT307930	KT307964		Vaccinium uliginosum								
+Vaccinium vitis-idaea		1	1360			MT00187428	KT307931	KT307965		Vaccinium vitis-idaea								
+Viola sp.		1	1360			MT00187427	KT307932	KT307966		Viola sp.								

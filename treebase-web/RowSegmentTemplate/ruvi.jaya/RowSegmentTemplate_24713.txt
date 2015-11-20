@@ -1,0 +1,73 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Neopestalotiopsis saprophyta CBS447.73		1	1516							Neopestalotiopsis saprophyta CBS447.73								
+Pestalotiopsis verruculosa MFLUCC12 0274		1	1516							Pestalotiopsis verruculosa MFLUCC12 0274								
+Pestalotiopsis monochaeta CBS 144.97		1	1516							Pestalotiopsis monochaeta CBS 144.97								
+Pestalotiopsis hollandica CBS 265.33		1	1516							Pestalotiopsis hollandica CBS 265.33								
+Pestalotiopsis monochaeta CBS 440.83		1	1516							Pestalotiopsis monochaeta CBS 440.83								
+Pestalotiopsis australis CBS 111503		1	1516							Pestalotiopsis australis CBS 111503								
+Pestalotiopsis australis CBS 114193		1	1516							Pestalotiopsis australis CBS 114193								
+Pestalotiopsis australis CBS 114474		1	1516							Pestalotiopsis australis CBS 114474								
+Pestalotiopsis australis CBS 119350		1	1516							Pestalotiopsis australis CBS 119350								
+Pestalotiopsis unicolor MFLUCC12 0276		1	1516							Pestalotiopsis unicolor MFLUCC12 0276								
+Pestalotiopsis unicolor MFLUCC12 0275		1	1516							Pestalotiopsis unicolor MFLUCC12 0275								
+Pestalotiopsis linearis MFLUCC12 0271		1	1516							Pestalotiopsis linearis MFLUCC12 0271								
+Pestalotiopsis intermedia MFLUCC12 0259		1	1516							Pestalotiopsis intermedia MFLUCC12 0259								
+Pestalotiopsis chamaeropis CBS 113604		1	1516							Pestalotiopsis chamaeropis CBS 113604								
+Pestalotiopsis chamaeropis CBS 237.38		1	1516							Pestalotiopsis chamaeropis CBS 237.38								
+Pestalotiopsis chamaeropis CBS 113607		1	1516							Pestalotiopsis chamaeropis CBS 113607								
+Pestalotiopsis chamaeropis CBS 186.71		1	1516							Pestalotiopsis chamaeropis CBS 186.71								
+Pestalotiopsis scoparia CBS 176.25		1	1516							Pestalotiopsis scoparia CBS 176.25								
+Pestalotiopsis adusta MFLUCC10 0146		1	1516							Pestalotiopsis adusta MFLUCC10 0146								
+Pestalotiopsis adusta ICMP6088		1	1516							Pestalotiopsis adusta ICMP6088								
+Pestalotiopsis rosea MFLUCC 12 0258		1	1516							Pestalotiopsis rosea MFLUCC 12 0258								
+Pestalotiopsis clavata MFLUCC12 0268		1	1516							Pestalotiopsis clavata MFLUCC12 0268								
+Pestalotiopsis colombiensis CBS 118553		1	1516							Pestalotiopsis colombiensis CBS 118553								
+Pestalotiopsis biciliata CBS 790.68		1	1516							Pestalotiopsis biciliata CBS 790.68								
+Pestalotiopsis knightiae CBS 114138		1	1516							Pestalotiopsis knightiae CBS 114138								
+Pestalotiopsis biciliata CBS 124463		1	1516							Pestalotiopsis biciliata CBS 124463								
+Pestalotiopsis biciliata CBS 236.38		1	1516							Pestalotiopsis biciliata CBS 236.38								
+Pestalotiopsis knightiae CBS 111963		1	1516							Pestalotiopsis knightiae CBS 111963								
+Pestalotiopsis malayana CBS 102220		1	1516							Pestalotiopsis malayana CBS 102220								
+Pestalotiopsis diploclisiae CBS 115449		1	1516							Pestalotiopsis diploclisiae CBS 115449								
+Pestalotiopsis diploclisiae CBS 115585		1	1516							Pestalotiopsis diploclisiae CBS 115585								
+Pestalotiopsis diploclisiae CBS 115587		1	1516							Pestalotiopsis diploclisiae CBS 115587								
+Pestalotiopsis papuana CBS 887.96		1	1516							Pestalotiopsis papuana CBS 887.96								
+Pestalotiopsis papuana CBS 331.96		1	1516							Pestalotiopsis papuana CBS 331.96								
+Pestalotiopsis humus CBS 336.97		1	1516							Pestalotiopsis humus CBS 336.97								
+Pestalotiopsis humus CBS 115450		1	1516							Pestalotiopsis humus CBS 115450								
+Pestalotiopsis sp CBS 263.33		1	1516							Pestalotiopsis sp CBS 263.33								
+Pestalotiopsis sp CBS 264.33		1	1516							Pestalotiopsis sp CBS 264.33								
+Pestalotiopsis rhododendri OP086		1	1516							Pestalotiopsis rhododendri OP086								
+Pestalotiopsis trachicarpicola OP068		1	1516							Pestalotiopsis trachicarpicola OP068								
+Pestalotiopsis trachicarpicola MFLUCC12 0263		1	1516							Pestalotiopsis trachicarpicola MFLUCC12 0263								
+Pestalotiopsis trachicarpicola MFLUCC12 0267		1	1516							Pestalotiopsis trachicarpicola MFLUCC12 0267								
+Pestalotiopsis trachicarpicola MFLUCC12 0266		1	1516							Pestalotiopsis trachicarpicola MFLUCC12 0266								
+Pestalotiopsis trachicarpicola MFLUCC12 0265		1	1516							Pestalotiopsis trachicarpicola MFLUCC12 0265								
+Pestalotiopsis trachicarpicola MFLUCC12 0264		1	1516							Pestalotiopsis trachicarpicola MFLUCC12 0264								
+Pestalotiopsis oryzae CBS 111522		1	1516							Pestalotiopsis oryzae CBS 111522								
+Pestalotiopsis telopeae CBS 113606		1	1516							Pestalotiopsis telopeae CBS 113606								
+Pestalotiopsis telopeae CBS 114161		1	1516							Pestalotiopsis telopeae CBS 114161								
+Pestalotiopsis australasia CBS 114126		1	1516							Pestalotiopsis australasia CBS 114126								
+Pestalotiopsis australasiae CBS 114141		1	1516							Pestalotiopsis australasiae CBS 114141								
+Pestalotiopsis oryzae CBS 353.69		1	1516							Pestalotiopsis oryzae CBS 353.69								
+Pestalotiopsis telopeae CBS 114137		1	1516							Pestalotiopsis telopeae CBS 114137								
+Pestalotiopsis oryzae CBS 171.26		1	1516							Pestalotiopsis oryzae CBS 171.26								
+Pestalotiopsis grevilleae CBS 114127		1	1516							Pestalotiopsis grevilleae CBS 114127								
+Pestalotiopsis parva CBS 265.37		1	1516							Pestalotiopsis parva CBS 265.37								
+Pestalotiopsis parva CBS 278.35		1	1516							Pestalotiopsis parva CBS 278.35								
+Pestalotiopsis inflexa MFLUCC12 0270		1	1516							Pestalotiopsis inflexa MFLUCC12 0270								
+Pestalotiopsis furcata MFLUCC12 0054		1	1516							Pestalotiopsis furcata MFLUCC12 0054								
+Pestalotiopsis camelliae MFLUCC12 0277		1	1516							Pestalotiopsis camelliae MFLUCC12 0277								
+Pestalotiopsis camelliae MFLUCC12 0278		1	1516							Pestalotiopsis camelliae MFLUCC12 0278								
+Pestalotiopsis portugalica CBS 393.48		1	1516							Pestalotiopsis portugalica CBS 393.48								
+Pestalotiopsis novaehollandiae CBS 130973		1	1516							Pestalotiopsis novaehollandiae CBS 130973								
+Pestalotiopsis trachicarpicola ICMP20420		1	1516							Pestalotiopsis trachicarpicola ICMP20420								
+Pestalotiopsis arceuthobii CBS 434.65		1	1516							Pestalotiopsis arceuthobii CBS 434.65								
+Pestalotiopsis anacardiacearum IFRDCC2397		1	1516							Pestalotiopsis anacardiacearum IFRDCC2397								
+Pestalotiopsis hawaiiensis CBS 114491		1	1516							Pestalotiopsis hawaiiensis CBS 114491								
+Pestalotiopsis diversiseta ICMP20420		1	1516							Pestalotiopsis diversiseta ICMP20420								
+Pestalotiopsis ericacearum IFRDCC2439		1	1516							Pestalotiopsis ericacearum IFRDCC2439								
+Pestalotiopsis arengae CBS 331.92		1	1516							Pestalotiopsis arengae CBS 331.92								
+Pestalotiopsis spathulata CBS 356.86		1	1516							Pestalotiopsis spathulata CBS 356.86								
+Pestalotiopsis brassicae CBS170.26		1	1516							Pestalotiopsis brassicae CBS170.26								
+Pestalotiopsis gaultheria IFRD411 014		1	1516							Pestalotiopsis gaultheria IFRD411 014								

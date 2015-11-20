@@ -1,0 +1,47 @@
+JS-115	Japanese pear	Ohita, Japan (1980)	1	AB430830.1 (Katoh et al. 2011)
+Yasato2-1-1	Japanese pear	Ibaraki, Japan(1992)	1	JX979156
+Mamenashi12A No.1-1	Mamenashi 12	Tottori, Japan (1991)	2	JX979151
+Mamenashi 12A No.1-3	Mamenashi 12	Tottori, Japan (1991)	2	AB430831.1 (Katoh et al. 2011)
+Mamenashi 12A No.1-4	Mamenashi 12	Tottori, Japan (1991)	2	JX979152
+Mamenashi 12B No.1-1	Mamenashi 12	Tottori, Japan (1991)	3	AB430863.1 (Katoh et al. 2011)
+Mamenashi 12B No.1-2	Mamenashi 12	Tottori, Japan (1991)	3	JX979153
+Mamenashi 12B No.53-1	Mamenashi 12	Tottori, Japan (1992)	3	JX979154
+OYO-1	Japanese pear	Tochigi, Japan (1999)	1	JX979155
+Hongli 3	Chinese pear	Ibaraki, Japan (2006)	！a	JX979168
+IbarakiYali 5	Chinese pear	Ibaraki, Japan (1989)	！	JX979179
+Manshuumamenashi 3	Manshuumamenashi	Tottori, Japan (1989)	！	JX979166
+Beijingbaili 4	Chinese pear	Liaoning, China (1989)	4	AB430864.1 (Katoh et al. 2011)
+Beijingbaili 6	Chinese pear	Liaoning, China (1989)	！	JX979182
+Jingbaili 05-2	Chinese pear	Liaoning, China (2005)	4	JX979170
+ChinaYali 5	Chinese pear	Liaoning, China (1990)	2	JX979173
+SD-YT 5	Chinese pear	Hebei, China (1995)	2	JX979160
+Yali 05-2	Chinese pear	Liaoning, China (1990)	2	JX979164
+Jingfengli 3	Chinese pear	Liaoning, China (2005)	！	JX979171
+Jingfengli14	Chinese pear	Liaoning, China (2005)	！	JX979165
+Cili 5	Chinese pear	Liaoning, China (2005)	2	JX979177
+Cili 7	Chinese pear	Liaoning, China (2005)	2	JX979162
+Xingping 2	Chinese pear	Shaanxi, China (2006)	2	JX979178
+Shandong 1-2	Chinese pear	Shandong, China (2006)	2	JX979161
+Shandong 4-2	Chinese pear	Shandong, China (2006)	2	JX979167
+Anhui 1	Chinese pear	Anhui, China (2006)	！	JX979157
+Anhui 2	Chinese pear	Anhui, China (2006)	2	JX979169
+Anhui 4	Chinese pear	Anhui, China (2006)	2	JX979158
+Yunnan 3	Chinese pear	Yunnan, China (2007)	2	JX979159
+Yunnan 5	Chinese pear	Yunnan, China (2007)	2	JX979163
+Huobali 1-1	Chinese pear	Yunnan, China (2007)	！	JX979191
+Shuibianli 1-1	Chinese pear	Yunnan, China (2007)	！	JX979190
+Jilin1-4	Chinese pear	Jilin, China (2007)	！	JX979176
+Jilin 3-3	Chinese pear	Jilin, China (2007)	！	JX979174
+Jilin 4-3	Chinese pear	Jilin, China (2007)	！	JX979175
+F-1	Chinese pear	Taiwan (2004)	5	JX979181
+F-5	Chinese pear	Taiwan (2004)	！	JX979180
+Akita FB-1	European pear	Akita , Japan (1980)	！	AB430865.1 (Katoh et al. 2011)
+38994	Syrian pear	Golan Heights, Israel	5	JX979192
+38995	European pear	Israel	1	JX979189
+38996	European pear	Israel	2	JX979188
+38998	European pear	Israel	3	JX979193
+38999	European pear	Israel	4	JX979185
+PS-1	Syrian pear	Golan Heights, Israel (1999)	！	JX979184
+KA1-1-1	Syrian pear	Golan Heights, Israel (1999)	！	JX979186
+YK3-1-1	Syrian pear	Golan Heights, Israel (1999)	！	JX979183
+Ibaraki 1	Apple	Ibaraki, Japan (1998)	！　	JX979187

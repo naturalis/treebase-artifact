@@ -1,0 +1,45 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Chalciporus radiatus KP871800		1	904							Chalciporus radiatus KP871800								
+Chalciporus radiatus KP871802		1	904							Chalciporus radiatus KP871802								
+Chalciporus radiatus KP871801		1	904							Chalciporus radiatus KP871801								
+Chalciporus piperatus DQ534648		1	904							Chalciporus piperatus DQ534648								
+Chalciporus piperatus KP871803		1	904							Chalciporus piperatus KP871803								
+Chalciporus piperatus DQ534649		1	904							Chalciporus piperatus DQ534649								
+Chalciporus rubinellus EU685106		1	904							Chalciporus rubinellus EU685106								
+Chalciporus pseudorubinellus KF030287		1	904							Chalciporus pseudorubinellus KF030287								
+Chalciporus pseudorubinellus KF030284		1	904							Chalciporus pseudorubinellus KF030284								
+Chalciporus pseudorubinellus KF030286		1	904							Chalciporus pseudorubinellus KF030286								
+Chalciporus amarellus AF456835		1	904							Chalciporus amarellus AF456835								
+Buchwaldoboletus lignicola		1	904							Buchwaldoboletus lignicola								
+Buchwaldoboletus lignicola KF112350		1	904							Buchwaldoboletus lignicola KF112350								
+Aureoboletus gentilis DQ534635		1	904							Aureoboletus gentilis DQ534635								
+Aureoboletus moravicus KF112421		1	904							Aureoboletus moravicus KF112421								
+Aureoboletus thibetanus KJ907381		1	904							Aureoboletus thibetanus KJ907381								
+Aureoboletus thibetanus KF112420		1	904							Aureoboletus thibetanus KF112420								
+Boletaceae sp EU685108		1	904							Boletaceae sp EU685108								
+Boletellus aff emodensis KF112426		1	904							Boletellus aff emodensis KF112426								
+Boletellus ananas HQ161853		1	904							Boletellus ananas HQ161853								
+Boletellus sp KF112428		1	904							Boletellus sp KF112428								
+Boletus aereus KF030339		1	904							Boletus aereus KF030339								
+Borofutus dhakanus JQ928615		1	904							Borofutus dhakanus JQ928615								
+Borofutus dhakanus JQ928587		1	904							Borofutus dhakanus JQ928587								
+Harrya atriceps JX889662		1	904							Harrya atriceps JX889662								
+Harrya chromapes KF112437		1	904							Harrya chromapes KF112437								
+Harrya chromapes JX889664		1	904							Harrya chromapes JX889664								
+Heimioporus aff. japonicus KF112346		1	904							Heimioporus aff. japonicus KF112346								
+Leccinum aff scabrum KF112442		1	904							Leccinum aff scabrum KF112442								
+Leccinum aurantiacum AF139689		1	904							Leccinum aurantiacum AF139689								
+Leccinum quercinum KF112444		1	904							Leccinum quercinum KF112444								
+Phylloporus luxiensis KF112490		1	904							Phylloporus luxiensis KF112490								
+Phylloporus pelletieri JQ967215		1	904							Phylloporus pelletieri JQ967215								
+Retiboletus aff ornatipes KF112416		1	904							Retiboletus aff ornatipes KF112416								
+Retiboletus		1	904							Retiboletus								
+Strobilomyces floccopus DQ534626		1	904							Strobilomyces floccopus DQ534626								
+Tylopilus felleus KF112411		1	904							Tylopilus felleus KF112411								
+Tylopilus badiceps KF030335		1	904							Tylopilus badiceps KF030335								
+Tylopilus plumbeoviolaceoides KF112431		1	904							Tylopilus plumbeoviolaceoides KF112431								
+Xerocomus aff subtomentosus KF112389		1	904							Xerocomus aff subtomentosus KF112389								
+Zangia citrina HQ326941		1	904							Zangia citrina HQ326941								
+Zangia olivacea HQ326945		1	904							Zangia olivacea HQ326945								
+Zangia roseola JQ928623		1	904							Zangia roseola JQ928623								
+Suillus aff. luteus		1	904							Suillus aff. luteus								

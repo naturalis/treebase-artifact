@@ -1,0 +1,65 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Brassica napus BnaA03g46540D ClassIII		1	1136							Brassica napus BnaA03g46540D ClassIII								
+Brassica rapa Bra019240 ClassIII		1	1136							Brassica rapa Bra019240 ClassIII								
+Brassica napus BnaC07g38820D ClassIII		1	1136							Brassica napus BnaC07g38820D ClassIII								
+Brassica oleracea Bol042158 ClassIII		1	1136							Brassica oleracea Bol042158 ClassIII								
+Arabidopsis lyrata XP 002867674 ClassIII		1	1136							Arabidopsis lyrata XP 002867674 ClassIII								
+Brassica napus BnaC01g16110D ClassIII		1	1136							Brassica napus BnaC01g16110D ClassIII								
+Brassica oleracea Bol009564 ClassIII		1	1136							Brassica oleracea Bol009564 ClassIII								
+Brassica rapa Bra013778 ClassIII		1	1136							Brassica rapa Bra013778 ClassIII								
+Brassica napus BnaA01g13710D ClassIII		1	1136							Brassica napus BnaA01g13710D ClassIII								
+Arabidopsis thaliana At4g24230		1	1136							Arabidopsis thaliana At4g24230								
+Oryza sativa Os03g14000 ClassIII		1	1136							Oryza sativa Os03g14000 ClassIII								
+Zea mays Zm01g09480 ClassIII		1	1136							Zea mays Zm01g09480 ClassIII								
+Brassica napus BnaA02g10270D ClassII		1	1136							Brassica napus BnaA02g10270D ClassII								
+Brassica rapa Bra022656 ClassII		1	1136							Brassica rapa Bra022656 ClassII								
+Brassica napus BnaC02g44810D ClassII		1	1136							Brassica napus BnaC02g44810D ClassII								
+Brassica oleracea Bol017188 ClassII		1	1136							Brassica oleracea Bol017188 ClassII								
+Arabidopsis thaliana At5g53470 ClassII		1	1136							Arabidopsis thaliana At5g53470 ClassII								
+Arabidopsis thaliana At4g27780 ClassII		1	1136							Arabidopsis thaliana At4g27780 ClassII								
+Brassica rapa Bra026307 ClassII		1	1136							Brassica rapa Bra026307 ClassII								
+Brassica oleracea Bol013113 ClassII		1	1136							Brassica oleracea Bol013113 ClassII								
+Brassica napus BnaC01g20440D ClassII		1	1136							Brassica napus BnaC01g20440D ClassII								
+Brassica napus BnaA01g16660D ClassII		1	1136							Brassica napus BnaA01g16660D ClassII								
+Oryza sativa Os04g58550 ClassII		1	1136							Oryza sativa Os04g58550 ClassII								
+Zea mays Zm10g26640 ClassII		1	1136							Zea mays Zm10g26640 ClassII								
+Brassica napus Ais76201 ClassIV		1	1136							Brassica napus Ais76201 ClassIV								
+Brassica napus Ais76196 ClassIV		1	1136							Brassica napus Ais76196 ClassIV								
+Brassica rapa Bra040219 ClassIV		1	1136							Brassica rapa Bra040219 ClassIV								
+Brassica oleracea Bol002733 ClassIV		1	1136							Brassica oleracea Bol002733 ClassIV								
+Arabidopsis lyrata XP 002882412 ClassIV		1	1136							Arabidopsis lyrata XP 002882412 ClassIV								
+Brassica napus Ais76200 ClassIV		1	1136							Brassica napus Ais76200 ClassIV								
+Brassica rapa Bra039439 ClassIV		1	1136							Brassica rapa Bra039439 ClassIV								
+Brassica napus Ais76195 ClassIV		1	1136							Brassica napus Ais76195 ClassIV								
+Brassica oleracea Bol001638 ClassIV		1	1136							Brassica oleracea Bol001638 ClassIV								
+Brassica napus Ais76194 ClassIV		1	1136							Brassica napus Ais76194 ClassIV								
+Brassica rapa Bra001147 ClassIV		1	1136							Brassica rapa Bra001147 ClassIV								
+Brassica oleracea Bol034106 ClassIV		1	1136							Brassica oleracea Bol034106 ClassIV								
+Brassica napus Ais76199 ClassIV		1	1136							Brassica napus Ais76199 ClassIV								
+Arabidopsis thaliana At3g05420 ClassIV		1	1136							Arabidopsis thaliana At3g05420 ClassIV								
+Arabidopsis lyrata XP 002874360 ClassIV		1	1136							Arabidopsis lyrata XP 002874360 ClassIV								
+Arabidopsis thaliana At5g27630 ClassIV		1	1136							Arabidopsis thaliana At5g27630 ClassIV								
+Brassica napus Ais76198 ClassIV		1	1136							Brassica napus Ais76198 ClassIV								
+Brassica rapa Bra020582 ClassIV		1	1136							Brassica rapa Bra020582 ClassIV								
+Brassica napus Ais76197 ClassIV		1	1136							Brassica napus Ais76197 ClassIV								
+Brassica oleracea Bol012774 ClassIV		1	1136							Brassica oleracea Bol012774 ClassIV								
+Oryza sativa Os03g61930 ClassIV		1	1136							Oryza sativa Os03g61930 ClassIV								
+Zea mays Zm01g58820 ClassIV		1	1136							Zea mays Zm01g58820 ClassIV								
+Brassica oleracea Bol027060 ClassI		1	1136							Brassica oleracea Bol027060 ClassI								
+Brassica napus BnaCnng15340D ClassI		1	1136							Brassica napus BnaCnng15340D ClassI								
+Brassica napus BnaA08g07670D ClassI		1	1136							Brassica napus BnaA08g07670D ClassI								
+Brassica napus BnaA05g36060D ClassI		1	1136							Brassica napus BnaA05g36060D ClassI								
+Brassica rapa Bra038439 ClassI		1	1136							Brassica rapa Bra038439 ClassI								
+Brassica rapa Bra033875 ClassI		1	1136							Brassica rapa Bra033875 ClassI								
+Brassica rapa Bra023206 ClassI		1	1136							Brassica rapa Bra023206 ClassI								
+Brassica napus BnaAnng25690D ClassI		1	1136							Brassica napus BnaAnng25690D ClassI								
+Brassica oleracea Bol005980 ClassI		1	1136							Brassica oleracea Bol005980 ClassI								
+Brassica oleracea Bol038626 ClassI		1	1136							Brassica oleracea Bol038626 ClassI								
+Arabidopsis lyrata XP 002893688 ClassI		1	1136							Arabidopsis lyrata XP 002893688 ClassI								
+Arabidopsis thaliana At1g31812 ClassI		1	1136							Arabidopsis thaliana At1g31812 ClassI								
+Oryza sativa Os06g02490 ClassI		1	1136							Oryza sativa Os06g02490 ClassI								
+Zea mays Zm09g06330 ClassI		1	1136							Zea mays Zm09g06330 ClassI								
+Oryza sativa Os03g37960 ClassI		1	1136							Oryza sativa Os03g37960 ClassI								
+Oryza sativa Os08g06550 ClassI		1	1136							Oryza sativa Os08g06550 ClassI								
+Zea mays Zm10g09880 ClassI		1	1136							Zea mays Zm10g09880 ClassI								
+Chlorella		1	1136							Chlorella								

@@ -1,0 +1,27 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Fragaria vesca JQ396171		1	1793							Fragaria vesca JQ396171								
+Potentilla purpurea		1	1793							Potentilla purpurea								
+Potentilla tetrandra		1	1793							Potentilla tetrandra								
+Sibbaldia cuneata Haplotype V		1	1793							Sibbaldia cuneata Haplotype V								
+Sibbaldia cuneata Haplotype W		1	1793							Sibbaldia cuneata Haplotype W								
+Sibbaldianthe adpressa		1	1793							Sibbaldianthe adpressa								
+Sibbaldia parviflora Haplotype T		1	1793							Sibbaldia parviflora Haplotype T								
+Sibbaldia parviflora Haplotype U		1	1793							Sibbaldia parviflora Haplotype U								
+Sibbaldia procumbens Haplotype A		1	1793							Sibbaldia procumbens Haplotype A								
+Sibbaldia procumbens Haplotype B		1	1793							Sibbaldia procumbens Haplotype B								
+Sibbaldia procumbens Haplotype C		1	1793							Sibbaldia procumbens Haplotype C								
+Sibbaldia procumbens Haplotype D		1	1793							Sibbaldia procumbens Haplotype D								
+Sibbaldia procumbens Haplotype E		1	1793							Sibbaldia procumbens Haplotype E								
+Sibbaldia procumbens Haplotype F		1	1793							Sibbaldia procumbens Haplotype F								
+Sibbaldia procumbens Haplotype G		1	1793							Sibbaldia procumbens Haplotype G								
+Sibbaldia procumbens Haplotype H		1	1793							Sibbaldia procumbens Haplotype H								
+Sibbaldia procumbens Haplotype I		1	1793							Sibbaldia procumbens Haplotype I								
+Sibbaldia procumbens Haplotype J		1	1793							Sibbaldia procumbens Haplotype J								
+Sibbaldia procumbens Haplotype K		1	1793							Sibbaldia procumbens Haplotype K								
+Sibbaldia procumbens Haplotype L		1	1793							Sibbaldia procumbens Haplotype L								
+Sibbaldia procumbens Haplotype M		1	1793							Sibbaldia procumbens Haplotype M								
+Sibbaldia procumbens Haplotype N		1	1793							Sibbaldia procumbens Haplotype N								
+Sibbaldia procumbens Haplotype O		1	1793							Sibbaldia procumbens Haplotype O								
+Sibbaldia procumbens Haplotype P		1	1793							Sibbaldia procumbens Haplotype P								
+Sibbaldia procumbens Haplotype Q		1	1793							Sibbaldia procumbens Haplotype Q								
+Sibbaldia procumbens Haplotype R		1	1793							Sibbaldia procumbens Haplotype R								

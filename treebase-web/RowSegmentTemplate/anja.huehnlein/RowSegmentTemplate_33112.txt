@@ -1,0 +1,29 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+14 2 FRA		1	6376							14 2 FRA								
+ASL2000 GER		1	6376							ASL2000 GER								
+AUS		1	6376							AUS								
+CAN		1	6376							CAN								
+CIP01 PER		1	6376							CIP01 PER								
+CU87 CUB		1	6376							CU87 CUB								
+CYDV RPV		1	6376							CYDV RPV								
+Fr1 FRA		1	6376							Fr1 FRA								
+HB CHN		1	6376							HB CHN								
+IM CHN		1	6376							IM CHN								
+JokerMV10 GER		1	6376							JokerMV10 GER								
+JPI1 IND		1	6376							JPI1 IND								
+KHPI1 IND		1	6376							KHPI1 IND								
+Mayo SCO		1	6376							Mayo SCO								
+NL NED		1	6376							NL NED								
+Noir FRA		1	6376							Noir FRA								
+OP ESP		1	6376							OP ESP								
+OTNI2 IND		1	6376							OTNI2 IND								
+PBI6 IND		1	6376							PBI6 IND								
+Poland POL		1	6376							Poland POL								
+SMI5 IND		1	6376							SMI5 IND								
+SymlessLS10 GER		1	6376							SymlessLS10 GER								
+US CA USA		1	6376							US CA USA								
+VIRUBRA45 CZE		1	6376							VIRUBRA45 CZE								
+VIRUBRA46 CZE		1	6376							VIRUBRA46 CZE								
+VIRUBRA47 CZE		1	6376							VIRUBRA47 CZE								
+YN CHN		1	6376							YN CHN								
+Zim13 ZIM		1	6376							Zim13 ZIM								

@@ -1,0 +1,41 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Tylopilus felleus AF071466		1	924							Tylopilus felleus AF071466								
+Tylopilus felleus AY586723		1	924							Tylopilus felleus AY586723								
+Tylopilus felleus HQ326933		1	924							Tylopilus felleus HQ326933								
+Tylopilus felleus KF112411		1	924							Tylopilus felleus KF112411								
+Tylopilus felleus HQ326934		1	924							Tylopilus felleus HQ326934								
+Tylopilus felleus EU522827		1	924							Tylopilus felleus EU522827								
+Tylopilus felleus JQ326993		1	924							Tylopilus felleus JQ326993								
+Tylopilus alboater AF139708		1	924							Tylopilus alboater AF139708								
+Tylopilus felleus AF139710		1	924							Tylopilus felleus AF139710								
+Tylopilus ferrugineus AF139711		1	924							Tylopilus ferrugineus AF139711								
+Tylopilus indecisus AF456820		1	924							Tylopilus indecisus AF456820								
+Tylopilus plumbeoviolaceus AF457405		1	924							Tylopilus plumbeoviolaceus AF457405								
+Tylopilus badiceps DQ534628		1	924							Tylopilus badiceps DQ534628								
+Tylopilus rubrobrunneus DQ534629		1	924							Tylopilus rubrobrunneus DQ534629								
+Tylopilus rubrobrunneus HQ161876		1	924							Tylopilus rubrobrunneus HQ161876								
+Tylopilus ferrugineus JQ326994		1	924							Tylopilus ferrugineus JQ326994								
+Tylopilus badiceps KF030336		1	924							Tylopilus badiceps KF030336								
+Tylopilus badiceps KF030335		1	924							Tylopilus badiceps KF030335								
+Tylopilus sp HKAS 55438 KF112404		1	924							Tylopilus sp HKAS 55438 KF112404								
+Tylopilus aff rigens HKAS 53388 KF112405		1	924							Tylopilus aff rigens HKAS 53388 KF112405								
+Tylopilus plumbeoviolaceoides HQ326937		1	924							Tylopilus plumbeoviolaceoides HQ326937								
+Tylopilus plumbeoviolaceoides KF112431		1	924							Tylopilus plumbeoviolaceoides KF112431								
+Tylopilus balloui  EU430740		1	924							Tylopilus balloui  EU430740								
+Tylopilus aff ballouii HKAS 59700 KF112458		1	924							Tylopilus aff ballouii HKAS 59700 KF112458								
+Tylopilus sp MG509a Dinghushan		1	924							Tylopilus sp MG509a Dinghushan								
+Tylopilus violatinctus HQ326935		1	924							Tylopilus violatinctus HQ326935								
+Tylopilus violatinctus KF112472		1	924							Tylopilus violatinctus KF112472								
+Tylopilus plumbeoviolaceoides GDGM42624 topotypus north suburbs Guangzhou		1	924							Tylopilus plumbeoviolaceoides GDGM42624 topotypus north suburbs Guangzhou								
+Tylopilus plumbeoviolaceoides GDGM20311 holotypus north suburbs Guangzhou		1	924							Tylopilus plumbeoviolaceoides GDGM20311 holotypus north suburbs Guangzhou								
+Tylopilus plumbeoviolaceus KF030350		1	924							Tylopilus plumbeoviolaceus KF030350								
+Tylopilus formosus HM060319		1	924							Tylopilus formosus HM060319								
+Tylopilus sp MG521a Nan ao island		1	924							Tylopilus sp MG521a Nan ao island								
+Tylopilus sp HKAS 74925 KF112473		1	924							Tylopilus sp HKAS 74925 KF112473								
+Tylopilus otsuensis KF112449		1	924							Tylopilus otsuensis KF112449								
+Tylopilus neofelleus HQ326936		1	924							Tylopilus neofelleus HQ326936								
+Tylopilus sp MZ2013 KF000101		1	924							Tylopilus sp MZ2013 KF000101								
+Tylopilus microsporus KF112450		1	924							Tylopilus microsporus KF112450								
+Tylopilus microsporus HMAS84730 holotypus Yunnan		1	924							Tylopilus microsporus HMAS84730 holotypus Yunnan								
+Tylopilus neofelleus Japan LSU		1	924							Tylopilus neofelleus Japan LSU								
+Tylopilus porphyrosporus DQ534642		1	924							Tylopilus porphyrosporus DQ534642								

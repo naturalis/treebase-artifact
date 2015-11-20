@@ -1,0 +1,28 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Mycobacterium smegmatis MC2 155		1	20044							Mycobacterium smegmatis MC2 155								
+Mycobacterium sp. MCS		1	20044							Mycobacterium sp. MCS								
+Mycobacterium sp. KMS		1	20044							Mycobacterium sp. KMS								
+Mycobacterium sp. JLS		1	20044							Mycobacterium sp. JLS								
+Mycobacterium gilvum Spyr1		1	20044							Mycobacterium gilvum Spyr1								
+Mycobacterium gilvum PYR-GCK		1	20044							Mycobacterium gilvum PYR-GCK								
+Mycobacterium vanbaalenii PYR-1		1	20044							Mycobacterium vanbaalenii PYR-1								
+Mycobacterium abscessus CIP 104536		1	20044							Mycobacterium abscessus CIP 104536								
+Mycobacterium sp. JDM601		1	20044							Mycobacterium sp. JDM601								
+Mycobacterium avium 104		1	20044							Mycobacterium avium 104								
+Mycobacterium avium paratuberculosis K-10		1	20044							Mycobacterium avium paratuberculosis K-10								
+Mycobacterium ulcerans Agy99		1	20044							Mycobacterium ulcerans Agy99								
+Mycobacterium marinum M, ATCC BAA-535		1	20044							Mycobacterium marinum M, ATCC BAA-535								
+Mycobacterium canettii CIPT 140010059		1	20044							Mycobacterium canettii CIPT 140010059								
+Mycobacterium africanum GM041182		1	20044							Mycobacterium africanum GM041182								
+Mycobacterium bovis AF2122/97		1	20044							Mycobacterium bovis AF2122/97								
+Mycobacterium bovis BCG Tokyo 172		1	20044							Mycobacterium bovis BCG Tokyo 172								
+Mycobacterium bovis BCG Pasteur 1173P2		1	20044							Mycobacterium bovis BCG Pasteur 1173P2								
+Mycobacterium tuberculosis KZN 1435		1	20044							Mycobacterium tuberculosis KZN 1435								
+Mycobacterium tuberculosis F11 		1	20044							Mycobacterium tuberculosis F11 								
+Mycobacterium tuberculosis H37Ra		1	20044							Mycobacterium tuberculosis H37Ra								
+Mycobacterium tuberculosis H37Rv 		1	20044							Mycobacterium tuberculosis H37Rv 								
+Mycobacterium tuberculosis CCDC5180		1	20044							Mycobacterium tuberculosis CCDC5180								
+Mycobacterium tuberculosis CCDC5079		1	20044							Mycobacterium tuberculosis CCDC5079								
+Mycobacterium tuberculosis CDC1551		1	20044							Mycobacterium tuberculosis CDC1551								
+Mycobacterium leprae TN		1	20044							Mycobacterium leprae TN								
+Mycobacterium leprae Br4923		1	20044							Mycobacterium leprae Br4923								

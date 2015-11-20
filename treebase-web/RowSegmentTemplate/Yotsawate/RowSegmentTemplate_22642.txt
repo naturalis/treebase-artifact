@@ -1,0 +1,74 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Aganope balansea		1	5036							Aganope balansea								
+Aganope gabonica		1	5036							Aganope gabonica								
+Aganope heptaphylla		1	5036							Aganope heptaphylla								
+Aganope impressa		1	5036							Aganope impressa								
+Aganope leucobotrya		1	5036							Aganope leucobotrya								
+Aganope stuhlmannii		1	5036							Aganope stuhlmannii								
+Aganope stuhlmannii GB		1	5036							Aganope stuhlmannii GB								
+Aganope thyrsiflora		1	5036							Aganope thyrsiflora								
+Austrosteenisia blackii		1	5036							Austrosteenisia blackii								
+Dalbergia lanceolaria		1	5036							Dalbergia lanceolaria								
+Deguelia negrensis		1	5036							Deguelia negrensis								
+Deguelia sp.		1	5036							Deguelia sp.								
+Derris alborubra		1	5036							Derris alborubra								
+Derris amoena		1	5036							Derris amoena								
+Derris amoena 1		1	5036							Derris amoena 1								
+Derris amoena 2		1	5036							Derris amoena 2								
+Derris cuneifolia		1	5036							Derris cuneifolia								
+Derris elegans		1	5036							Derris elegans								
+Derris elliptica C		1	5036							Derris elliptica C								
+Derris elliptica K1		1	5036							Derris elliptica K1								
+Derris elliptica K2		1	5036							Derris elliptica K2								
+Derris elliptica ST		1	5036							Derris elliptica ST								
+Derris ferruginea		1	5036							Derris ferruginea								
+Derris glabra		1	5036							Derris glabra								
+Derris laotica		1	5036							Derris laotica								
+Derris laxiflora		1	5036							Derris laxiflora								
+Derris lianoides		1	5036							Derris lianoides								
+Derris luzonensis		1	5036							Derris luzonensis								
+Derris marginata		1	5036							Derris marginata								
+Derris montana		1	5036							Derris montana								
+Derris monticola		1	5036							Derris monticola								
+Derris oblongifolia		1	5036							Derris oblongifolia								
+Derris piscatoria		1	5036							Derris piscatoria								
+Derris pseudmarginata		1	5036							Derris pseudmarginata								
+Derris pubipetala		1	5036							Derris pubipetala								
+Derris reticulata		1	5036							Derris reticulata								
+Derris rubrocalyx		1	5036							Derris rubrocalyx								
+Derris sp.		1	5036							Derris sp.								
+Derris spanogheana		1	5036							Derris spanogheana								
+Derris tonkinensis		1	5036							Derris tonkinensis								
+Derris trifoliata		1	5036							Derris trifoliata								
+Fordia cauliflora		1	5036							Fordia cauliflora								
+Fordia splendidissima		1	5036							Fordia splendidissima								
+Kunstleria ridleyii		1	5036							Kunstleria ridleyii								
+Leptoderris brachyptera		1	5036							Leptoderris brachyptera								
+Leptoderris fasciculata		1	5036							Leptoderris fasciculata								
+Leptoderris hypargyrea		1	5036							Leptoderris hypargyrea								
+Lonchocarpus lanceolatus		1	5036							Lonchocarpus lanceolatus								
+Lonchocarpus muehlbergianus		1	5036							Lonchocarpus muehlbergianus								
+Lonchocarpus santarosanus		1	5036							Lonchocarpus santarosanus								
+Lonchocarpus sericeous		1	5036							Lonchocarpus sericeous								
+Lonchocarpus subglaucescens		1	5036							Lonchocarpus subglaucescens								
+Millettia pinnata		1	5036							Millettia pinnata								
+Neodunnia richardiana		1	5036							Neodunnia richardiana								
+Ostryocarpus riparius		1	5036							Ostryocarpus riparius								
+Philenoptera cyanescens		1	5036							Philenoptera cyanescens								
+Philenoptera eriocalyx		1	5036							Philenoptera eriocalyx								
+Philenoptera laxiflora		1	5036							Philenoptera laxiflora								
+Philenoptera violacea		1	5036							Philenoptera violacea								
+Piscidia mollis		1	5036							Piscidia mollis								
+Piscidia piscipula		1	5036							Piscidia piscipula								
+Pongamiopsis amygdalina		1	5036							Pongamiopsis amygdalina								
+Solori cumingii		1	5036							Solori cumingii								
+Solori eriocarpa		1	5036							Solori eriocarpa								
+Solori involuta		1	5036							Solori involuta								
+Solori koolgiberah		1	5036							Solori koolgiberah								
+Solori microphylla		1	5036							Solori microphylla								
+Solori philippinensis		1	5036							Solori philippinensis								
+Solori pseudinvoluta		1	5036							Solori pseudinvoluta								
+Solori robusta		1	5036							Solori robusta								
+Derris scandens		1	5036							Derris scandens								
+Solori submontana		1	5036							Solori submontana								
+Solori thorelii		1	5036							Solori thorelii								

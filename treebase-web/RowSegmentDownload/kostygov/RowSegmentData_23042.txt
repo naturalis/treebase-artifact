@@ -1,0 +1,109 @@
+RowSegmentID	Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+56205	Wallacemonas rigidus		1	3100							Wallacemonas rigidus								
+56259	Wallacemonas rigidus		1	3100							Wallacemonas rigidus								
+56204	Wallacemonas raviniae		1	3100							Wallacemonas raviniae								
+56258	Wallacemonas raviniae		1	3100							Wallacemonas raviniae								
+56203	Wallacemonas collosoma		1	3100							Wallacemonas collosoma								
+56257	Wallacemonas collosoma		1	3100							Wallacemonas collosoma								
+56202	Trypanosoma pestanai		1	3100							Trypanosoma pestanai								
+56256	Trypanosoma pestanai		1	3100							Trypanosoma pestanai								
+56201	Trypanosoma mega		1	3100							Trypanosoma mega								
+56255	Trypanosoma mega		1	3100							Trypanosoma mega								
+56200	Trypanosoma granulosum		1	3100							Trypanosoma granulosum								
+56254	Trypanosoma granulosum		1	3100							Trypanosoma granulosum								
+56199	Trypanosoma cruzi		1	3100							Trypanosoma cruzi								
+56253	Trypanosoma cruzi		1	3100							Trypanosoma cruzi								
+56198	Trypanosoma brucei		1	3100							Trypanosoma brucei								
+56252	Trypanosoma brucei		1	3100							Trypanosoma brucei								
+56197	Sergeia podlipaevi		1	3100							Sergeia podlipaevi								
+56251	Sergeia podlipaevi		1	3100							Sergeia podlipaevi								
+56196	Strigomonas oncopelti		1	3100							Strigomonas oncopelti								
+56250	Strigomonas oncopelti		1	3100							Strigomonas oncopelti								
+56195	Strigomonas galati		1	3100							Strigomonas galati								
+56249	Strigomonas galati		1	3100							Strigomonas galati								
+56194	Strigomonas culicis		1	3100							Strigomonas culicis								
+56248	Strigomonas culicis		1	3100							Strigomonas culicis								
+56193	Phytomonas serpens		1	3100							Phytomonas serpens								
+56247	Phytomonas serpens		1	3100							Phytomonas serpens								
+56192	Paratrypanosoma confusum		1	3100							Paratrypanosoma confusum								
+56246	Paratrypanosoma confusum		1	3100							Paratrypanosoma confusum								
+56191	Leptomonas tenua		1	3100							Leptomonas tenua								
+56245	Leptomonas tenua		1	3100							Leptomonas tenua								
+56190	Leishmania tarentolae		1	3100							Leishmania tarentolae								
+56244	Leishmania tarentolae		1	3100							Leishmania tarentolae								
+56189	Leptomonas tarcoles		1	3100							Leptomonas tarcoles								
+56243	Leptomonas tarcoles		1	3100							Leptomonas tarcoles								
+56188	Leptomonas spiculata		1	3100							Leptomonas spiculata								
+56242	Leptomonas spiculata		1	3100							Leptomonas spiculata								
+56187	Leptomonas seymouri		1	3100							Leptomonas seymouri								
+56241	Leptomonas seymouri		1	3100							Leptomonas seymouri								
+56186	Leptomonas scantii		1	3100							Leptomonas scantii								
+56240	Leptomonas scantii		1	3100							Leptomonas scantii								
+56185	Leptomonas pyrrhocoris		1	3100							Leptomonas pyrrhocoris								
+56239	Leptomonas pyrrhocoris		1	3100							Leptomonas pyrrhocoris								
+56184	Leptomonas podlipaevi		1	3100							Leptomonas podlipaevi								
+56238	Leptomonas podlipaevi		1	3100							Leptomonas podlipaevi								
+56183	Leptomonas neopamerae		1	3100							Leptomonas neopamerae								
+56237	Leptomonas neopamerae		1	3100							Leptomonas neopamerae								
+56182	Leptomonas moramango		1	3100							Leptomonas moramango								
+56236	Leptomonas moramango		1	3100							Leptomonas moramango								
+56181	Leptomonas jaderae		1	3100							Leptomonas jaderae								
+56235	Leptomonas jaderae		1	3100							Leptomonas jaderae								
+56180	Leishmania donovani		1	3100							Leishmania donovani								
+56234	Leishmania donovani		1	3100							Leishmania donovani								
+56179	Leptomonas costaricensis		1	3100							Leptomonas costaricensis								
+56233	Leptomonas costaricensis		1	3100							Leptomonas costaricensis								
+56178	Leishmania braziliensis		1	3100							Leishmania braziliensis								
+56232	Leishmania braziliensis		1	3100							Leishmania braziliensis								
+56177	Leptomonas bifurcata		1	3100							Leptomonas bifurcata								
+56231	Leptomonas bifurcata		1	3100							Leptomonas bifurcata								
+56176	Leptomonas barvae		1	3100							Leptomonas barvae								
+56230	Leptomonas barvae		1	3100							Leptomonas barvae								
+56175	Leptomonas acus		1	3100							Leptomonas acus								
+56229	Leptomonas acus		1	3100							Leptomonas acus								
+56174	Herpetomonas samuelpessoai		1	3100							Herpetomonas samuelpessoai								
+56228	Herpetomonas samuelpessoai		1	3100							Herpetomonas samuelpessoai								
+56173	Herpetomonas nabiculae		1	3100							Herpetomonas nabiculae								
+56227	Herpetomonas nabiculae		1	3100							Herpetomonas nabiculae								
+56172	Herpetomonas muscarum		1	3100							Herpetomonas muscarum								
+56226	Herpetomonas muscarum		1	3100							Herpetomonas muscarum								
+56171	Herpetomonas costoris		1	3100							Herpetomonas costoris								
+56225	Herpetomonas costoris		1	3100							Herpetomonas costoris								
+56170	Crithidia pragensis		1	3100							Crithidia pragensis								
+56224	Crithidia pragensis		1	3100				KF482060			Crithidia pragensis								
+56169	Crithidia permixta		1	3100							Crithidia permixta								
+56223	Crithidia permixta		1	3100				EU076607			Crithidia permixta								
+56168	Crithidia otongatchiensis		1	3100							Crithidia otongatchiensis								
+56222	Crithidia otongatchiensis		1	3100				KF482058			Crithidia otongatchiensis								
+56167	Crithidia insperata		1	3100							Crithidia insperata								
+56221	Crithidia insperata		1	3100				EU076605			Crithidia insperata								
+56166	Crithidia fasciculata		1	3100							Crithidia fasciculata								
+56220	Crithidia fasciculata		1	3100				AF047493			Crithidia fasciculata								
+56165	Crithidia dedva		1	3100							Crithidia dedva								
+56219	Crithidia dedva		1	3100				EF546793			Crithidia dedva								
+56164	Crithidia confusa		1	3100							Crithidia confusa								
+56218	Crithidia confusa		1	3100				JF717832			Crithidia confusa								
+56163	Crithidia brevicula		2009	3100				KJ443335			Crithidia brevicula								
+56217	Crithidia brevicula		1	2008				KJ443350			Crithidia brevicula								
+56162	Crithidia brachyflagelli		1	3100							Crithidia brachyflagelli								
+56216	Crithidia brachyflagelli		1	3100				JF717835			Crithidia brachyflagelli								
+56161	Crithidia abscondita		1	3100							Crithidia abscondita								
+56215	Crithidia abscondita		1	3100				EU076606			Crithidia abscondita								
+56160	Blechomonas pulexsimulantis		1	3100							Blechomonas pulexsimulantis								
+56214	Blechomonas pulexsimulantis		1	3100							Blechomonas pulexsimulantis								
+56159	Blechomonas maslovi		1	3100							Blechomonas maslovi								
+56213	Blechomonas maslovi		1	3100							Blechomonas maslovi								
+56158	Blechomonas luni		1	3100							Blechomonas luni								
+56212	Blechomonas luni		1	3100							Blechomonas luni								
+56157	Blastocrithidia largi		1	3100							Blastocrithidia largi								
+56211	Blastocrithidia largi		1	3100							Blastocrithidia largi								
+56156	Blechomonas keelingi		1	3100							Blechomonas keelingi								
+56210	Blechomonas keelingi		1	3100							Blechomonas keelingi								
+56155	Blechomonas campbell		1	3100							Blechomonas campbell								
+56209	Blechomonas campbell		1	3100							Blechomonas campbell								
+56153	Angomonas deanei		1	3100							Angomonas deanei								
+56207	Angomonas deanei		1	3100							Angomonas deanei								
+56154	Angomonas desouzai		1	3100							Angomonas desouzai								
+56208	Angomonas desouzai		1	3100							Angomonas desouzai								
+56152	Angomonas ambiguus		1	3100							Angomonas ambiguus								
+56206	Angomonas ambiguus		1	3100							Angomonas ambiguus								

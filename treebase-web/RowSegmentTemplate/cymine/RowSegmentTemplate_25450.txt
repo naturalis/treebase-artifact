@@ -1,0 +1,19 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Gymnosporangium asiaticum KP308392		1	647							Gymnosporangium asiaticum KP308392								
+Gymnosporangium asiaticum KP308393		1	647							Gymnosporangium asiaticum KP308393								
+Gymnosporangium asiaticum KP308394		1	647							Gymnosporangium asiaticum KP308394								
+Gymnosporangium confusum GU058011		1	647							Gymnosporangium confusum GU058011								
+Roestelia niitakayamensis KP308395		1	647							Roestelia niitakayamensis KP308395								
+Roestelia niitakayamensis KP308396		1	647							Roestelia niitakayamensis KP308396								
+Roestelia niitakayamensis KP308397		1	647							Roestelia niitakayamensis KP308397								
+Gymnosporangium unicorne FJ848768		1	647							Gymnosporangium unicorne FJ848768								
+Gymnosporangium cornutum FJ848766		1	647							Gymnosporangium cornutum FJ848766								
+Gymnosporangium juniperi-virginianae DQ354547		1	647							Gymnosporangium juniperi-virginianae DQ354547								
+Gymnosporangium sabinae JN969962		1	647							Gymnosporangium sabinae JN969962								
+Gymnosporangium monticola FJ848770		1	647							Gymnosporangium monticola FJ848770								
+Gymnosporangium yamadae GU058012		1	647							Gymnosporangium yamadae GU058012								
+Gymnosporangium japonicum FJ848751		1	647							Gymnosporangium japonicum FJ848751								
+Gymnosporangium nelsonii HM591299		1	647							Gymnosporangium nelsonii HM591299								
+Gymnosporangium clavipes DQ354545		1	647							Gymnosporangium clavipes DQ354545								
+Coleosporium asterum GU058009		1	647							Coleosporium asterum GU058009								
+Melampsora euphorbiae DQ351722		1	647							Melampsora euphorbiae DQ351722								

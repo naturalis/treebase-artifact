@@ -1,0 +1,51 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Peniophora sp MG 15		1	1299							Peniophora sp MG 15								
+Coprinellus radians AM 17		1	1299							Coprinellus radians AM 17								
+Coprinellus radians AM 18		1	1299							Coprinellus radians AM 18								
+Marasmius tenuissimus C2/06		1	1299							Marasmius tenuissimus C2/06								
+Marasmius tenuissimus C2/33		1	1299							Marasmius tenuissimus C2/33								
+Auriscalpium vulgare		1	1299							Auriscalpium vulgare								
+Boletus floridanus		1	1299							Boletus floridanus								
+Chalciporus sp		1	1299							Chalciporus sp								
+Coprinellus aff radians		1	1299							Coprinellus aff radians								
+Coprinellus bisporus		1	1299							Coprinellus bisporus								
+Coprinellus flocculosus 1567		1	1299							Coprinellus flocculosus 1567								
+Coprinellus flocculosus 1661		1	1299							Coprinellus flocculosus 1661								
+Coprinellus micaceus 16140		1	1299							Coprinellus micaceus 16140								
+Coprinellus micaceus 24398		1	1299							Coprinellus micaceus 24398								
+Coprinellus radians M105		1	1299							Coprinellus radians M105								
+Coprinellus radians 1373		1	1299							Coprinellus radians 1373								
+Coprinellus radians 3986		1	1299							Coprinellus radians 3986								
+Coprinellus xanthothrix CZ478		1	1299							Coprinellus xanthothrix CZ478								
+Coprinellus xanthothrix 1280		1	1299							Coprinellus xanthothrix 1280								
+Lacrymaria velutina		1	1299							Lacrymaria velutina								
+Marasmius brunneoaurantiacus BRNM7		1	1299							Marasmius brunneoaurantiacus BRNM7								
+Marasmius curreyi 714676		1	1299							Marasmius curreyi 714676								
+Marasmius leveilleanus KUM116a		1	1299							Marasmius leveilleanus KUM116a								
+Marasmius leveilleanus KUM60142		1	1299							Marasmius leveilleanus KUM60142								
+Marasmius nodulocystis DMC007		1	1299							Marasmius nodulocystis DMC007								
+Marasmius nodulocystis DMC009		1	1299							Marasmius nodulocystis DMC009								
+Marasmius oreades 576445		1	1299							Marasmius oreades 576445								
+Marasmius oreades 51606		1	1299							Marasmius oreades 51606								
+Marasmius oreades 55694		1	1299							Marasmius oreades 55694								
+Marasmius pseudopurpureostriatus		1	1299							Marasmius pseudopurpureostriatus								
+Marasmius purpureostriatus 714		1	1299							Marasmius purpureostriatus 714								
+Marasmius ruforotula 714674		1	1299							Marasmius ruforotula 714674								
+Marasmius ruforotula NW257		1	1299							Marasmius ruforotula NW257								
+Marasmius siccus KG028		1	1299							Marasmius siccus KG028								
+Marasmius tenuissimus 7659		1	1299							Marasmius tenuissimus 7659								
+Marasmius tenuissimus NW192		1	1299							Marasmius tenuissimus NW192								
+Peniophora aurantiaca NH6666		1	1299							Peniophora aurantiaca NH6666								
+Peniophora aurantiaca 19732		1	1299							Peniophora aurantiaca 19732								
+Peniophora cinerea AFTOLID1491		1	1299							Peniophora cinerea AFTOLID1491								
+Peniophora cinerea TPCiB1020		1	1299							Peniophora cinerea TPCiB1020								
+Peniophora incarnata 10271		1	1299							Peniophora incarnata 10271								
+Peniophora nuda 4756		1	1299							Peniophora nuda 4756								
+Peniophora piceae 209		1	1299							Peniophora piceae 209								
+Peniophora sp. M1043B		1	1299							Peniophora sp. M1043B								
+Peniophora sp M48		1	1299							Peniophora sp M48								
+Peniophora sp NDVN01		1	1299							Peniophora sp NDVN01								
+Peniophora sp. UBCF 19722		1	1299							Peniophora sp. UBCF 19722								
+Peniophora sp		1	1299							Peniophora sp								
+Stereum annosum		1	1299							Stereum annosum								
+Xerocomus pruinatus		1	1299							Xerocomus pruinatus								

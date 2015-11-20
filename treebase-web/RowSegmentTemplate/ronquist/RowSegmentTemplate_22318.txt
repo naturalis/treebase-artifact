@@ -1,0 +1,104 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Acanthaegilips sp.		1	4975							Acanthaegilips sp.								
+Agrostocynips sp.		1	4975							Agrostocynips sp.								
+Alloxysta sp. 1		1	4975							Alloxysta sp. 1								
+Alloxysta sp. 2		1	4975							Alloxysta sp. 2								
+Anacharis sp.		1	4975							Anacharis sp.								
+Andricus caputmedusae		1	4975							Andricus caputmedusae								
+Andricus clavulus		1	4975							Andricus clavulus								
+Andricus coriarius		1	4975							Andricus coriarius								
+Andricus curvator		1	4975							Andricus curvator								
+Andricus grossulariae		1	4975							Andricus grossulariae								
+Andricus inflator		1	4975							Andricus inflator								
+Andricus kollari		1	4975							Andricus kollari								
+Andricus pictus		1	4975							Andricus pictus								
+Andricus quercusflocci		1	4975							Andricus quercusflocci								
+Andricus quercusradicis		1	4975							Andricus quercusradicis								
+Andricus quercusstrobilana		1	4975							Andricus quercusstrobilana								
+Andricus tumificus		1	4975							Andricus tumificus								
+Antistrophus rufus		1	4975							Antistrophus rufus								
+Antistrophus silphii		1	4975							Antistrophus silphii								
+Asiocynips lugubris		1	4975							Asiocynips lugubris								
+Asiocynips pannucea		1	4975							Asiocynips pannucea								
+Aulacidea freesei		1	4975							Aulacidea freesei								
+Aulacidea hieracii		1	4975							Aulacidea hieracii								
+Aulacidea phlomica		1	4975							Aulacidea phlomica								
+Aulacidea tragopogonis		1	4975							Aulacidea tragopogonis								
+Aulacidea verticillica		1	4975							Aulacidea verticillica								
+Aylax hypecoi		1	4975							Aylax hypecoi								
+Aylax minor		1	4975							Aylax minor								
+Aylax papaveris		1	4975							Aylax papaveris								
+Barbotinia oraniensis		1	4975							Barbotinia oraniensis								
+Biorhiza pallida		1	4975							Biorhiza pallida								
+Callaspidia sp.		1	4975							Callaspidia sp.								
+Cecconia valerianellae		1	4975							Cecconia valerianellae								
+Cecinothofagus gallaecoihue		1	4975							Cecinothofagus gallaecoihue								
+Cecinothofagus gallaelenga		1	4975							Cecinothofagus gallaelenga								
+Cecinothofagus ibarrai		1	4975							Cecinothofagus ibarrai								
+Ceroptres cerri		1	4975							Ceroptres cerri								
+Ceroptres clavicornis		1	4975							Ceroptres clavicornis								
+Ceroptres sp.		1	4975							Ceroptres sp.								
+Cynips quercus		1	4975							Cynips quercus								
+Dallatorrella sp.		1	4975							Dallatorrella sp.								
+Diastrophus mayri		1	4975							Diastrophus mayri								
+Diastrophus potentillae		1	4975							Diastrophus potentillae								
+Diastrophus rubi		1	4975							Diastrophus rubi								
+Diastrophus turgidus		1	4975							Diastrophus turgidus								
+Diastrophus sp.		1	4975							Diastrophus sp.								
+Diplolepis rosae		1	4975							Diplolepis rosae								
+Dryocosmus quercuspalustris		1	4975							Dryocosmus quercuspalustris								
+Eschatocerus acaciae		1	4975							Eschatocerus acaciae								
+Euceroptres sp.		1	4975							Euceroptres sp.								
+Hedickiana levantina		1	4975							Hedickiana levantina								
+Himalocynips vigintilis		1	4975							Himalocynips vigintilis								
+Ibalia anceps		1	4975							Ibalia anceps								
+Ibalia rufipes		1	4975							Ibalia rufipes								
+Iraella hispanica		1	4975							Iraella hispanica								
+Iraella luteipes		1	4975							Iraella luteipes								
+Isocolus leuzeae		1	4975							Isocolus leuzeae								
+Isocolus lichtensteini		1	4975							Isocolus lichtensteini								
+Isocolus rogenhoferi		1	4975							Isocolus rogenhoferi								
+Kleidotoma sp.		1	4975							Kleidotoma sp.								
+Liebelia fukudae		1	4975							Liebelia fukudae								
+Liposthenes glechomae		1	4975							Liposthenes glechomae								
+Liposthenes kerneri		1	4975							Liposthenes kerneri								
+Melanips sp.		1	4975							Melanips sp.								
+Neaylax salviae		1	4975							Neaylax salviae								
+Neaylax verbenaca		1	4975							Neaylax verbenaca								
+Neaylax versicolor		1	4975							Neaylax versicolor								
+Neuroterus numismalis		1	4975							Neuroterus numismalis								
+Panteliella bicolor		1	4975							Panteliella bicolor								
+Paramblynotus virginianus		1	4975							Paramblynotus virginianus								
+Paraspicera sp.		1	4975							Paraspicera sp.								
+Paraulax perplexa		1	4975							Paraulax perplexa								
+Parnips nigripes A		1	4975							Parnips nigripes A								
+Parnips nigripes B		1	4975							Parnips nigripes B								
+Pediaspis aceris		1	4975							Pediaspis aceris								
+Periclistus brandtii		1	4975							Periclistus brandtii								
+Periclistus pirata		1	4975							Periclistus pirata								
+Phanacis centaureae		1	4975							Phanacis centaureae								
+Phanacis hypochoeridis		1	4975							Phanacis hypochoeridis								
+Phanacis phlomidis		1	4975							Phanacis phlomidis								
+Plagiotrochus quercusilicis		1	4975							Plagiotrochus quercusilicis								
+Plectocynips pilosus		1	4975							Plectocynips pilosus								
+Plectocynips sp.		1	4975							Plectocynips sp.								
+Qwaqwaia scolopiae		1	4975							Qwaqwaia scolopiae								
+Rhodus oriundus		1	4975							Rhodus oriundus								
+Rhoophilus loewi		1	4975							Rhoophilus loewi								
+Saphonecrus lusitanicus		1	4975							Saphonecrus lusitanicus								
+Synergus crassicornis		1	4975							Synergus crassicornis								
+Synergus gallaepomiformis		1	4975							Synergus gallaepomiformis								
+Synergus thaumacerus		1	4975							Synergus thaumacerus								
+Synergus umbraculus		1	4975							Synergus umbraculus								
+Synergus sp. 1		1	4975							Synergus sp. 1								
+Synergus sp. 2		1	4975							Synergus sp. 2								
+Synophromorpha sylvestris		1	4975							Synophromorpha sylvestris								
+Synophrus pilulae		1	4975							Synophrus pilulae								
+Timaspis phoenixopodos		1	4975							Timaspis phoenixopodos								
+Timaspis urospermi		1	4975							Timaspis urospermi								
+Trigonaspis mendesi		1	4975							Trigonaspis mendesi								
+Trischiza sp.		1	4975							Trischiza sp.								
+Trybliographa sp. 1		1	4975							Trybliographa sp. 1								
+Trybliographa sp. 2		1	4975							Trybliographa sp. 2								
+Vetustia investigata		1	4975							Vetustia investigata								
+Xestophanes potentillae		1	4975							Xestophanes potentillae								

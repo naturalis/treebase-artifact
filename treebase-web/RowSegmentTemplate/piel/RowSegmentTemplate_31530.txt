@@ -1,0 +1,53 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Clausilia cruciata 1802		1	872							Clausilia cruciata 1802								
+Clausilia (Neostyriaca) corynodes styriaca 1866		1	872							Clausilia (Neostyriaca) corynodes styriaca 1866								
+Clausilia dubia 1867		1	872							Clausilia dubia 1867								
+Clausilia (Neostyriaca) corynodes brandti 1868		1	872							Clausilia (Neostyriaca) corynodes brandti 1868								
+Clausilia (Neostyriaca) corynodes corynodes 1876		1	872							Clausilia (Neostyriaca) corynodes corynodes 1876								
+Clausilia (Lombardiella) strobeli 1853		1	872							Clausilia (Lombardiella) strobeli 1853								
+Clausilia Strobeliella brembina brembina Algua 1857		1	872							Clausilia Strobeliella brembina brembina Algua 1857								
+Clausilia Strobeliella brembina brembina Tacceno 1840		1	872							Clausilia Strobeliella brembina brembina Tacceno 1840								
+Clausilia Strobeliella brembina brembina Zorzone 1813		1	872							Clausilia Strobeliella brembina brembina Zorzone 1813								
+Clausilia Strobeliella brembina brembina Zorzone 1812		1	872							Clausilia Strobeliella brembina brembina Zorzone 1812								
+Clausilia Strobeliella brembina brembina Zorzone 1811		1	872							Clausilia Strobeliella brembina brembina Zorzone 1811								
+Clausilia Strobeliella brembina brembina Tiberio 1795		1	872							Clausilia Strobeliella brembina brembina Tiberio 1795								
+Clausilia Strobeliella brembina brembina Pasturo1790		1	872							Clausilia Strobeliella brembina brembina Pasturo1790								
+Clausilia Strobeliella brembina brembina  Tiberio 1794		1	872							Clausilia Strobeliella brembina brembina  Tiberio 1794								
+Clausilia Strobeliella brembina brembina  Tiberio 1791		1	872							Clausilia Strobeliella brembina brembina  Tiberio 1791								
+Clausilia Strobeliella brembina brembina Fonte Bracca1842		1	872							Clausilia Strobeliella brembina brembina Fonte Bracca1842								
+Clausilia Strobeliella brembina brembina Ardesio 1797		1	872							Clausilia Strobeliella brembina brembina Ardesio 1797								
+Clausilia Strobeliella brembina brembina Taceno 1841		1	872							Clausilia Strobeliella brembina brembina Taceno 1841								
+Clausilia Strobeliella brembina klemmi Valzurio 1872		1	872							Clausilia Strobeliella brembina klemmi Valzurio 1872								
+Clausilia Strobeliella brembina klemmi Ardesio 1848		1	872							Clausilia Strobeliella brembina klemmi Ardesio 1848								
+Clausilia Strobeliella brembina klemmi Clusone 2134		1	872							Clausilia Strobeliella brembina klemmi Clusone 2134								
+Clausilia Strobeliella brembina klemmi Ardesio 2123		1	872							Clausilia Strobeliella brembina klemmi Ardesio 2123								
+Clausilia Strobeliella brembina klemmi Ardesio 1850		1	872							Clausilia Strobeliella brembina klemmi Ardesio 1850								
+Clausilia Strobeliella brembina alanica Albergo Plan del Sole 1880		1	872							Clausilia Strobeliella brembina alanica Albergo Plan del Sole 1880								
+Clausilia Strobeliella brembina alanica Albergo Plan del Sole 1884		1	872							Clausilia Strobeliella brembina alanica Albergo Plan del Sole 1884								
+Clausilia Strobeliella umbrosa gardonensis Dosso Fontanazzo 2145		1	872							Clausilia Strobeliella umbrosa gardonensis Dosso Fontanazzo 2145								
+Clausilia Strobeliella umbrosa gardonensis Dosso Fontanazzo 2146		1	872							Clausilia Strobeliella umbrosa gardonensis Dosso Fontanazzo 2146								
+Clausilia Strobeliella umbrosa gardonensis Dosso Fontanazzo 2144		1	872							Clausilia Strobeliella umbrosa gardonensis Dosso Fontanazzo 2144								
+Clausilia Strobeliella umbrosa umbrosa Bagolino 1885		1	872							Clausilia Strobeliella umbrosa umbrosa Bagolino 1885								
+Clausilia Strobeliella umbrosa umbrosa Bagolino 1803		1	872							Clausilia Strobeliella umbrosa umbrosa Bagolino 1803								
+Clausilia Strobeliella umbrosa umbrosa Bagolino 1804		1	872							Clausilia Strobeliella umbrosa umbrosa Bagolino 1804								
+Clausilia Strobeliella umbrosa umbrosa Bagolino 1889		1	872							Clausilia Strobeliella umbrosa umbrosa Bagolino 1889								
+Clausilia Strobeliella whateliana whateliana Vertova 1806		1	872							Clausilia Strobeliella whateliana whateliana Vertova 1806								
+Clausilia Strobeliella whateliana whateliana Vertova 1807		1	872							Clausilia Strobeliella whateliana whateliana Vertova 1807								
+Clausilia Strobeliella whateliana whateliana Cassiglio 1810		1	872							Clausilia Strobeliella whateliana whateliana Cassiglio 1810								
+Clausilia Strobeliella whateliana whateliana Taceno 1843		1	872							Clausilia Strobeliella whateliana whateliana Taceno 1843								
+Clausilia Strobeliella whateliana whateliana Taceno 1845		1	872							Clausilia Strobeliella whateliana whateliana Taceno 1845								
+Clausilia Strobeliella whateliana whateliana Taceno 1847		1	872							Clausilia Strobeliella whateliana whateliana Taceno 1847								
+Clausilia Strobeliella whateliana whateliana Vertova 1860		1	872							Clausilia Strobeliella whateliana whateliana Vertova 1860								
+Clausilia Strobeliella whateliana whateliana Sedrina 1861		1	872							Clausilia Strobeliella whateliana whateliana Sedrina 1861								
+Clausilia Strobeliella whateliana whateliana Sedrina 1862		1	872							Clausilia Strobeliella whateliana whateliana Sedrina 1862								
+Clausilia Strobeliella whateliana whateliana Sedrina 1865		1	872							Clausilia Strobeliella whateliana whateliana Sedrina 1865								
+Clausilia Strobeliella whateliana whateliana Algua 1874		1	872							Clausilia Strobeliella whateliana whateliana Algua 1874								
+Clausilia Strobeliella whateliana whateliana San Giovanni Bianco 1877		1	872							Clausilia Strobeliella whateliana whateliana San Giovanni Bianco 1877								
+Clausilia Strobeliella whateliana exoptata Serina 1800		1	872							Clausilia Strobeliella whateliana exoptata Serina 1800								
+Clausilia Strobeliella whateliana exoptata Serina 1801		1	872							Clausilia Strobeliella whateliana exoptata Serina 1801								
+Clausilia Strobeliella whateliana exoptata Frerola 1833		1	872							Clausilia Strobeliella whateliana exoptata Frerola 1833								
+Clausilia Strobeliella whateliana exoptata Frerola 1835		1	872							Clausilia Strobeliella whateliana exoptata Frerola 1835								
+Clausilia Strobeliella whateliana exoptata Serina 1855		1	872							Clausilia Strobeliella whateliana exoptata Serina 1855								
+Clausilia Strobeliella whateliana exoptata Algua 1873		1	872							Clausilia Strobeliella whateliana exoptata Algua 1873								
+Macrogastra Pyrostoma tumida 858		1	872							Macrogastra Pyrostoma tumida 858								
+Ruthenica filograna 401		1	872							Ruthenica filograna 401								

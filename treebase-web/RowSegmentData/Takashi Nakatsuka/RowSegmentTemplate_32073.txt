@@ -1,0 +1,90 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Antirrhinum FAR	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Antirrhinum FAR	TN							
+Antirrhinum PLE	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Antirrhinum PLE	TN							
+Antirrhinum SQUA	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			CAA45228		2015-06-25	Antirrhinum SQUA	TN							
+Arabidopsis FUL	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			NP_568929		2015-06-25	Arabidopsis FUL	TN							
+Arabidopsis AG	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Arabidopsis AG	TN							
+Arabidopsis AP1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			NP_177074		2015-06-25	Arabidopsis AP1	TN							
+Arabidopsis CAL	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			NP_564243		2015-06-25	Arabidopsis CAL	TN							
+Arabidopsis SEP1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			NP_568322		2015-06-25	Arabidopsis SEP1	TN							
+Arabidopsis SEP2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAU82009		2015-06-25	Arabidopsis SEP2	TN							
+Arabidopsis SEP3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			NP_564214		2015-06-25	Arabidopsis SEP3	TN							
+Arabidopsis SEP4	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			NP_178466		2015-06-25	Arabidopsis SEP4	TN							
+Arabidopsis SHP1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Arabidopsis SHP1	TN							
+Arabidopsis SHP2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Arabidopsis SHP2	TN							
+Arabidopsis STK	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Arabidopsis STK	TN							
+Gentian FUL	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian FUL	TN							
+Gentian AP1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian AP1	TN							
+Gentian AG1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian AG1	TN							
+Gentian AG2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian AG2	TN							
+Gentian SEP1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian SEP1	TN							
+Gentian SEP2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian SEP2	TN							
+Gentian SEP3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian SEP3	TN							
+Gentian STK1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian STK1	TN							
+Morning glory DP	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Morning glory DP	TN							
+Morning glory PEONY	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Morning glory PEONY	TN							
+Petunia FBP2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			Q03489		2015-06-25	Petunia FBP2	TN							
+Petunia FBP5	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAK21248		2015-06-25	Petunia FBP5	TN							
+Petunia FBP6	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia FBP6	TN							
+Petunia FBP11	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia FBP11	TN							
+Petunia PFG	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia PFG	TN							
+Petunia pMADS3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia pMADS3	TN							
+Rosa MASAKO C1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Rosa MASAKO C1	TN							
+Rosa MASAKO D1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Rosa MASAKO D1	TN							
+Cucumber CUM10	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Cucumber CUM10	TN							
+Cucumber CUM1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Cucumber CUM1	TN							
+Gossypium MADS3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gossypium MADS3	TN							
+Gossypium MADS7	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gossypium MADS7	TN							
+Gossypium MADS5	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gossypium MADS5	TN							
+Oncidium MADS2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Oncidium MADS2	TN							
+Oncidium MADS4	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Oncidium MADS4	TN							
+Lilium MADS2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Lilium MADS2	TN							
+Lilium MADS10	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Lilium MADS10	TN							
+Gerbera GAGA1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gerbera GAGA1	TN							
+Gerbera GAGA2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gerbera GAGA2	TN							
+Thalictrum ThdAG1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Thalictrum ThdAG1	TN							
+Thalictrum ThdAG2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Thalictrum ThdAG2	TN							
+Aquilegia AG2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Aquilegia AG2	TN							
+Aquilegia AG1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Aquilegia AG1	TN							
+Arabidopsis AP3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAD51903		2015-06-25	Arabidopsis AP3	TN							
+Arabidopsis PI	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAD51984		2015-06-25	Arabidopsis PI	TN							
+Antirrhinum DEF	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			P23706		2015-06-25	Antirrhinum DEF	TN							
+Antirrhinum GLO	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			Q03378		2015-06-25	Antirrhinum GLO	TN							
+Gentian TM6	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian TM6	TN							
+Gentian AP3a	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian AP3a	TN							
+Gentian AP3b	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian AP3b	TN							
+Gentian PI1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian PI1	TN							
+Gentian PI2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian PI2	TN							
+Gentian PI3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Gentian PI3	TN							
+Petunia TM6	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia TM6	TN							
+Petunia GLO1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia GLO1	TN							
+Petunia pMADS2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia pMADS2	TN							
+Petunia GP	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Petunia GP	TN							
+Tomato TDR6	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			XP_004232453		2015-06-25	Tomato TDR6	TN							
+Oncidium MADS5	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			ADJ67234		2015-06-25	Oncidium MADS5	TN							
+Oncidium MADS8	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			ADJ67236		2015-06-25	Oncidium MADS8	TN							
+Oncidium MADS9	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			ADJ67235		2015-06-25	Oncidium MADS9	TN							
+Oryza MADS2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAB52709		2015-06-25	Oryza MADS2	TN							
+Oryza MADS16	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			Q944S9		2015-06-25	Oryza MADS16	TN							
+Torenia GLO	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			BAG24493		2015-06-25	Torenia GLO	TN							
+Torenia DEF	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			BAG24492		2015-06-25	Torenia DEF	TN							
+Gerbera GDEF1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			Q9ZS28		2015-06-25	Gerbera GDEF1	TN							
+Gerbera GDEF2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			Q9ZS27		2015-06-25	Gerbera GDEF2	TN							
+Gerbera GDEF3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			ACV53813		2015-06-25	Gerbera GDEF3	TN							
+Gerbera GGLO1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			Q9ZS26		2015-06-25	Gerbera GGLO1	TN							
+Rose MASAKO B3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Rose MASAKO B3	TN							
+Rose MASAKO BP	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Rose MASAKO BP	TN							
+Rose MASAKO euB3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Rose MASAKO euB3	TN							
+Chrysanthemum CDM86	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AA022986		2015-06-25	Chrysanthemum CDM86	TN							
+Chrysanthemum CDM115	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AA022985		2015-06-25	Chrysanthemum CDM115	TN							
+Phalaenopsis MADS2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Phalaenopsis MADS2	TN							
+Phalaenopsis MADS3	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Phalaenopsis MADS3	TN							
+Phalaenopsis MADS4	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Phalaenopsis MADS4	TN							
+Phalaenopsis MADS5	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Phalaenopsis MADS5	TN							
+Phalaenopsis MADS6	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Phalaenopsis MADS6	TN							
+Aquilegia AP3A	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Aquilegia AP3A	TN							
+Aquilegia AP3B	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Aquilegia AP3B	TN							
+Aquilegia AP3C	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Aquilegia AP3C	TN							
+Aquilegia PI	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Aquilegia PI	TN							
+Maize ZAG1	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Maize ZAG1	TN							
+Maize ZMM2	Isolation of MADS box genes from Japanese gentian 	1	403	IBRC			AAAA		2015-06-25	Maize ZMM2	TN							

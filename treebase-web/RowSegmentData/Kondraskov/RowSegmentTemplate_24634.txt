@@ -1,0 +1,50 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Blackstonia perfoliata HM850819 Portugal		1	2051				HM850819			Blackstonia perfoliata HM850819 Portugal								
+Blackstonia acuminata AJ011470 Italy		1	2051				AJ011470			Blackstonia acuminata AJ011470 Italy								
+Blackstonia impefoliata AJ010506 AJ011435 Italy		1	2051				AJ010506	AJ011435		Blackstonia impefoliata AJ010506 AJ011435 Italy								
+Ixanthus viscosus La Gomera a		1	2051				KJ189006			Ixanthus viscosus La Gomera a								
+Ixanthus viscosus El Hierro		1	2051				KJ189007			Ixanthus viscosus El Hierro								
+Ixanthus viscosus Gran Canaria		1	2051				KJ189008			Ixanthus viscosus Gran Canaria								
+Ixanthus viscosus Tenerife Orotava		1	2051				KJ189009			Ixanthus viscosus Tenerife Orotava								
+Ixanthus viscosus Tenerife Anaga		1	2051				KJ189010			Ixanthus viscosus Tenerife Anaga								
+Ixanthus viscosus La Gomera b		1	2051				KJ189006			Ixanthus viscosus La Gomera b								
+Ixanthus viscosus La Palma		1	2051				KJ189011			Ixanthus viscosus La Palma								
+Ixanthus viscosus Tenerife Teno		1	2051				KJ189012			Ixanthus viscosus Tenerife Teno								
+Logania albiflora AJ388203 AJ388273		1	2051				AJ388203	AJ388273		Logania albiflora AJ388203 AJ388273								
+Canscora diffusa AJ388143 AJ388212 Togo		1	2051				AJ388143	AJ388212		Canscora diffusa AJ388143 AJ388212 Togo								
+Duplipetala pentanthera AJ010507 AJ01143 Malaysia		1	2051				AJ010507	AJ01143		Duplipetala pentanthera AJ010507 AJ01143 Malaysia								
+Centaurium maritimum AJ010508 AJ011437 Italy		1	2051				AJ010508	AJ011437		Centaurium maritimum AJ010508 AJ011437 Italy								
+Chelonanthus alatus AJ010520 AJ011449 Bolivia		1	2051				AJ010520	AJ011449		Chelonanthus alatus AJ010520 AJ011449 Bolivia								
+Cicendia filiformis AJ010510 AJ011439 France		1	2051				AJ010510	AJ011439		Cicendia filiformis AJ010510 AJ011439 France								
+Cinchona pubescens Z70197		1	2051				Z70197			Cinchona pubescens Z70197								
+Coutoubea spicata AJ388150 AJ388219		1	2051				AJ388150	AJ388219		Coutoubea spicata AJ388150 AJ388219								
+Curtia tenuifolia AJ388151 AJ388220		1	2051				AJ388151	AJ388220		Curtia tenuifolia AJ388151 AJ388220								
+Deianira pallescens AJ388153 AJ388222		1	2051				AJ388153	AJ388222		Deianira pallescens AJ388153 AJ388222								
+Enicostema axillare AJ010513 AJ011442 Tanzania		1	2051				AJ010513	AJ011442		Enicostema axillare AJ010513 AJ011442 Tanzania								
+Eustoma grandiflorum AJ010514 AJ011443		1	2051				AJ010514	AJ011443		Eustoma grandiflorum AJ010514 AJ011443								
+Exacum tetragonum AJ388156 AJ388225 Thailand		1	2051				AJ388156	AJ388225		Exacum tetragonum AJ388156 AJ388225 Thailand								
+Fagraea elliptica AJ388158 AJ388227		1	2051				AJ388158	AJ388227		Fagraea elliptica AJ388158 AJ388227								
+Gardenia taitensis AJ388201 AJ388271		1	2051				AJ388201	AJ388271		Gardenia taitensis AJ388201 AJ388271								
+Gelsemium sempervirens Z70195		1	2051				Z70195			Gelsemium sempervirens Z70195								
+Geniostoma rupestre Z70194		1	2051				Z70194			Geniostoma rupestre Z70194								
+Geniostemon gypsophilum AJ388161 AJ388231 USA		1	2051				AJ388161	AJ388231		Geniostemon gypsophilum AJ388161 AJ388231 USA								
+Gentianella aspera AJ010517 AJ011446 Germany		1	2051				AJ010517	AJ011446		Gentianella aspera AJ010517 AJ011446 Germany								
+Gentianopsis ciliata AJ388164 AJ388234		1	2051				AJ388164	AJ388234		Gentianopsis ciliata AJ388164 AJ388234								
+Gentiana cruciata AJ010519 AJ011448 Germany		1	2051				AJ010519	AJ011448		Gentiana cruciata AJ010519 AJ011448 Germany								
+Jasminum fluminense AJ388202 AJ388272		1	2051				AJ388202	AJ388272		Jasminum fluminense AJ388202 AJ388272								
+Lisianthius jefensis AJ010522 AJ011451 Panama		1	2051				AJ010522	AJ011451		Lisianthius jefensis AJ010522 AJ011451 Panama								
+Macrocarpaea domingensis AJ010523 AJ011452 Dominican Republic		1	2051				AJ010523 	AJ011452		Macrocarpaea domingensis AJ010523 AJ011452 Dominican Republic								
+Microrphium pubescens AJ388178 AJ388248 Philippines		1	2051				AJ388178	AJ388248		Microrphium pubescens AJ388178 AJ388248 Philippines								
+Ornichia madagascariensis AJ388182 AJ388252		1	2051				AJ388182	AJ388252		Ornichia madagascariensis AJ388182 AJ388252								
+Orphium frutescens AJ010525 AJ011454 RSA		1	2051				AJ010525	AJ011454		Orphium frutescens AJ010525 AJ011454 RSA								
+Sabatia angularis AJ010526 AJ011455 USA		1	2051				AJ010526	AJ011455		Sabatia angularis AJ010526 AJ011455 USA								
+Saccifolium bandeirae AJ388187 AJ388257		1	2051				AJ388187	AJ388257		Saccifolium bandeirae AJ388187 AJ388257								
+Strumpfia maritima AJ388204 AJ388274		1	2051				AJ388204	AJ388274		Strumpfia maritima AJ388204 AJ388274								
+Strychnos nux vomica Z70193		1	2051				Z70193			Strychnos nux vomica Z70193								
+Swertia perennis AJ010528 AJ011457 Germany		1	2051				AJ010528	AJ011457		Swertia perennis AJ010528 AJ011457 Germany								
+Symbolanthus calygonus AJ010529 AJ011458 Bolivia		1	2051				AJ010529	AJ011458		Symbolanthus calygonus AJ010529 AJ011458 Bolivia								
+Symphyllophyton caprifolioides AJ010530 AJ011459 Brazil		1	2051				AJ010530	AJ011459		Symphyllophyton caprifolioides AJ010530 AJ011459 Brazil								
+Tachiadenus carinatus AJ011434 AJ011460 Madagascar		1	2051				AJ011434	AJ011460		Tachiadenus carinatus AJ011434 AJ011460 Madagascar								
+Tachia guianensis AJ011433 AJ011461 Brazil		1	2051				AJ011433	AJ011461		Tachia guianensis AJ011433 AJ011461 Brazil								
+Thevetia peruviana Z70188		1	2051				Z70188			Thevetia peruviana Z70188								
+Voyriella parviflora AJ388197 AJ388267		1	2051				AJ388197	AJ388267		Voyriella parviflora AJ388197 AJ388267								

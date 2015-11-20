@@ -1,0 +1,15 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Agaricus brunnescens		1	21167							Agaricus brunnescens								
+Amanita thiersii		1	21167							Amanita thiersii								
+Armillaria mellea		1	21167							Armillaria mellea								
+Coprinopsis cinerea		1	21167							Coprinopsis cinerea								
+Cylindrobasidium torrendii		1	21167							Cylindrobasidium torrendii								
+Fistulina hepatica		1	21167							Fistulina hepatica								
+Galerina marginata		1	21167							Galerina marginata								
+Gymnopus luxurians		1	21167							Gymnopus luxurians								
+Hypholoma sublateritium		1	21167							Hypholoma sublateritium								
+Omphalotus olearius		1	21167							Omphalotus olearius								
+Pleurotus ostreatus		1	21167							Pleurotus ostreatus								
+Plicaturopsis crispa		1	21167							Plicaturopsis crispa								
+Schizophyllum commune		1	21167							Schizophyllum commune								
+Volvariella volvacea		1	21167							Volvariella volvacea								

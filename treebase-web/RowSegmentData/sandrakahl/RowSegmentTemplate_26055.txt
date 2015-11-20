@@ -1,0 +1,65 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
+Alternaria sp. GH09i		1	610				KP662730			Alternaria sp. GH09i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt07ab		1	610				KP662763			Alternaria sp. GSt07ab	M. E. H. Mueller				Germany			
+Alternaria sp. GH55i*		1	610				KP662756			Alternaria sp. GH55i*	M. E. H. Mueller				Germany			
+Alternaria sp. GH13i		1	610				KP662733			Alternaria sp. GH13i	M. E. H. Mueller				Germany			
+Alternaria sp. GH33i		1	610				KP662743			Alternaria sp. GH33i	M. E. H. Mueller				Germany			
+Alternaria sp. GH40i		1	610				KP662748			Alternaria sp. GH40i	M. E. H. Mueller				Germany			
+Alternaria sp. RN04Ci		1	610				KP662797			Alternaria sp. RN04Ci	A. A. Kirichenko				Russia			
+Alternaria sp. GH49a		1	610				KP662753			Alternaria sp. GH49a	M. E. H. Mueller				Germany			
+Alternaria sp. RN08Ai		1	610				KP662804			Alternaria sp. RN08Ai	A. A. Kirichenko				Russia			
+Alternaria sp. GSt14t		1	610				KP662767			Alternaria sp. GSt14t	M. E. H. Mueller				Germany			
+Alternaria sp. RN07Ci		1	610				KP662803			Alternaria sp. RN07Ci	A. A. Kirichenko				Russia			
+Alternaria sp. GH10i		1	610				KP662731			Alternaria sp. GH10i	M. E. H. Mueller				Germany			
+Alternaria sp. GH19i		1	610				KP662736			Alternaria sp. GH19i	M. E. H. Mueller				Germany			
+Alternaria sp. GH47i		1	610				KP662751			Alternaria sp. GH47i	M. E. H. Mueller				Germany			
+Alternaria sp. GH45i		1	610				KP662750			Alternaria sp. GH45i	M. E. H. Mueller				Germany			
+Alternaria sp. GH35ab		1	610				KP662745			Alternaria sp. GH35ab	M. E. H. Mueller				Germany			
+Alternaria sp. RN06Aa*		1	610				KP662798			Alternaria sp. RN06Aa*	A. A. Kirichenko				Russia			
+Alternaria sp. RN03At		1	610				KP662794			Alternaria sp. RN03At	A. A. Kirichenko				Russia			
+Alternaria sp. RN04Bt*		1	610				KP662796			Alternaria sp. RN04Bt*	A. A. Kirichenko				Russia			
+Alternaria sp. GSt02t*		1	610				KP662760			Alternaria sp. GSt02t*	M. E. H. Mueller				Germany			
+Alternaria sp. RN06Dt*		1	610				KP662801			Alternaria sp. RN06Dt*	A. A. Kirichenko				Russia			
+Alternaria sp. GH08ab		1	610				KP662729			Alternaria sp. GH08ab	M. E. H. Mueller				Germany			
+Alternaria sp. GSt01i		1	610				KP662759			Alternaria sp. GSt01i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt34i		1	610				KP662779			Alternaria sp. GSt34i	M. E. H. Mueller				Germany			
+Alternaria sp. GH41i		1	610				KP662749			Alternaria sp. GH41i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt32ab		1	610				KP662777			Alternaria sp. GSt32ab	M. E. H. Mueller				Germany			
+Alternaria sp. GH38i		1	610				KP662747			Alternaria sp. GH38i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt25i		1	610				KP662773			Alternaria sp. GSt25i	M. E. H. Mueller				Germany			
+Alternaria sp. GH48i		1	610				KP662752			Alternaria sp. GH48i	M. E. H. Mueller				Germany			
+Alternaria sp. GH53i		1	610				KP662755			Alternaria sp. GH53i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt28ab		1	610				KP662774			Alternaria sp. GSt28ab	M. E. H. Mueller				Germany			
+Alternaria sp. GH04i		1	610				KP662728			Alternaria sp. GH04i	M. E. H. Mueller				Germany			
+Alternaria sp. GH34i		1	610				KP662744			Alternaria sp. GH34i	M. E. H. Mueller				Germany			
+Alternaria sp. GH12i		1	610				KP662732			Alternaria sp. GH12i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt46i		1	610				KP662784			Alternaria sp. GSt46i	M. E. H. Mueller				Germany			
+Alternaria sp. GSt51i		1	610				KP662786			Alternaria sp. GSt51i	M. E. H. Mueller				Germany			
+Alternaria sp. GH16a		1	610				KP662735			Alternaria sp. GH16a	M. E. H. Mueller				Germany			
+Alternaria sp. GH23a		1	610				KP662738			Alternaria sp. GH23a	M. E. H. Mueller				Germany			
+Alternaria sp. GSt04ab		1	610				KP662762			Alternaria sp. GSt04ab	M. E. H. Mueller				Germany			
+Alternaria sp. GSt44t		1	610				KP662783			Alternaria sp. GSt44t	M. E. H. Mueller				Germany			
+Alternaria sp. GSt11a		1	610				KP662766			Alternaria sp. GSt11a	M. E. H. Mueller				Germany			
+Alternaria arborescens		1	610							Alternaria arborescens								
+Alternaria postmessia		1	610							Alternaria postmessia								
+Alternaria conjuncta		1	610							Alternaria conjuncta								
+Alternaria ventricosa		1	610							Alternaria ventricosa								
+Alternaria hordeicola		1	610							Alternaria hordeicola								
+Alternaria triticina		1	610							Alternaria triticina								
+Alternaria incomplexa		1	610							Alternaria incomplexa								
+Alternaria graminicola		1	610							Alternaria graminicola								
+Alternaria mimicula		1	610							Alternaria mimicula								
+Stemphylium vesicarium		1	610							Stemphylium vesicarium								
+Stemphylium botryosum		1	610							Stemphylium botryosum								
+Alternaria rosae		1	610							Alternaria rosae								
+Alternaria intercepta		1	610							Alternaria intercepta								
+Alternaria daucicaulis		1	610							Alternaria daucicaulis								
+Alternaria infectoria		1	610							Alternaria infectoria								
+Alternaria hordeiaustralica		1	610							Alternaria hordeiaustralica								
+Alternaria merytae		1	610							Alternaria merytae								
+Alternaria dianthicola		1	610							Alternaria dianthicola								
+Alternaria novae-zelandiae		1	610							Alternaria novae-zelandiae								
+Alternaria callifornica		1	610							Alternaria callifornica								
+Alternaria viburni		1	610							Alternaria viburni								
+Alternaria metachromatica		1	610							Alternaria metachromatica								
+Alternaria alternarina		1	610							Alternaria alternarina								

@@ -1,0 +1,104 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+AJ430395 Hymenoscyphus rhodoleucus		1	507							AJ430395 Hymenoscyphus rhodoleucus								
+AJ430396 Hymenoscyphus fructigenus		1	507							AJ430396 Hymenoscyphus fructigenus								
+AY348577 Hymenoscyphus caudatus		1	507							AY348577 Hymenoscyphus caudatus								
+AY348580 Hymenoscyphus epiphyllus		1	507							AY348580 Hymenoscyphus epiphyllus								
+AY348581 Hymenoscyphus epiphyllus		1	507							AY348581 Hymenoscyphus epiphyllus								
+AY348588 Hymenoscyphus cf menthae		1	507							AY348588 Hymenoscyphus cf menthae								
+AY348591 Hymenoscyphus scutula		1	507							AY348591 Hymenoscyphus scutula								
+AY348592 Hymenoscyphus serotinus		1	507							AY348592 Hymenoscyphus serotinus								
+AY755333 Lanzia griseliniae		1	507							AY755333 Lanzia griseliniae								
+AY755334 Lanzia allantospora		1	507							AY755334 Lanzia allantospora								
+AY853238 Poculum pseudosydowianum strain CBS 115975		1	507							AY853238 Poculum pseudosydowianum strain CBS 115975								
+DQ335471 Lambertella pruni isolate WMA1 4		1	507							DQ335471 Lambertella pruni isolate WMA1 4								
+DQ986480 Dicephalospora rufocornea		1	507							DQ986480 Dicephalospora rufocornea								
+DQ986481 Hymenoscyphus microserotinus		1	507							DQ986481 Hymenoscyphus microserotinus								
+DQ986485 Lanzia huangshanica		1	507							DQ986485 Lanzia huangshanica								
+EF029195 Lambertella tubulosa		1	507							EF029195 Lambertella tubulosa								
+EU599575 Moellerodiscus coprosmae		1	507							EU599575 Moellerodiscus coprosmae								
+FR667970 Lanzia griseliniae		1	507							FR667970 Lanzia griseliniae								
+KC164647 Lanzia berggrenii		1	507							KC164647 Lanzia berggrenii								
+KC533545 Lanzia luteovirescens isolate 1823		1	507							KC533545 Lanzia luteovirescens isolate 1823								
+Z80893 Rutstroemia firmum		1	507							Z80893 Rutstroemia firmum								
+Z80894 Rutstroemiac bolarisd		1	507							Z80894 Rutstroemiac bolarisd								
+Z81435 Lambertella langei		1	507							Z81435 Lambertella langei								
+"Hymenoscyphus" sp1 5284		1	507							"Hymenoscyphus" sp1 5284								
+"Hymenoscyphus" sp2 5276		1	507							"Hymenoscyphus" sp2 5276								
+"Hymenoscyphus2 sp3 5833		1	507							"Hymenoscyphus2 sp3 5833								
+"Hymenoscyphus" sp4 5295		1	507							"Hymenoscyphus" sp4 5295								
+"Hymenoscyphus" sp5 5834		1	507							"Hymenoscyphus" sp5 5834								
+Ciboria batschiana 3298		1	507							Ciboria batschiana 3298								
+Ciboria conformata 3607		1	507							Ciboria conformata 3607								
+Ciboria sp 3310		1	507							Ciboria sp 3310								
+Ciborinia camelliae 3516		1	507							Ciborinia camelliae 3516								
+Dicephalospora rufocornea 2808		1	507							Dicephalospora rufocornea 2808								
+Dumontinia tuberosa 3526		1	507							Dumontinia tuberosa 3526								
+Hymenoscyphus caudatus 3321		1	507							Hymenoscyphus caudatus 3321								
+Hymenoscyphus menthae 3318		1	507							Hymenoscyphus menthae 3318								
+Hymenoscyphus epiphyllus 3313		1	507							Hymenoscyphus epiphyllus 3313								
+Hymenoscyphus fructigenus 3308		1	507							Hymenoscyphus fructigenus 3308								
+Hymenoscyphus ginkgonis 2333		1	507							Hymenoscyphus ginkgonis 2333								
+Hymenoscyphus microserotinus 3328		1	507							Hymenoscyphus microserotinus 3328								
+Hymenoscyphus fraxineus 3160		1	507							Hymenoscyphus fraxineus 3160								
+Hymenoscyphus fraxineus 444		1	507							Hymenoscyphus fraxineus 444								
+Hymenoscyphus fraxineus 4898		1	507							Hymenoscyphus fraxineus 4898								
+Hymenoscyphus scutula 5832		1	507							Hymenoscyphus scutula 5832								
+Hymenoscyphus sp1 3335		1	507							Hymenoscyphus sp1 3335								
+Hymenoscyphus sp2 5303		1	507							Hymenoscyphus sp2 5303								
+Hymenoscyphus varicosporoides 2302		1	507							Hymenoscyphus varicosporoides 2302								
+Lachnum abnorme 1251		1	507							Lachnum abnorme 1251								
+Lachnum virgineum 1245		1	507							Lachnum virgineum 1245								
+Lambertella advenula 2790		1	507							Lambertella advenula 2790								
+Lambertella corni maris 2802		1	507							Lambertella corni maris 2802								
+Lambertella corni maris 3338		1	507							Lambertella corni maris 3338								
+Lambertella hicoriae 3600		1	507							Lambertella hicoriae 3600								
+Lambertella himalayensis 3601		1	507							Lambertella himalayensis 3601								
+Lambertella pruni 3602		1	507							Lambertella pruni 3602								
+Lambertella pyrolae 3534		1	507							Lambertella pyrolae 3534								
+Lambertella sp1 2812		1	507							Lambertella sp1 2812								
+Lambertella sp2 2207		1	507							Lambertella sp2 2207								
+Lambertella sp2 3018		1	507							Lambertella sp2 3018								
+Lambertella sp2 3531		1	507							Lambertella sp2 3531								
+Lambertella subrenispora 3603		1	507							Lambertella subrenispora 3603								
+Lambertella viburni 3604		1	507							Lambertella viburni 3604								
+Lambertella yunnanensis 2813		1	507							Lambertella yunnanensis 2813								
+Lanzia allantospora 3605		1	507							Lanzia allantospora 3605								
+Lanzia cuniculi 3591		1	507							Lanzia cuniculi 3591								
+Lanzia longipes 3349		1	507							Lanzia longipes 3349								
+Lanzia longipes 3545		1	507							Lanzia longipes 3545								
+Lanzia longipes 5272		1	507							Lanzia longipes 5272								
+Lanzia longipes 5274		1	507							Lanzia longipes 5274								
+Lanzia longipes 5292		1	507							Lanzia longipes 5292								
+Lanzia pruni serotinae 3547		1	507							Lanzia pruni serotinae 3547								
+Lanzia sp1 3312		1	507							Lanzia sp1 3312								
+Lanzia sp2 3337		1	507							Lanzia sp2 3337								
+Lanzia sp3 3347		1	507							Lanzia sp3 3347								
+Lanzia sp3 3348		1	507							Lanzia sp3 3348								
+Lanzia sp3 5302		1	507							Lanzia sp3 5302								
+Lanzia sp4 3548		1	507							Lanzia sp4 3548								
+Lanzia sp4 3549		1	507							Lanzia sp4 3549								
+Lanzia sp5 3550		1	507							Lanzia sp5 3550								
+Lanzia sp5 3551		1	507							Lanzia sp5 3551								
+Lanzia sp6 3320		1	507							Lanzia sp6 3320								
+Lanzia sp7 3311		1	507							Lanzia sp7 3311								
+Moellerodiscus pinicola 3520		1	507							Moellerodiscus pinicola 3520								
+Moellerodiscus pinicola 3527		1	507							Moellerodiscus pinicola 3527								
+Moellerodiscus pinicola 3528		1	507							Moellerodiscus pinicola 3528								
+Moellerodiscus sp1 3340		1	507							Moellerodiscus sp1 3340								
+Moellerodiscus sp2 5299		1	507							Moellerodiscus sp2 5299								
+Poculum calopum 3606		1	507							Poculum calopum 3606								
+Poculum firmum 3609		1	507							Poculum firmum 3609								
+Poculum sp 3315		1	507							Poculum sp 3315								
+Poculum pseudosydowianum 3296		1	507							Poculum pseudosydowianum 3296								
+Poculum pseudosydowianum 3330		1	507							Poculum pseudosydowianum 3330								
+Poculum sydowianum 5285		1	507							Poculum sydowianum 5285								
+Rutstroemia bulgarioides 2785		1	507							Rutstroemia bulgarioides 2785								
+Rutstroemia paludosa 3610		1	507							Rutstroemia paludosa 3610								
+Scleromitrula shiraiana 3593		1	507							Scleromitrula shiraiana 3593								
+Sclerotinia sclerotiorum 2792		1	507							Sclerotinia sclerotiorum 2792								
+Sclerotinia sclerotiorum 3595		1	507							Sclerotinia sclerotiorum 3595								
+Stromatinia cryptomeriae 3517		1	507							Stromatinia cryptomeriae 3517								
+Lambertella corni maris 3596		1	507							Lambertella corni maris 3596								
+Lambertella corni maris 3597		1	507							Lambertella corni maris 3597								
+Lambertella corni maris 3598		1	507							Lambertella corni maris 3598								
+Lambertella yunnanensis 2797		1	507							Lambertella yunnanensis 2797								

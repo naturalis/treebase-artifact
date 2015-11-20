@@ -1,0 +1,118 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Brasiliorchis picta Whitten2755		1	9672							Brasiliorchis picta Whitten2755								
+Brasiliorchis schunkeana Whitten1992		1	9672							Brasiliorchis schunkeana Whitten1992								
+Camaridium carinatum Arevalo960		1	9672							Camaridium carinatum Arevalo960								
+Camaridium carinulatum Arevalo932		1	9672							Camaridium carinulatum Arevalo932								
+Christensonella nardoides Whitten2502		1	9672							Christensonella nardoides Whitten2502								
+Christensonella uncata Arevalo962		1	9672							Christensonella uncata Arevalo962								
+Cryptocentrum peruvianum Whitten2322		1	9672							Cryptocentrum peruvianum Whitten2322								
+Cryptocentrum sp Arevalo931		1	9672							Cryptocentrum sp Arevalo931								
+Cyrtidiorchis alata Whitten2932		1	9672							Cyrtidiorchis alata Whitten2932								
+Cyrtidiorchis rhomboglossa Giraldo17		1	9672							Cyrtidiorchis rhomboglossa Giraldo17								
+Eriopsis biloba Whitten3153		1	9672							Eriopsis biloba Whitten3153								
+Heterotaxis cf villosa Arevalo902		1	9672							Heterotaxis cf villosa Arevalo902								
+Heterotaxis equitans Whitten2483		1	9672							Heterotaxis equitans Whitten2483								
+Inti bicallosa Whitten2748		1	9672							Inti bicallosa Whitten2748								
+Inti chartacifolia Whitten2752		1	9672							Inti chartacifolia Whitten2752								
+Mapinguari auyantepuiensis Whitten2347		1	9672							Mapinguari auyantepuiensis Whitten2347								
+Mapinguari longipetiolatus Atwood5075		1	9672							Mapinguari longipetiolatus Atwood5075								
+Maxillaria cf pleiantha Arevalo809		1	9672							Maxillaria cf pleiantha Arevalo809								
+Maxillaria farinosa Arevalo734		1	9672							Maxillaria farinosa Arevalo734								
+Maxillaria splendens Whitten2940		1	9672							Maxillaria splendens Whitten2940								
+Maxillaria tenebrifolia Arevalo650		1	9672							Maxillaria tenebrifolia Arevalo650								
+Maxillariella procurrens Whitten2397		1	9672							Maxillariella procurrens Whitten2397								
+Maxillariella variabilis Arevalo957		1	9672							Maxillariella variabilis Arevalo957								
+Mormolyca aureoglobula Arevalo1079		1	9672							Mormolyca aureoglobula Arevalo1079								
+Mormolyca cf acutifolia Arevalo1071		1	9672							Mormolyca cf acutifolia Arevalo1071								
+Mormolyca cf acutifolia Giraldo157		1	9672							Mormolyca cf acutifolia Giraldo157								
+Mormolyca cf acutifolia Giraldo44		1	9672							Mormolyca cf acutifolia Giraldo44								
+Mormolyca cf chacoensis Arevalo947		1	9672							Mormolyca cf chacoensis Arevalo947								
+Mormolyca cf chacoensis Arevalo949		1	9672							Mormolyca cf chacoensis Arevalo949								
+Mormolyca cf chacoensis Arevalo961		1	9672							Mormolyca cf chacoensis Arevalo961								
+Mormolyca cf chacoensis Whitten2758		1	9672							Mormolyca cf chacoensis Whitten2758								
+Mormolyca cf rufescens Arevalo1073		1	9672							Mormolyca cf rufescens Arevalo1073								
+Mormolyca cf rufescens Arevalo941		1	9672							Mormolyca cf rufescens Arevalo941								
+Mormolyca cf schlimii Giraldo351		1	9672							Mormolyca cf schlimii Giraldo351								
+Mormolyca cf schlimii Giraldo410		1	9672							Mormolyca cf schlimii Giraldo410								
+Mormolyca cf suarezorum Arevalo945		1	9672							Mormolyca cf suarezorum Arevalo945								
+Mormolyca chacoensis Whitten1693		1	9672							Mormolyca chacoensis Whitten1693								
+Mormolyca cruentata Arevalo1080		1	9672							Mormolyca cruentata Arevalo1080								
+Mormolyca culebrica Arevalo1078		1	9672							Mormolyca culebrica Arevalo1078								
+Mormolyca culebrica Bogarin2951		1	9672							Mormolyca culebrica Bogarin2951								
+Mormolyca culebrica Whitten2650		1	9672							Mormolyca culebrica Whitten2650								
+Mormolyca culebrica Whitten2946		1	9672							Mormolyca culebrica Whitten2946								
+Mormolyca culebrica Whitten3233		1	9672							Mormolyca culebrica Whitten3233								
+Mormolyca dodsonii Blanco3108		1	9672							Mormolyca dodsonii Blanco3108								
+Mormolyca dressleriana Arevalo1067		1	9672							Mormolyca dressleriana Arevalo1067								
+Mormolyca dressleriana Blanco2648		1	9672							Mormolyca dressleriana Blanco2648								
+Mormolyca dressleriana Bogarin2688		1	9672							Mormolyca dressleriana Bogarin2688								
+Mormolyca fumea Arevalo1081		1	9672							Mormolyca fumea Arevalo1081								
+Mormolyca fumea Bogarin5729		1	9672							Mormolyca fumea Bogarin5729								
+Mormolyca gracilipes Arevalo1061		1	9672							Mormolyca gracilipes Arevalo1061								
+Mormolyca gracilipes Arevalo956		1	9672							Mormolyca gracilipes Arevalo956								
+Mormolyca hedwigiae Arevalo1065		1	9672							Mormolyca hedwigiae Arevalo1065								
+Mormolyca hedwigiae Arevalo1082		1	9672							Mormolyca hedwigiae Arevalo1082								
+Mormolyca hedwigiae Atwood5074		1	9672							Mormolyca hedwigiae Atwood5074								
+Mormolyca hedwigiae Bogarin4052		1	9672							Mormolyca hedwigiae Bogarin4052								
+Mormolyca hedwigiae Holst7886		1	9672							Mormolyca hedwigiae Holst7886								
+Mormolyca hedwigiae Koehler0314		1	9672							Mormolyca hedwigiae Koehler0314								
+Mormolyca hedwigiae SEL88710		1	9672							Mormolyca hedwigiae SEL88710								
+Mormolyca hedwigiae Whitten2753		1	9672							Mormolyca hedwigiae Whitten2753								
+Mormolyca moralesii Blanco2097		1	9672							Mormolyca moralesii Blanco2097								
+Mormolyca moralesii Bogarin3826		1	9672							Mormolyca moralesii Bogarin3826								
+Mormolyca moralesii Bogarin4139		1	9672							Mormolyca moralesii Bogarin4139								
+Mormolyca moralesii Whitten2269		1	9672							Mormolyca moralesii Whitten2269								
+Mormolyca peruviana Whitten2497		1	9672							Mormolyca peruviana Whitten2497								
+Mormolyca polyphylla Arevalo948		1	9672							Mormolyca polyphylla Arevalo948								
+Mormolyca polyphylla Whitten2789		1	9672							Mormolyca polyphylla Whitten2789								
+Mormolyca prunina Arevalo1063		1	9672							Mormolyca prunina Arevalo1063								
+Mormolyca pudica Arevalo1068		1	9672							Mormolyca pudica Arevalo1068								
+Mormolyca richii Arevalo1064		1	9672							Mormolyca richii Arevalo1064								
+Mormolyca richii Atwood5077		1	9672							Mormolyca richii Atwood5077								
+Mormolyca richii SEL88075		1	9672							Mormolyca richii SEL88075								
+Mormolyca richii Whitten2362		1	9672							Mormolyca richii Whitten2362								
+Mormolyca richii Whitten2844		1	9672							Mormolyca richii Whitten2844								
+Mormolyca ringens Arevalo1062		1	9672							Mormolyca ringens Arevalo1062								
+Mormolyca ringens Arevalo1077		1	9672							Mormolyca ringens Arevalo1077								
+Mormolyca ringens JBL08325		1	9672							Mormolyca ringens JBL08325								
+Mormolyca ringens Whitten2858		1	9672							Mormolyca ringens Whitten2858								
+Mormolyca ringens Whitten2871		1	9672							Mormolyca ringens Whitten2871								
+Mormolyca ringens Whitten2950		1	9672							Mormolyca ringens Whitten2950								
+Mormolyca rufescens Arevalo1075		1	9672							Mormolyca rufescens Arevalo1075								
+Mormolyca rufescens Arevalo1076		1	9672							Mormolyca rufescens Arevalo1076								
+Mormolyca rufescens Arevalo1089		1	9672							Mormolyca rufescens Arevalo1089								
+Mormolyca rufescens Arevalo942		1	9672							Mormolyca rufescens Arevalo942								
+Mormolyca rufescens Arevalo943		1	9672							Mormolyca rufescens Arevalo943								
+Mormolyca rufescens Arevalo944		1	9672							Mormolyca rufescens Arevalo944								
+Mormolyca rufescens Atwood5073		1	9672							Mormolyca rufescens Atwood5073								
+Mormolyca rufescens Whitten2754		1	9672							Mormolyca rufescens Whitten2754								
+Mormolyca sanantonioensis Arevalo1070		1	9672							Mormolyca sanantonioensis Arevalo1070								
+Mormolyca sanantonioensis Arevalo1086		1	9672							Mormolyca sanantonioensis Arevalo1086								
+Mormolyca sanantonioensis Whitten2552		1	9672							Mormolyca sanantonioensis Whitten2552								
+Mormolyca schlimii Gerlach1992 763		1	9672							Mormolyca schlimii Gerlach1992 763								
+Mormolyca schlimii Whitten2386		1	9672							Mormolyca schlimii Whitten2386								
+Mormolyca schweinfurthiana Whitten3109		1	9672							Mormolyca schweinfurthiana Whitten3109								
+Mormolyca sp Arevalo940		1	9672							Mormolyca sp Arevalo940								
+Mormolyca sp Arevalo953		1	9672							Mormolyca sp Arevalo953								
+Mormolyca suarezorum Whitten2895		1	9672							Mormolyca suarezorum Whitten2895								
+Mormolyca tenuibulba Arevalo1072		1	9672							Mormolyca tenuibulba Arevalo1072								
+Mormolyca tenuibulba Arevalo1087		1	9672							Mormolyca tenuibulba Arevalo1087								
+Mormolyca tenuibulba Arevalo1088		1	9672							Mormolyca tenuibulba Arevalo1088								
+Mormolyca tenuibulba Arevalo878		1	9672							Mormolyca tenuibulba Arevalo878								
+Mormolyca tenuibulba Arevalo951		1	9672							Mormolyca tenuibulba Arevalo951								
+Mormolyca tenuibulba Arevalo952		1	9672							Mormolyca tenuibulba Arevalo952								
+Mormolyca tenuibulba Whitten2361		1	9672							Mormolyca tenuibulba Whitten2361								
+Mormolyca tenuibulba Whitten2894		1	9672							Mormolyca tenuibulba Whitten2894								
+Nitidobulbon nasutum Whitten1869		1	9672							Nitidobulbon nasutum Whitten1869								
+Nitidobulbon proboscideum Arevalo959		1	9672							Nitidobulbon proboscideum Arevalo959								
+Ornithidium aggregatum Arevalo623		1	9672							Ornithidium aggregatum Arevalo623								
+Ornithidium cf semiscabrum Arevalo588		1	9672							Ornithidium cf semiscabrum Arevalo588								
+Ornithidium montezumae Arevalo590		1	9672							Ornithidium montezumae Arevalo590								
+Pityphyllum antioquiense Whitten2473		1	9672							Pityphyllum antioquiense Whitten2473								
+Pityphyllum saragurense Whitten3084		1	9672							Pityphyllum saragurense Whitten3084								
+Rhetinantha cerifera Whitten2292		1	9672							Rhetinantha cerifera Whitten2292								
+Rhetinantha notylioglossa Koehler0033		1	9672							Rhetinantha notylioglossa Koehler0033								
+Sauvetrea alpestris Whitten2551		1	9672							Sauvetrea alpestris Whitten2551								
+Sauvetrea laevilabris Whitten2358		1	9672							Sauvetrea laevilabris Whitten2358								
+Trigonidium egertonianum Koehler0317		1	9672							Trigonidium egertonianum Koehler0317								
+Trigonidium obtusum Whitten2997		1	9672							Trigonidium obtusum Whitten2997								

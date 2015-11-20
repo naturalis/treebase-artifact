@@ -1,0 +1,129 @@
+Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes	
+Chaetomium jodhpurense LC3752		1	1426							Chaetomium jodhpurense LC3752								
+Chaetomium jodhpurense LC3755		1	1426							Chaetomium jodhpurense LC3755								
+Chaetomium uniseriatum CGMCC 3.17559		1	1426							Chaetomium uniseriatum CGMCC 3.17559								
+Chaetomium uniseriatum CGMCC 3.17560		1	1426							Chaetomium uniseriatum CGMCC 3.17560								
+Chaetomium ramosissimum LC3787		1	1426							Chaetomium ramosissimum LC3787								
+Chaetomium ramosissimum LC3788		1	1426							Chaetomium ramosissimum LC3788								
+Chaetomium heterothallicum CGMCC 3.17543		1	1426							Chaetomium heterothallicum CGMCC 3.17543								
+Chaetomium jodhpurense LC3805		1	1426							Chaetomium jodhpurense LC3805								
+Chaetomium jodhpurense LC3823		1	1426							Chaetomium jodhpurense LC3823								
+Chaetomium biapiculatum LC3852		1	1426							Chaetomium biapiculatum LC3852								
+Chaetomium biapiculatum LC3853		1	1426							Chaetomium biapiculatum LC3853								
+Chaetomium heterothallicum CGMCC 3.17544		1	1426							Chaetomium heterothallicum CGMCC 3.17544								
+Chaetomium truncatulum LC3892		1	1426							Chaetomium truncatulum LC3892								
+Chaetomium truncatulum LC3893		1	1426							Chaetomium truncatulum LC3893								
+Chaetomium angularum CGMCC 3.17537		1	1426							Chaetomium angularum CGMCC 3.17537								
+Chaetomium angularum CGMCC 3.17539		1	1426							Chaetomium angularum CGMCC 3.17539								
+Chaetomium biapiculatum LC3930		1	1426							Chaetomium biapiculatum LC3930								
+Chaetomium biapiculatum LC3931		1	1426							Chaetomium biapiculatum LC3931								
+Chaetomium thermophilum var. dissitum LC3963		1	1426							Chaetomium thermophilum var. dissitum LC3963								
+Chaetomium angularum CGMCC 3.17538		1	1426							Chaetomium angularum CGMCC 3.17538								
+Chaetomium longicicolleum CGMCC 3.17553		1	1426							Chaetomium longicicolleum CGMCC 3.17553								
+Chaetomium uniseriatum CGMCC 3.17561		1	1426							Chaetomium uniseriatum CGMCC 3.17561								
+Chaetomium heterothallicum CGMCC 3.17545		1	1426							Chaetomium heterothallicum CGMCC 3.17545								
+Chaetomium heterothallicum CGMCC 3.17546		1	1426							Chaetomium heterothallicum CGMCC 3.17546								
+Chaetomium truncatulum LC4054		1	1426							Chaetomium truncatulum LC4054								
+Chaetomium longicicolleum CGMCC 3.17554		1	1426							Chaetomium longicicolleum CGMCC 3.17554								
+Chaetomium longicicolleum CGMCC 3.17555		1	1426							Chaetomium longicicolleum CGMCC 3.17555								
+Chaetomium thermophilum var. dissitum LC4080		1	1426							Chaetomium thermophilum var. dissitum LC4080								
+Chaetomium thermophilum var. dissitum LC4112		1	1426							Chaetomium thermophilum var. dissitum LC4112								
+Chaetomium thermophilum var. dissitum LC4125		1	1426							Chaetomium thermophilum var. dissitum LC4125								
+Chaetomium thermophilum var. dissitum LC4126		1	1426							Chaetomium thermophilum var. dissitum LC4126								
+Chaetomium thermophilum var. dissitum LC4127		1	1426							Chaetomium thermophilum var. dissitum LC4127								
+Chaetomium thermophilum var. dissitum LC4128		1	1426							Chaetomium thermophilum var. dissitum LC4128								
+Chaetomium limoniformum CGMCC 3.17550		1	1426							Chaetomium limoniformum CGMCC 3.17550								
+Chaetomium limoniformum CGMCC 3.17551		1	1426							Chaetomium limoniformum CGMCC 3.17551								
+Chaetomium limoniformum CGMCC 3.17552		1	1426							Chaetomium limoniformum CGMCC 3.17552								
+Chaetomium microascomatum CGMCC 3.17556		1	1426							Chaetomium microascomatum CGMCC 3.17556								
+Chaetomium microascomatum CGMCC 3.17557		1	1426							Chaetomium microascomatum CGMCC 3.17557								
+Chaetomium microascomatum CGMCC 3.17558		1	1426							Chaetomium microascomatum CGMCC 3.17558								
+Chaetomium cruentum LC4145		1	1426							Chaetomium cruentum LC4145								
+Chaetomium lateralum CGMCC 3.17547		1	1426							Chaetomium lateralum CGMCC 3.17547								
+Chaetomium lateralum CGMCC 3.17548		1	1426							Chaetomium lateralum CGMCC 3.17548								
+Chaetomium lateralum CGMCC 3.17549		1	1426							Chaetomium lateralum CGMCC 3.17549								
+Chaetomium cirrhium CGMCC 3.17540		1	1426							Chaetomium cirrhium CGMCC 3.17540								
+Chaetomium cirrhium CGMCC 3.17541		1	1426							Chaetomium cirrhium CGMCC 3.17541								
+Chaetomium cirrhium CGMCC 3.17542		1	1426							Chaetomium cirrhium CGMCC 3.17542								
+Chaetomium thermophilum var. coprophilum CBS 179.67		1	1426							Chaetomium thermophilum var. coprophilum CBS 179.67								
+Chaetomium senegalense CBS 728.84		1	1426							Chaetomium senegalense CBS 728.84								
+Chaetomium thermophilum var. thermophilum CBS 144.50		1	1426							Chaetomium thermophilum var. thermophilum CBS 144.50								
+Chaetomium globosum CBS 164.62		1	1426							Chaetomium globosum CBS 164.62								
+Chaetomium globosum CBS 147.60		1	1426							Chaetomium globosum CBS 147.60								
+Chaetomium globosum CBS 132.30		1	1426							Chaetomium globosum CBS 132.30								
+Chaetomium acropullum IRAN 866C		1	1426							Chaetomium acropullum IRAN 866C								
+Chaetomium ancistrocladum IRAN 1276C		1	1426							Chaetomium ancistrocladum IRAN 1276C								
+Chaetomium ancistrocladum IRAN 1070C		1	1426							Chaetomium ancistrocladum IRAN 1070C								
+Chaetomium atrobrunneum CBS 379.66		1	1426							Chaetomium atrobrunneum CBS 379.66								
+Chaetomium carinthiacum IRAN 859C		1	1426							Chaetomium carinthiacum IRAN 859C								
+Chaetomium coarctatum CBS 162.62		1	1426							Chaetomium coarctatum CBS 162.62								
+Chaetomium crispatum CBS 152.49		1	1426							Chaetomium crispatum CBS 152.49								
+Chaetomium cruentum CBS 371.66		1	1426							Chaetomium cruentum CBS 371.66								
+Chaetomium elatum IRAN 1075C		1	1426							Chaetomium elatum IRAN 1075C								
+Chaetomium elatum CBS 910.70		1	1426							Chaetomium elatum CBS 910.70								
+Chaetomium grande IRAN 1064C		1	1426							Chaetomium grande IRAN 1064C								
+Chaetomium interruptum IRAN 1073C		1	1426							Chaetomium interruptum IRAN 1073C								
+Chaetomium interruptum IRAN 1278C		1	1426							Chaetomium interruptum IRAN 1278C								
+Chaetomium iranianum IRAN 861C		1	1426							Chaetomium iranianum IRAN 861C								
+Chaetomium jodhpurense CBS 280.79		1	1426							Chaetomium jodhpurense CBS 280.79								
+Chaetomium megalocarpum CBS 533.79		1	1426							Chaetomium megalocarpum CBS 533.79								
+Chaetomium megalocarpum IRAN 1074C		1	1426							Chaetomium megalocarpum IRAN 1074C								
+Chaetomium murorum IRAN 867C		1	1426							Chaetomium murorum IRAN 867C								
+Chaetomium murorum CBS 636.83		1	1426							Chaetomium murorum CBS 636.83								
+Chaetomium rectangulare IRAN 1639C		1	1426							Chaetomium rectangulare IRAN 1639C								
+Chaetomium rectangulare IRAN 1641C		1	1426							Chaetomium rectangulare IRAN 1641C								
+Chaetomium subaffine CBS 637.91		1	1426							Chaetomium subaffine CBS 637.91								
+Chaetomium truncatulum IRAN 918C		1	1426							Chaetomium truncatulum IRAN 918C								
+Chaetomium undulatulum IRAN 1071C		1	1426							Chaetomium undulatulum IRAN 1071C								
+Chaetomium undulatulum IRAN 857C		1	1426							Chaetomium undulatulum IRAN 857C								
+Chaetomium cancroideum CBS 136.38		1	1426							Chaetomium cancroideum CBS 136.38								
+Chaetomium cancroideum CBS 154.52		1	1426							Chaetomium cancroideum CBS 154.52								
+Chaetomium dolichotrichum CBS 162.48		1	1426							Chaetomium dolichotrichum CBS 162.48								
+Chaetomium dolichotrichum CGMCC 3.14188		1	1426							Chaetomium dolichotrichum CGMCC 3.14188								
+Chaetomium erectum CBS 140.56		1	1426							Chaetomium erectum CBS 140.56								
+Chaetomium erectum CGMCC 3.12900		1	1426							Chaetomium erectum CGMCC 3.12900								
+Chaetomium funicola CBS 159.52		1	1426							Chaetomium funicola CBS 159.52								
+Chaetomium funicola CGMCC 3.9459		1	1426							Chaetomium funicola CGMCC 3.9459								
+Chaetomium indicum CGMCC 3.14182		1	1426							Chaetomium indicum CGMCC 3.14182								
+Chaetomium indicum CGMCC 3.14184		1	1426							Chaetomium indicum CGMCC 3.14184								
+Chaetomium pratense CGMCC 3.14181		1	1426							Chaetomium pratense CGMCC 3.14181								
+Chaetomium ramosissimum CGMCC 3.14183		1	1426							Chaetomium ramosissimum CGMCC 3.14183								
+Chaetomium reflexum CBS 157.49		1	1426							Chaetomium reflexum CBS 157.49								
+Chaetomium reflexum CGMCC 3.14190		1	1426							Chaetomium reflexum CGMCC 3.14190								
+Chaetomium subfunicola CGMCC 3.12892		1	1426							Chaetomium subfunicola CGMCC 3.12892								
+Chaetomium subfunicola CGMCC 3.12926		1	1426							Chaetomium subfunicola CGMCC 3.12926								
+Chaetomium globosum CBS 148.51		1	1426							Chaetomium globosum CBS 148.51								
+Chaetomium globosum CGMCC 3.12922		1	1426							Chaetomium globosum CGMCC 3.12922								
+Achaetomium strumarium CBS 333.67		1	1426							Achaetomium strumarium CBS 333.67								
+Chaetomium jatrophae CBS 134263		1	1426							Chaetomium jatrophae CBS 134263								
+Chaetomium angustispirale CBS 137.58		1	1426							Chaetomium angustispirale CBS 137.58								
+Chaetomium globosporum CBS 108.83		1	1426							Chaetomium globosporum CBS 108.83								
+Chaetomium ascotrichoides CBS 110.83		1	1426							Chaetomium ascotrichoides CBS 110.83								
+Chaetomium ascotrichoides CBS 113.83		1	1426							Chaetomium ascotrichoides CBS 113.83								
+Chaetomium madrasense CBS 315.74		1	1426							Chaetomium madrasense CBS 315.74								
+Chaetomium subglobosum MUCL 18694		1	1426							Chaetomium subglobosum MUCL 18694								
+Chaetomium spiculipilium CBS 373.66		1	1426							Chaetomium spiculipilium CBS 373.66								
+Chaetomium brasiliense CBS 128460		1	1426							Chaetomium brasiliense CBS 128460								
+Chaetomium biapiculatum CBS 473.63		1	1426							Chaetomium biapiculatum CBS 473.63								
+Chaetomium medusarum CBS 162.73		1	1426							Chaetomium medusarum CBS 162.73								
+Chaetomium medusarum CBS 148.67		1	1426							Chaetomium medusarum CBS 148.67								
+Chaetomium nigricolor CBS 291.83		1	1426							Chaetomium nigricolor CBS 291.83								
+Chaetomium nigricolor CBS 111.83		1	1426							Chaetomium nigricolor CBS 111.83								
+Chaetomium nigricolor CBS 317.74		1	1426							Chaetomium nigricolor CBS 317.74								
+Chaetomium nigricolor CBS 292.83		1	1426							Chaetomium nigricolor CBS 292.83								
+Chaetomium pachypodioides CBS 164.52		1	1426							Chaetomium pachypodioides CBS 164.52								
+Chaetomium perlucidum CBS 141.58		1	1426							Chaetomium perlucidum CBS 141.58								
+Chaetomium seminis citrulli CBS 143.58		1	1426							Chaetomium seminis citrulli CBS 143.58								
+Chaetomium subspirilliferum CBS 150.60		1	1426							Chaetomium subspirilliferum CBS 150.60								
+Chaetomium nepalense CBS 288.83		1	1426							Chaetomium nepalense CBS 288.83								
+Chaetomium umbonatum CBS 293.83		1	1426							Chaetomium umbonatum CBS 293.83								
+Chaetomium variosporum CBS 414.73		1	1426							Chaetomium variosporum CBS 414.73								
+Chaetomium intricatum CBS 128.85		1	1426							Chaetomium intricatum CBS 128.85								
+Chaetomium brasiliense CBS 140.50		1	1426							Chaetomium brasiliense CBS 140.50								
+Chaetomium siamense MB502		1	1426							Chaetomium siamense MB502								
+Chaetomium thermophilum var. dissitum NBRC 31807		1	1426							Chaetomium thermophilum var. dissitum NBRC 31807								
+Chaetomium floriforme MUCL 40181		1	1426							Chaetomium floriforme MUCL 40181								
+Chaetomium chiversii MUCL 40052		1	1426							Chaetomium chiversii MUCL 40052								
+Chaetomium cuyabenoensis MUCL 38838		1	1426							Chaetomium cuyabenoensis MUCL 38838								
+Chaetomium dreyfussii MUCL 40177		1	1426							Chaetomium dreyfussii MUCL 40177								
+Chaetomium homopilatum MUCL 40178		1	1426							Chaetomium homopilatum MUCL 40178								
