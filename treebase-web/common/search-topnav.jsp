@@ -4,7 +4,7 @@
 	<li id="t-info"><a href="<c:url value="/user/updateProfile.html"/>"><fmt:message key="nav.personalinfo"/></a></li>
 	<li id="t-submissions"><a href="<c:url value="/user/submissionList.html"/>"><fmt:message key="nav.submissions"/></a></li>
 	<li id="t-search">
-		<a style="color:#333;padding-bottom:5px;border-color:#3863A4;background:#fff url(../img/on_bg.gif) repeat-x top left;" href="<c:url value="/search/studySearch.html"/>"><fmt:message key="nav.search.treebase"/></a>
+		<a style="color:#333;padding-bottom:5px;border-color:#3863A4;background:#fff url(../images/on_bg.gif) repeat-x top left;" href="<c:url value="/search/studySearch.html"/>"><fmt:message key="nav.search.treebase"/></a>
 	</li> 	
 	
 	<%
