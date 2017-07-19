@@ -33,5 +33,7 @@ And the following maven:
 
 Then, check out the source tree:
 
-    $ cd /usr/local/src
-    $ git clone https://github.com/TreeBASE/treebase.git
+    $ sudo su
+    # cd /usr/local/src
+    # git clone https://github.com/TreeBASE/treebase.git
+    # cd treebase
