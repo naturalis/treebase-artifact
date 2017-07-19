@@ -9,7 +9,7 @@ Specifically, this includes:
 - The `PhyloWidget` applet for tree viewing and editing.
 
 In addition, the headless mesquite library packaged as `mesquite-2.01.tb.jar` is made available here, but it is not 
-re-compiled because it's maintenance doesn't fall under the TreeBASE project.
+re-compiled because its maintenance doesn't fall under the TreeBASE project.
 
 Setting up the building environment
 -----------------------------------
