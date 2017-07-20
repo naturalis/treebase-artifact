@@ -1,8 +1,0 @@
-Row Taxon Label	Title	Start Index	End Index	Inst. Acronym	Collection Code	Catalog Number	GenBank Accession	Other Accession Num	Sample Date	Sample Taxon Label	Collector	Latitude	Longitude	Elevation	Country	State	Locality	Notes
-Salinivibrio sp. S10B		1	10234				AQOE00000000			Salinivibrio sp. S10B				3570	Argentina	Salta	Socompa	
-Salinivibrio sp. S34		1	10234				APMS00000000			Salinivibrio sp. S34				3571	Argentina	Salta	Socompa	
-Salinivibrio sp. S35		1	10234				AQOD00000000			Salinivibrio sp. S35				3572	Argentina	Salta	Socompa	
-Salinivibrio costicola subsp. costicola ATCC33508=LMG11651T		1	10234				ASAI00000000.1			Salinivibrio costicola subsp. costicola LMG11651T								
-Vibrio campbellii DS40M4		1	10234				AGIE00000000.1			Vibrio campbellii DS40M4								
-Vibrio alginolyticus R-300		1	10234							Vibrio alginolyticus R-300								own source, no published genome
-Vibrio cholerae O395		1	10234				GCA_000016245.1			Vibrio cholerae O395								GenBank Assembly ID
