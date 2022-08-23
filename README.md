@@ -1,4 +1,3 @@
-![Logo of Treebase](https://treebase.org/treebase-web/images/TreeBASE.png)
 # treebase-artifact 
 
 This repository is for pre-compiled binaries to deploy the 
